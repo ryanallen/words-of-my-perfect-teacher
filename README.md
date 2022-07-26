@@ -12,8 +12,8 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
 1. Attitude  
-  1.1 The Vast Attitude of the Bodhicitta  
-  1.2 Vast Skill in Measn: The Attitude of the Secret Mantrayāna  
+  - 1.1 The Vast Attitude of the Bodhicitta  
+  - 1.2 Vast Skill in Measn: The Attitude of the Secret Mantrayāna  
 2. Conduct  
   2.1 What to Avoid  
     2.1.1 The Three Defects of the Pot  
