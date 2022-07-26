@@ -8,6 +8,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 ***Prologue***  
 ***Chapter One - The difficulty of finding the freedoms and advantages***  
+
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
 1. Attitude  
   1.1 The Vast Attitude of the Bodhicitta  
@@ -21,6 +22,7 @@ I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
     2.2.1 The Four Metaphors
     2.2.2 The Six Transcendent Perfections  
     2.2.3 Other Modes of Conduct  
+
 II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES
 1. Reflecting on the nature of freedom
 2. Reflecting on the particular advantages related to Dharma
