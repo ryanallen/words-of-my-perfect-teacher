@@ -19,13 +19,17 @@ I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
     2.1.1 The Three Defects of the Pot  
     2.1.2 The Six Stains  
     2.1.3 The Five Wrong Ways of Remembering  
-  2.2 What to Do
-    2.2.1 The Four Metaphors
+  2.2 What to Do  
+    2.2.1 The Four Metaphors  
     2.2.2 The Six Transcendent Perfections  
     2.2.3 Other Modes of Conduct  
 
-II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES
-1. Reflecting on the nature of freedom
-2. Reflecting on the particular advantages related to Dharma
-  2.1 The five Indifidual Advantages
-  2.2 The Five Circumstantial Advantages
+II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES  
+1. Reflecting on the nature of freedom  
+2. Reflecting on the particular advantages related to Dharma  
+  2.1 The five Indifidual Advantages  
+  2.2 The Five Circumstantial Advantages  
+  2.3 The Eight Intrusive Circumstances  
+  2.4 The Eight Incompatible Propensities  
+3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
+4. Reflecting on numerical comparisons  
