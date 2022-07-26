@@ -1,8 +1,8 @@
 # Words of My Perfect Teacher
 A Complete Translation of a Classic Introduction to Tibetan Buddhism  
 by Patrul Rinpoche  
-translated by the Padmakara Translation Group   
-hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) to help end the suferring of all sentient beings  
+translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
+hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for study and research to help end the suferring of all sentient beings  
   
 ## Contents  
 
