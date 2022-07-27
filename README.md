@@ -8,7 +8,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 ***Prologue***  
 
-***Chapter One - The Difficulty of Finding the Freedoms and Advantages***  
+<p align="center">***Chapter One - The Difficulty of Finding the Freedoms and Advantages***</p>  
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
 1. Attitude  
