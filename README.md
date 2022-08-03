@@ -8,12 +8,12 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 ***Prologue***  
 
-***<p align="center">Chapter One - The Difficulty of Finding the Freedoms and Advantages***</p>  
+***<p align="center">Chapter One - The difficulty of finding the freedoms and advantages***</p>  
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
 1. Attitude  
   1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
-  1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYĀNA  
+  1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
 2. Conduct  
   2.1 What to Avoid  
     -- 2.1.1 THE  
@@ -25,16 +25,16 @@ I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
     -- 2.2.3 Other Modes of Conduct  
 
 II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES  
-1. Reflecting on the Nature of Freedom  
-2. Reflecting on the Particular Advantages Related to Dharma  
+1. Reflecting on the nature of freedom  
+2. Reflecting on the particular advantages related to Dharma  
   2.1 THE FIVE INDIVIDUAL ADVANTAGES  
   2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES  
   2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES  
   2.4 THE EIGHT INCOMPATIBLE PROPENSITIES  
-3. Reflecting on Images That Show How Difficult it is to Find the Freedoms and Advantages  
-4. Reflecting on Numerical Comparisons  
+3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
+4. Reflecting on numerical comparisons  
 
-***<p align="center">Chapter Two - The Impermanence of Life***</p>  
+***<p align="center">Chapter Two - The impermanence of life***</p>  
 
 I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
 
@@ -49,3 +49,29 @@ V. OTHER EXAMPLES OF IMPERMANENCE
 VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH  
 
 VII. INTENSE AWARENESS OF IMPERMANENCE  
+
+***<p align="center">Chapter Three - The defects of samsara***</p>  
+
+I. THE SUFFERINGS OF SAMSARA IN GENERAL  
+
+II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS  
+1. The eighteen hells  
+  1.1 THE EIGHT HOT HELLS  
+    -- 1.1.1 The Reviving Hell  
+    -- 1.1.2 The Black-Line Hell  
+    -- 1.1.3 The Rounding-Up and Crushing Hell  
+    -- 1.1.4 The Howling Hell  
+    -- 1.1.5 The Great Howling Hell  
+    -- 1.1.6 The Heating Hell  
+    -- 1.1.7 The Intense Heating Hell  
+    -- 1.1.8 The Hell of Ultimate Torment  
+    -- 1.1.9 The Neighboring Hells  
+  1.2 THE EIGHT COLD HELLS  
+  1.3 THE EPHEMERAL HELLS  
+2. The pretas  
+  2.1 PRETAS WHO LIVE COLLECTIVELY  
+  -- 2.1.1 Pretas suffering from external obscurations  
+  -- 2.1.2 Pretas suffering from internal obscurations  
+  -- 2.1.3 Pretas suffering from specific obscurations  
+  2.2 PRETAS WHO MOVE THROUGH SPACE  
+3. The animals
