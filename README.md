@@ -8,8 +8,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 ***Prologue***  
 
-<p align="center">PART ONE  
-THE ORDINARY OR EXTERNAL PRELIMINARIES</p>  
+<p align="center">PART ONE - THE ORDINARY OR EXTERNAL PRELIMINARIES</p>  
 
 ***<p align="center">Chapter One - The difficulty of finding the freedoms and advantages***</p>  
 
