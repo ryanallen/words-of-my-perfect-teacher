@@ -74,4 +74,23 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   -- 2.1.2 Pretas suffering from internal obscurations  
   -- 2.1.3 Pretas suffering from specific obscurations  
   2.2 PRETAS WHO MOVE THROUGH SPACE  
-3. The animals
+3. The animals  
+  3.1 ANIMALS LIVING IN THE DEPTHS  
+  3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES  
+4. The human realm  
+  4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING  
+  -- 4.1.1 The suffering of change  
+  -- 4.1.2 Suffering upon suffering  
+  -- 4.1.3 The suffering of everything composite  
+  4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH
+  -- 4.2.1 The suffering of birth  
+  -- 4.2.2 The suffering of old age  
+  -- 4.2.3 The suffering of sickness  
+  -- 4.2.4 The suffering of death  
+  4.3 OTHER HUMAN SUFFERINGS  
+  -- 4.3.1 The fear of meeting hated enemies  
+  -- 4.3.2 The fear of losing loved ones  
+  -- 4.3.3 The suffering of not getting what one wants  
+  -- 4.3.4 The suffering of encountering what one does not want  
+  5. The asuras  
+  6. The gods  
