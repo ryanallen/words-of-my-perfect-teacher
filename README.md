@@ -82,7 +82,7 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   -- 4.1.1 The suffering of change  
   -- 4.1.2 Suffering upon suffering  
   -- 4.1.3 The suffering of everything composite  
-  4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH
+  4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH  
   -- 4.2.1 The suffering of birth  
   -- 4.2.2 The suffering of old age  
   -- 4.2.3 The suffering of sickness  
