@@ -96,3 +96,20 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   -- 4.3.4 The suffering of encountering what one does not want  
   5. The asuras  
   6. The gods  
+
+***<p align="center">Chapter Four - Actions: the principle of cause and effect***</p>  
+
+I. NEGATIVE ACTIONS TO BE ABANDONED  
+
+1. The ten negative actions to be avoided  
+  1.1 TAKING LIFE  
+  1.2 TAKING WHAT IS NOT GIVEN  
+  1.3 SEXUAL MISCONDUCT  
+  1.4 LYING  
+  1.5 SOWING DISCORD  
+  1.6 HARSH SPEECH  
+  1.7 WORTHLESS CHATTER  
+  1.8 COVETOUSNESS  
+  1.9 WISHING HARM ON OTHERS  
+  1.10 WRONG VIEWS  
+2. The effects of the ten negative actions  
