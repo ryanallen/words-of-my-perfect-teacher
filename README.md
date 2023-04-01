@@ -29,6 +29,20 @@ PROLOGUE
 
 **<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages**</h3>  
 
+source)):
+
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+2. Cat
+    1. Siberian
+    2. Siamese
+
+I think this is as close as you can get; Markdown doesn't support the "1.1.1" type list you wanted
+
 I. **THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING***  
 1. **Attitude**  
     1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
