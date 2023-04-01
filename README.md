@@ -173,7 +173,7 @@ III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS
 <h3 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h3>  
 &nbsp;
 
-I. APPROACHES TO TAKNG REFUGE  
+I. APPROACHES TO TAKING REFUGE  
 
 1. Faith  
     1. VIVID FAITH  
@@ -198,5 +198,62 @@ III. PRECEPTS AND BENEFITS OF TAKING REFUGE
 <h3 align="center">Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</h3>  
 &nbsp;
 
+I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES  
 
+1. Meditation on impartiality  
+2. Meditation on love  
+3. Meditation on compassion  
+4. Meditation on sympathetic joy  
+
+II. AROUSING BODHICITTA  
+
+1. Classification based on the three degrees of courage  
+    1. THE COURAGE OF A KING  
+    2. THE COURAGE OF A BOATMAN  
+    3. THE COURAGE OF A SHEPHERD  
+2. Classification according to the Bodhisattva levels  
+3. Classification according to the nature of bodhicitta  
+    1. RELATIVE BODHICITTA  
+        1. Intention  
+        2. Application  
+    2. ABSOLUTE BODHICITTA  
+4. Taking the vow of bodhicitta  
+
+III. TRAINING IN THE BODHICITTA PRECEPTS  
+
+1. Training in the precepts of the bodhicitta of aspiration  
+    1. CONSIDERING OTHERS AS EQUAL TO ONESELF  
+    2. EXCHANGING ONESELF AND OTHERS  
+    3. CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF  
+2. Training in the precepts of the bodhicitta of application: the six transcendent perfections
+    1. TRANSCENDENT GENEROSITY
+        1. Material giving  
+        2. Giving Dharma  
+        3. Giving protection from fear  
+    2. TRANSCENDENT DISCIPLINE  
+        1. Avoiding negative actions  
+        2. Undertaking positive actions  
+        3. Bringing benefit to others  
+    3. TRANSCENDENT PATIENCE  
+        1. Patience when wronged  
+        2. Patience to bear hardships for the Dharma  
+        3. Patience to face the profound truth without fear  
+    4. TRANSCENDENT DILIGENCE  
+        1. Armour-like diligence  
+        2. Diligence in action  
+        3. Diligence that cannot be stopped  
+    5. TRANSCENDENT CONCENTRATION  
+        1. Giving up distractions  
+        2. Actual concentration  
+    6. TRANSCENDENT WISDOM  
+        1. Wisdom through hearing  
+        2. Wisdom through reflection  
+        3. Wisdom through meditation  
+
+<p align="center">◈</p>
+<h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
+&nbsp;
+
+I. 
+    
 <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
