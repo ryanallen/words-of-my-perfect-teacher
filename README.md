@@ -4,10 +4,10 @@ by Patrul Rinpoche
 translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
 hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
 
-**<blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>**
+<blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
   
-***<h2 align="center">Contents</h2>*** 
-Buddha Sakyamuni  
+*<h2 align="center">Contents</h2>* 
+<a href="#buddha-sakyamuni">Buddha Sakyamuni</a>  
 Guru Rinpoche  
 
 Title  
@@ -25,49 +25,38 @@ A brief historical introduction to Tibetan Buddhism
 
 PROLOGUE  
 
-**<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>**  
+<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>  
+<p align="center">◈</p>
+<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</h3>  
+&nbsp;
 
-**<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages**</h3>  
+I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING 
+1. Attitude  
+    1. THE VAST ATTITUDE OF THE BODHICITTA  
+    2. VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
+2. Conduct  
+    1. WHAT TO AVOID  
+        1. The Three Defects of the Pot  
+        2. The Six Stains  
+        3. The Five Wrong Ways of Remembering  
+    2. WHAT TO DO  
+        1. The Four Metaphors  
+        2. The Six Transcendent Perfections  
+        3. Other Modes of Conduct  
 
-source)):
+II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES  
+1. Reflecting on the nature of freedom  
+2. Reflecting on the particular advantages related to Dharma  
+    1. THE FIVE INDIVIDUAL ADVANTAGES  
+    2. THE FIVE CIRCUMSTANTIAL ADVANTAGES  
+    3. THE EIGHT INTRUSIVE CIRCUMSTANCES  
+    4. THE EIGHT INCOMPATIBLE PROPENSITIES  
+3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
+4. Reflecting on numerical comparisons  
 
-1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
-2. Cat
-    1. Siberian
-    2. Siamese
-
-I think this is as close as you can get; Markdown doesn't support the "1.1.1" type list you wanted
-
-I. **THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING***  
-1. **Attitude**  
-    1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
-    1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
-2. **Conduct**  
-    2.1 What to Avoid  
-        2.1.1 THE  
-        2.1.2 The Six Stains  
-        2.1.3 The Five Wrong Ways of Remembering  
-  2.2 What to Do  
-        2.2.1 The Four Metaphors  
-        2.2.2 The Six Transcendent Perfections  
-        2.2.3 Other Modes of Conduct  
-
-II. **THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES**  
-1. **Reflecting on the nature of freedom**  
-2. **Reflecting on the particular advantages related to Dharma**  
-  2.1 THE FIVE INDIVIDUAL ADVANTAGES  
-  2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES  
-  2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES  
-  2.4 THE EIGHT INCOMPATIBLE PROPENSITIES  
-3. **Reflecting on images that show how difficult it is to find the freedoms and advantages**  
-4. **Reflecting on numerical comparisons**  
-
-***<p align="center">Chapter Two<br>The impermanence of life***</p>  
+<p align="center">◈</p>
+<h3 align="center">Chapter Two<br>The impermanence of life</h3>  
+&nbsp;
 
 I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
 
@@ -156,3 +145,5 @@ I. NEGATIVE ACTIONS TO BE ABANDONED
   III.  THE ALL-DETERMINING QUALITY OF ACTIONS  
 
   ***<p align="center">Chapter Five<br>The benefits of liberation***</p> 
+  
+  <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
