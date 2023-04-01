@@ -27,21 +27,21 @@ PROLOGUE
 
 **<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>**  
 
-**<h4 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages**</h4>  
+**<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages**</h3>  
 
 I. **THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING***  
 1. **Attitude**  
-  1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
-  1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
+    1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
+    1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
 2. **Conduct**  
-  2.1 What to Avoid  
-    -- 2.1.1 THE  
-    -- 2.1.2 The Six Stains  
-    -- 2.1.3 The Five Wrong Ways of Remembering  
+    2.1 What to Avoid  
+        2.1.1 THE  
+        2.1.2 The Six Stains  
+        2.1.3 The Five Wrong Ways of Remembering  
   2.2 What to Do  
-    -- 2.2.1 The Four Metaphors  
-    -- 2.2.2 The Six Transcendent Perfections  
-    -- 2.2.3 Other Modes of Conduct  
+        2.2.1 The Four Metaphors  
+        2.2.2 The Six Transcendent Perfections  
+        2.2.3 Other Modes of Conduct  
 
 II. **THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES**  
 1. **Reflecting on the nature of freedom**  
