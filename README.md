@@ -72,78 +72,106 @@ VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH
 
 VII. INTENSE AWARENESS OF IMPERMANENCE  
 
-***<p align="center">Chapter Three<br>The defects of samsara***</p>  
+<p align="center">◈</p>
+<h3 align="center">Chapter Three<br>The defects of samsara</h3>  
+&nbsp;
 
 I. THE SUFFERINGS OF SAMSARA IN GENERAL  
 
 II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS  
 1. The eighteen hells  
-  1.1 THE EIGHT HOT HELLS  
-    -- 1.1.1 The Reviving Hell  
-    -- 1.1.2 The Black-Line Hell  
-    -- 1.1.3 The Rounding-Up and Crushing Hell  
-    -- 1.1.4 The Howling Hell  
-    -- 1.1.5 The Great Howling Hell  
-    -- 1.1.6 The Heating Hell  
-    -- 1.1.7 The Intense Heating Hell  
-    -- 1.1.8 The Hell of Ultimate Torment  
-    -- 1.1.9 The Neighboring Hells  
-  1.2 THE EIGHT COLD HELLS  
-  1.3 THE EPHEMERAL HELLS  
+    1. THE EIGHT HOT HELLS  
+        1. The Reviving Hell  
+        2. The Black-Line Hell  
+        3. The Rounding-Up and Crushing Hell  
+        4. The Howling Hell  
+        5. The Great Howling Hell  
+        6. The Heating Hell  
+        7. The Intense Heating Hell  
+        8. The Hell of Ultimate Torment  
+        9. The Neighboring Hells  
+    2. THE EIGHT COLD HELLS  
+    3. THE EPHEMERAL HELLS  
 2. The pretas  
-  2.1 PRETAS WHO LIVE COLLECTIVELY  
-  -- 2.1.1 Pretas suffering from external obscurations  
-  -- 2.1.2 Pretas suffering from internal obscurations  
-  -- 2.1.3 Pretas suffering from specific obscurations  
-  2.2 PRETAS WHO MOVE THROUGH SPACE  
+    1. PRETAS WHO LIVE COLLECTIVELY  
+        1. Pretas suffering from external obscurations  
+        2. Pretas suffering from internal obscurations  
+        3. Pretas suffering from specific obscurations  
+    2. PRETAS WHO MOVE THROUGH SPACE  
 3. The animals  
-  3.1 ANIMALS LIVING IN THE DEPTHS  
-  3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES  
+    1. ANIMALS LIVING IN THE DEPTHS  
+    2. ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES  
 4. The human realm  
-  4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING  
-  -- 4.1.1 The suffering of change  
-  -- 4.1.2 Suffering upon suffering  
-  -- 4.1.3 The suffering of everything composite  
-  4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH  
-  -- 4.2.1 The suffering of birth  
-  -- 4.2.2 The suffering of old age  
-  -- 4.2.3 The suffering of sickness  
-  -- 4.2.4 The suffering of death  
-  4.3 OTHER HUMAN SUFFERINGS  
-  -- 4.3.1 The fear of meeting hated enemies  
-  -- 4.3.2 The fear of losing loved ones  
-  -- 4.3.3 The suffering of not getting what one wants  
-  -- 4.3.4 The suffering of encountering what one does not want  
+    1. THE THREE FUNDAMENTAL TYPES OF SUFFERING  
+        1.  The suffering of change  
+        2. Suffering upon suffering  
+        3. The suffering of everything composite  
+    2. THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH  
+        1. The suffering of birth  
+        2. The suffering of old age  
+        3. The suffering of sickness  
+        4. The suffering of death  
+    3. OTHER HUMAN SUFFERINGS  
+        1. The fear of meeting hated enemies  
+        2. The fear of losing loved ones  
+        3. The suffering of not getting what one wants  
+        4. The suffering of encountering what one does not want  
   5. The asuras  
   6. The gods  
 
-***<p align="center">Chapter Four<br>Actions: the principle of cause and effect***</p>  
+<p align="center">◈</p>
+<h3 align="center">Chapter Four<br>Actions: the principle of cause and effect</h3>  
+&nbsp;
 
 I. NEGATIVE ACTIONS TO BE ABANDONED  
 
 1. The ten negative actions to be avoided  
-  1.1 TAKING LIFE  
-  1.2 TAKING WHAT IS NOT GIVEN  
-  1.3 SEXUAL MISCONDUCT  
-  1.4 LYING  
-  1.5 SOWING DISCORD  
-  1.6 HARSH SPEECH  
-  1.7 WORTHLESS CHATTER  
-  1.8 COVETOUSNESS  
-  1.9 WISHING HARM ON OTHERS  
-  1.10 WRONG VIEWS  
+    1. TAKING LIFE  
+    2. TAKING WHAT IS NOT GIVEN  
+    3. SEXUAL MISCONDUCT  
+    4. LYING  
+    5. SOWING DISCORD  
+    6. HARSH SPEECH  
+    7. WORTHLESS CHATTER  
+    8. COVETOUSNESS  
+    9. WISHING HARM ON OTHERS  
+    10. WRONG VIEWS  
 2. The effects of the ten negative actions  
-  2.1 THE FULLY RIPENED EFFECT  
-  2.2 THE EFFECT SIMILAR TO THE CAUSE  
-  --  2.2.1 Actions Similar to the Cause  
-  --  2.2.2 Experiences Similar to the Cause  
-  2.3 THE CONDITIONING EFFECT  
-  2.4 THE PROLIFERATING EFFECT  
+    1. THE FULLY RIPENED EFFECT  
+    2. THE EFFECT SIMILAR TO THE CAUSE  
+      1. Actions Similar to the Cause  
+      2. Experiences Similar to the Cause  
+    1. THE CONDITIONING EFFECT  
+    2. THE PROLIFERATING EFFECT  
 
-  II. POSITIVE ACTIONS TO BE ADOPTED  
+II. POSITIVE ACTIONS TO BE ADOPTED  
   
-  III.  THE ALL-DETERMINING QUALITY OF ACTIONS  
+III.  THE ALL-DETERMINING QUALITY OF ACTIONS
+ 
+<p align="center">◈</p>
+<h3 align="center">Chapter Five<br>The benefits of liberation</h3>  
+&nbsp;
 
-  ***<p align="center">Chapter Five<br>The benefits of liberation***</p> 
-  
-  <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
+I. CAUSES LEADING TO LIBERATION  
+
+II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT  
+ 
+<p align="center">◈</p>
+<h3 align="center">Chapter Six<br>How to follow a spiritual friend</h3>  
+&nbsp;
+
+I. EXAMINING THE TEACHER  
+
+II. FOLLOWING THE TEACHER  
+
+III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS  
+
+&nbsp;
+
+<h2 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h2>  
+<p align="center">◈</p>
+<h3 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h3>  
+&nbsp;
+
+I. 
+<p id="buddha-sakyamuni">Buddha Sakyamuni</p>
