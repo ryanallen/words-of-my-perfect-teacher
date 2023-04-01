@@ -173,5 +173,30 @@ III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS
 <h3 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h3>  
 &nbsp;
 
-I. 
+I. APPROACHES TO TAKNG REFUGE  
+
+1. Faith  
+    1. VIVID FAITH  
+    2. EAGER FAITH  
+    3. CONFIDENT FAITH  
+2. Motivation  
+    1. THE REFUGE OF LESSER BEINGS  
+    2. THE REFUGE OF MIDDLING BEINGS  
+    3. THE REFUGE OF GREAT BEINGS  
+
+II. HOW TO TAKE REFUGE  
+
+III. PRECEPTS AND BENEFITS OF TAKING REFUGE  
+
+1. The precepts of taking refuge  
+    1. THE THREE THINGS TO BE ABANDONED  
+    2. THE THREE THINGS TO BE DONE  
+    3. THE THREE SUPPLEMENTARY PRECEPTS  
+2. The benefits of taking refuge
+
+<p align="center">◈</p>
+<h3 align="center">Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</h3>  
+&nbsp;
+
+
 <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
