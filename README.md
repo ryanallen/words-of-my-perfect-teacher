@@ -266,8 +266,20 @@ II. THE FOUR POWERS
 III. THE ACTUAL MEDITATION ON VAJRASATTVA
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
+<h3 align="center">Chapter Four<br>Offering the mandala to accumulate merit and wisdom</h3>  
 &nbsp;
 
-I.    
+I. THE NEED FOR THE TWO ACCUMULATIONS
+
+II. THE ACCOMPLISHMENT MANDALA
+
+III. THE OFFERING MANDALA
+
+1. The thirty-seven element mandala offering
+2. The mandala offering of the three kayas according to this text
+    1. THE ORDINARY MANDALA OF THE NIRMANAKAYA
+    2. THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA
+    3. THE SPECIAL MANDALA OF THE DHARMAKAYA
+
+
 <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
