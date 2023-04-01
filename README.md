@@ -2,21 +2,36 @@
 A Complete Translation of a Classic Introduction to Tibetan Buddhism  
 by Patrul Rinpoche  
 translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
-hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for study and research to help end the suffering of all sentient beings  
+hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
   
-## Contents  
+***<h2 align="center">Contents</h2>*** 
+Buddha Sakyamuni  
+Guru Rinpoche  
 
-***Prologue***  
+Title  
+Copyright  
+Patron  
+Trustees  
+International Sacred Literature Trust  
 
-<p align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</p>  
+Forward by the Dalai Lama  
+Foreword by Dilgo Khyentse Rinpoche  
+Translators' Acknowledgements  
+Preface to the Second Edition  
+Translators' Introduction  
+A brief historical introduction to Tibetan Buddhism  
 
-***<p align="center">Chapter One<br>The difficulty of finding the freedoms and advantages***</p>  
+PROLOGUE  
 
-I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
-1. Attitude  
+**<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>**  
+
+**<h4 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages**</h4>  
+
+I. **THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING***  
+1. **Attitude**  
   1.1 THE VAST SKILL IN MEANS: THE ATTITUDE OF THE BODHICITTA  
   1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
-2. Conduct  
+2. **Conduct**  
   2.1 What to Avoid  
     -- 2.1.1 THE  
     -- 2.1.2 The Six Stains  
@@ -26,15 +41,15 @@ I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
     -- 2.2.2 The Six Transcendent Perfections  
     -- 2.2.3 Other Modes of Conduct  
 
-II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES  
-1. Reflecting on the nature of freedom  
-2. Reflecting on the particular advantages related to Dharma  
+II. **THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES**  
+1. **Reflecting on the nature of freedom**  
+2. **Reflecting on the particular advantages related to Dharma**  
   2.1 THE FIVE INDIVIDUAL ADVANTAGES  
   2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES  
   2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES  
   2.4 THE EIGHT INCOMPATIBLE PROPENSITIES  
-3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
-4. Reflecting on numerical comparisons  
+3. **Reflecting on images that show how difficult it is to find the freedoms and advantages**  
+4. **Reflecting on numerical comparisons**  
 
 ***<p align="center">Chapter Two<br>The impermanence of life***</p>  
 
@@ -113,15 +128,15 @@ I. NEGATIVE ACTIONS TO BE ABANDONED
   1.9 WISHING HARM ON OTHERS  
   1.10 WRONG VIEWS  
 2. The effects of the ten negative actions  
-  2.1 THE FULLY RIPENED EFFECT
-  2.2 THE EFFECT SIMILAR TO THE CAUSE
-  --  2.2.1 Actions Similar to the Cause
-  --  2.2.2 Experiences Similar to the Cause
-  2.3 THE CONDITIONING EFFECT
-  2.4 THE PROLIFERATING EFFECT
+  2.1 THE FULLY RIPENED EFFECT  
+  2.2 THE EFFECT SIMILAR TO THE CAUSE  
+  --  2.2.1 Actions Similar to the Cause  
+  --  2.2.2 Experiences Similar to the Cause  
+  2.3 THE CONDITIONING EFFECT  
+  2.4 THE PROLIFERATING EFFECT  
 
-  II. POSITIVE ACTIONS TO BE ADOPTED
+  II. POSITIVE ACTIONS TO BE ADOPTED  
   
-  III.  THE ALL-DETERMINING QUALITY OF ACTIONS
+  III.  THE ALL-DETERMINING QUALITY OF ACTIONS  
 
   ***<p align="center">Chapter Five<br>The benefits of liberation***</p> 
