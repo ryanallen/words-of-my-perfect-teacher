@@ -8,9 +8,9 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 ***Prologue***  
 
-<p align="center">PART ONE - THE ORDINARY OR EXTERNAL PRELIMINARIES</p>  
+<p align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</p>  
 
-***<p align="center">Chapter One - The difficulty of finding the freedoms and advantages***</p>  
+***<p align="center">Chapter One<br>The difficulty of finding the freedoms and advantages***</p>  
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING  
 1. Attitude  
@@ -36,7 +36,7 @@ II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS
 3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
 4. Reflecting on numerical comparisons  
 
-***<p align="center">Chapter Two - The impermanence of life***</p>  
+***<p align="center">Chapter Two<br>The impermanence of life***</p>  
 
 I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
 
@@ -52,7 +52,7 @@ VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH
 
 VII. INTENSE AWARENESS OF IMPERMANENCE  
 
-***<p align="center">Chapter Three - The defects of samsara***</p>  
+***<p align="center">Chapter Three<br>The defects of samsara***</p>  
 
 I. THE SUFFERINGS OF SAMSARA IN GENERAL  
 
@@ -97,7 +97,7 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   5. The asuras  
   6. The gods  
 
-***<p align="center">Chapter Four - Actions: the principle of cause and effect***</p>  
+***<p align="center">Chapter Four<br>Actions: the principle of cause and effect***</p>  
 
 I. NEGATIVE ACTIONS TO BE ABANDONED  
 
@@ -113,3 +113,15 @@ I. NEGATIVE ACTIONS TO BE ABANDONED
   1.9 WISHING HARM ON OTHERS  
   1.10 WRONG VIEWS  
 2. The effects of the ten negative actions  
+  2.1 THE FULLY RIPENED EFFECT
+  2.2 THE EFFECT SIMILAR TO THE CAUSE
+  --  2.2.1 Actions Similar to the Cause
+  --  2.2.2 Experiences Similar to the Cause
+  2.3 THE CONDITIONING EFFECT
+  2.4 THE PROLIFERATING EFFECT
+
+  II. POSITIVE ACTIONS TO BE ADOPTED
+  
+  III.  THE ALL-DETERMINING QUALITY OF ACTIONS
+
+  ***<p align="center">Chapter Five<br>The benefits of liberation***</p> 
