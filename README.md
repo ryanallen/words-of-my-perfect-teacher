@@ -254,6 +254,20 @@ III. TRAINING IN THE BODHICITTA PRECEPTS
 <h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
 &nbsp;
 
-I. 
-    
+I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION  
+
+II. THE FOUR POWERS  
+
+1. The power of support  
+2. The power of regretting having done wrong
+3. The power of resolution
+4. The power of action as an antidote
+
+III. THE ACTUAL MEDITATION ON VAJRASATTVA
+
+<p align="center">◈</p>
+<h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
+&nbsp;
+
+I.    
 <p id="buddha-sakyamuni">Buddha Sakyamuni</p>
