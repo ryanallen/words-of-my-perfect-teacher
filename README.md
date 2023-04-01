@@ -3,6 +3,8 @@ A Complete Translation of a Classic Introduction to Tibetan Buddhism
 by Patrul Rinpoche  
 translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
 hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
+
+**<blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>**
   
 ***<h2 align="center">Contents</h2>*** 
 Buddha Sakyamuni  
