@@ -22,7 +22,7 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 <details>
   <summary>Preface</summary>  
 
-*<h2 align="center">Contents</h2>*
+*<h1 align="center">Contents</h1>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
 [Guru Rinpoche](#guru-rinpoche)  
 
@@ -42,9 +42,9 @@ A brief historical introduction to Tibetan Buddhism
 
 PROLOGUE  
 
-<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>  
+<h1 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h1>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</h3>  
+<h2 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</h2>  
 &nbsp;
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING 
@@ -72,7 +72,7 @@ II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS
 4. Reflecting on numerical comparisons  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Two<br>The impermanence of life</h3>  
+<h2 align="center">Chapter Two<br>The impermanence of life</h2>  
 &nbsp;
 
 I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
@@ -90,7 +90,7 @@ VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH
 VII. INTENSE AWARENESS OF IMPERMANENCE  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Three<br>The defects of samsara</h3>  
+<h2 align="center">Chapter Three<br>The defects of samsara</h2>  
 &nbsp;
 
 I. THE SUFFERINGS OF SAMSARA IN GENERAL  
@@ -137,7 +137,7 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   6. The gods  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Four<br>Actions: the principle of cause and effect</h3>  
+<h2 align="center">Chapter Four<br>Actions: the principle of cause and effect</h2>  
 &nbsp;
 
 I. NEGATIVE ACTIONS TO BE ABANDONED  
@@ -166,7 +166,7 @@ II. POSITIVE ACTIONS TO BE ADOPTED
 III.  THE ALL-DETERMINING QUALITY OF ACTIONS
  
 <p align="center">◈</p>
-<h3 align="center">Chapter Five<br>The benefits of liberation</h3>  
+<h2 align="center">Chapter Five<br>The benefits of liberation</h2>  
 &nbsp;
 
 I. CAUSES LEADING TO LIBERATION  
@@ -174,7 +174,7 @@ I. CAUSES LEADING TO LIBERATION
 II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT  
  
 <p align="center">◈</p>
-<h3 align="center">Chapter Six<br>How to follow a spiritual friend</h3>  
+<h2 align="center">Chapter Six<br>How to follow a spiritual friend</h2>  
 &nbsp;
 
 I. EXAMINING THE TEACHER  
@@ -185,9 +185,9 @@ III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS
 
 &nbsp;
 
-<h2 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h2>  
+<h1 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h1>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h3>  
+<h2 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h2>  
 &nbsp;
 
 I. APPROACHES TO TAKING REFUGE  
@@ -212,7 +212,7 @@ III. PRECEPTS AND BENEFITS OF TAKING REFUGE
 2. The benefits of taking refuge
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</h3>  
+<h2 align="center">Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</h2>  
 &nbsp;
 
 I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES  
@@ -268,7 +268,7 @@ III. TRAINING IN THE BODHICITTA PRECEPTS
         3. Wisdom through meditation  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
+<h2 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h2>  
 &nbsp;
 
 I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION  
@@ -283,7 +283,7 @@ II. THE FOUR POWERS
 III. THE ACTUAL MEDITATION ON VAJRASATTVA
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Four<br>Offering the mandala to accumulate merit and wisdom</h3>  
+<h2 align="center">Chapter Four<br>Offering the mandala to accumulate merit and wisdom</h2>  
 &nbsp;
 
 I. THE NEED FOR THE TWO ACCUMULATIONS
@@ -299,7 +299,7 @@ III. THE OFFERING MANDALA
     3. THE SPECIAL MANDALA OF THE DHARMAKAYA
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</h3>  
+<h2 align="center">Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</h2>  
 &nbsp;
 
 I. THE BODY AS AN OFFERING
@@ -314,7 +314,7 @@ II. THE PRACTICE OF OFFERING THE BODY
 III. THE MEANING OF CHO
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</h3>  
+<h2 align="center">Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</h2>  
 &nbsp;
 
 I. THE REASON FOR GURU YOGA
@@ -348,9 +348,9 @@ IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
 
 &nbsp;
 
-<h2 align="center">PART THREE<br>THE SWIFT PATH OF TRANSFERENCE</h2>  
+<h1 align="center">PART THREE<br>THE SWIFT PATH OF TRANSFERENCE</h1>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</h3>  
+<h2 align="center">Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</h2>  
 &nbsp;
 
 I. THE FIVE KINDS OF TRANSFERENCE
