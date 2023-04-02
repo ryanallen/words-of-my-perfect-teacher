@@ -8,7 +8,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
   
 *<h2 align="center">Contents</h2>* 
 <a href="#buddha-sakyamuni">Buddha Sakyamuni</a>  
-Guru Rinpoche  
+<a href="#guru-rinpoche">Guru Rinpoche</a>  
 
 Title  
 Copyright  
@@ -281,5 +281,87 @@ III. THE OFFERING MANDALA
     2. THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA
     3. THE SPECIAL MANDALA OF THE DHARMAKAYA
 
+<p align="center">◈</p>
+<h3 align="center">Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</h3>  
+&nbsp;
 
-<p id="buddha-sakyamuni">Buddha Sakyamuni</p>
+I. THE BODY AS AN OFFERING
+
+II. THE PRACTICE OF OFFERING THE BODY
+
+1. The white feast for the guests above
+2. The white feast for the guests below
+3. The variegated feast for the guests above
+4. The variegated feast for the guests below
+
+III. THE MEANING OF CHO
+
+<p align="center">◈</p>
+<h3 align="center">Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</h3>  
+&nbsp;
+
+I. THE REASON FOR GURU YOGA
+
+II. HOW TO PRACTICE GURU YOGA
+
+1. Visualizing the field of merit
+2. Offering the seven branches
+    1. PROSTRATION, THE ANTIDOTE TO PRIDE
+    2. OFFERING
+    3. CONFESSION OF HARMFUL ACTIONS
+    4. REJOICING, THE ANTIDOTE TO JEALOUSY
+    5. EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA
+    6. REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA
+    7. DEDICATION
+3. Praying with resolute trust
+4. Taking the four empowerments
+
+III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE
+
+1. The mind lineage of the Conquerors
+2. The symbol lineage of the Vidyadharas
+    1. THE MAHAYOGA TANTRAS
+    2. THE TRANSMISSION OF ANUYOGA
+    3. THE PITH-INSTRUCTIONS OF ATIYOGA
+    4. THE COMING OF ATIYOGA TO THE HUMAN REALM
+
+IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
+
+3. The hearing lineage of ordinary beings
+
+&nbsp;
+
+<h2 align="center">PART THREE<br>THE SWIFT PATH OF TRANSFERENCE</h2>  
+<p align="center">◈</p>
+<h3 align="center">Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</h3>  
+&nbsp;
+
+I. THE FIVE KINDS OF TRANSFERENCE
+
+1. Superior transference to the dharmakaya through the seal of the view
+2. Middling transference to the sambhogakaya through the union of the generation and perfection phases
+3. Lower transference to the nirmanakaya through immeasurable compassion
+4. Ordinary transference using three metaphors
+5. Transference performed for the dead with the hook of compassion
+
+II. ORDINARY TRANSFERENCE USING THREE IDEAS
+
+1. Training for transference
+2. Actual transference
+3. The steps of the meditation on transference
+    1. THE PRELIMINARIES
+    2. THE MAIN VISUALIZATION
+
+CONCLUSION
+
+Postface by Jamgon Kongtrul Lodro Thaye
+
+Notes  
+Glossary  
+Bibliography  
+Index  
+Padmakara Translation Group  
+*<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
+The Buddha of our time
+
+*<p id="guru-rinpoche">Guru Rinpoche</p>*
