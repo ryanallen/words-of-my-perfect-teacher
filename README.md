@@ -402,6 +402,10 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 
 ---
 
+
+<details>
+  <summary>Copyright</summary>  
+
 <span id="copyright">First Yale University Press edition 2011.</span>  
 Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
 
@@ -426,7 +430,12 @@ ISBN 978-0-300-16532-6 (pbk.)
 Printed in the United States of America.  
 10 9 8 7 6
 
+</details>
+
 ---
+
+<details>
+  <summary>Patron and Trustees</summary>  
 
 <h1 id="patron" align="center">Patron</h1>
 <p align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</p>
@@ -447,6 +456,8 @@ Our starting-point is the sacred texts with their vision of a higher truth and t
 The Trust particularly encourages faiths to make available texts which are needed in translation for their own communities and also texts which are little known outside the tradition but which have the power to inspire, console, enlighten and transform. These sources from the past become resources for the present and future when we make inspired use of them to guide us in shaping the contemporary world.
 
 Our religious traditions are diverse but, as with the natural environment, we are discovering the global interdependence of human hearts and minds. The Trust invites all to participate in the modern experience of interfaith encounter and exchange which marks a new phase in the human quest to discover our full humanity. 
+
+</details>
 
 ---
 
