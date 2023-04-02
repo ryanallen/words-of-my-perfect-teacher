@@ -4,6 +4,18 @@ by Patrul Rinpoche
 translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
 hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-teacher) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
 
+---
+
+*<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
+The Buddha of our time
+
+---
+
+*<p id="guru-rinpoche">Guru Rinpoche</p>*
+Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
+
+---
+
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
   
 *<h2 align="center">Contents</h2>*
@@ -364,17 +376,6 @@ Index
 
 ---
 
-*<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
-The Buddha of our time
-
-*<p id="guru-rinpoche">Guru Rinpoche</p>*
-Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
-
-*<p id="longchenpa">Longchenpa (1308-1363)</p>*
-The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
-
----
-
 <h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
 
 &nbsp;
@@ -448,5 +449,10 @@ It is said in the Great Perfection teachings that one cannot become enlightened 
 Translation of such works containing the Dzog-chen preliminaries will be of immense value these days. I congratulate the Padmakara Translation Group for having produced this work in English and French. I am sure this authentic preliminary work will benefit all those who are interested in Dzog-chen.
 
 November 23, 1990 The Dalai Lama
+
+---
+
+*<p id="longchenpa">Longchenpa (1308-1363)</p>*
+The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
 ---
