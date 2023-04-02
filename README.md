@@ -18,8 +18,9 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
 
+
 <details>
-  <summary>Contents</summary>  
+  <summary>Preface</summary>  
 
 *<h2 align="center">Contents</h2>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
@@ -377,12 +378,8 @@ Notes
 Bibliography  
 Index  
 
-</details>
-
 ---
 
-<details>
-  <summary>Title</summary>  
 
 <h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
 
@@ -398,13 +395,7 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 
 <p align="center">YALE UNIVERSITY PRESS<br> New haven & London</p>
 
-</details>
-
 ---
-
-
-<details>
-  <summary>Copyright</summary>  
 
 <span id="copyright">First Yale University Press edition 2011.</span>  
 Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
@@ -430,12 +421,7 @@ ISBN 978-0-300-16532-6 (pbk.)
 Printed in the United States of America.  
 10 9 8 7 6
 
-</details>
-
 ---
-
-<details>
-  <summary>Patron and Trustees</summary>  
 
 <h1 id="patron" align="center">Patron</h1>
 <p align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</p>
@@ -456,8 +442,6 @@ Our starting-point is the sacred texts with their vision of a higher truth and t
 The Trust particularly encourages faiths to make available texts which are needed in translation for their own communities and also texts which are little known outside the tradition but which have the power to inspire, console, enlighten and transform. These sources from the past become resources for the present and future when we make inspired use of them to guide us in shaping the contemporary world.
 
 Our religious traditions are diverse but, as with the natural environment, we are discovering the global interdependence of human hearts and minds. The Trust invites all to participate in the modern experience of interfaith encounter and exchange which marks a new phase in the human quest to discover our full humanity. 
-
-</details>
 
 ---
 
@@ -485,6 +469,8 @@ The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered to
 It contains all the teachings, including the Steps of the Path for those of the three levels of understanding, along with the Three Main Themes of the Path; the Three Perceptions, preliminaries for the Path and Fruit; the Buddha Nature as the cause, precious human life as the support, the spiritual friend as the impetus, his instructions as the method, and the kayas and wisdoms as the result, these representing the confluence of the Kadampa and Mahamudra traditions; and the Nyingma path in terms of determination to be free through disgust for samsara, faith through confidence in the effect of actions, bodhicitta through striving to help others, and pure perception of the utter purity of everything there is.
 
 For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the Buddha's precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
+
+</details>
 
 ---
 
