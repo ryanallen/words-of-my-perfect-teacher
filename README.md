@@ -9,6 +9,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 *<h2 align="center">Contents</h2>*
 <a href="#buddha-sakyamuni">Buddha Sakyamuni</a>  
 <a href="#guru-rinpoche">Guru Rinpoche</a>  
+<a href="#longchenpa">Longchenpa</a>  
 
 <a href="#title">Title</a>  
 <a href="#copyright">Copyright</a>  
@@ -16,7 +17,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 <a href="#trustees">Trustees</a>  
 <a href="#islt">International Sacred Literature Trust</a>  
 
-Forward by the Dalai Lama  
+<a href="#forewarddl">Foreward by the Dalai Lama</a>  
 Foreword by Dilgo Khyentse Rinpoche  
 Translators' Acknowledgements  
 Preface to the Second Edition  
@@ -369,6 +370,9 @@ The Buddha of our time
 *<p id="guru-rinpoche">Guru Rinpoche</p>*
 Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
 
+*<p id="longchenpa">Longchenpa (1308-1363)</p>*
+The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
+
 ---
 
 <h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
@@ -435,3 +439,14 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
+<h2 id="foreworddl" align="center">Foreword<br>by The Dalai Lama</h2>
+
+Jig-me Gyal-wai Nyu-gu, who was one of the eminent disciples of Jig-me Ling-pa, the exponent of Dzog-pa Chen-po Long-chen Nying-thig, gave an oral instruction on Long-chen Nying-thig and his disciple Dza Pal-trul Rinpoche transcribed it, giving it the title: KUNSANG LA-MAI ZHAL-LUNG.
+
+It is said in the Great Perfection teachings that one cannot become enlightened through a contrived mind; rather, the basic mind is to be identified, in relation to which all phenomena are to be understood as the sport of the mind. One then familiarizes oneself continuously and one-pointedly with this ascertainment. However, to have a full understanding of this it is not not sufficient merely to read books; one needs the full preparatory practice of the Nying-ma system and, in addition, the special teaching of a qualified Nying-ma master as well as his blessings. The student must also have accumulated great merit. That is why great Nying-ma-pa masters like Jig-me Ling-pa and Do-drup-chen worked so hard.
+
+Translation of such works containing the Dzog-chen preliminaries will be of immense value these days. I congratulate the Padmakara Translation Group for having produced this work in English and French. I am sure this authentic preliminary work will benefit all those who are interested in Dzog-chen.
+
+November 23, 1990 The Dalai Lama
+
+---
