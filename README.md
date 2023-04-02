@@ -13,8 +13,8 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 <a href="#title">Title</a>  
 <a href="#copyright">Copyright</a>  
 <a href="#patron">Patron</a>  
-Trustees  
-International Sacred Literature Trust  
+<a href="#trustees">Trustees</a>  
+<a href="#islt">International Sacred Literature Trust</a>  
 
 Forward by the Dalai Lama  
 Foreword by Dilgo Khyentse Rinpoche  
@@ -383,7 +383,7 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 
 *<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
 
-<p align="center">YALE UNIVERSITY PRESS<br> New haven & Lonon</p>
+<p align="center">YALE UNIVERSITY PRESS<br> New haven & London</p>
 
 ---
 
@@ -416,8 +416,22 @@ Printed in the United States of America.
 <h2 id="patron" align="center">Patron</h2>
 <p align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</p>
 
-<h2 align="center">Trustees</h2>
+<h2 id="trustees" align="center">Trustees</h2>
 <p align="center">Sir Brian McGrath, KCVO (Chair)<br>Martine Batchelor, Dr. Muhammad Zaki Badawi, The Duchess of Abercorn<br>Dr Narinder Singh Kapany, Richard Summers, Michael</p>
+
+---
+
+<h2 id="islt" align="center">INTERNATIONAL SACRED LITERATURE TRUST</h2>
+
+The International Sacred Literature Trust was established to promote understanding and open discussion between and within faiths and to give voice in today's world to the wisdom that speaks across time and traditions.
+
+What resources do the sacred traditions of the world possess to respond to the great global threats of poverty, war, ecological disaster and spiritual despair?
+
+Our starting-point is the sacred texts with their vision of a higher truth and their deep insights into the nature of humanity and the universe we inhabit. The translation programme is planned so that each faith community articulates its own teachings with the intention of enhancing its self-understanding as well as the understanding of those of other faiths and those of no faith.
+
+The Trust particularly encourages faiths to make available texts which are needed in translation for their own communities and also texts which are little known outside the tradition but which have the power to inspire, console, enlighten and transform. These sources from the past become resources for the present and future when we make inspired use of them to guide us in shaping the contemporary world.
+
+Our religious traditions are diverse but, as with the natural environment, we are discovering the global interdependence of human hearts and minds. The Trust invites all to participate in the modern experience of interfaith encounter and exchange which marks a new phase in the human quest to discover our full humanity. 
 
 ---
 
