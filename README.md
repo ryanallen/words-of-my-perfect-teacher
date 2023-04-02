@@ -474,4 +474,16 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 ---
 
+<details>
+  <summary>Face</summary>  
+
+</details>
+
+---
+
+<details>
+  <summary>Postface</summary>  
+
 <h1 id="Glossary" align="center">Glossary</h1>
+
+</details>
