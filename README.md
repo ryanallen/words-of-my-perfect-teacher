@@ -19,18 +19,18 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
   
 *<h2 align="center">Contents</h2>*
-[Buddha Sakyamuni](#buddha-sakyamuni)
-<a href="#guru-rinpoche">Guru Rinpoche</a>  
+[Buddha Sakyamuni](#buddha-sakyamuni)  
+[Guru Rinpoche](#guru-rinpoche)  
 
-<a href="#title">Title</a>  
-<a href="#copyright">Copyright</a>  
-<a href="#patron">Patron</a>  
-<a href="#trustees">Trustees</a>  
-<a href="#islt">International Sacred Literature Trust</a>  
+[Title](#title)  
+[Copyright](#copyright)  
+[Patron](#patron)  
+[Trustees](#trustees)  
+[International Sacred Literature Trust](#islt)  
 
-<a href="#forewardhhdl">Foreward by the Dalai Lama</a>  
-<a href="#longchenpa">Longchenpa</a>  
-<a href="#forewarddkr">Foreword by Dilgo Khyentse Rinpoche</a>  
+[Foreward by the Dalai Lama](#forewardhhdl)  
+[Longchenpa](#longchenpa)  
+[Foreword by Dilgo Khyentse Rinpoche](#forewarddkr)  
 Translators' Acknowledgements  
 Preface to the Second Edition  
 Translators' Introduction  
