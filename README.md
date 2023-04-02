@@ -518,3 +518,24 @@ having the qualities of [vajra](#vajra).
 
 ## All victorious banner
 *phyogs las rnam par rgyal ba'i rgyal mtshan*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the *body* of the [Buddha](#buddha) and symbolizes the indestructibility of his teaching.
+
+## All Victorious Palace
+*rnam rgyal pho brang*, the palace of the god [Indra](#indra)
+
+## Ambrosia
+*bdud rtsi*, Skt. *amrita*, lit. the immortal. The nectar (rtsi) which conquers the demon (dbud) of death. It is a symbol of [wisdom](#wisdom).
+
+## Amitabha
+*'od dpag med*, lit. immeasureable light. The Buddha of the Lotus Family. See [five families](#five-families).
+
+## Amitayus
+*tshe dpag med*, lit. immeasurable life. The Buddha of longevity.
+
+## Amoghasiddhi
+*don yod grub pa*, lit. he who accomplishes that which is meaningful. The Buddha of the Action Family. See [five families](#five-families)
+
+## Ananda
+*kun dga' bo*, a cousin of the [Buddha](#buddha) who became his attendant. He was instrumental in the preservation of the teachings after the [Buddha](#buddha) had left this world, as he was able to remember everything that he had heard the [Buddha](#buddha) say.
+
+## Anandagarbha
+*bde mchog snying po*, another name of [Adhicitta](#adhicitta).
