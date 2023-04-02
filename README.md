@@ -20,9 +20,6 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 
 ---
 
-<details>
-  <summary>Preface</summary>  
-
 *<h1 align="center">Contents</h1>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
 [Guru Rinpoche](#guru-rinpoche)  
@@ -33,9 +30,9 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 [Trustees](#trustees)  
 [International Sacred Literature Trust](#islt)  
 
-[Foreward by the Dalai Lama](#forewardhhdl)  
+[Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
-[Foreword by Dilgo Khyentse Rinpoche](#forewarddkr)  
+[Foreword by Dilgo Khyentse Rinpoche](#foreworddkr)  
 Translators' Acknowledgements  
 Preface to the Second Edition  
 Translators' Introduction  
@@ -471,19 +468,7 @@ It contains all the teachings, including the Steps of the Path for those of the 
 
 For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
 
-</details>
-
 ---
-
-<details>
-  <summary>Face</summary>  
-
-</details>
-
----
-
-<details>
-  <summary>Postface</summary>  
 
 <h1 id="Glossary" align="center">Glossary</h1>
 
@@ -495,7 +480,7 @@ Abbreviations:
 - **HIST**: Dudjom Rinpoche's *Nyingma School of Tibetan Buddhism: Fundamentals and History* (see [bibliography](#bibliography))
 - **DICT**: *The Great Tibetan-Chinese Dictionary (see [bibliography](#bibliography))
 - **AT**: Alternative translation
-- **Skt.**: Sanscrit
+- **Skt.**: Sanskrit
 - **lit.**: literally
 
 ## Abbot
@@ -533,5 +518,3 @@ having the qualities of [vajra](#vajra).
 
 ## All victorious banner
 *phyogs las rnam par rgyal ba'i rgyal mtshan*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the *body* of the [Buddha](#buddha) and symbolizes the indestructibility of his teaching.
-
-</details>
