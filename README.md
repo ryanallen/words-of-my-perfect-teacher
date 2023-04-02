@@ -6,11 +6,11 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
   
-*<h2 align="center">Contents</h2>* 
+*<h2 align="center">Contents</h2>*
 <a href="#buddha-sakyamuni">Buddha Sakyamuni</a>  
 <a href="#guru-rinpoche">Guru Rinpoche</a>  
 
-Title  
+<a href="#title">Title</a>  
 Copyright  
 Patron  
 Trustees  
@@ -360,8 +360,24 @@ Notes
 Glossary  
 Bibliography  
 Index  
-Padmakara Translation Group  
+
+---
+
 *<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
 The Buddha of our time
 
 *<p id="guru-rinpoche">Guru Rinpoche</p>*
+Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
+
+---
+
+<h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
+
+&nbsp;
+
+THE WORDS OF MY PERFECT TEACHER</h1>
+
+<h2 align="center">PATRUL RINPOCHE</h2>
+
+<p align="center">Translated by the Padmakara Translation Group</p>
+*<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
