@@ -7,7 +7,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 ---
 
 *<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
-The Buddha of our time
+The [Buddha](#buddha) of our time
 
 ---
 
@@ -469,7 +469,7 @@ The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered to
 
 It contains all the teachings, including the Steps of the Path for those of the three levels of understanding, along with the Three Main Themes of the Path; the Three Perceptions, preliminaries for the Path and Fruit; the Buddha Nature as the cause, precious human life as the support, the spiritual friend as the impetus, his instructions as the method, and the kayas and wisdoms as the result, these representing the confluence of the Kadampa and Mahamudra traditions; and the Nyingma path in terms of determination to be free through disgust for samsara, faith through confidence in the effect of actions, bodhicitta through striving to help others, and pure perception of the utter purity of everything there is.
 
-For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the Buddha's precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
+For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
 
 </details>
 
@@ -512,5 +512,26 @@ Abbreviations:
 
 ## Acarya
 *slob dpon* 1) teacher. 2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
+
+## Acarya Padma
+*slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava).
+
+## Accomplishment
+1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is enlightenment. 2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
+
+## Adamantine
+having the qualities of [vajra](#vajra).
+
+## Adhicitta
+*sems lhag can*, the previous incarnation in the celestial realms, of [Garab Dorje](#garab-dorje).
+
+## Akanistha
+*'og min*, lit. "nothing above it." The highest paradise or Buddha-field. There are six different places bearing this name, from the eight paradise of the gods of the [Fourth Concentration](#four-concentrations).
+
+## Aksobhya
+*mi bskyod pa*, the [Buddha](#buddha) of the Vajra Family. See [five families](#five-families).
+
+## All victorious banner
+*phyogs las rnam par rgyal ba'i rgyal mtshan*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the *body* of the [Buddha](#buddha) and symbolizes the indestructibility of his teaching.
 
 </details>
