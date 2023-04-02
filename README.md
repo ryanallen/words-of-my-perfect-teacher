@@ -380,4 +380,5 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 <h2 align="center">PATRUL RINPOCHE</h2>
 
 <p align="center">Translated by the Padmakara Translation Group</p>
+
 *<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
