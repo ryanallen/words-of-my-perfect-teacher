@@ -511,13 +511,13 @@ Abbreviations:
 *don dam bden pa*, Skt. *paramartha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
 
 ## Acarya
-*slob dpon* 1) teacher. 2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
+*slob dpon* (1) teacher. (2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
 
 ## Acarya Padma
 *slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava).
 
 ## Accomplishment
-1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is enlightenment. 2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
+(1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is enlightenment. (2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
 
 ## Adamantine
 having the qualities of [vajra](#vajra).
