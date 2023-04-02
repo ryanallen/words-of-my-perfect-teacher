@@ -403,7 +403,7 @@ The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara 
 p. cm. --(Sacred literature series)  
 Includes bibliographical references and index.  
 ISBN 0-7619-9026-7 (alk. paper). --ISBN 0-7619-9027-5 (alk. paper)  
-1.Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
+1.&nbsp;Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
 I. Title. II Series.  
 BQ 7662.4.072513  1998  98-23830  
 29-4.3'420423-dc21  CIP  
