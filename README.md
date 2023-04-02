@@ -534,7 +534,7 @@ having the qualities of [vajra](#vajra).
 *don yod grub pa*, lit. he who accomplishes that which is meaningful. The Buddha of the Action Family. See [five families](#five-families)
 
 ## Ananda
-*kun dga' bo*, a cousin of the [Buddha](#buddha) who became his attendant. He was instrumental in the preservation of the teachings after the [Buddha](#buddha) had left this world, as he was able to remember everything that he had heard the [Buddha](#buddha) say.
+*kun dga' bo*, a cousin of the [Buddha](#buddha) who became his attendant. He was instrumental in the preservation of the teachings after the Buddha had left this world, as he was able to remember everything that he had heard the Buddha say.
 
 ## Anandagarbha
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
@@ -553,3 +553,12 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 
 ## Aperture of Brahma
 *tshang pa'i bu ga*, Skt. *brahmarandra*, point on the top of the head where the [central channel](#central-channel) ends.
+
+## Appearances
+*snang ba*, see [perceptions](#perceptions)
+
+## Approach and accomplishment
+*bsnyen sgrub*, two steps in practices involving the recitation of a [mantra](#mantra). In the first, practitioners *approach* the deity that they are visualizing by reciting the [deity's](#deity) mantra. In the second they are familiar enough to identify themselves with the deity.
+
+## Arhat
+*dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvana](#nirvana), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
