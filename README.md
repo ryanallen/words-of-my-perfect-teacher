@@ -526,7 +526,7 @@ having the qualities of [vajra](#vajra).
 *bdud rtsi*, Skt. *amrita*, lit. the immortal. The nectar (rtsi) which conquers the demon (dbud) of death. It is a symbol of [wisdom](#wisdom).
 
 ## Amitabha
-*'od dpag med*, lit. immeasureable light. The Buddha of the Lotus Family. See [five families](#five-families).
+*'od dpag med*, lit. immeasurable light. The Buddha of the Lotus Family. See [five families](#five-families).
 
 ## Amitayus
 *tshe dpag med*, lit. immeasurable life. The Buddha of longevity.
@@ -539,3 +539,18 @@ having the qualities of [vajra](#vajra).
 
 ## Anandagarbha
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
+
+## Ancient Tradition
+*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantra) propagated in Tibet by the great master [Padmasambhava](#padmasambhava) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
+
+## Ancient Translations
+*snga 'gyur*, name given to the first teachings translated from Sanskrit and propagated in Tibet, those of the Ancient, or [Nyingmapa](#nyingmapa) Tradition, as opposed to the teachings that were translated and propagated from the 10th century onwards and which gave birth to the New Tradition of Tibetan Buddhism.
+
+## Angulimala
+*sor mo threng ba*, one of the [Buddha's](#buddha) disciples, who despite having killed nine hundred and ninety nine people, was able, by purifying his negative actions, to attain the level of [Arhat](#arhat). His name means "Garland of Fingers."
+
+## Anuyoga
+second of the three inner yogas and eighth of the nine vehicles, according to the classification of the Nyingmapa school. In this yoga the main stress is put on the [perfection phase](#perfection-phase), particularly, meditation on the [channels and energies](#channels-and-energies).
+
+## Aperture of Brahma
+*tshang pa'i bu ga*, Skt. *brahmarandra*, point on the top of the head where the [central channel](#central-channel) ends.
