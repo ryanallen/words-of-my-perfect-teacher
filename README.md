@@ -562,3 +562,16 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 
 ## Arhat
 *dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvana](#nirvana), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
+
+## Arura and kyurura
+*Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the Medicine Buddha.
+
+## Aryadeva
+*'phags pa lha* (2nd century), the most famous disciple of [Nagarjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madyamika) philosophy. See [Middle way](#middle-way).
+
+## Asanga
+*thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [sastras](#sastras), in particular the five teachings he received from [Maitreya](#maitreya).
+
+## Atisa
+(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. he spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
+
