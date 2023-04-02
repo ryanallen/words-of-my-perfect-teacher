@@ -18,9 +18,9 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
 
-
 <details>
   <summary>Contents</summary>  
+
 *<h2 align="center">Contents</h2>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
 [Guru Rinpoche](#guru-rinpoche)  
@@ -381,6 +381,8 @@ Index
 
 ---
 
+<details>
+  <summary>Title</summary>  
 
 <h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
 
@@ -395,6 +397,8 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 *<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
 
 <p align="center">YALE UNIVERSITY PRESS<br> New haven & London</p>
+
+</details>
 
 ---
 
