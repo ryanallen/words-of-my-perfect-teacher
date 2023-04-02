@@ -17,7 +17,10 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 ---
 
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
-  
+
+
+<details>
+  <summary>Contents</summary>  
 *<h2 align="center">Contents</h2>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
 [Guru Rinpoche](#guru-rinpoche)  
@@ -374,7 +377,10 @@ Notes
 Bibliography  
 Index  
 
+</details>
+
 ---
+
 
 <h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
 
