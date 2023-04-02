@@ -11,7 +11,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 <a href="#guru-rinpoche">Guru Rinpoche</a>  
 
 <a href="#title">Title</a>  
-Copyright  
+<a href="#copyright">Copyright</a>  
 <a href="#patron">Patron</a>  
 Trustees  
 International Sacred Literature Trust  
@@ -354,7 +354,7 @@ II. ORDINARY TRANSFERENCE USING THREE IDEAS
 
 CONCLUSION
 
-Postface by Jamgon Kongtrul Lodro Thaye
+--Postface by Jamgon Kongtrul Lodro Thaye
 
 Notes  
 Glossary  
@@ -384,6 +384,32 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 *<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
 
 <p align="center">YALE UNIVERSITY PRESS<br> New haven & Lonon</p>
+
+---
+
+<span id="copyright">First Yale University Press edition 2011.</span>  
+Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
+
+All rights reserved.  
+This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by [Sections 107 and 108 of the U.S. Copyright Law](/license) and except by reviewers for the public press), without written permission from the publishers.
+
+Yale University Press books may be purchased in quantity for educational, business, or promotional use. For information, please e-mail sales.press@yale.edu (U.S. office) or sales@yaleup.co.uk (U.K. office).
+
+The Library of Congress has cataloged the original edition as follows:
+
+O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
+[Kun bzan bla ma'i zal lun. English]  
+The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche-- 2nd ed.  
+p. cm. --(Sacred literature series)  
+Includes bibliographical references and index.  
+ISBN 0-7619-9026-7 (alk. paper). --ISBN 0-7619-9027-5 (alk. paper)  
+1. Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
+I. Title. II Series.  
+BQ 7662.4.072513  1998  98-23830  
+29-4.3'420423-dc21  CIP  
+ISBN 978-0-300-16532-6 (pbk.)  
+Printed in the United States of America.  
+10 9 8 7 6
 
 ---
 
