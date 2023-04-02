@@ -12,7 +12,7 @@ hand copied by [Ryan Allen](https://github.com/ryanallen/words-of-my-perfect-tea
 
 <a href="#title">Title</a>  
 Copyright  
-Patron  
+<a href="#patron">Patron</a>  
 Trustees  
 International Sacred Literature Trust  
 
@@ -382,3 +382,16 @@ THE WORDS OF MY PERFECT TEACHER</h1>
 <p align="center">Translated by the Padmakara Translation Group</p>
 
 *<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
+
+<p align="center">YALE UNIVERSITY PRESS<br> New haven & Lonon</p>
+
+---
+
+<h2 id="patron" align="center">Patron</h2>
+<p align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</p>
+
+<h2 align="center">Trustees</h2>
+<p align="center">Sir Brian McGrath, KCVO (Chair)<br>Martine Batchelor, Dr. Muhammad Zaki Badawi, The Duchess of Abercorn<br>Dr Narinder Singh Kapany, Richard Summers, Michael</p>
+
+---
+
