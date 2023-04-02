@@ -18,6 +18,7 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
 
+---
 
 <details>
   <summary>Preface</summary>  
