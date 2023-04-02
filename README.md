@@ -487,4 +487,30 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 <h1 id="Glossary" align="center">Glossary</h1>
 
+Abbreviations:  
+- **DKR**: Dilgo Khyentse Rinpoche
+- **ZR**: Zenkar Rinpoche
+- **PWR**: Pema Wangyal Rinpoche
+- **NT**: *Notes on Words of My Perfect Teacher* (see [bibliography](#bibliography))
+- **HIST**: Dudjom Rinpoche's *Nyingma School of Tibetan Buddhism: Fundamentals and History* (see [bibliography](#bibliography))
+- **DICT**: *The Great Tibetan-Chinese Dictionary (see [bibliography](#bibliography))
+- **AT**: Alternative translation
+- **Skt.**: Sanscrit
+- **lit.**: literally
+
+## Abbot
+*mkhan po*, in general means someone who gives monastic vows. This title is also given to a person who has attained a high degree of knowledge of the [Dharma](#dharma) and is in charge of teaching it. It can also simple be the title given to the eldest monk during a traditional summer retreat.
+
+## Abhidarma
+*mngon pa*, one of the three [pitakas](#pitaka). The foundation of Buddhist psychology and logic. It describes the universe, the different kinds of beings, the steps on the path to enlightenment, refutes mistaken beliefs, etc.
+
+## Absolute Space
+*chos dbyings*, Skt. *dharmadhatu*, AT: the expanse of reality. From the point of view of realization, all phenomena appear as the expanse of [emptiness](#emptiness).
+
+## Absolute truth
+*don dam bden pa*, Skt. *paramartha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
+
+## Acarya
+*slob dpon* 1) teacher. 2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
+
 </details>
