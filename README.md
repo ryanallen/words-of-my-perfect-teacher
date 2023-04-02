@@ -19,9 +19,8 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
   
 *<h2 align="center">Contents</h2>*
-<a href="#buddha-sakyamuni">Buddha Sakyamuni</a>  
+[Buddha Sakyamuni](#buddha-sakyamuni)
 <a href="#guru-rinpoche">Guru Rinpoche</a>  
-<a href="#longchenpa">Longchenpa</a>  
 
 <a href="#title">Title</a>  
 <a href="#copyright">Copyright</a>  
@@ -29,8 +28,9 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 <a href="#trustees">Trustees</a>  
 <a href="#islt">International Sacred Literature Trust</a>  
 
-<a href="#forewarddl">Foreward by the Dalai Lama</a>  
-Foreword by Dilgo Khyentse Rinpoche  
+<a href="#forewardhhdl">Foreward by the Dalai Lama</a>  
+<a href="#longchenpa">Longchenpa</a>  
+<a href="#forewarddkr">Foreword by Dilgo Khyentse Rinpoche</a>  
 Translators' Acknowledgements  
 Preface to the Second Edition  
 Translators' Introduction  
@@ -440,7 +440,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-<h2 id="foreworddl" align="center">Foreword<br>by The Dalai Lama</h2>
+<h2 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h2>
 
 Jig-me Gyal-wai Nyu-gu, who was one of the eminent disciples of Jig-me Ling-pa, the exponent of Dzog-pa Chen-po Long-chen Nying-thig, gave an oral instruction on Long-chen Nying-thig and his disciple Dza Pal-trul Rinpoche transcribed it, giving it the title: KUNSANG LA-MAI ZHAL-LUNG.
 
@@ -456,3 +456,11 @@ November 23, 1990 The Dalai Lama
 The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
 ---
+
+<h2 id="forewordhhdkr" align="center">Foreword<br>by Dilgo Khyentse Rinpoche</h2>
+
+*The Words of My Perfect Teacher, a Guide to the Preliminaries for the Heart-essence of the Vast Expanse from the Great Perfection*, sets out the paths of the four main schools of Tibetan Buddhism without any conflict between them.
+
+It contains all the teachings, including the Steps of the Path for those of the three levels of understanding, along with the Three Main Themes of the Path; the Three Perceptions, preliminaries for the Path and Fruit; the Buddha Nature as the cause, precious human life as the support, the spiritual friend as the impetus, his instructions as the method, and the kayas and wisdoms as the result, these representing the confluence of the Kadampa and Mahamudra traditions; and the Nyingma path in terms of determination to be free through disgust for samsara, faith through confidence in the effect of actions, bodhicitta through striving to help others, and pure perception of the utter purity of everything there is.
+
+For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the Buddha's precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
