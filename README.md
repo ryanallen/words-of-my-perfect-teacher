@@ -23,7 +23,7 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 *<h1 id="contents" align="center">Contents</h1>*
 [Buddha Sakyamuni](#buddha-sakyamuni)  
 [Guru Rinpoche](#guru-rinpoche)  
-[Table of Contents](#contents)
+[Table of Contents](#contents)  
 [Title](#title)  
 [Copyright](#copyright)  
 [Patron](#patron)  
