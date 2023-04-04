@@ -577,3 +577,10 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 
 ## Atiyoga
 the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
+
+## Avalokitesvara
+*spyan ras gzigs* (Chenrezi), one of the [Eight Great Close Sons](#eight-great-close-sons). Essence of the speech of all the Buddhas, incarnation of their compassion.
+
+## Awareness
+*rig pa*, Skt. *vidya*, the original state of the mind, fresh, vast, luminous, and beyond thought.
+
