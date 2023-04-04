@@ -584,3 +584,6 @@ the highest of the three inner yogas, the summit of the Nine Vehicles according 
 ## Awareness
 *rig pa*, Skt. *vidya*, the original state of the mind, fresh, vast, luminous, and beyond thought.
 
+## Becoming
+*srid pa*, the process of samsaric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [samsara](#samsara) as opposed to *zhi ba*, the peace of [nirvana](#nirvana).
+
