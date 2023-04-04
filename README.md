@@ -549,7 +549,7 @@ having the qualities of [vajra](#vajra).
 *sor mo threng ba*, one of the [Buddha's](#buddha) disciples, who despite having killed nine hundred and ninety nine people, was able, by purifying his negative actions, to attain the level of [Arhat](#arhat). His name means "Garland of Fingers."
 
 ## Anuyoga
-second of the three inner yogas and eighth of the nine vehicles, according to the classification of the Nyingmapa school. In this yoga the main stress is put on the [perfection phase](#perfection-phase), particularly, meditation on the [channels and energies](#channels-and-energies).
+second of the three inner yogas and eighth of the nine vehicles, according to the classification of the Nyingmapa school. In this yoga the main stress is put on the [perfection phase](#perfection-phase), particularly, meditation on the [channels and energies](#channels-and-energies-exercises-of).
 
 ## Aperture of Brahma
 *tshang pa'i bu ga*, Skt. *brahmarandra*, point on the top of the head where the [central channel](#central-channel) ends.
@@ -672,3 +672,7 @@ see [Karma Chagme](#karma-chagme).
 *rtsa*, Skt. *nadi*, subtle vein in which the subtle [energy](#energy) (*rlung*, Skt. *prana*) circulates. The left and right principal channels run from the nostrils to just below the navel, where they join the [central channel](#central-channel).
 
 ## Channels and energies (exercises of)
+*rtsa rlung gi 'phrul 'khor*, exercises combining visualization, concentration and physical movements, in which the flow of subtle energies through the subtle [channels](#channel) is controlled and directed. These practices should only be attempted with the proper transmission and guidance, after completing the [preliminaries](#preliminaries) and achieving some stability in the [generation phase](#generation-phase).
+
+## Chekawa Yeshe Dorje
+*'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points, and rendered them more accessible. See *The Great Path of Awakening*, Jamgon Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
