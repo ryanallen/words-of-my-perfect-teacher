@@ -587,3 +587,68 @@ the highest of the three inner yogas, the summit of the Nine Vehicles according 
 ## Becoming
 *srid pa*, the process of samsaric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [samsara](#samsara) as opposed to *zhi ba*, the peace of [nirvana](#nirvana).
 
+## Beginning
+We have used this word to translate *ye* in expressions like *ye nas*, "from the very beginning" or *ye dag* "pure from the beginning." However it should be understood that this does not refer to a first moment of origin or creation in the distant past, but rather to the fact that the pure nature has always been intrinsically present. 
+
+## Bell
+*dril bu*, Skt. *ghanta*. See [vajra](#vajra).
+
+## Bhagavan
+*bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [samsara](#samasara) and [nirvana](#nirvana).
+
+## Bhrikuti
+*jo mo khro gnyer can*, one of the forms of [Tara](#tara) the female [Bodhisattva](#bodhisattva) of compassion. The name means literally "She who has a wrathful frown."
+
+## Bile
+*mkhris pa*, one of the three humours of the body, whose imbalance creates the different kinds of illness. See also [wind](#wind), [phlegm](#phlegm).
+
+## Bindu
+*thig le*, lit. a circle, sphere, point or drop, but also with a range of more abstract meanings. We have used this Sanskrit term in the chapter on the transference of consciousness to underline the fact that the levels of meaning are multiple; in other contexts we have translated the same word as [essence](#essence).
+
+## Bliss (experience)
+*bde nyams*, one of the three types of experience in meditation. See [experiences](#experiences).
+
+## Bliss and emptiness
+*bde stong*, bliss experienced without attachment, as being empty.
+
+## Blissful (pure land)
+*bde ba can*, Skt. *Sukhavati*, the Buddhafield of the West, that of Buddha [Amitabha](#amitabha).
+
+## Bodhisattva
+*byang chub kyi sems*, lit. the mind of enlightenment. On the relative level, it is the wish to attain Buddhahood for the sake of all beings, as well as the practice of the path of love, compassion, the [six transcendent perfections](#six-transcendent-perfections), etc., necessary for achieving that goal. On the absolute level, it is the direct insight into the ultimate nature.
+
+## Bodhisattva Abbot
+the title by which [Santaraksita](#santaraksita) is sometimes known.
+
+## Bodhisattva levels
+*phags pa'i sa*, lit. sublime levels, Skt. *bhumi*. The ten levels of realization reached by [Bodhisattvas](#bodhisattva) on the paths of seeing, meditation and beyond learning. In some classifications additional levels are added. "These levels are sublime because they are far beyond ordinary beings." DICT.
+
+## Bodhnath (stupa)
+*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stupas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stupa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stupa*, berkeley, Dharma Publishing, 1973).
+
+## Body, speech, mind, qualities and activity
+*sku, gsung, thugs, yon tan, phrin las*, five aspects of Buddhahood. Sometimes referred to as the [five kayas](#five-kayas). See also [five families](#five-families).
+
+## Bonpo
+*bon po*, follower of Bon, the religious tradition prevailing in Tibet before the introduction of Buddhism.
+
+## Border country
+*mtha' 'khob*, a region in which the teachings are unknown.
+
+## Brahma
+*tshangs pa* In Buddhism Brahma is not considered as an eternal deity but as the ruler of the gods of the World of Form.
+
+## Brahma-world
+*tshang pa'i 'jig rten*, Skt. *brahmaloka*, in general, all the form and formless worlds.
+
+## Brahmin
+*bram ze*, one of the four castes in ancient Indian society, the priestly caste.
+
+## Buddha
+*sangs rgyas*, "One who has dispelled (*sangs*) the darkness of the [two obscurations](#two-obscurations) and developed (*rgyas*) the two kinds of omniscience (knowing the nature of phenomena and knowing the multiplicity of phenomena)." DICT.
+
+## Buddha Nature
+*de gshegs snying po*, Skt. *tathagatagarbha*, the potential of Buddhahood present in every being. AT: essence of Buddhahood.
+
+## Burnt offering
+*gsur*, an offering made by burning food on coals. It is offered to the Buddhas, the protectors, all beings in general and in particular to wandering spirits and those towards whom we have karmic debts. The usual white *gsur* is prepared with the [three white foods](#three-white-foods) and the [three sweet foods](#three-sweet-foods). The red *gsur* is prepared with meat.
