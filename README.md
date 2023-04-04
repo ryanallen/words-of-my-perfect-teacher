@@ -659,4 +659,16 @@ the title by which [Santaraksita](#santaraksita) is sometimes known.
 ## Camaradvipa
 *Rnga yab gling*, one of the eight sub-continents in ancient Indian cosmology, to the west of [Jambudvipa](#jambudvipa). This is the south-western continent referred to as the Buddhafield of the [Glorious Copper-Coloured Mountain](#glorious-copper-coloured-mountain).
 
+## Central channel
+*rtsa dbu ma*, Skt. *avadhuti*, the central axis of the subtle body. Its exact description varies according to the particular practice. It represents non-dual [wisdom](#wisdom).
 
+## Chagme Rinpoche
+see [Karma Chagme](#karma-chagme).
+
+## Chakshingwa, (Geshe)
+*lcags shing ba*, a [Kadampa](#kadampa) [geshe](#geshe), disciple of [Langri Thangpa](#langri-thangpa).
+
+## Channel
+*rtsa*, Skt. *nadi*, subtle vein in which the subtle [energy](#energy) (*rlung*, Skt. *prana*) circulates. The left and right principal channels run from the nostrils to just below the navel, where they join the [central channel](#central-channel).
+
+## Channels and energies (exercises of)
