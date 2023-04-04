@@ -575,3 +575,5 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 ## Atisa
 (982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. he spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
 
+## Atiyoga
+the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
