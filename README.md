@@ -652,3 +652,11 @@ the title by which [Santaraksita](#santaraksita) is sometimes known.
 
 ## Burnt offering
 *gsur*, an offering made by burning food on coals. It is offered to the Buddhas, the protectors, all beings in general and in particular to wandering spirits and those towards whom we have karmic debts. The usual white *gsur* is prepared with the [three white foods](#three-white-foods) and the [three sweet foods](#three-sweet-foods). The red *gsur* is prepared with meat.
+
+## Calling the teacher from afar
+*bla ma rgyang 'bod*, a type of prayer of yearning to one's spiritual teacher.
+
+## Camaradvipa
+*Rnga yab gling*, one of the eight sub-continents in ancient Indian cosmology, to the west of [Jambudvipa](#jambudvipa). This is the south-western continent referred to as the Buddhafield of the [Glorious Copper-Coloured Mountain](#glorious-copper-coloured-mountain).
+
+
