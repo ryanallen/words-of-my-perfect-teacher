@@ -676,3 +676,15 @@ see [Karma Chagme](#karma-chagme).
 
 ## Chekawa Yeshe Dorje
 *'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points, and rendered them more accessible. See *The Great Path of Awakening*, Jamgon Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
+
+## Chengawa, (Geshe)
+*spyan snga ba*(1038 - 1103), disciple of [Drom Tonpa](#drom-tonpa), started the transmission lineage of the [Kadampa](#kadampa) oral instructions.
+
+## Chenrenzi
+*spyan ras gzigs*, the Tibetan name for [Avalokitesvara](#avalokitesvara)
+
+## Cho
+*gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdron](#machik-labdron) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyoton Sonam Lama, and propagated them in Tibet.
+
+## Chogyal Pakpa
+*chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Sakya](#sakyapa) school known as the Sakya Gongma. He became the perceptor of Mongolian emperor Kublai Khan and regent of Tibet.
