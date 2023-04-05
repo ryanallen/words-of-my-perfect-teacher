@@ -687,4 +687,16 @@ see [Karma Chagme](#karma-chagme).
 *gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdron](#machik-labdron) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyoton Sonam Lama, and propagated them in Tibet.
 
 ## Chogyal Pakpa
-*chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Sakya](#sakyapa) school known as the Sakya Gongma. He became the perceptor of Mongolian emperor Kublai Khan and regent of Tibet.
+*chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Sakya](#sakyapa) school known as the Sakya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
+
+## Circumambulation
+*skor ba*, act of veneration consisting in walking clockwise, concentratedly and with awareness, around a sacred object, e.g. a temple, [stupa](#stupa), holy mountain, or the house, and even the person, of a spiritual master.
+
+## Clarity (experience)
+*gsal nyams*, one of the three types of experience in meditation. See [experiences](#experiences-meditative).
+
+## Clarity, increase and attainment
+*snang mched thob*, three experiences which occur successively at the moment of death.
+
+## Clear light
+*'od gsal*, Skt. *prabhasvara*, spontaneous, luminous (or knowing) aspect of the nature of the mind&ndash;or [awareness](#awareness).
