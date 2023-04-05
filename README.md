@@ -368,7 +368,7 @@ II. ORDINARY TRANSFERENCE USING THREE IDEAS
 
 CONCLUSION
 
---Postface by Jamgon Kongtrul Lodro Thaye
+&ndash;Postface by Jamgon Kongtrul Lodro Thaye
 
 Notes  
 [Glossary](#glossary)  
@@ -406,10 +406,10 @@ The Library of Congress has cataloged the original edition as follows:
 
 O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
 [Kun bzan bla ma'i zal lun. English]  
-The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche-- 2nd ed.  
-p. cm. --(Sacred literature series)  
+The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche&ndash; 2nd ed.  
+p. cm. &ndash;(Sacred literature series)  
 Includes bibliographical references and index.  
-ISBN 0-7619-9026-7 (alk. paper). --ISBN 0-7619-9027-5 (alk. paper)  
+ISBN 0-7619-9026-7 (alk. paper). &ndash;ISBN 0-7619-9027-5 (alk. paper)  
 1.&nbsp;Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
 I. Title. II Series.  
 BQ 7662.4.072513  1998  98-23830  
@@ -465,7 +465,7 @@ The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered to
 
 It contains all the teachings, including the Steps of the Path for those of the three levels of understanding, along with the Three Main Themes of the Path; the Three Perceptions, preliminaries for the Path and Fruit; the Buddha Nature as the cause, precious human life as the support, the spiritual friend as the impetus, his instructions as the method, and the kayas and wisdoms as the result, these representing the confluence of the Kadampa and Mahamudra traditions; and the Nyingma path in terms of determination to be free through disgust for samsara, faith through confidence in the effect of actions, bodhicitta through striving to help others, and pure perception of the utter purity of everything there is.
 
-For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that--being of enormous worth and little danger, and covering as it does all the essential points of the path--all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
+For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that&ndash;being of enormous worth and little danger, and covering as it does all the essential points of the path&ndash;all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
 
 ---
 
