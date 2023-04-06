@@ -700,3 +700,48 @@ see [Karma Chagme](#karma-chagme).
 
 ## Clear light
 *'od gsal*, Skt. *prabhasvara*, spontaneous, luminous (or knowing) aspect of the nature of the mind&ndash;or [awareness](#awareness).
+
+## Clear light of the moment of the ground
+*gzhi dus kyi 'od gsal*, "anture of the mind of all beings, pure from the beginning and spontaneously luminous; fundamental continuum (of awareness), potential of Buddhahood." DICT. It can be "introduced" by a realized master to a disciple, who then stabilizes and develops that experience through the profound practices of the [Great Perfection](#great-perfection) Ordinary beings perceive it only for a flash at the moment of death.
+
+## Clear Light, (gods of)
+*'od gsal gyi lha*, Skt. *Abhasvara*, the highest level of the gods of the Second Concentration (in the [World of Form](#three-worlds)).
+
+## Clinging
+*'dzin pa*, lit. holding, also means to have a belief. Thus "ego clinging" can also be interpreted as "believing in an I."
+
+## Common accomplishments
+*thun mong gi dngos grub*, supernatural powers coming from meditation, not exclusive to Buddhism, but common to other paths as well. See [accomplishment](#accomplishment).
+
+## Concentration
+*bsam gtan*, Skt. *dhyana*, meditative absorption, a state of mind without any distraction. Although it is vital for the meditative practices of the Buddhist path at all levels, it is not sufficient on its own, but must be combined with the correct motivation and view. See also [four concentrations](#four-concentrations).
+
+## Concept or Conceptual reference
+*dmigs pa*, any notion of a subject, an object and an action.
+
+## Concept obscurations
+*shes bya'i sgrib pa*, Skt. *jneyavarana* "These are the concepts of subject, object and action, which prevent one from attaining omniscience." DICT.
+
+## Conditioned
+*'dus byas*, Skt. *samskrita*, produced (*byas*) by a combination (*'dus*) of causes and conditions. "Conditioned positive actions are all those done without realizing [emptiness](#emptiness)," DKR.
+
+## Conditioning effect
+*dbang gi 'bras bu*, the effect of actions on the environment in which one lives in a future life.
+
+## Conqueror
+*rgyal ba*, Skt. *jina*, a [Buddha](#buddha).
+
+## Consort
+(1) *yum*, feminine deity represented in union with a male deity (*yab*). She symbolizes *wisdom* inseparable from [skilful means](#skilful-means), symbolized by the male. They also symbolize the space of emptiness inseparable from awareness. (2) *gsang yum*, lit. secret mother. The wife of a great [lama](#lama).
+
+## Cosmos of a billion universes
+*stong gsum*, Skt. *trisahasra*, a cosmos composed of one billion (1000^3) universes like ours and cooresponding to the area of activity of one [Buddha](#buddha).
+
+## Creativity of awareness
+*rig pa'i rtsal*, awareness's inherent and spontaneous ability to manifest phenomena.
+
+## Crown protuberance
+*gtsug tor*, Skt. *usnisa* a prominence on the head of a [Buddha](#buddha), one of the thirty-two [major marks](#major-and-minor-marks).
+
+## Dago Rinpoche
+*dwags po rin po che* (1079 - 1153), also known as Gampopa, the most famous disciple of [Milarepa](#milarepa) and founder of the [Kagyupa](#kagyupa) monastic order.
