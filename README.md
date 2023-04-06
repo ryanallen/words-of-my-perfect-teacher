@@ -745,3 +745,15 @@ see [Karma Chagme](#karma-chagme).
 
 ## Dago Rinpoche
 *dwags po rin po che* (1079 - 1153), also known as Gampopa, the most famous disciple of [Milarepa](#milarepa) and founder of the [Kagyupa](#kagyupa) monastic order.
+
+## Daka
+*mkha 'gro*, lit. moving through space, or *dpa' bo*, hero. [Tantric](#tantric) equivalent of [Bodhisattva](#bodhisattva). Male equivalent of [dakini](dakini).
+
+## Dakini
+*mkha' 'gro ma*, lit. moving through space. The feminine principle associated with [wisdom](#wisdom). This term has several levels of meaning. There are or ordinary dakinis who are beings with a certain degree of spiritual power, and wisdom dakinis who are fully realized. See [three roots](#three-roots).
+
+## Damchen
+*dam chen (rdo rje legs pa)*, a protector of the [Dharma](#dharma), bound under oath by [Padmasambhava](#padmasambhava).
+
+## Darsaka
+*mthong ldan*, another name of Ajatasatru, the son of King Bimbisara, king of Magadha and the most important patron of [Sakyamuni Buddha](#sakyamuni). Although he had killed his father, he later repented and purified his negative actions to such an extent that he attained the level of a [Bodhisattva](#bodhisattva).
