@@ -768,4 +768,19 @@ see [Karma Chagme](#karma-chagme).
 *lha ma yin*, Skt. *asura*. One of the [six classes of beings](#six-classes-of-beings), with jealousy as their predominant emotion.
 
 ## Demon
-*bdud*, Skt. *mara*, term used for terrifying or malevolent energies, Howerver, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of samsara and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
+*bdud*, Skt. *mara*, term used for terrifying or malevolent energies, However, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of [samsara](#samsara) and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
+
+## Destroyer-of-Samsara
+*'khor ba 'jig*, the Buddha Krakucchanda, the first of the thousand Buddhas of the [Good Kalpa](#good-kalpa).
+
+## Determination to be free
+*nges 'byung*, Skt. *nihsarana* defined as "the mind that wishes to achieve liberation from [samsara](#samsara)." This term is often translated as "renunciation."
+
+## Devadatta
+*lhas byin*, a cousin of the [Buddha](#buddha), whose jealousy prevented him from deriving any benefit from the teachings.
+
+## Dharani
+*gzungs*, mantra blessed by a [Buddha](#buddha) or [Bodhisattva](#bodhisattva) which has the power to help beings. There are many in the [sutras](#sutra), often quite long.
+
+## Dharma
+*chos*. This term
