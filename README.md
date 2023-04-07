@@ -757,3 +757,15 @@ see [Karma Chagme](#karma-chagme).
 
 ## Darsaka
 *mthong ldan*, another name of Ajatasatru, the son of King Bimbisara, king of Magadha and the most important patron of [Sakyamuni Buddha](#sakyamuni). Although he had killed his father, he later repented and purified his negative actions to such an extent that he attained the level of a [Bodhisattva](#bodhisattva).
+
+## Degenerate age
+*snyigs dus*, Skt. *kaliyuga*, a period of the [five degenerations](#five-degenerations).
+
+## Deity
+*lha*, Skt. *deva*, this term designates a [Buddha](#buddha) or wisdom deity, or sometimes a [wealth deity](#wealth-deity) or [Dharma protector]. See also [gods](#gods).
+
+## Demigod
+*lha ma yin*, Skt. *asura*. One of the [six classes of beings](#six-classes-of-beings), with jealousy as their predominant emotion.
+
+## Demon
+*bdud*, Skt. *mara*, term used for terrifying or malevolent energies, Howerver, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of samsara and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
