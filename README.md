@@ -784,3 +784,18 @@ see [Karma Chagme](#karma-chagme).
 
 ## Dharma
 *chos*. This term has a number of different meanings. In its widest sense it means all that can be known. In this text the term Dharma is used exclusively to indicate the teaching of the [Buddha](#buddha). It has two aspects: the Dharma of transmission (*lung gi chos*), namely the teachings which are actually given, and the Dharma of realization (*rtogs pa'i chos*), or the states of wisdom, etc., which are attained through the application of the teachings. It is often referred to as the "Sublime Dharma" because it liberates beings from suffering. *Dharma* or *chos* can also simply mean "phenomena." When it has this meaning it has been translated as such. See also <a href="https://en.wikipedia.org/wiki/Buddhist_atomism" target="_blank">Buddhist Atomism</a>
+
+## Dharma protector
+*chos skyong*, Skt. *dharmapala*. The Dharma protectors protect the teaching from being diluted and its transmission from being disturbed or distorted. Protectors are sometimes emanations of [Buddhas](#buddha) or [Bodhisattvas](#bodhisattva), and sometimes spirits, [gods](#gods) or [demons](#demon). who have been subjugated by a great spiritual master and bound under oath.
+
+## Dharmakaya
+*chos sku*, lit. Dharma Body. The emptiness aspect of Buddhahood. It can be translated as body of truth, absolute dimension.
+
+## Dharmata
+*chos nyid*, "the void nature." DICT.
+
+## Dharmodgata
+*chos 'phags*, "Sublime Dharma," [Bodhisattva](#bodhisattva) from whom Sadaprarudita received the teachings on transcendent wisdom.
+
+## Dipamkara
+[Atista's](#atisa) ordination name.
