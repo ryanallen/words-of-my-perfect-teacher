@@ -799,3 +799,9 @@ see [Karma Chagme](#karma-chagme).
 
 ## Dipamkara
 [Atista's](#atisa) ordination name.
+
+## Directions
+see [ten directions](#ten-directions).
+
+## Dissolution (process of)
+*thim rim*, a succession of phenomena which occur at the moment of death: the dissolution of the elements, and the three experiences called clarity, increase and attainment.
