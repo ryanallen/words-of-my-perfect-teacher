@@ -31,7 +31,7 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 [International Sacred Literature Trust](#islt)  
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
-[Foreword by Dilgo Khyentse Rinpoche](#foreworddkr)  
+[Foreword by Dilgo Khyentse Rinpoche](#forewordby-dilgo-khyentse-rinpoche)  
 Translators' Acknowledgements  
 Preface to the Second Edition  
 Translators' Introduction  
