@@ -805,3 +805,45 @@ see [ten directions](#ten-directions).
 
 ## Dissolution (process of)
 *thim rim*, a succession of phenomena which occur at the moment of death: the dissolution of the elements, and the three experiences called clarity, increase and attainment.
+
+## Distinguishing, clear decision and self-liberation
+*shan 'byed*, *la bzla*, *rand grol*, three essential points in the Trekcho meditation. Usually they are explained only during the transmission of [Great Perfection](#great-perfection) teachings by a qualified [Lama](#lama).
+
+## Doha
+a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virupa](#virupa)) expresses his or her realization.
+
+## Downfall
+*ltung ba*, "a fault due to the transgression of a rule (monastic or other)." DICT.
+
+## Drikung Kyobpa
+*'bri gung skyob pa* (1143 - 1217), the founder of Drikung Monastery and of the Drikung [Kagyu](#kagyupa) school.
+
+## Drom Tonpa
+*'brom ston pa*, also called *'brom ston rgyal ba'i 'byung gnas* (1005 - 1064), [Atisa's](#atisa) principal Tibetan disciple, one of the first teachers of the [Kadampa](#kadampa) school and founder of Radreng (*rva sgreng*) Monastery (often pronounced "Reting").
+
+## Druk Pema Karpo
+*'brug padma dkar po* (16th century), the 3rd Drukchen Rinpoche, great master and writer of the Drukpa [Kagyu](#kagyupa) school and founder of Sangak Choling Monastery.
+
+## Dualistic
+*gnyis 'dzin*, lit. grasping at or apprehending two. The concept of "I" and "other."
+
+## Ecumenical (movement)
+*ris med*, lit. without partiality. Spiritual movement made famous by the great lama Jamyang Khyentse Wangpo as well as Jamgon Kontrul Lodro Thaye, Lama Mipham, Chogyur Lingpa and Patrul Rinpoche. It is characterized by an attitude of respect for all the teachings and schools of Buddhism.
+
+## Effects of actions
+*las rgyu 'bras*, Skt. *phala*. See [karma](#karma).
+
+## Ego-clinging
+see [clinging](#clinging).
+
+## Egolessness
+*bdag med*, Skt. *anatman*, *nairatmya*, absence of independent or intrinsic existence, either of oneself (*gang zag gi bdag med*) or of external phenomena (*chos kyi bdag med*).
+
+## Eight auspicious signs
+*bkra shis rtags brgyad*, eight symbols (corresponding to the different parts of the [Buddha's](#buddha) body): eternal knot, lotus, canopy, conch, wheel, banner, vase, and golden fish.
+
+## Eight consciousnesses
+Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, Body Consciousness, Mental Consciousness, Deluded awareness, "Storehouse" or "repository" Consciousness. From [wikipedia](https://en.wikipedia.org/wiki/Eight_Consciousnesses).
+
+## Eight Great Charnel-grounds
+*dur khrod chen po brgyad*, places of frightening aspect where [dakas](#daka) and [dakinis](#dakini) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
