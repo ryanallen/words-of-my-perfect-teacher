@@ -853,3 +853,6 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 
 ## Eight offering goddesses
 *mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [sambhogakaya](#sambhogakaya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
+
+## Eight ordinary concerns
+*'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
