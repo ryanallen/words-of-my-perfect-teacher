@@ -847,3 +847,9 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 
 ## Eight Great Charnel-grounds
 *dur khrod chen po brgyad*, places of frightening aspect where [dakas](#daka) and [dakinis](#dakini) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
+
+## Eight Great Close Sons
+*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjushri), [Avalokitesvara](#avalokitesvara), [Vajrapani](#vajrapani), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
+
+## Eight offering goddesses
+*mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [sambhogakaya](#sambhogakaya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
