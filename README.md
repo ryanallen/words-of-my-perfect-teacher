@@ -856,3 +856,9 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 
 ## Eight ordinary concerns
 *'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
+
+## Eight perverse acts
+*log pa rgyad*, i) criticizing good, ii) praising evil, iii) interrupting the accumulation of merit of a virtuous person, iv) disturbing the minds of those who have devotion, v) giving up one's spiritual master, vi) giving up one's deity, vii) giving up one's vajra brothers and sisters, viii) desecrating a mandala.
+
+## Eighty Siddhas
+1) eighty (or eighty four) great [siddhas](#siddha) great siddhas of ancient India whose lives have been recounted by Abhayadatta (see *[Buddha's](#buddha) Lions*, Emeryville, Dharma Publishing, 1979). 2) the eighty siddhas of Yerpa in Tibet, disciples of [Padmasambhava](#padmasambhava-of-oddiyana) who attained the supreme accomplishment. 
