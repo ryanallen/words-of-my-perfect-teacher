@@ -770,6 +770,17 @@ see [Karma Chagme](#karma-chagme).
 ## Demon
 *bdud*, Skt. *mara*, term used for terrifying or malevolent energies, However, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of [samsara](#samsara) and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
 
+## Dependent Arising
+*ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat  
+teṣāṃ ca yo nirodha evaṃvādī mahā­śramaṇaḥ*  
+(Sykes (1856) and Skilling (2003))  
+
+“All phenomena that arise from causes,  
+The Tathāgata has taught their cause,  
+And that which is their cessation;  
+Thus has proclaimed the Great Renunciant.  
+[src](https://read.84000.co/translation/toh212.html#UT22084-062-012-section-1)
+
 ## Destroyer-of-Samsara
 *'khor ba 'jig*, the Buddha Krakucchanda, the first of the thousand Buddhas of the [Good Kalpa](#good-kalpa).
 
@@ -858,7 +869,19 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
 
 ## Eight perverse acts
-*log pa rgyad*, i) criticizing good, ii) praising evil, iii) interrupting the accumulation of merit of a virtuous person, iv) disturbing the minds of those who have devotion, v) giving up one's spiritual master, vi) giving up one's deity, vii) giving up one's vajra brothers and sisters, viii) desecrating a mandala.
+*log pa rgyad*, i) criticizing good, ii| praising evil, iii| interrupting the accumulation of merit of a virtuous person, iv| disturbing the minds of those who have devotion, v| giving up one's spiritual master, vi| giving up one's deity, vii| giving up one's vajra brothers and sisters, viii| desecrating a mandala.
 
 ## Eighty Siddhas
-1| eighty (or eighty four) great [siddhas](#siddha) great siddhas of ancient India whose lives have been recounted by Abhayadatta (see *[Buddha's](#buddha) Lions*, Emeryville, Dharma Publishing, 1979). 2) the eighty siddhas of Yerpa in Tibet, disciples of [Padmasambhava](#padmasambhava-of-oddiyana) who attained the supreme accomplishment. 
+1| eighty (or eighty four) great [siddhas](#siddha) great siddhas of ancient India whose lives have been recounted by Abhayadatta (see *[Buddha's](#buddha) Lions*, Emeryville, Dharma Publishing, 1979). 2| the eighty siddhas of Yerpa in Tibet, disciples of [Padmasambhava](#padmasambhava-of-oddiyana) who attained the supreme accomplishment. 
+
+## Emotions
+see [negative emotions](#negative-emotions).
+
+## Empowerment
+*dbang bskur*, Skt. *abhiseka*, lit. transfer of power. The authorization to hear, study and practice the teachings of the [Vajrayana](#vajrayana). This takes place in a ceremony which may be extremely elaborate or utterly simple. See [four empowerments](#four-empowerments).
+
+## Emptiness
+*stong pa nyid*, Skt. *sunyata*, the absence of true existence in all phenomena. See [dependent arising](#dependent-arising).
+
+## Four noble truths
+[See 84000](https://read.84000.co/translation/toh337.html#UT22084-072-037-11)
