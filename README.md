@@ -889,5 +889,17 @@ see [negative emotions](#negative-emotions).
 ## Enjoying the Emanations of Others
 *gzhan 'phrul dbang byed*, Skt. *Paranirmitavasavartin*, the sixth and highest level of the gods of the World of Desire, in which the gods enjoy the things miraculously produced by other gods. See [three worlds](#three-worlds).
 
+## Enlightenment
+*byang chub*, Skt. *bodhi*, purification (*byang*) of all obscurations and realization (*chub*) of all qualities.
+
+## Enlightenment Tree
+*byang chub kyi shing*, the tree under which [Buddha](#buddha) [Sakyamuni](#sakyamuni) attained [enlightenment](#enlightenment).
+
+## Equality
+*Mnyam pa nyid*, Skt. *samata*. All things equally have the nature of [emptiness](#emptiness).
+
+## Essence
+*thig le*, Skt. *bindu*, lit. drop. "Essence or seed of the great bliss; in the [channels](#channel) there are different kinds, pure or degenerate." DICT. The term *thig le* has a number of different meanings according to the context and type of practice.
+
 ## Four noble truths
 [see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
