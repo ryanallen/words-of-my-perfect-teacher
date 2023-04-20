@@ -869,7 +869,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
 
 ## Eight perverse acts
-*log pa rgyad*, i) criticizing good, ii| praising evil, iii| interrupting the accumulation of merit of a virtuous person, iv| disturbing the minds of those who have devotion, v| giving up one's spiritual master, vi| giving up one's deity, vii| giving up one's vajra brothers and sisters, viii| desecrating a mandala.
+*log pa rgyad*, i| criticizing good, ii| praising evil, iii| interrupting the accumulation of merit of a virtuous person, iv| disturbing the minds of those who have devotion, v| giving up one's spiritual master, vi| giving up one's deity, vii| giving up one's vajra brothers and sisters, viii| desecrating a mandala.
 
 ## Eighty Siddhas
 1| eighty (or eighty four) great [siddhas](#siddha) great siddhas of ancient India whose lives have been recounted by Abhayadatta (see *[Buddha's](#buddha) Lions*, Emeryville, Dharma Publishing, 1979). 2| the eighty siddhas of Yerpa in Tibet, disciples of [Padmasambhava](#padmasambhava-of-oddiyana) who attained the supreme accomplishment. 
@@ -883,5 +883,11 @@ see [negative emotions](#negative-emotions).
 ## Emptiness
 *stong pa nyid*, Skt. *sunyata*, the absence of true existence in all phenomena. See [dependent arising](#dependent-arising).
 
+## Energy
+*rlung*, Skt. *prana*, *vayu*, lit. wind. Its characteristic is to be "light and mobile." The mind is described as riding on the *rlung* like a rider on a horse. Five different types of *rlung* regulate the functions of the body: i| the ascending energy (*gyen rgyu*), ii| the energy of evacuation (*thur sel*), iii| the fiery energy (me mnyam), iv| all-pervading energy (khyab byed) and v| the life-supporting energy (*srog 'dzin*).
+
+## Enjoying the Emanations of Others
+*gzhan 'phrul dbang byed*, Skt. *Paranirmitavasavartin*, the sixth and highest level of the gods of the World of Desire, in which the gods enjoy the things miraculously produced by other gods. See [three worlds](#three-worlds).
+
 ## Four noble truths
-[See 84000](https://read.84000.co/translation/toh337.html#UT22084-072-037-11)
+[see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
