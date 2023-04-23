@@ -916,6 +916,9 @@ see [negative emotions](#negative-emotions).
 ## Expedient meaning
 *drang don*, Skt. *neyartha*. The expedient meaning refers to teachings intended to lead unrealized beings towards the truth of the [real meaning](#real-meaning).
 
+## Experiences (meditative)
+*nyams*, experiences of [bliss](#bliss-experience), [clarity](#clarity-experience), and [non-thought](#non-thought-experience). One should not be attached to such experiences or confuse them with the final goal.
+
 
 ## Four noble truths
 [see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
