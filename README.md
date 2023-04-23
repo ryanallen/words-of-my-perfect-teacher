@@ -902,7 +902,20 @@ see [negative emotions](#negative-emotions).
 *thig le*, Skt. *bindu*, lit. drop. "Essence or seed of the great bliss; in the [channels](#channel) there are different kinds, pure or degenerate." DICT. The term *thig le* has a number of different meanings according to the context and type of practice.
 
 ## Essential nature, natural expression and compassion
-*ngo bo*, *rang bzhin*, *thugs rge*. View of the [Great Perfection](#great-perfection): the essential nature of the mind and all phenomena is [emptiness](#emptiness); the expression of that nature is clarity; its compassion is all=pervasive.
+*ngo bo*, *rang bzhin*, *thugs rge*. View of the [Great Perfection](#great-perfection): the essential nature of the mind and all phenomena is [emptiness](#emptiness); the expression of that nature is clarity; its compassion is all-pervasive.
+
+## Eternalism
+*rtag par lta ba*, Skt. *atmadrsti*, *satkayadrsti*, the belief in an eternally existing entity, a soul for instance. Considered an extreme philosophical tendency. See [nihilism](#nihilism).
+
+## Excellent Words
+*gsung rab*, Skt. *pravacana*, the words of the [Buddha](#buddha).
+
+## Exhaustion of phenomena in the real nature
+*chos nyid zad pa*, one of the [four visions](#four-visions) or experiences on the path of Thogal. "All phenomena being purified in the mandala of the sole great essence, all things invented by the mind are exhausted in the real nature. Not even grasping to the real nature remains." DICT.
+
+## Expedient meaning
+*drang don*, Skt. *neyartha*. The expedient meaning refers to teachings intended to lead unrealized beings towards the truth of the [real meaning](#real-meaning).
+
 
 ## Four noble truths
 [see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
