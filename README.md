@@ -901,5 +901,8 @@ see [negative emotions](#negative-emotions).
 ## Essence
 *thig le*, Skt. *bindu*, lit. drop. "Essence or seed of the great bliss; in the [channels](#channel) there are different kinds, pure or degenerate." DICT. The term *thig le* has a number of different meanings according to the context and type of practice.
 
+## Essential nature, natural expression and compassion
+*ngo bo*, *rang bzhin*, *thugs rge*. View of the [Great Perfection](#great-perfection): the essential nature of the mind and all phenomena is [emptiness](#emptiness); the expression of that nature is clarity; its compassion is all=pervasive.
+
 ## Four noble truths
 [see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
