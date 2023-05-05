@@ -919,6 +919,14 @@ see [negative emotions](#negative-emotions).
 ## Experiences (meditative)
 *nyams*, experiences of [bliss](#bliss-experience), [clarity](#clarity-experience), and [non-thought](#non-thought-experience). One should not be attached to such experiences or confuse them with the final goal.
 
+## Extracting the essences
+*bcud len*, a method which makes it possible to consume only certain substances and elements in minute quantities, without having to use ordinary food.
+
+## Feast offering
+*tshogs kyi 'khor lo*, Skt. *ganacakra*, a ritual in which one blesses, offers and consumes food and drink as wisdom nectar.
+
+## Field of merit
+*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and wisdom. The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
 
 ## Four noble truths
 [see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
