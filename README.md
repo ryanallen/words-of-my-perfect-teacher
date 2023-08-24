@@ -1332,12 +1332,496 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 
 ## Nirmanakaya
 
+## Nirvana
+
+## Non-action
+
+## Non-dwelling nirvana
+
+## Non-thought (experience)
+
+## Novice
+
+## Nyingmapa
+
+## Obscurations
+
+## Obscurations of habitual tendencies
+
+## Obscurations of negative emotions
+
+## Omniscient Dharma-King
+
+## Once-Come-King
+
+## Orgyenpa (Rinchen Pal)
+
+## Owner of the ground
+
+## Padampa Sangye
+
+## Padma
+
+## Padma Thotreng
+
 ## Padmasambhava of Oddiyana
+
+## Palace of Lotus Light
+
+## Palmo (nun)
+
+## Palyul (monastery)
+
+## Pandita
+
+## Path of accumulating
+
+## Path of joining
+
+## Path of seeing
+
+## Perceptions
+
+## Perfection phase
+
+## Phlegm
+
+## Pitaka
+
+## Pitaka, (fourth)
+
+## Pith-instructions
+
+## Positive action
+
+## Potowa, (Geshe)
+
+## Pratimoksa
+
+## Pratyekabuddha
+
+## Precious canopy
+
+## Precious master of Oddiyana
+
+## Precious word empowerment
+
+## Preliminaries
+
+## Preparation, main part and conclusion
+
+## Preta
 
 ## Primal wisdom
 
+## Primordial purity
+
+## Principle of cause and effect
+
+## Profound insight
+
+## Prostration
+
+## Protectors
+
+## Protectors of the Three Families
+
+## Puchungwa, (Geshe)
+
+## Purnakasyapa
+
+## Pure land
+
+## Pure Land of Bliss
+
+## Pure levels (three)
+
+## Pure perception
+
+## Raksasa
+
+## Ratnasambhava
+
+## Real meaning
+
+## Realm
+
+## Refuge
+
+## Relative truth
+
+## Repa Shiwa O
+
+## Rinchen Zangpo
+
+## Risi
+
+## Root teacher
+
+## Royal posture
+
+## Rupakaya
+
+## Sadprarudita
+
 ## Sakyamuni
+
+## Sakyapa
+
+## Samantabhadra
+
+## Samaya
+
+## Samaya object or substance
+
+## Sambhogakaya
+
+## Samsara
+
+## Samvarasara
+
+## Samye
+
+## Samye Chimpu
+
+## Sangha
+
+## Sankara
+
+## Santaraksita
+
+## Satideva
+
+## Saraha
+
+## Sariputra
+
+## Sarvanivaranaviskambhin
+
+## Sastra
+
+## Sattvavajra
+
+## Savaripa
+
+## Second Buddha
+
+## Secret empowerment
+
+## Secret Mantrayana
+
+## Seven attributes of royalty
+
+## Seven branches
+
+## Seven noble riches
+
+## Seven point posture of Vairocana
+
+## Shang Rinpoche
+
+## Shapkyu
+
+## Sharawa
+
+## Shubu Palgyi Senge
+
+## Siddha
+
+## Siddhi
+
+## Six classes of beings
+
+## Six consciousnesses
+
+## Six Ornaments
 
 ## Six realms of existence
 
+## Six transcendent perfections
+
+## Skilful Means
+
+## Skull cup
+
+## Small skull drum
+
+## Smrtijnana
+
+## So, Zur and Nub
+
+## Songtsen Gampo
+
+## Source of good
+
+## Spiritual companions
+
+## Spiritual friend
+
+## Spiritual treasure
+
+## Sravaka
+
+## Sravakayana
+
+## Sri Simha
+
+## Srona (Sronajat)
+
+## Study
+
+## Stupa
+
+## Sublime being
+
+## Sublime Compassionate One
+
+## Sublime levels
+
+## Sugata
+
+## Sunaksatra
+
+## Supreme accomplishment
+
+## Sustained calm
+
+## Sutra
+
+## Suvarnadvipa (Lord of)
+
+## Svabhavikakaya
+
+## Symbol lineage of the Vidyadharas
+
+## Tainted (action)
+
+## Tangka
+
+## Tangtong Gyalpo
+
+## Tantra
+
+## Tantric
+
+## Tara
+
+## Tathagata
+
+## Ten directions
+
+## Tendencies
+
+## Tenma
+
+## Theurang
+
+## Thirty-five Buddhas
+
 ## Thirty-three
+
+## Thought
+
+## Threatening mudra
+
+## Three Brothers
+
+## Three concepts
+
+## Three Jewels
+
+## Three kayas
+
+## Three mandalas
+
+## Three poisons
+
+## Three Roots
+
+## Three supreme methods
+
+## Three sweet foods
+
+## Three times
+
+## Three vows
+
+## Three white foods
+
+## Three worlds
+
+## Threefold training
+
+## Thusness
+
+## Tilopa
+
+## Tingdzin Zangpo (Nyang)
+
+## Tirthika
+
+## Tonpa (Geshe)
+
+## Torma
+
+## Total enlightenment
+
+## Trakpa Gyaltsen
+
+## Transcendent perfection
+
+## Transference
+
+## Treasure
+
+## Treasure discoverer
+
+## Tripitaka
+
+## Trisong Detsen
+
+## Tsampa
+
+## Tsa-tsa
+
+## Tulku
+
+## Tusita heaven
+
+## Twelve categories of teaching in the pitakas
+
+## Twelve qualities of full training
+
+## Twelve Vajra Laughs
+
+## Twenty One Genyen
+
+## Twenty-five disciples
+
+## Two accumulations
+
+## Two obscurations
+
+## Two Supreme Ones
+
+## Two truths
+
+## Twofold goal
+
+## Twofold purity
+
+## Oddiyana
+
+## Unaltered
+
+## Unexcelled, the
+
+## Universal monarch
+
+## Untainted (action)
+
+## Vairocana
+
+## Vairotsana
+
+## Vaisakha
+
+## Vaisravana
+
+## Vajra
+
+## Vajra brothers and sisters
+
+## Vajra master
+
+## Vajra of Joy
+
+## Vajra of Laughter
+
+## Vajra posture
+
+## Vajra recitation
+
+## vajra Seat
+
+## Vajra song
+
+## Vajra Yogini
+
+## Vajradhara
+
+## Vajradhatvisvari
+
+## Vajrapani
+
+## Vajrasattva
+
+## Vajrayana
+
+## Vase empowerment
+
+## Vase of great treasure
+
+## Vehicle
+
+## Vidyadhara
+
+## View
+
+## Vikramasila
+
+## Vimalamitra
+
+## Vina
+
+## Vinaya
+
+## Vipasyin
+
+## Virupa
+
+## Walking posture
+
+## Warmth (sign of)
+
+## Water torma
+
+## Wealthy deity
+
+## Wheel
+
+## Wheel of Dharma
+
+## Wind
+
+## Wisdom
+
+## Wisdom empowerment
+
+## Wish-fulfilling jewel
+
+## Wish-fulfilling tree
+
+## Without Fighting
+
+## Worldly concentrations
+
+## Wrathful Black True Mother
+
+## Wrong view
+
+## Yaksa
+
+## Yama
+
+## Yamantaka
+
+## Yellow scroll
+
+## Yeshe Tsogyal
+
+## Yidam
+
+## Yoga
+
+## Yogi or Yogini
