@@ -1027,3 +1027,55 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 ## Gandharva
 *dri za*, lit. smell eaters. Spirit feeding on smells. Also used for beings in the [intermediate state](#intermediate-state).
 
+## Garab Dorje
+*dga' rab rdo rje*, better known by his Tibetan name than by his Sanskrit names, Pramudavajra, Prahevajra, Surativajra or Prajnabhava. The first human teacher in the lineage of the [Great Perfection](#great-perfection).
+
+## Garuda
+*khyung*, a mythical bird of very large size which is able to fly as soon as it is hatched, symbolizing [primal wisdom](#primal-wisdom). The five colors in which it is sometimes represented symbolize the [five wisdoms](#five-wisdoms). It is the enemy of the [nagas](#naga), and is depicted with a snake in its beak, symbolizing consuming the negative emotions.
+
+## Gelugpa
+*dge lugs pa*, one of the schools of the [New Tradition](#new-tradition), founded by Je Tsongkhapa (1357-1419) and at first called the Gandenpa after his seat, the monastery of Ganden.
+
+## Generation phase
+*bskyed rim*, Skt. *utpattikrama* "meditation yoga through which one purifies oneself of one's habitual clingings to the four kinds of birth and in which one meditates on forms, sounds and thoughts as having the nature of deities, mantras and wisdom" DICT.
+
+## Generosity
+*sbyin pa*, Skt. *dana*, lit. giving.
+
+## Geshe
+*dge bshes*, spiritual friend. The usual term for a [Kadampa](#kadampa) teacher. Later it came to be used for a doctor in philosophy in the [Gelugpa](#gelugpa) school.
+
+## Ghost
+*'dre*, spirit of a dead person or, more generally, harmful spirit.
+
+## Glorious Copper-colored Mountain
+*zangs mdog dpal ri*, a Buddhafield manifested by [Padmasambhava](#padmasambhava-of-oddiyana), to which he departed when he left Tibet and where he is now still said to be.
+
+## Gods
+*lha*, the beings of one of the [six realms](#six-realms-of-existence), dominated by pride. To avoid confusion we have translated *lha* as "deity" when it means a [Buddha](#buddha) or wisdom deity.
+
+## Gods and demons
+*lha 'dre*, refers in general to all the different classes of spirits, whether helpful (*lha*) or harmful (*'dre).
+
+## Gods without perception
+*'du shes med pa'i lha*, gods in the Formless World.
+
+## Good Kalpa
+*bskal pa bzang po*, Skt. *bhadrakalpa*, the present [kalpa](#kalpa), called good because it is a [kalpa](#kalpa) in which one thousand [Buddhas](#buddha) appear.
+
+## Gotsangpa (Gonpo Dorje)
+*rgod tshang pa mgon po rdo rje* (1189 - 1258), [Kagyupa](#kagyupa) master, disciple of Tsangpa Gyare, founder of a branch of the Drukpa Kagyu school and of many monasteries.
+
+## Great Compassionate One
+*thugs rje chen po*, epithet of [Avalokitesvara](#avalokitesvara).
+
+## Great Exuberant Lakes
+*rol pa'i mtsho chen*, "seven lakes encircling [Mount Meru](#meru-mount), in which the [naga](#naga) kings live and play." DICT.
+
+## Great Omniscient One
+*kun mkhyen chen po*, the title by which [Longchenpa](#longchenpa) is frequently known.
+
+## Great Outer Oceans
+*phyi'i rgya mtsho chen po*, the great oceans which surround [Mount Meru](#meru-mount) and the four continents in the ancient Indian cosmology.
+
+
