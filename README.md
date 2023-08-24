@@ -987,3 +987,43 @@ see [energy](#energy).
 
 ## Four formless states
 *gzugs med bzhi*, four concentrations called infinite space (*nam mkha' mtha' yas,* Skt. *akasanantya*), infinite consciousness (*nam shes mtha' yas, vinjnanasanantya*), nothing at all (*ci yang med pa, akimcanya*), and neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); four god realms corresponding to these concentrations.
+
+## Four Great Kings
+*rgyal chen rigs bzhi*, Skt. *caturmaharajakayika*, four gods who are traditionally the protectors of the four directions. Their realm is the first of the six god realms in the World of Desire. See [three worlds](#three-worlds).
+
+## Four great streams of suffering
+*sdug sngal gyi chu bo chen po bzhi*, birth, sickness, old age and death.
+
+## Four joys
+*dga' ba bzhi*, Skt. *caturananda*, four increasingly subtle experiences of bliss beyond ordinary feelings, connected with the practice of the third, or wisdom, empowerment.
+
+## Four kayas
+the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*, the kaya of the nature as it is, representing the inseparability of the first three.
+
+## Four metaphors
+*'du shes bzhi*. Thinking of oneself as someone who is sick, of the spiritual friend of the doctor, of the Dharma as the remedy, and of practicing his instructions as the way to recover.
+
+## Four obscurations
+*sgrib bzhi*, the obscurations of i) negative emotions, ii) karmic obscurations, iii) conceptual obscurations and iv) obscurations of habitual tendencies. See [obscuration](#obscuration).
+
+## Four or six tantra sections
+*rgyud sde bzhi* or *drug*, classification of the [tantras](#tantra) either into four groups: Kriya, Carya (or Upa), Yoga and Anuttaryoga (this classification is usual in the [New Translations schools](#new-translations)); or into six groups: Kriya, Upayoga, Yoga, Mahayoga, [Anuyoga](#anuyoga) and [Atiyoga](#atiyoga) (usual in the [Ancient Tradition](#ancient-tradition)).
+
+## Four Visions
+*snang ba bzhi*, four successive stages in the practice of thogal in the [Great Perfection](#great-perfection): i) dharmata actually appearing (*chos nyid mngon sum*), ii) increase of experiences and appearances (*nyams snang gong 'phel*), iii) the ultimate reach of awareness (*rig pa tshad phebs*), iv) exhaustion of phenomena beyond mind (*chos zad blo 'das*).
+
+## Four ways of attracting beings
+*bsdu ba'i ngos po bzhi* Skt. *catuhsamgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples: 1) being generous (*sbyin pa*, Skt. *dana*), 2) speaking in a pleasant manner (*snyan par smra ba, priyavadita*), 3) teaching in accordance with individuals' needs (*don mthun pa, samanarthata*), 4) acting in accordance with what he teaches (*don spyod pa, arthacarya*).
+
+## Fruit empowerment
+*'bras bu'i dbang*, the empowerment that takes place at the moment of attaining full enlightenment.
+
+## Full effect
+*rnam smin gyi 'bras bu*, Skt. *vipakaphala*, the point at which an action has its maximum effect, for instance a rebirth in hell.
+
+## Gampopa
+*sgam po pa*, see [Dagpo Rinpoche](#dago-rinpoche).
+
+## Gandharva
+*dri za*, lit. smell eaters. Spirit feeding on smells. Also used for beings in the [intermediate state](#intermediate-state).
+
