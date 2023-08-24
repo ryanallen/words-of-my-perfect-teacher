@@ -34,7 +34,7 @@ Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who estab
 [Foreword by Dilgo Khyentse Rinpoche](#forewordby-dilgo-khyentse-rinpoche)  
 Translators' Acknowledgements  
 Preface to the Second Edition  
-Translators' Introduction  
+[Translators' Introduction](#introduction)  
 A brief historical introduction to Tibetan Buddhism  
 
 PROLOGUE  
@@ -466,6 +466,10 @@ The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered to
 It contains all the teachings, including the Steps of the Path for those of the three levels of understanding, along with the Three Main Themes of the Path; the Three Perceptions, preliminaries for the Path and Fruit; the Buddha Nature as the cause, precious human life as the support, the spiritual friend as the impetus, his instructions as the method, and the kayas and wisdoms as the result, these representing the confluence of the Kadampa and Mahamudra traditions; and the Nyingma path in terms of determination to be free through disgust for samsara, faith through confidence in the effect of actions, bodhicitta through striving to help others, and pure perception of the utter purity of everything there is.
 
 For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that&ndash;being of enormous worth and little danger, and covering as it does all the essential points of the path&ndash;all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of Dharma teach or listen to this text is of great importance.
+
+---
+
+<h1 id="introduction" align="center">Translators' Introduction</h1>
 
 ---
 
@@ -1078,4 +1082,5 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 ## Great Outer Oceans
 *phyi'i rgya mtsho chen po*, the great oceans which surround [Mount Meru](#meru-mount) and the four continents in the ancient Indian cosmology.
 
-
+## Great Perfection
+*dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine vehicles. *Perfection* means that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakaya](#dharmakaya); its natural expression is [clarity](#clarity-experience), the [sambhogakaya](#sambhogakaya), and its compassion is all-encompassing, the [nirmanakaya](#nirmanakaya). *Great* means that this perfection is the natural condition of all things. AT: great completeness. The teachings of the Great Perfection are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
