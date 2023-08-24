@@ -1118,6 +1118,226 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 ## Hundred Families
 *rigs brgya*, the forty-two peaceful and fifty-eight wrathful deities.
 
+## Hundred Syllables
+*yig brgya*, the mantra of Vajrasattva, representing the essence of the [Hundred Families](#hundred-families).
+
+## Illustrative wisdom
+*dpe'i ye shes*, wisdom attained through spiritual practice which serves as a pointer to introduce true [primal wisdom](#primal-wisdom).
+
+## Impervious practitioner
+*chos dred*, let. Dharma bear. "Someone who has not been tamed by the [Dharma](#dharma), who knows the [Dharma](#dharma) but does not practice it, so that his mind has become stiff..." DICT. someone who only has an intellectual understanding, without any real experience, but considers that he or she knows all about the [Dharma](#dharma).
+
+## Indra
+*brgya byin*, king of the god realm of the [Thirty-three]
+
+## Infinite Aspiration
+*mos pa mtha yas*, a future [Buddha](#buddha), the last of the thousand Buddhas who will appear in this present [Good Kalpa](#good-kalpa).
+
+## Innate (wisdom, joy, etc.)
+*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that wisdom, joy, and nirvana in general are latently present even as we experience ignorance, suffering and samsara. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
+
+## Inseparable Universe
+*mi 'byed 'jig rten*, our world, the field of activity of [Sakyamuni](#sakyamuni).
+
+## Intermediate state
+*bar do*, Skt.*antarabhava*, term used for the various stages of experience between death and the next, with a wider interpretation that includes the various states of consciousness in life. Four intermediate states are distinguised: 1) the natural intermediate state of this life (*rang bzhin skyes gnas bar do*), 2) the intermediate state of the momoent of death (*'chi kha'i bar do*), 3) the [intermediate state of absolute reality](#intermediate-state-of-absolute-reality) (*chos nyid bar do*), and 4) the [intermediate state of becoming](#intermediate-state-of-becoming) (*srid pa'i bar do*); or, to make six intermediate states, two more particular states, within the first, can be added: 5) the intermediate state of dream (*rmi lam bar do*) and 6) the intermediate state of meditative concentration (*bsam gtan bar do*).
+
+## Intermediate state of absolute reality
+
+## Intermediate state of becoming
+
+## Jambudvipa
+
+## Jamgon Kongtrul (the Great), Lodro Thaye
+
+## Jetsun Mila
+
+## Jigme Lingpa
+
+## Jowo
+
+## Jowo and Sakya
+
+## Jowo Rinpoche
+
+## Joyful Magic
+
+## Joyous Realm
+
+## Jungpo
+
+## Kadampa
+
+## Kagyupa
+
+## Kalpa
+
+## Kapala
+
+## Karma
+
+## Karma Chagme
+
+## Karmapa
+
+## Karmic energy
+
+## Karmic obscurations (obscurations of past actions)
+
+## Kasyapa
+
+## Katyayana
+
+## Kaya
+
+## Kharak Gomchung, (Geshe)
+
+## Khampa Lungpa
+
+## Khatvanga
+
+## Khu, Ngok and Drom
+
+## Kila
+
+## King, Subject and Friend
+
+## Krisnacarya
+
+## Kriya (yoga)
+
+## Ksatriya
+
+## Kusa
+
+## Lakhe
+
+## Lama
+
+## Langri Thangpa, (Geshe)
+
+## Lay disciple
+
+## Level of union
+
+## Levels
+
+## Liberation
+
+## Lingje Repa
+
+## Longchenpa
+
+## Lord of Death
+
+## Lord of Secrets
+
+## Lotus Born
+
+## Lover of the Stars
+
+## Lower realms
+
+## Machik Labdron
+
+## Madhyamika
+
+## Mahayana
+
+## Maha (yoga)
+
+## Mahakasyapa
+
+## Mahamudra
+
+## Mahasiddha
+
+## Maitreya
+
+## Maitriyogi
+
+## Major and minor marks
+
+## Mamo
+
+## Mandala
+
+## Mandarava
+
+## Mandhatri
+
+## Mani
+
+## Manifest Joy
+
+## Mantra
+
+## Manjusri
+
+## Manjusrimitra
+
+## Mara
+
+## Marpa
+
+## Maudgalyayana
+
+## Means
+
+## Meditate, meditation
+
+## Melong Dorje
+
+## Merit
+
+## Meru, Mount
+
+## Middle Way
+
+## Milarepa
+
+## Mind lineage of the Conquerors
+
+## Muni
+
+## Nada
+
+## Naga
+
+## Nagarjuna
+
+## Nalanda
+
+## Namcho Mingyur Dorje
+
+## Nanda
+
+## Naropa
+
+## Natural state
+
+## Nectar
+
+## Negative action
+
+## Negative emotions
+
+## New Tradition
+
+## New Translations
+
+## Nihilism
+
+## Nine Expanses
+
+## Nirmanakaya
+
 ## Padmasambhava of Oddiyana
 
+## Primal wisdom
+
+## Sakyamuni
+
 ## Six realms of existence
+
+## Thirty-three
