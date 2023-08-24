@@ -957,3 +957,33 @@ see [energy](#energy).
 
 ## Five poisons
 *dug lnga*, the five negative emotions: 1) bewilderment, *gti mug*, Skt. *moha* (AT: ignorance, confusion), 2 attachment, *'dod chags, raga* (AT: desire), 3) aversion, *zhe sdang, dvesa* (including hatred, anger, etc.), 4) jealousy, *phra dog, irsya*, and v) pride, *nga rgyal, mana*.
+
+## Five samayas of relishing
+*dang du slang ba'i dam tshig lnga*, five secondary [samayas](#samaya) in the Great Perfection. They are concerned with the enjoyment of the five meats and the five nectars, substances used by tantric practitioners which are ordinarily considered impure or taboo. See note [131](#131).
+
+## Five sciences
+*rig gnas lnga*, Skt. *pancavidya*, the five branches of learning that a [pandita](#pandita) must master: 1) the making of things (*gzo rig gnas, silpavidya*), 2) the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsavidya*), 3) philology (*sgra' rigs gnas, Sabdavidya*), 4) logic (*gtan tshigs kyi rig gnas, hetuvidya*) and 5) philosophy (*nang don rig gnas, abhyatmavidya*).
+
+## Five wisdoms
+*ye shes lnga*, five aspects of the wisdom of Buddhahood: the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhatujnana*), mirror-like wisdom (*me long gi ye shes, adarsajnana*), the wisdom of equality (*mnyam nyid kyi ye shes, samatajnana*), discriminating wisdom (*so sor rtog pa'i ye shes, prat. See [five families](#five-families).
+
+## Four activities
+*phrin las bzhi*, four types of activity performed by realized beings to help others and eliminate unfavorable circumstances: pacifying (*zhi ba*), increasing (*sgyas pa*), controlling (*dbang*) and fierce subduing (*drag po*).
+
+## Four boundless qualities
+*tshad med bzhi*, Skt. *caturaprameya*, unlimited love (*byams pa,* Skt. *maitri*), compassion (*snying rje, karuna*), joy (*dga' ba, mudita*), and equanimity (*btang snyoms, upeksa*).
+
+## Four concentrations
+*bsam gtan bzhi*, Skt. *caturdhyana*, four levels of meditative absorption, the fruit of which is to be reborn in four kinds of god realms in the World of Form. However they can also be used on the path of enlightenment.
+
+## Four demons
+*bdud bzhi* see note [230](#230). See also [demon](#demon).
+
+## Four elements
+*'byung ba bzhi*, Skt. *catur / panca bhuta*, earth water fire and wind or air, as principles of solidity, liquidity, heat and movement.
+
+## Four empowerments
+*dbang bzhi*, the [Vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment).
+
+## Four formless states
+*gzugs med bzhi*, four concentrations called infinite space (*nam mkha' mtha' yas,* Skt. *akasanantya*), infinite consciousness (*nam shes mtha' yas, vinjnanasanantya*), nothing at all (*ci yang med pa, akimcanya*), and neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); four god realms corresponding to these concentrations.
