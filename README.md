@@ -12,7 +12,7 @@ The [Buddha](#buddha) of our time
 ---
 
 *<p id="guru-rinpoche">Guru Rinpoche</p>*
-Also known as Padmasambhava, the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
+Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
 
 ---
 
@@ -455,7 +455,7 @@ November 23, 1990 The Dalai Lama
 ---
 
 *<p id="longchenpa">Longchenpa (1308-1363)</p>*
-The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
+The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oddiyana), Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
 ---
 
@@ -502,7 +502,7 @@ Abbreviations:
 *slob dpon* (1) teacher. (2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
 
 ## Acarya Padma
-*slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava).
+*slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Accomplishment
 (1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is enlightenment. (2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
@@ -544,7 +544,7 @@ having the qualities of [vajra](#vajra).
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
 
 ## Ancient Tradition
-*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantra) propagated in Tibet by the great master [Padmasambhava](#padmasambhava) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
+*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantra) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oddiyana) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
 
 ## Ancient Translations
 *snga 'gyur*, name given to the first teachings translated from Sanskrit and propagated in Tibet, those of the Ancient, or [Nyingmapa](#nyingmapa) Tradition, as opposed to the teachings that were translated and propagated from the 10th century onwards and which gave birth to the New Tradition of Tibetan Buddhism.
@@ -757,7 +757,7 @@ see [Karma Chagme](#karma-chagme).
 *mkha' 'gro ma*, lit. moving through space. The feminine principle associated with [wisdom](#wisdom). This term has several levels of meaning. There are or ordinary dakinis who are beings with a certain degree of spiritual power, and wisdom dakinis who are fully realized. See [three roots](#three-roots).
 
 ## Damchen
-*dam chen (rdo rje legs pa)*, a protector of the [Dharma](#dharma), bound under oath by [Padmasambhava](#padmasambhava).
+*dam chen (rdo rje legs pa)*, a protector of the [Dharma](#dharma), bound under oath by [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Darsaka
 *mthong ldan*, another name of Ajatasatru, the son of King Bimbisara, king of Magadha and the most important patron of [Sakyamuni Buddha](#sakyamuni). Although he had killed his father, he later repented and purified his negative actions to such an extent that he attained the level of a [Bodhisattva](#bodhisattva).
@@ -1084,3 +1084,40 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 
 ## Great Perfection
 *dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine vehicles. *Perfection* means that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakaya](#dharmakaya); its natural expression is [clarity](#clarity-experience), the [sambhogakaya](#sambhogakaya), and its compassion is all-encompassing, the [nirmanakaya](#nirmanakaya). *Great* means that this perfection is the natural condition of all things. AT: great completeness. The teachings of the Great Perfection are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
+
+## Great Vehicle
+*theg pa chen po*, Skt. *mahayana*, vehicle of the [Bodhisattvas](#bodhisattva), great because it aims at full Buddhahood for the sake of all beings.
+
+## Ground-of-all
+*kun gzhi*, Skt. *alaya*, abridged form of *kun gzhi rnam par shes pa*, the ground consciousness in which the [habitual tendencies](#habitual-tendencies) are stored. It is the basis for the other consciousnesses. Occasionally, in certain teachings, *kun gzhi* is used for the original nature, the [primordial purity](#primordial-purity) (*ka dag*).
+
+## Guru Rinpoche
+*gu ru rin po che*, the name by which [Padmasambhava](#padmasambhava-of-oddiyana) is most commonly known in Tibet.
+
+## Guru yoga
+*bla ma'i rnal 'byor*, practice of mixing one's mind with the teacher's mind.
+
+## Gyalse Rinpoche
+*rgyal sras rin po che*, lit. the Precious Son of the Conquerors. A title given to Thogme Zangpo (1295 - 1369), a great master of the [Nyingma](#nyingmapa) and [Sakya](#sakyapa) traditions and author of the *Thirty Seven Elements of a Bodhisattva's Practice (rgyal sras lag len)*.
+
+## Gyelgong
+*rgyal 'gong*, a class of malignant spirits.
+
+## Habitual tendencies
+*bag chags*, Skt. *vasana*, habitual patterns of thought, speech or action created by what one has done in past lives. AT: habits, inclinations, impregnations.
+
+## Hearing lineage of ordinary beings
+*gang zag snyan brgyud*, lineage of transmission in which it is necessary for the teacher to use words and the disciple to hear them, rather than transmitting the teachings mind-to-mind or using symbols.
+
+## Hell
+*dmyal ba*, Skt. *naraka*, one of the [six realms](#six-realms-of-existence), in which one experiences intense suffering. In the hell realm one generally experiences the effects of actions rather than creating new causes.
+
+## He Who Proclaims the Dharma with Inexhaustible Melodious Voice
+*sgra dbyangs mi zad pa sgrogs pa*, name of a [Buddha](#buddha).
+
+## Hundred Families
+*rigs brgya*, the forty-two peaceful and fifty-eight wrathful deities.
+
+## Padmasambhava of Oddiyana
+
+## Six realms of existence
