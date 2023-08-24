@@ -928,5 +928,32 @@ see [negative emotions](#negative-emotions).
 ## Field of merit
 *tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and wisdom. The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
 
-## Four noble truths
-[see The Sūtra of the Wheel of Dharma](https://read.84000.co/translation/toh337.html#UT22084-072-037-11).
+## Five crimes which are almost as grave (as the fie crimes with immediate retribution)
+*nye ba'i mtshams med lnga*, i) acting impurely with a female [Arhat](#arhat); ii) killing a [Bodhisattva](#bodhisattva); iii) killing someone training towards the supreme level; iv) stealing the sustenance of the [Sangha](#sangha); v) destroying a [stupa](#stupa).
+
+## Five crimes with immediate retribution
+*mtshams meed lnga*, Skt. *pancanantariya*, i) killing one's father or ii) one's mother or iii) an [Arhat](#arhat); iv) creating a split in the [Sangha](#sangha); v) malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
+
+## Five degenerations
+*snyigs ma lnga*, they are the degeneration of i) lifespan ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
+
+## Five energies
+see [energy](#energy).
+
+## Five Families
+*rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
+
+## Five hundred thousand preliminaries
+*'bum lnga*, five traditional preliminary practices: refuge, bodhicitta, vajrasattva, mandala and guru yoga, performed one hundred thousand times each.
+
+## Five kayas
+*sku lnga*, Skt. *pancakaya*, the [three kayas](#three-kayas) to which are added the Unchanging Vajra Kaya (*mi 'gyur rdo rje'i sku,* Skt. *vajrakaya*) and the Kaya of Perfect Enlightenment (*mngon par byang chub pa'i sku*, Skt. *abhisambodhikaya*). The expression can also refer to the five Buddha families: body, speech, mind, qualities and activity.
+
+## Five paths
+*lam lnga*, Skt. *pancamarga*, five successive stages in the path to enlightenment: the paths of accumulating, joining, seeing, meditation, and the path beyond learning.
+
+## Five perfections
+*phun sum tshogs pa lnga*, the perfect teacher, teaching, place, disciples and time.
+
+## Five poisons
+*dug lnga*, the five negative emotions: 1) bewilderment, *gti mug*, Skt. *moha* (AT: ignorance, confusion), 2 attachment, *'dod chags, raga* (AT: desire), 3) aversion, *zhe sdang, dvesa* (including hatred, anger, etc.), 4) jealousy, *phra dog, irsya*, and v) pride, *nga rgyal, mana*.
