@@ -736,7 +736,7 @@ see [Karma Chagme](#karma-chagme).
 *rgyal ba*, Skt. *jina*, a [Buddha](#buddha).
 
 ## Consort
-(1) *yum*, feminine deity represented in union with a male deity (*yab*). She symbolizes *wisdom* inseparable from [skilful means](#skilful-means), symbolized by the male. They also symbolize the space of emptiness inseparable from awareness. (2) *gsang yum*, lit. secret mother. The wife of a great [lama](#lama).
+(1) *yum*, feminine deity represented in union with a male deity (*yab*). She symbolizes *[wisdom](#wisdom)* inseparable from [skilful means](#skilful-means), symbolized by the male. They also symbolize the space of emptiness inseparable from awareness. (2) *gsang yum*, lit. secret mother. The wife of a great [lama](#lama).
 
 ## Cosmos of a billion universes
 *stong gsum*, Skt. *trisahasra*, a cosmos composed of one billion (1000^3) universes like ours and cooresponding to the area of activity of one [Buddha](#buddha).
@@ -766,7 +766,7 @@ see [Karma Chagme](#karma-chagme).
 *snyigs dus*, Skt. *kaliyuga*, a period of the [five degenerations](#five-degenerations).
 
 ## Deity
-*lha*, Skt. *deva*, this term designates a [Buddha](#buddha) or wisdom deity, or sometimes a [wealth deity](#wealth-deity) or [Dharma protector]. See also [gods](#gods).
+*lha*, Skt. *deva*, this term designates a [Buddha](#buddha) or [wisdom](#wisdom) deity, or sometimes a [wealth deity](#wealth-deity) or [Dharma protector]. See also [gods](#gods).
 
 ## Demigod
 *lha ma yin*, Skt. *asura*. One of the [six classes of beings](#six-classes-of-beings), with jealousy as their predominant emotion.
@@ -927,10 +927,10 @@ see [negative emotions](#negative-emotions).
 *bcud len*, a method which makes it possible to consume only certain substances and elements in minute quantities, without having to use ordinary food.
 
 ## Feast offering
-*tshogs kyi 'khor lo*, Skt. *ganacakra*, a ritual in which one blesses, offers and consumes food and drink as wisdom nectar.
+*tshogs kyi 'khor lo*, Skt. *ganacakra*, a ritual in which one blesses, offers and consumes food and drink as [wisdom](#wisdom) [nectar](#nectar).
 
 ## Field of merit
-*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and wisdom. The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
+*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
 
 ## Five crimes which are almost as grave (as the fie crimes with immediate retribution)
 *nye ba'i mtshams med lnga*, i) acting impurely with a female [Arhat](#arhat); ii) killing a [Bodhisattva](#bodhisattva); iii) killing someone training towards the supreme level; iv) stealing the sustenance of the [Sangha](#sangha); v) destroying a [stupa](#stupa).
@@ -1041,7 +1041,7 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *dge lugs pa*, one of the schools of the [New Tradition](#new-tradition), founded by Je Tsongkhapa (1357-1419) and at first called the Gandenpa after his seat, the monastery of Ganden.
 
 ## Generation phase
-*bskyed rim*, Skt. *utpattikrama* "meditation yoga through which one purifies oneself of one's habitual clingings to the four kinds of birth and in which one meditates on forms, sounds and thoughts as having the nature of deities, mantras and wisdom" DICT.
+*bskyed rim*, Skt. *utpattikrama* "meditation yoga through which one purifies oneself of one's habitual clingings to the four kinds of birth and in which one meditates on forms, sounds and thoughts as having the nature of deities, mantras and [wisdom](#wisdom)" DICT.
 
 ## Generosity
 *sbyin pa*, Skt. *dana*, lit. giving.
@@ -1134,7 +1134,7 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *mos pa mtha yas*, a future [Buddha](#buddha), the last of the thousand Buddhas who will appear in this present [Good Kalpa](#good-kalpa).
 
 ## Innate (wisdom, joy, etc.)
-*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that wisdom, joy, and nirvana in general are latently present even as we experience ignorance, suffering and samsara. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
+*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that [wisdom](#wisdom), joy, and nirvana in general are latently present even as we experience ignorance, suffering and samsara. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
 
 ## Inseparable Universe
 *mi 'byed 'jig rten*, our world, the field of activity of [Sakyamuni](#sakyamuni).
@@ -1143,46 +1143,67 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *bar do*, Skt.*antarabhava*, term used for the various stages of experience between death and the next, with a wider interpretation that includes the various states of consciousness in life. Four intermediate states are distinguised: 1) the natural intermediate state of this life (*rang bzhin skyes gnas bar do*), 2) the intermediate state of the momoent of death (*'chi kha'i bar do*), 3) the [intermediate state of absolute reality](#intermediate-state-of-absolute-reality) (*chos nyid bar do*), and 4) the [intermediate state of becoming](#intermediate-state-of-becoming) (*srid pa'i bar do*); or, to make six intermediate states, two more particular states, within the first, can be added: 5) the intermediate state of dream (*rmi lam bar do*) and 6) the intermediate state of meditative concentration (*bsam gtan bar do*).
 
 ## Intermediate state of absolute reality
+*chos nyid bar do*, intermediate state during which absolute reality manifests as pure forms of peaceful or wrathful aspect, according to one's own individual tendencies.
 
 ## Intermediate state of becoming
+*srid pa'i bar do*, the intermediate state during which the force of [karma](#karma) propels one towards one's next rebirth in [samsara](#samsara). AT: intermediate state of possibilities, intermediate state of existence.
 
 ## Jambudvipa
+*'dzam bu gling*, the southern continent, one of the four main "continents" in ancient Indian cosmology, the one in which we live. In some contexts this name refers to South Asia, and in others to the world in a general sense. 
 
 ## Jamgon Kongtrul (the Great), Lodro Thaye
+*jam mgon kong sprul blo gros mtha' yas* (1813 - 1899) was a great teacher of the non-sectarian movement and was responsible, with Jamyang Khyentse Wangpo, for compiling several great collections of teachings and practices from all traditions, including the *Treasury of Rediscovered Teachings* (*rin chen gter mdzod*).
 
 ## Jetsun Mila
+*rje brtsun mi la* (1040 - 1123), Tibet's great yogi and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Marpa](#marpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
 
 ## Jigme Lingpa
+*'jigs med gling pa* (1729 - 1798), see the [introduction](#introduction) of this book. He is considered to be a combined emanation of [Vimalamitra](#vimalamitra), [King Trisong Detsen](#trisong-detsen) and Gyalse Lharje. Patrul Rinpoche is often considered to be the emanation of Jigme Lingpa's speech.
 
 ## Jowo
+*jo bo*, lit. lord. A title often used by Tibetans for the Indian [pandita](#pandita) [Atisa](#atisa).
 
 ## Jowo and Sakya
+*jo shag rnam gnyis*, Jowo Mikyo Dorje and Jowo Sakyamuni, two statues of the [Buddha](#buddha) brought to Tibet respectively by the Nepalese and Chinese princesses whom [King Songtsen Gampo](#songtsen-gampo) married in the 7th century.
 
 ## Jowo Rinpoche
+*jo wo rin po che*, a statue representing [Buddha](#buddha) [Sakyamuni](#sakyamuni) at the age of 12, in the Jokhang temple in Lhasa.
 
 ## Joyful Magic
+*'phrul dga'*, Skt. *Nirmanarata*, a god realm in the World of Desire (on the fifth level of Gods of Desire) in which the gods can magically produce whatever they need. See [three worlds](#three-worlds).
 
 ## Joyous Realm
+*dga' ldan*, see [Tusita heaven](#tusita-heaven).
 
 ## Jungpo
+*'byung po*, a class of malignant spirits.
 
 ## Kadampa
+*bka' gdams pa*, the first of the schools of the [New Tradition](#new-tradition), which followed the teachings of [Atisa](#atisa). It stressed compassion, study and pure discipline. Its teachings were continued by all other schools, in particular the [Gelugpa](#gelugpa), which is also known as the New Kadampa school.
 
 ## Kagyupa
+*bka' brgyud pa* one of the schools of the [New Tradition](#new-tradition), which followed the teachings brought to Tibet from India by [Marpa](#marpa) the Translator in the 11th century and transmitted to [Milarepa](#milarepa). There are several branches of the Kagyu school.
 
 ## Kalpa
+*bskal pa*. A great kalpa, which corresponds to a cycle of formation and destruction of a universe, is divided into eighty intermediate kalpas. An intermediate kalpa is composed of one small kalpa during which the span of life, etc., increases and one small kalpa during which it decreases.
 
 ## Kapala
+*ka pa la*, a bowl made with the top of a skull.
 
 ## Karma
+*las*. We have generally preferred to say "the effects of actions," "actions and their effects" or the "principle of cause and effect." Karma literally means simply "action," but is often used loosely to mean the result produced by past actions (*las kyi 'bras bu,* Skt. *karmaphala*).
 
 ## Karma Chagme
+*karma chags med* (16th century), famous lama of the [Kagyupa](#kagyupa) school who united the teaching of his school and those of the [Nyingmapas](#nyingmapa) and was the tutor of the treasure-discoverer [Namcho Mingyur Dorje](#namcho-mingyur-dorje).
 
 ## Karmapa
+*kar ma pa*, name of a series of great lamas of the [Kagyupa](#kagyupa) school, whose lineage of reincarnations goes back to Dusum Khyenpa (1110 - 1193). The Karmapas were the first [tulkus](#tulku) recognized in Tibet.
 
 ## Karmic energy
+*las kyi rlung*, energy determined by one's [karma](#karma), as opposed to *ye shes kyi rlung*, the energy connected with [wisdom](#wisdom).
 
 ## Karmic obscurations (obscurations of past actions)
+*las kyi sgrib pa*, Skt. *karmavarana*, obscurations created by negative actions. See [obscurations](#obscurations).
 
 ## Kasyapa
 
