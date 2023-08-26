@@ -1206,16 +1206,22 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *las kyi sgrib pa*, Skt. *karmavarana*, obscurations created by negative actions. See [obscurations](#obscurations).
 
 ## Kasyapa
+*'od srung*, the third of the thousand Buddhas of this present kalpa the one before [Sakyamuni](#sakyamuni). Kasyapa is also the name of one of Sakyamuni's Sravaka disciples.
 
 ## Katyayana
+Indian Arhat who was a disciple of the buddha and wrote down one section of the [Abhidharma](#abhidarma).
 
 ## Kaya
+*sku*, see [three kayas](#three-kayas), [four kayas](#four-kayas), [five kayas](#five-kayas).
 
 ## Kharak Gomchung, (Geshe)
+*kha rag sgom chung*, an 11th century [Kadampa](#kadampa) lama, disciple of Geshe Potowa. His name means "Little Meditator of Kharak," and he was famous for his perseverance and strict application of the teachings. It is said that he received the teachings of the [Great Perfection](#great-perfection) and achieved the rainbow body.
 
 ## Khampa Lungpa
+*khams pa lung pa (sgang sha'kya yon tan) (1025 - 1115), a [Kadampa](#kadampa) lama, one of [Drom Tonpa's](#drom-tonpa) principal disciples.
 
 ## Khatvanga
+a trident with many symbolic ornaments. 
 
 ## Khu, Ngok and Drom
 
