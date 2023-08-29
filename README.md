@@ -1224,8 +1224,10 @@ Indian Arhat who was a disciple of the buddha and wrote down one section of the 
 a trident with many symbolic ornaments. 
 
 ## Khu, Ngok and Drom
+the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tonpa](#drom-tonpa)).
 
 ## Kila
+*phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddhas), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, [Bodhicitta](#bodhisattva) and awareness-wisdom.
 
 ## King, Subject and Friend
 
