@@ -370,7 +370,7 @@ CONCLUSION
 
 &ndash;Postface by Jamgon Kongtrul Lodro Thaye
 
-Notes  
+[Notes](#notes)  
 [Glossary](#glossary)  
 Bibliography  
 Index  
@@ -473,7 +473,544 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 ---
 
-<h1 id="Glossary" align="center">Glossary</h1>
+<h1 id="notes" align="center">Notes</h1>
+
+## 1
+
+## 2
+
+## 3
+
+## 4
+
+## 5
+
+## 6
+
+## 7
+
+## 8
+
+## 9
+
+## 10
+
+## 11
+
+## 12
+
+## 13
+
+## 14
+
+## 15
+
+## 16
+
+## 17
+
+## 18
+
+## 19
+
+## 20
+
+## 21
+
+## 22
+
+## 23
+
+## 24
+
+## 25
+
+## 26
+
+## 27
+
+## 28
+
+## 29
+
+## 30
+
+## 31
+
+## 32
+
+## 33
+
+## 34
+
+## 35
+
+## 36
+
+## 37
+
+## 38
+
+## 39
+
+## 40
+
+## 41
+
+## 42
+
+## 43
+
+## 44
+
+## 45
+
+## 46
+
+## 47
+
+## 48
+
+## 49
+
+## 50
+
+## 51
+
+## 52
+
+## 53
+
+## 54
+
+## 55
+
+## 56
+
+## 57
+
+## 58
+
+## 59
+
+## 60
+
+## 61
+
+## 62
+
+## 63
+
+## 64
+
+## 65
+
+## 66
+
+## 67
+
+## 68
+
+## 69
+
+## 70
+
+## 71
+
+## 72
+
+## 73
+
+## 74
+
+## 75
+
+## 76
+
+## 77
+
+## 78
+
+## 79
+
+## 80
+
+## 81
+
+## 82
+
+## 83
+
+## 84
+
+## 85
+
+## 86
+
+## 87
+
+## 88
+
+## 89
+
+## 90
+
+## 91
+
+## 92
+
+## 93
+
+## 94
+
+## 95
+
+## 96
+
+## 97
+
+## 98
+
+## 99
+
+## 100
+
+## 101
+
+## 102
+
+## 103
+
+## 104
+
+## 105
+
+## 106
+
+## 107
+
+## 108
+
+## 109
+
+## 110
+
+## 111
+
+## 112
+
+## 113
+
+## 114
+
+## 115
+
+## 116
+
+## 117
+
+## 118
+
+## 119
+
+## 120
+
+## 121
+
+## 122
+
+## 123
+
+## 124
+
+## 125
+
+## 126
+
+## 127
+
+## 128
+
+## 129
+
+## 130
+
+## 131
+
+## 132
+
+## 133
+
+## 134
+
+## 135
+
+## 136
+
+## 137
+
+## 138
+
+## 139
+
+## 140
+
+## 141
+
+## 142
+
+## 143
+
+## 144
+
+## 145
+
+## 146
+
+## 147
+
+## 148
+
+## 149
+
+## 150
+
+## 151
+
+## 152
+
+## 153
+
+## 154
+
+## 155
+
+## 156
+
+## 157
+
+## 158
+
+## 159
+
+## 160
+
+## 161
+
+## 162
+
+## 163
+
+## 164
+
+## 165
+
+## 166
+
+## 167
+
+## 168
+
+## 169
+
+## 170
+
+## 171
+
+## 172
+
+## 173
+
+## 174
+
+## 175
+
+## 176
+
+## 177
+
+## 178
+
+## 179
+
+## 180
+
+## 181
+
+## 182
+
+## 183
+
+## 184
+
+## 185
+
+## 186
+
+## 187
+
+## 188
+
+## 189
+
+## 190
+
+## 191
+
+## 192
+
+## 193
+
+## 194
+
+## 195
+
+## 196
+
+## 197
+
+## 198
+
+## 199
+
+## 200
+
+## 201
+
+## 202
+
+## 203
+
+## 204
+
+## 205
+
+## 206
+
+## 207
+
+## 208
+
+## 209
+
+## 210
+
+## 211
+
+## 212
+
+## 213
+
+## 214
+
+## 215
+
+## 216
+
+## 217
+
+## 218
+
+## 219
+
+## 220
+
+## 221
+
+## 222
+
+## 223
+
+## 224
+
+## 225
+
+## 226
+
+## 227
+
+## 228
+
+## 229
+
+## 230
+
+## 231
+
+## 232
+
+## 233
+
+## 234
+
+## 235
+
+## 236
+
+## 237
+
+## 238
+
+## 239
+
+## 240
+
+## 241
+
+## 242
+
+## 243
+
+## 244
+
+## 245
+
+## 246
+
+## 247
+
+## 248
+
+## 249
+
+## 250
+
+## 251
+
+## 252
+
+## 253
+
+## 254
+
+## 255
+
+## 256
+
+## 257
+
+## 258
+
+## 259
+
+## 260
+
+## 261
+
+## 262
+
+## 263
+
+## 264
+
+## 265
+
+## 266
+
+
+---
+
+<h1 id="glossary" align="center">Glossary</h1>
 
 Abbreviations:  
 - **DKR**: Dilgo Khyentse Rinpoche
@@ -1251,14 +1788,19 @@ the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru
 *bla ma*, Skt. *guru*, 1. spiritual teacher, explained as the contraction of *bla na med pa*, "nothing superior." 2. often used loosely for Buddhist monks or [yogis](#yogi-or-yogini) in general.
 
 ## Langri Thangpa, (Geshe)
+*glang ri thang pa* (1054-1123), [Kadampa](#kadampa) geshe, disciple of Geshe [Potowa](#potowa-geshe), author of the *Mind Training in Eight Verses* and founder of the Langthang Monastery.
 
 ## Lay disciple
+*dge bsnyen*, Skt. *upasaka*, someone who has taken the refuge vows and five other vows (or only some of them): not killing, not lying, not stealing, not indulging in improper sexual conduct, and not taking intoxicants. It is one of the eight categories vows of the [Pratimoksa](#pratimoksa).
 
 ## Level of union
+*zung 'jug gi go 'phang*, the level of [Vajradhara](#vajradhara). The union is that of [dharmakaya](#dharmakaya) and [rupakaya](#rupakaya).
 
 ## Levels
+see [Bodhisattva levels](#bodhisattva-levels).
 
 ## Liberation
+*thar pa*, Skt. *moksa*, 1. freedom from samsara, either as an [Arhat](#arhat) or as a [Buddha](#buddha). 2. occasionally, *bsgral las byed pa*, performing the action of liberation, a practice to liberate the consciousness of a malignant being into a Buddhafield. See also note 75.
 
 ## Lingje Repa
 
