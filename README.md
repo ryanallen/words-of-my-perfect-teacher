@@ -1230,18 +1230,25 @@ the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru
 *phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddhas), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, [Bodhicitta](#bodhisattva) and awareness-wisdom.
 
 ## King, Subject and Friend
+*rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotsana](#vairotsana) and the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal).
 
 ## Krisnacarya
+*nag po spyod pa*, one of the eighty-four [Mahasiddhas](#mahasiddha) of India.
 
 ## Kriya (yoga)
+*bya ba*, the first of the three outer [tantras](#tantra), the fourth of the nine vehicles. In this type of practice the stress is mainly put on correct external behavior and cleanliness.
 
 ## Ksatriya
+*rgyal rigs*, one of the four classes of the ancient Indian social system, the class of kins and warriors.
 
 ## Kusa
+*ku sha*, a kind of grass considered auspicious, because the [Buddha](#buddha) sat on a cushion of it when he attained enlightenment.
 
 ## Lakhe
+*gla khe*, kind of tree with a sweet bark.
 
 ## Lama
+*bla ma*, Skt. *guru*, 1. spiritual teacher, explained as the contraction of *bla na med pa*, "nothing superior." 2. often used loosely for Buddhist monks or [yogis](#yogi-or-yogini) in general.
 
 ## Langri Thangpa, (Geshe)
 
