@@ -1007,6 +1007,28 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 ## 266
 
+## 267
+
+## 268
+
+## 269
+
+## 270
+
+## 271
+
+## 272
+
+## 273
+
+## 274
+
+## 275
+
+## 276
+
+## 277
+
 
 ---
 
