@@ -1933,31 +1933,43 @@ the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru
 see [Bodhisattva levels](#bodhisattva-levels).
 
 ## Liberation
-*thar pa*, Skt. *moksa*, 1. freedom from samsara, either as an [Arhat](#arhat) or as a [Buddha](#buddha). 2. occasionally, *bsgral las byed pa*, performing the action of liberation, a practice to liberate the consciousness of a malignant being into a Buddhafield. See also note 75.
+*thar pa*, Skt. *moksa*, 1. freedom from samsara, either as an [Arhat](#arhat) or as a [Buddha](#buddha). 2. occasionally, *bsgral las byed pa*, performing the action of liberation, a practice to liberate the consciousness of a malignant being into a Buddhafield. See also note [75](#75).
 
 ## Lingje Repa
+*gling rje ras pa* (1128-1188), founder of the Drukpa Kagyu school.
 
 ## Longchenpa
+*klong chen rab 'byams pa* (1308-1363), also called the Omniscient Sovereign or King of Dharma, one of the most extraordinary spiritual masters and scholars of the [Nyingmapa](#nyingmapa) school. He wrote more than 250 treatises covering almost all of Buddhist theory and practice up to the [Great Perfection](#great-perfection), of which he was among the greatest exponents. Among those that have survived are the famous *Seven Treasures (mdzod bdun)*, the *Nyingtik Yabzhi (snying tig ya bzhi)*, the *Trilogy of Rest (ngal gso skor gsum)*, the *Trilogy of Natural Freedom (rang grol skor gsum)*, the *Trilogy of Dispelling Darkness (mun sel skor gsum)* and the *Miscellaneous Writings (gsung thor bu)*.
 
 ## Lord of Death
+*'chi bdag*, Yama.
 
 ## Lord of Secrets
+*gsang ba'i bdag po*, an epithet of [Vajrapani](#vajrapani).
 
 ## Lotus Born
+*padma 'byung nas*, see [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Lover of the Stars
+*skar ma la dga' ba*, name of a [Bodhisattva](#bodhisattva). He is an example of someone whose selfless aspiration enabled him to accumulate merit in spite of his committing what would normally be considered a negative act.
 
 ## Lower realms
+*ngan song*, the [hells](#hell), the realms of [pretas](#preta) and of animals.
 
 ## Machik Labdron
+*ma cig lab sgron* (1031-1129), a disciple of [Padampa Sangye](#padampa-sangye), she became the holder of his instructions on the [Cho](#cho) practice.
 
 ## Madhyamika
+*dbu ma'i lam*, see [Middle Way](#middle-way).
 
 ## Mahayana
+*the pa chen po*, see [Great Vehicle](#great-vehicle).
 
 ## Maha (yoga)
+the first of the three higher [yogas](#yoga) according to the classification of the [Dharma](#dharma) into nine vehicles. In this [yoga](#yoga), the main stress is put on the [generation phase](#generation-phase) (*bskyed rim*).
 
 ## Mahakasyapa
+*'od srung chen po*, one of the foremost [sravaka](#sravaka) disciples of 
 
 ## Mahamudra
 
