@@ -1175,7 +1175,7 @@ Abbreviations:
 *slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Accomplishment
-(1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is enlightenment. (2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
+(1) *dngos grub*, Skt. *siddhi*. "The fruit wished for and obtained through the practice of the instructions." DICT. Common accomplishments can be simply supernatural powers, but in this book the term "accomplishment" almost always refers to the supreme accomplishment, which is [enlightenment](#enlightenment). (2) *sgrub pa*. In the context of the recitation of mantras, see [approach and accomplishment](#approach-and-accomplishment).
 
 ## Adamantine
 having the qualities of [vajra](#vajra).
@@ -1969,29 +1969,40 @@ see [Bodhisattva levels](#bodhisattva-levels).
 the first of the three higher [yogas](#yoga) according to the classification of the [Dharma](#dharma) into nine vehicles. In this [yoga](#yoga), the main stress is put on the [generation phase](#generation-phase) (*bskyed rim*).
 
 ## Mahakasyapa
-*'od srung chen po*, one of the foremost [sravaka](#sravaka) disciples of 
+*'od srung chen po*, one of the foremost [sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni), and chief among the first compilers of the [Abhidharma](#abhidarma). After the Buddha had left this world, he became the first patriarch of the [Dharma](#dharma), entrusted with the responsibility for maintaining the teachings and the [Sangha](#sangha).
 
 ## Mahamudra
+*phyag rgya chen po*, lit. Great Seal. The Great Seal means that the seal of the absolute nature is on everything, that all phenomena belong to the wisdom mandala. This term can be used to denote the teaching, meditation practice or supreme accomplishment.
 
 ## Mahasiddha
+*grub chen*, a [yogi](#yogi-or-yogini) who has reached the [supreme accomplishment](#supreme-accomplishment).
 
 ## Maitreya
+*byams pa*, the [Buddha](#buddha) to come, the fifth in this present [kalpa](#kalpa). He is also one of the [Eight Great Close Sons](#eight-great-close-sons).
 
 ## Maitriyogi
+*byams pa'i rnal 'byor pa*, one of [Atisa's](#atisa) three principal teachers.
 
 ## Major and minor marks
+*mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahapurusa laksana*) and eighty minor ones (*dpe byad, anuvyanjana*) characteristic of a [Buddha](#buddha).
 
 ## Mamo
+*ma mo*, Skt. *matrika*, a kind of [dakini](#dakini).
 
 ## Mandala
+*dkyil 'khor*, lit. centre and circumference. 1. The universe with the palace of the deity at the centre, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
 
 ## Mandarava
+a [dakini](#dakini), daughter of the King of Zahor, in India. One of the five principal disciples and [consorts](#consort) of [Padmasambhava](#padmasambhava-of-oddiyana) and one of the main holders of his teaching.
 
 ## Mandhatri
+*nga las nu*, a previous incarnation of the [Buddha](#buddha) who became extremely powerful through the power of his past merit, but lost his power due to some evil thoughts.
 
 ## Mani
+the mantra of [Avalokitesvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ mani padme hũm.
 
 ## Manifest Joy
+*mngon par dga' ba*, Skt. *Abhirati*, name of a [kalpa](#kalpa) and of the Buddhafield of [Buddha](#buddha) [Aksobhya](#aksobhya).
 
 ## Mantra
 
