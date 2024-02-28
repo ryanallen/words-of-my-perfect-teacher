@@ -1564,7 +1564,7 @@ see [negative emotions](#negative-emotions).
 *gzhan 'phrul dbang byed*, Skt. *Paranirmitavasavartin*, the sixth and highest level of the gods of the World of Desire, in which the gods enjoy the things miraculously produced by other gods. See [three worlds](#three-worlds).
 
 ## Enlightenment
-*byang chub*, Skt. *bodhi*, purification (*byang*) of all obscurations and realization (*chub*) of all qualities.
+*byang chub*, Skt. *bodhi*, purification (*byang*) of all obscurations and realization (*chub*) of all qualities. ([...](#nada)the state of enlightenment, the sole essence, awakened awareness.)
 
 ## Enlightenment Tree
 *byang chub kyi shing*, the tree under which [Buddha](#buddha) [Sakyamuni](#sakyamuni) attained [enlightenment](#enlightenment).
@@ -2044,10 +2044,13 @@ the mantra of [Avalokitesvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ 
 see [Jetsun Mila](#jetsun-mila).
 
 ## Mind lineage of the Conquerors
+*rgyal ba dgongs brgyud*, lineage of transmission of the teachings from mind to mind.
 
 ## Muni
+*thub pa*, lit. the Mighty One. An epithet for a [Buddha](#buddha).
 
 ## Nada
+defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmata](#dharmata). In the syllable *hum* it is represented by a little flame above the circle on top, symbolizing the state of enlightenment, the sole essence, awakened awareness.
 
 ## Naga
 
