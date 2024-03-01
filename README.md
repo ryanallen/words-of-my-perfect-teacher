@@ -2053,36 +2053,52 @@ see [Jetsun Mila](#jetsun-mila).
 defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmata](#dharmata). In the syllable *hum* it is represented by a little flame above the circle on top, symbolizing the state of enlightenment, the sole essence, awakened awareness.
 
 ## Naga
+*klu*, a kind of snakelike being living in the depths of water or under the ground. Although they have miraculous powers they are classified as belonging to the animal realm. See [three worlds](#three-worlds).
 
 ## Nagarjuna
+*klu sgrub* (1st-2nd century), Indian master, one of the [Six Ornaments](#six-ornaments). He expounded the teachings of the [Middle Way](#middle-way) and composed numerous philosophical and medical treatises.
 
 ## Nalanda
+the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Sariputra](#sariputra), which much later, starting in the time of the Gupta kinds (5th century), became one of the great centres of learning in Buddhist India. It was destroyed around 1200 A.D.
 
 ## Namcho Mingyur Dorje
+*gnam chos mi 'gyur rdo rje*, a famous [treasure discoverer](#treasure-discoverer) of the 16th century.
 
 ## Nanda
+*dga' bo*, a cousin of the [Buddha](#buddha) who became one of his foremost disciples.
 
 ## Naropa
+*na ro pa* (1016-1100), Indian [pandita](#pandita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Marpa the Translator](#marpa).
 
 ## Natural state
+*gnas lugs*, Skt. *prakriti*, lit. way of abiding. "The nature or condition of everything." DICT.
 
 ## Nectar
+see [ambrosia](#ambrosia)
 
 ## Negative action
+*sdig pa* or *mi dge ba*, Skt. *asubha*. "That which produces suffering" (Dudjom Rinpoche). AT: harmful action, unwholesome act, evil.
 
 ## Negative emotions
+*nyon mongs pa*, Skt. *klesa*, "mental phenomena which assail body and mind and lead to harmful actions, creating a state of mental torment." DICT. AT: afflictive emotions, passions, afflictions. Synonym of poison (*dug*). See [five poisons](#five-poisons).
 
 ## New Tradition
+*gsar ma pa*, the followers of the [tantras](#tantra) that were translated and propagated from the time of the translator [Rinchen Zangpo](#rinchen-zangpo) (958-1055) onwards. It designates all the schools of Tibetan Buddhism except for the [Nyingmapa](#nyingmapa), or [Ancient Tradition](#ancient-tradition).
 
 ## New Translations
+see [New Tradition](#new-tradition).
 
 ## Nihilism
+*chad par lta ba*, Skt. *vibhava drsti*, materialism, the view which denies the existence of past and future lives, the principle of cause and effect, and so on.
 
 ## Nine Expanses
+*klong dgu*, nine subdivisions of the Expanse Section (*klong sde*) in the teachings of the [Great Perfection](#great-perfection).
 
 ## Nirmanakaya
+*sprul sku*, body of manifestation, the aspect of Buddhahood which manifests out of compassion to help ordinary beings.
 
 ## Nirvana
+*mya ngan las 'das pa*, the state beyond suffering. The conception of nirvana differs in the [Sravakayana](#sravakayana), [Mahayana](#mahayana) and [Vajrayana](#vajrayana).
 
 ## Non-action
 
