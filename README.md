@@ -2101,10 +2101,13 @@ see [New Tradition](#new-tradition).
 *mya ngan las 'das pa*, the state beyond suffering. The conception of nirvana differs in the [Sravakayana](#sravakayana), [Mahayana](#mahayana) and [Vajrayana](#vajrayana).
 
 ## Non-action
+acting without conceptualizing, from the state of realization that the actor, the action and the object acted upon are all without intrinsic reality.
 
 ## Non-dwelling nirvana
+*mi gnas pa'i myang 'das*, total enlightenment, beyond both [samsara](#samsara) and [nirvana](#nirvana), not "dwelling" in either of them.
 
 ## Non-thought (experience)
+*mi rtog pa'i nyams*, Skt. *avikalpa, nirvikalpa*, one of the three types of experience in meditation. A calm state in which there are no thoughts. See [experiences](#experiences-meditative).
 
 ## Novice
 
