@@ -2110,20 +2110,28 @@ acting without conceptualizing, from the state of realization that the actor, th
 *mi rtog pa'i nyams*, Skt. *avikalpa, nirvikalpa*, one of the three types of experience in meditation. A calm state in which there are no thoughts. See [experiences](#experiences-meditative).
 
 ## Novice
+*dge tshul*, Skt. *sramanera*. A novice monk holding fewer vows than a fully ordained monk (*dge slong*, Skt. *bhiksu*).
 
 ## Nyingmapa
+see [Ancient Tradition](#ancient-tradition).
 
 ## Obscurations
+*sgrib pa*, Skt. *avarana*, factors which veil one's Buddha-nature. See also: [two obscurations](#two-obscurations), [four obscurations](#four-obscurations).
 
 ## Obscurations of habitual tendencies
+*bag chags kyi sgrib pa*, Skt. *vasanavarana*, the habitual tendencies imprinted on the [ground-of-all](#ground-of-all). See [obscurations](#obscurations).
 
 ## Obscurations of negative emotions
+*nyon mongs kyi sgrib pa*, Skt. *klesavarana*, "thoughts (of hatred, attachment, etc); they prevent one from attaining liberation." DICT. See [obscurations](#obscurations).
 
 ## Omniscient Dharma-King
+epithet of [Longchenpa](#longchenpa).
 
 ## Once-Come-King
+*sngon byung gi rgyal po*, a [Buddha](#buddha) in the first [kalpa](#kalpa).
 
 ## Orgyenpa (Rinchen Pal)
+*o rgyan pa rin chen dpal* (1230-1309), a great [siddha](#siddha) of the [Drukpa Kagyu](#kagyupa) tradition, disciple of [Gotsangpa](#gotsangpa-gonpo-dorje). He traveled widely, visiting [Oddiyana](#oddiyana), Bodhgaya and China. Among his disciples were Karmapa Rangjung Dorje, Kharchupa and Dawa Senge.
 
 ## Owner of the ground
 
