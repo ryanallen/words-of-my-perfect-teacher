@@ -1321,6 +1321,9 @@ the title by which [Santaraksita](#santaraksita) is sometimes known.
 ## Buddha
 *sangs rgyas*, "One who has dispelled (*sangs*) the darkness of the [two obscurations](#two-obscurations) and developed (*rgyas*) the two kinds of omniscience (knowing the nature of phenomena and knowing the multiplicity of phenomena)." DICT.
 
+## Buddhafield
+See [Pure Land](#pure-land).
+
 ## Buddha Nature
 *de gshegs snying po*, Skt. *tathagatagarbha*, the potential of Buddhahood present in every being. AT: essence of Buddhahood.
 
@@ -2134,30 +2137,46 @@ epithet of [Longchenpa](#longchenpa).
 *o rgyan pa rin chen dpal* (1230-1309), a great [siddha](#siddha) of the [Drukpa Kagyu](#kagyupa) tradition, disciple of [Gotsangpa](#gotsangpa-gonpo-dorje). He traveled widely, visiting [Oddiyana](#oddiyana), Bodhgaya and China. Among his disciples were Karmapa Rangjung Dorje, Kharchupa and Dawa Senge.
 
 ## Owner of the ground
+*sa bdag*, Skt. *bhumipati*, a spirit occupying a place.
 
 ## Padampa Sangye
+*pha dam pa sangs rgyas* (11th-12th century), Indian [siddha](#siddha) who established the teachings of the Shijepa (*zhi byed pa*) school. Teacher of [Machik Labdron](#machik-labdron), to whom he transmitted the [Cho](#cho) teachings. He traveled to Tibet several times.
 
 ## Padma
+the name by which [Padmasambhava](#padmasambhava-of-oddiyana) refers to himself. The name means "lotus".
 
 ## Padma Thotreng
+*padma thod phreng rtsal*, lit. Padma garlanded with skulls. One of the names of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Padmasambhava of Oddiyana
+*o rgyan padma 'byung gnas*, the Lotus-born Teacher from Oddiyana, often known as [Guru Rinpoche](#guru-rinpoche). During the reign of [King Trisong Detsen](#trisong-detsen), the great master subjugated the evil forces hostile to the propagation of Buddhism in Tibet, spread the Buddhist teaching of [Vajrayana](#vajrayana) in that country and hid innumerable [spiritual treasures](#spiritual-treasure) for the sake of future generations. He is venerated as the Second [Buddha](#buddha) whose coming was predicted by the first one, Buddha [Sakyamuni](#sakyamuni), to give the special teachings of [Vajrayana](#vajrayana).
 
 ## Palace of Lotus Light
+*padma 'od kyi pho brang*, the palace of [Padmasambhava](#padmasambhava-of-oddiyana) in the [Buddhafield](#buddhafield) of the [Glorious Copper-coloured Mountain](#glorious-copper-colored-mountain).
 
 ## Palmo (nun)
+*dge slong ma dpal mo*, famous Indian nun who propagated the practice of Nyung-ne (one-day fast and vow of silence) and attained the supreme accomplishment through the practice of [Avalokitesvara](#avalokitesvara).
 
 ## Palyul (monastery)
+*dpal yul*, one of the six great monasteries of the [Nyingmapa](#nyingmapa) school.
 
 ## Pandita
+a scholar, someone learned in the five traditional sciences (see: [five sciences](#five-sciences)). Particularly used to refer to Indian scholars.
 
 ## Path of accumulating
+*tshogs lam*, Skt. *sambharamarga*, the first of the five paths towards total enlightenment, according to the [Bodhisattva](#bodhisattva) vehicle. On this path one accumulates the causes which will make it possible to proceed towards enlightenment.
 
 ## Path of joining
+*sbyor lam*, Skt. *prayogamarga*, the second of the five paths. On this path one connects oneself to or prepares oneself for seeing the two kinds of absence of self.
 
 ## Path of seeing
+*mthong lam*, Skt. *darsanamarga*, the third of the five paths, according to the [Bodhisattva](#bodhisattva) vehicle. It is called this because on it one really sees the two kinds of absence of 'self' (i.e. of true, independent existence), that of the individual and that of phenomena.
 
 ## Perceptions
+*snang ba*, that which appears in the eyes of each individual according to his or her tendencies or spiritual development. NT, quoting Patrul Rinpoche, speaks of three types of perception: 
+1. deluded perceptions, which arise in the consciousness of the beings of the six realms due to misunderstanding; they are called the impure deluded perceptions of the universe and beings. 
+2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similies of illusion which one does not apprehend as real (see Chapter Two, 2.6.3, Wisdom through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten levels in their post-meditation state (*rjes thob*).
+3. the authentic, perfect, perceptions of wisdom; when one has realized the natural state of everything, the beings and the universe appear as the display of the [kayas](#kaya) and [wisdom](#wisdom)
 
 ## Perfection phase
 
