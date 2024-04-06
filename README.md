@@ -1621,7 +1621,7 @@ see [energy](#energy).
 *rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
 
 ## Five hundred thousand preliminaries
-*'bum lnga*, five traditional preliminary practices: refuge, bodhicitta, vajrasattva, mandala and guru yoga, performed one hundred thousand times each.
+*'bum lnga*, five traditional preliminary practices: [refuge](#refuge), bodhicitta, [vajrasattva](#vajrasattva), [mandala](#mandala) and [guru yoga](#guru-yoga), performed one hundred thousand times each.
 
 ## Five kayas
 *sku lnga*, Skt. *pancakaya*, the [three kayas](#three-kayas) to which are added the Unchanging Vajra Kaya (*mi 'gyur rdo rje'i sku,* Skt. *vajrakaya*) and the Kaya of Perfect Enlightenment (*mngon par byang chub pa'i sku*, Skt. *abhisambodhikaya*). The expression can also refer to the five Buddha families: body, speech, mind, qualities and activity.
@@ -1900,7 +1900,7 @@ a trident with many symbolic ornaments.
 the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tonpa](#drom-tonpa)).
 
 ## Kila
-*phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddhas), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, [Bodhicitta](#bodhisattva) and awareness-wisdom.
+*phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddhas), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, bodhicitta and awareness-wisdom.
 
 ## King, Subject and Friend
 *rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotsana](#vairotsana) and the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal).
@@ -2175,78 +2175,120 @@ a scholar, someone learned in the five traditional sciences (see: [five sciences
 ## Perceptions
 *snang ba*, that which appears in the eyes of each individual according to his or her tendencies or spiritual development. NT, quoting Patrul Rinpoche, speaks of three types of perception: 
 1. deluded perceptions, which arise in the consciousness of the beings of the six realms due to misunderstanding; they are called the impure deluded perceptions of the universe and beings. 
-2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similies of illusion which one does not apprehend as real (see Chapter Two, 2.6.3, Wisdom through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten levels in their post-meditation state (*rjes thob*).
+2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similes of illusion which one does not apprehend as real (see Chapter Two, 2.6.3, Wisdom through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten levels in their post-meditation state (*rjes thob*).
 3. the authentic, perfect, perceptions of wisdom; when one has realized the natural state of everything, the beings and the universe appear as the display of the [kayas](#kaya) and [wisdom](#wisdom)
 
 ## Perfection phase
 
+*rdzogs rim*, Skt. *sampannakrama*
+1. "with characteristics" (*mtshan bcas*), it is the meditation on the [channels](#channel) and [energies](#energy) of the body visualized as a vajra body.
+2. "without characteristics" (*mtshan med*), it is the meditation phase during which the forms visualized in the generation phase are dissolved and one remains in the experience of emptiness.
+
 ## Phlegm
+*bad kan*, one of the three humours according to Tibetan medicine. See also [wind](#wind), [bile](#bile).
 
 ## Pitaka
+See [Tripitaka](#tripitaka).
 
 ## Pitaka, (fourth)
+*sde snod bzhi pa*, the pitaka of the [Secret Mantrayana](#secret-mantrayana).
 
 ## Pith-instructions
+*man ngag*, Skt. *upadesa*, instructions explaining the most profound points of the teachings in a condensed and direct way for the purposes of practice.
 
 ## Positive action
+*kusala*. "That which produces happiness" (Dudjom Rinpoche). AT: beneficial act, virtue.
 
 ## Potowa, (Geshe)
+*po to ba* (1031 - 1105), one of the [Three Brothers](#three-brothers), the three foremost disciples of [Drom Tonpa](#drom-tonpa) (the founder of the [Kadampa](#kadampa) school).
 
 ## Pratimoksa
+*so sor thar pa*, lit. individual liberation. The vows of individual liberation are the eight categories of vows taught in the [Vinaya](#vinaya), from the simple one day vow up to the complete vows of fully ordained monks. See [three vows](#three-vows).
 
 ## Pratyekabuddha
+*rang sangs rgyas*, "someone reaching the end of [samsara](#samsara) without the help of a spiritual master. By studying the nature of interdependent origination, he realizes the absence of true existence of the self and half-realizes the absence of true existence of phenomena." DICT.
 
 ## Precious canopy
+*rin po che'i gdugs*, one of the [eight auspicious signs](#eight-auspicious-signs), it corresponds to the Buddha's head and symbolizes protection from negative actions.
 
 ## Precious master of Oddiyana
+*o rgyan rin po che*, one of the names of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Precious word empowerment
+*tshig dbang rin po che*, the fourth [empowerment](#empowerment) "which eliminates the defilements of body, speech, mind and habitual tendencies, enables one to meditate on the natural [Great Perfection](#great-perfection) and sows the seed for obtaining vajra wisdom and the [svabhavikakaya](#svabhavikakaya)." DICT.
 
 ## Preliminaries
+*sngon 'gro*. see [five hundred thousand preliminaries](#five-hundred-thousand-preliminaries).
 
 ## Preparation, main part and conclusion
+*sbyor dngos rjes gsum*, the three supreme methods for any practice:
+1. beginning by checking that one has the compassionate motivation
+2. practicing without materialistic concepts, and
+3. ending by dedicating the merit to the enlightenment of all beings.
 
 ## Preta
+*yi dvags*, AT: hungry spirit, spirit, hungry ghost.
 
 ## Primal wisdom
+*ye shes*, Skt. *jnana*, "the knowing (*shes pa*) that has always been present since the beginning (*ye nas*), awareness, clarity-emptiness, naturally dwelling in the mind-stream of all beings." DICT.
 
 ## Primordial purity
+*ka dag*, the nature of Buddhahood, present in all beings, the purity of which can never be spoiled.
 
 ## Principle of cause and effect
+*las rgyu 'bras*, lit. action, cause and fruit. Process by which every action produces a corresponding effect. See [karma](#karma).
 
 ## Profound insight
+*lhag mthong*, Skt. *vipasyana* "to see with the eye of wisdom the particular nature of things." DICT.
 
 ## Prostration
+*phyag 'tshal ba*, gesture of reverence, in which the forehead, the two hands and the two knees touch the ground.
 
 ## Protectors
+see [Dharma protectors](#dharma-protector).
 
 ## Protectors of the Three Families
+*rigs gsum mgon po*, the [Bodhisattvas](#bodhisattva) [Manjusri](#manjusri), [Avalokitesvara](#avalokitesvara) and [Vajrapani](#vajrapani). The three families are respectively those of the body, speech and mind of the [Buddha](#buddha).
 
 ## Puchungwa, (Geshe)
+*phu chung ba*, one of the [Three Brothers](#three-brothers).
 
 ## Purnakasyapa
+*'od srung rdzogs byed*, a leading [tirthika](#tirthika) master at the time of the [Buddha](#buddha).
 
 ## Pure land
+*dag pa'i zhing*, a place or world manifested by a [Buddha](#buddha) or great [Bodhisattva](#bodhisattva) through the spontaneous qualities of his realization. There, beings can progress towards [enlightenment](#enlightenment) without falling back into the lower realms of [samsara](#samsara). Also, any place whatsoever, when it is perceived as a pure manifestation of spontaneous wisdom.
 
 ## Pure Land of Bliss
+*bde ba can*, Skt. *Sukhavati*, the [Buddhafield](#buddhafield) of [Amitabha](#amitabha).
 
 ## Pure levels (three)
+*dag pa sa gsum*, the eighth, ninth and tenth [Bodhisattva levels](#bodhisattva-levels), thus called because [Bodhisattvas](#bodhisattva) on these levels are totally free from the [obscuration of negative emotions](#obscurations-of-negative-emotions) (*nyon sgrib*).
 
 ## Pure perception
+*dag snang*, "the perception of all the world and its contents as a pure [Buddhafield](#buddhafield), as the display of [kayas](#kaya) and [wisdoms](#wisdom)." DICT.
 
 ## Raksasa
+*srin po*, a kind of malignant spirit that eats human flesh.
 
 ## Ratnasambhava
+*rin chen 'byung gnas*, the [Buddha](#buddha) of the Jewel Family. See [five families](#five-families).
 
 ## Real meaning
+*nges don*, Skt. *nitartha*, direct expression of truth from the point of view of realized beings. See also [expedient meaning](#expedient-meaning).
 
 ## Realm
+see [six realms](#six-realms-of-existence).
 
 ## Refuge
+1. *skyabs yul*, the object in which one takes refuge.
+2. *skyabs 'gro*, the practice of taking refuge.
 
 ## Relative truth
+*kun rdzob bden pa*, Skt. *samvriti satya*, the apparent truth perceived and taken as real by the deluded mind.
 
 ## Repa Shiwa O
+*ras pa zhi ba 'od*, one of the main disciples of [Milarepa](#milarepa).
 
 ## Rinchen Zangpo
 
