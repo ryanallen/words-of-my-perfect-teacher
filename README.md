@@ -2291,24 +2291,40 @@ see [six realms](#six-realms-of-existence).
 *ras pa zhi ba 'od*, one of the main disciples of [Milarepa](#milarepa).
 
 ## Rinchen Zangpo
+*rin chen bzang po* (958 - 1055), the most famous translator of the second propagation of Buddhism in Tibet, when the [New Tradition](#new-tradition) began.
 
 ## Risi
+*drang srong*,
+1. sage, hermit, saint, particularly the famous sages of Indian myth, who had enormous longevity and magical powers.
+2. name of a constellation.
 
 ## Root teacher
+*rtsa ba'i bla ma*,
+1. the principal, or first, spiritual teacher from whom one has received empowerments, commentaries and pith instructions.
+2. the teacher who has introduced one to the nature of the mind.
 
 ## Royal posture
+*rgyal po'i rol stabs*, sitting posture with the right leg half stretched and the left drawn in.
 
 ## Rupakaya
+*gzugs sku*, Body of Form, which includes the [sambhogakaya](#sambhogakaya) and [nirmanakaya](#nirmanakaya) together.
 
 ## Sadprarudita
+*rtag tu ngu*, a [Bodhisattva](#bodhisattva) whose name means "Ever Weeping", on account of the numerous tears he shed in his quest to receive the teachings on transcendent wisdom.
 
 ## Sakyamuni
+*sha kya thub pa*, the [Buddha](#buddha) of our time, who lived around the 5th century B.C.
 
 ## Sakyapa
+*sa skya pa*, one of the schools of the [New Tradition](#new-tradition), founded by Khon Konchok Gyalpo (1034 - 1102).
 
 ## Samantabhadra
+*kun tu bzang po*,
+1. the original [Buddha](#buddha) (Adibuddha), he who has never fallen into delusion, the Dharmakaya Buddha represented as a naked figure, deep blue like the sky, in union with Samantabhadri, as a symbol of awareness-emptiness, the pure, absolute nature ever present and unobstructed. The source of the lineage of the tantra transmissions of the [Nyingma](#nyingmapa) school.
+2. Bodhisattva Samantabhadra, one of the [Eight Great Close Sons](#eight-great-close-sons), renowned for the way in which, through the power of his concentration, he miraculously multiplied the offerings he made.
 
 ## Samaya
+*dam tshig*, lit. promise. Sacred links between teacher and disciple, and also between disciples, in the [Vajrayana](#vajrayana). The Sanskrit word samaya can mean: agreement, engagement, convention, precept, boundary,e tc. Although there are many detailed obligations, the most essential samaya is to consider the teacher's body, speech and mind as pure.
 
 ## Samaya object or substance
 
