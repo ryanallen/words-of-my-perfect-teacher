@@ -2327,42 +2327,61 @@ see [six realms](#six-realms-of-existence).
 *dam tshig*, lit. promise. Sacred links between teacher and disciple, and also between disciples, in the [Vajrayana](#vajrayana). The Sanskrit word samaya can mean: agreement, engagement, convention, precept, boundary,e tc. Although there are many detailed obligations, the most essential samaya is to consider the teacher's body, speech and mind as pure.
 
 ## Samaya object or substance
+*dam tshig gi rdzas*, object or ingredient which is necessary for or enhances the practices of the [Vajrayana](#vajrayana).
 
 ## Sambhogakaya
+*longs spyod rdzogs pa'i sku*, Body of Perfect Enjoyment, the spontaneously luminous aspect of Buddhahood, only perceptible to highly realized beings.
 
 ## Samsara
+*'khor ba*, the cycle of existence in which one is endlessly propelled by negative emotions and the karmic force of one's actions from one state of rebirth to another.
 
 ## Samvarasara
+*bde mchog snying po*, one of [Manjusri's](#manjusri) names.
 
 ## Samye
+*bsam yas*, the first monastery in Tibet, in the Tsangpo valley south-east of Lhasa, built during the time of King [Trisong Detsen](#trisong-detsen). The name means "inconceivable."
 
 ## Samye Chimpu
+*bsam yas mchims phu*, name of a group of hermitages situated on the mountainside above [Samye](#samye) Monastery, where many great Buddhist masters have attained accomplishment.
 
 ## Sangha
+*dge 'dun*. In its broad meaning it refers to all the practitioners of the [Buddha's](#buddha) teaching. It can have a more restricted meaning according to the context, referring to ordained monks, Arhats, Bodhisattvas, etc.
 
 ## Sankara
+*bde byed*, example of a man whose strong desire and hatred led him to kill his mother. He repented and, having purified his negative actions, was reborn in a god realm.
 
 ## Santaraksita
+*zhi ba mtsho*, also called the Bodhisattva Abbot. This great Indian [pandita](#pandita) of the [Mahayana](#mahayana) school was abbot of the Buddhist university of [Nalanda](#nalanda) and author of a number of philosophical commentaries, such as the *Ornament of the Middle Way* (*dbu ma rgyan*, Skt. *Madhyamakalmkara-karika*). He was invited to Tibet by King [Trisong Detsen](#trisong-detsen) to consecrate the site of the first Tibetan monastery at [Samye](#samye) and ordained the first Tibetan monks.
 
-## Satideva
+## Santideva
+*zhi ba lha* (7th century), the great Indian poet and [mahasiddha](#mahasiddha), who astounded the monks of his monastery of [Nalanda](#nalanda) with his famous poem on the practice of bodhicitta, the Bodhicaryavatara (spyod 'jug), or *The Way of the Bodhisattva*.
 
 ## Saraha
+*sa ra ha*, Indian [mahasiddha](#mahasiddha), author of three cycles of [dohas](#doha)
 
 ## Sariputra
+*sha ri'i bu*, one of the two foremost [Sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni)
 
 ## Sarvanivaranaviskambhin
+*sgrib pa rnam sel*, one of the [Eight Great Close Sons](#eight-great-close-sons) of [Buddha](#buddha) [Sakyamuni](#sakyamuni).
 
 ## Sastra
+*bstan bcos*, a commentary on the [Buddha's](#buddha) teachings.
 
 ## Sattvavajra
+*sems dpa' rdo rje*, a name given to [Vajrapani](#vajrapani)
 
 ## Savaripa
+*sha ba ri pa* or *ri khrod dbang phyug*, one of the eighty-four [mahasiddhas](#mahasiddha) of India. He was a hunter from a hill tribe in Bengal, and along with his two wives became a disciple of [Nagarjuna](#nagarjuna).
 
 ## Second Buddha
+*sangs rgyas gnyis pa*, an epithet of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Secret empowerment
+*gsang dbang*. The second [empowerment](#empowerment), "which purifies the defilements of speech, enables one to meditate on the channels and energies and to recite mantras, and sows the seed for obtaining vajra speech and the [sambhogakaya](#sambhogakaya)." DICT.
 
 ## Secret Mantrayana
+*gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayana](#vajrayan).
 
 ## Seven attributes of royalty
 
