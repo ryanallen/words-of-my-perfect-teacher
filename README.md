@@ -2384,54 +2384,79 @@ see [six realms](#six-realms-of-existence).
 *gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayana](#vajrayan).
 
 ## Seven attributes of royalty
+*rgyal srid sna bdun*, Skt. *saptaratna*, seven possessions of a [universal monarch](#universal-monarch), each of which has a symbolic significance. They are the precious golden wheel, precious wish-fulfilling jewel, precious queen, precious minister, precious elephant, precious horse, and precious general.
 
 ## Seven branches
+*yan lag bdun*, Skt. *saptanga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvana, and dedication of merit.
 
-## Seven noble riches
+## Seven noble riche
+*'phags pa'i nor bdun*, Skt. *saptadhanam*, faith discipline, generosity, learning, conscientiousness, modesty, and wisdom.
 
 ## Seven point posture of Vairocana
+*rnam snang chos bdun*, Skt. *saptadharmavairocana*, the seven points of the ideal meditation posture: legs crossed in the vajra posture, back straight, hands in the gesture of meditation, eyes gazing along the nose, chin slightly tucked in, shoulders well apart "like a vulture's wings", and the tip of the tongue touching the palate.
 
 ## Shang Rinpoche
+*bla ma zhang rin po che* (*brtson 'grus grags pa*) (1121 - 1193), a great [Kagyupa](#kagyupa) [lama](#lama), founder of the Tsalpa Kagyu branch.
 
 ## Shapkyu
+*zhabs kyu*, lit. foot hook. A sign in the shape of a hook which is put under consonants to represent the *u* sound
 
 ## Sharawa
+*sha ra ba* (*yon ton grags*)( 1070 - 1141), name of a [Kadampa](#kadampa)[geshe](#geshe), disciple of [Geshe Potowa](#potowa-geshe).
 
 ## Shubu Palgyi Senge
+*shud bu dpal gyi seng ge*, one of the [twenty five disciples](#twenty-five-disciples) of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Siddha
+*grub thob*, lit. one who has attained the accomplishments. Someone who has attained the fruit of the practice of the [Secret Mantrayana](#secret-mantrayana).
 
 ## Siddhi
+*dngos grub*, see [accomplishment](#accomplishment).
 
 ## Six classes of beings
+*'gro drug*, see [six realms of existence](#six-realms-of-existence).
 
 ## Six consciousnesses
+*rnam shes tshogs drug*, Skt. *sadvijnanakaya*, lit. six gatherings of consciousness, meaning the gathering of a sense object, of a sense organ and of a consciousness. They are the vision, hearing, smell, taste, touch, and mental consciousnesses.
 
 ## Six Ornaments
+*rgyan drug*, the six great commentators of the Buddha's teachings: [Nagarjuna](#nagarjuna), [Aryadeva](#aryadeva), [Asanga](#asanga), Vasubandhu, Dignaga, and Dharmakirti.
 
 ## Six realms of existence
+*'gro drug*, Skt. *sadgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pancagati*), counting gods and demigods together as one realm.
 
 ## Six transcendent perfections
+*pha rol tu phyin pa drug*, Skt. *sad paramita*: **transcendent generosity** (*sbyin pa'i pha rol tu phyin pa*, Skt. *dana-paramita*), **transcendent discipline** (*tshul khrims gyi pha rol tu phyin pa*, *Sila-paramita*), **transcendent patience** (*bzod pa'i pha rol tu phyin pa*, *ksanti-paramita*), **transcendent diligence** (*dbtson 'grus kyi pha rol tu phyin pa*, *virya-paramita*), **transcendent concentration** (*bsam gtan gyi pha rol tu phyin pa*, *dhyana-paramita*) and **transcendent wisdom** (*shes rab kyi pha rol tu phyin pa*, *prajna-paramita*). See also [transcendent perfection](#transcendent-perfection).
 
 ## Skilful Means
+*thabs*, Skt *upaya*, spontaneous, altruistic activity born from wisdom.
 
 ## Skull cup
+*thod phor*, Skt. *kapala*. The top of a skull is used in certain rituals and by some yogis as a bowl. It symbolizes egolessness.
 
 ## Small skull drum
+*thod pa'i da ma ru*, small double sided drum made of two skull-tops.
 
 ## Smrtijnana
+(10th - 11th century), famous Indian master and [pandita](#pandita) who contributed to the translation into Tibetan and correction of certain tantras and commentaries. His death, in Tibet, marks the end of the period of the Old Translations.
 
 ## So, Zur and Nub
+*so zur gnubs*, the family names of three great masters who were the early holders of the lineage of the Nyingma Kahma (long transmission from master to disciple of the Nyingma teachings, as opposed to the Terma, or [spiritual treasures](#spiritual-treasure) hidden, then revealed, some times a very long time later). Their full names were So Yeshe Wangchuk, Zur Shakya Jungne and Nub Chen Sangye Yeshe.
 
 ## Songtsen Gampo
+*srong btsan sgam po* (617 - 698), 33rd king of Tibet and one of the three great religious kings. It was during his time that the first Buddhist temples were built.
 
 ## Source of good
+*dge ba'i rtsa ba*, Skt. *kusalamula*, positive actions which are like the roots (*rtsa ba*) of merit or good (*dge ba*).
 
 ## Spiritual companions
+*chos grogs*, students of the same teacher, or with whom one has received teaching. It is considered vital to have harmonious relations with such people, particularly in the [Vajrayana](#vajrayana).
 
 ## Spiritual friend
+*dge ba'i gshes gnyen*, Skt. *kalyanamitra*, a synonym for spiritual teacher.
 
 ## Spiritual treasure
+*gter ma*, teachings, with statues and other objects, that were hidden by [Padmasambhava](#padmasambhava-of-oddiyana), [Yeshe Tsogyal](#yeshe-tsogyal) and others in earth, rocks, lakes and trees, or even in more subtle locations such as space or mind for the sake of future generations, and then rediscovered in miraculous ways by incarnations of [Padmasambhava's](#padmasambhava-of-oddiyana) disciples, the treasure discoverers.
 
 ## Sravaka
 
