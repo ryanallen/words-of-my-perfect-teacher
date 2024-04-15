@@ -2459,62 +2459,91 @@ see [six realms](#six-realms-of-existence).
 *gter ma*, teachings, with statues and other objects, that were hidden by [Padmasambhava](#padmasambhava-of-oddiyana), [Yeshe Tsogyal](#yeshe-tsogyal) and others in earth, rocks, lakes and trees, or even in more subtle locations such as space or mind for the sake of future generations, and then rediscovered in miraculous ways by incarnations of [Padmasambhava's](#padmasambhava-of-oddiyana) disciples, the treasure discoverers.
 
 ## Sravaka
+*nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [samsara](#samsara) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Sravakas do not aspire to full enlightenment for the sake of all beings.
 
 ## Sravakayana
+*nyan thos kyi theg pa*, the vehicle of the [Sravakas](#sravakas).
 
 ## Sri Simha
+*dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Manjusrimitra](#manjusrimitra).
 
 ## Srona (Sronajat)
+*gro byin skyes*, a [vina](#vina) player who became a disciple of the Buddha and gained the ability to visit other realms, notably those of the [pretas](#preta).
 
 ## Study
+*thos pa*, lit. listening. Traditionally, listening to the teachings was the main way of learning in Tibet. Before studying from a text, it is important to receive the aural transmission by actually hearing the teacher's words. The term "study" should therefore be understood as rather more than simple reading a text.
 
 ## Stupa
+*mchod rten*, lit. support of offering, symbolic representation of the Buddha's mind. The most typical Buddhist monument, which often has a wide square base, a rounded mid-section, and a tall conical upper section topped by a sun and moon. Stupas frequently contain the relics of enlightened beings. They vary in size from tiny clay models to the vast stupas at Borobodur in Indonesia and Bodha in Nepal.
 
 ## Sublime being
+*skyes bu dam pa*, "realized being who has the capacity to act for the benefit of others on a vast scale." DICT.
 
 ## Sublime Compassionate One
+*'phags pa thugs rje chen po*, one of the names given to [Avalokitesvara](#avalokitesvara) (Chenrezi), the [Bodhisattva](#bodhisattva) of compassion.
 
 ## Sublime levels
+see [Bodhisattva levels](#bodhisattva-levels).
 
 ## Sugata
+*bde bar gshegs pa*, lit. gone to happiness: a Buddha. "Someone who, using the happy path of the Bodhisattva vehicle, reaches the happy fruit: perfect Buddhahood." DICT.
 
 ## Sunaksatra
+*legs pa'i skar ma*, the Buddha's cousin, who, despite spending twenty-five years as the Buddha's attendant and knowing all his teachings by heart, was still unable to see any good qualities in him. He died shortly after leaving the Buddha and was reborn as a [preta](#preta).
 
 ## Supreme accomplishment
+*mchog gi dngos grub*, see [accomplishment](#accomplishment).
 
 ## Sustained calm
+*zhi gnas*, Skt. *samatha*, the basis of all concentrations. "The distraction of the mind by other objects having been calmed (*zhi*), the mind stays (*gnas*) without wavering in concentration." DICT.
 
 ## Sutra
+*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka).
 
 ## Suvarnadvipa (Lord of)
+*gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atisa](#atisa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
 
 ## Svabhavikakaya
+*ngo bo nyid kyi sku*, the Body of the Essential Nature; the fourth kaya, the aspect of inseparability of the first three, [Dharmakaya](#dharmakaya), [Sambhogakaya](#sambhogakaya), and [Nirmanakaya](#nirmanakaya).
 
 ## Symbol lineage of the Vidyadharas
+*rig 'dzin brda yi brgyud*, lineage of transmission of the teachings by means of gestures or symbols.
 
 ## Tainted (action)
+*zag bcas*, Skt. *sasrava*, done with the [three concepts](#three-concepts) of subject, object and action.
 
 ## Tangka
+*thang ka*, a Tibetan scroll painting.
 
 ## Tangtong Gyalpo
+*thang stong rgyal po* (1385 - 1509), famous Tibetan [siddha](#siddha) who traveled extensively in China, Tibet and other eastern countries, built numerous temples and metal bridges and founded monasteries at Derge and elsewhere.
 
 ## Tantra
+*rgyud*, text based on the original purity of the nature of mind, whose fruit is the realization of that nature. The root texts of the [Vajrayana](#vajrayana) teachings.
 
 ## Tantric
+related to the [tantras](#tantra), to the [Vajrayana](#vajrayana).
 
 ## Tara
+*sgrol ma*, female [Bodhisattva](#bodhisattva) born from a tear of [Avalokitesvara](#avalokitesvara); female manifestation of great compassion.
 
 ## Tathagata
+*bde bzhin gshegs pa*, one who has reached the real nature, a [Buddha](#buddha).
 
 ## Ten directions
+*phyogs bcu*, the four cardinal points, the four intermediate ones, the zenith and the nadir.
 
 ## Tendencies
+see [habitual tendencies](#habitual-tendencies).
 
 ## Tenma
+*rten ma bcu gnyis*, twelve female local deities who took the vow, in the presence of [Padmasambhava](#padmasambhava-of-oddiyana), to protect the [Dharma](#dharma).
 
 ## Theurang
+*the'u rang*, a kind of spirit appearing like a small dwarf with only one leg.
 
 ## Thirty-five Buddhas
+*sangs rgyas so lnga* or *bde gshegs so lnga*, the Thirty-five Buddhas of Confession, representing the omnipresence of the [Buddhas](#buddha), ready to purify beings from their faults in all thirty-five directions of space (the four main directions, the four intermediate directions, then the eight and sixteen subdirections, the centre, the nadir, and the zenith).
 
 ## Thirty-three
 
