@@ -2543,67 +2543,104 @@ see [habitual tendencies](#habitual-tendencies).
 *the'u rang*, a kind of spirit appearing like a small dwarf with only one leg.
 
 ## Thirty-five Buddhas
-*sangs rgyas so lnga* or *bde gshegs so lnga*, the Thirty-five Buddhas of Confession, representing the omnipresence of the [Buddhas](#buddha), ready to purify beings from their faults in all thirty-five directions of space (the four main directions, the four intermediate directions, then the eight and sixteen subdirections, the centre, the nadir, and the zenith).
+*sangs rgyas so lnga* or *bde gshegs so lnga*, the Thirty-five Buddhas of Confession, representing the omnipresence of the [Buddhas](#buddha), ready to purify beings from their faults in all thirty-five directions of space (the four main directions, the four intermediate directions, then the eight and sixteen sub-directions, the centre, the nadir, and the zenith).
 
 ## Thirty-three
+*gsum cu rtsa gsum*, Skt. *Trayastrimsa*, a god realm in the World of Desire, the abode of [Indra](#indra) and his thirty-two ministers. See [three worlds](#three-worlds).
 
 ## Thought
+*rnam rtog*, Skt. *vikalpana*, in general, whatever arises in the mind in a [dualistic](#dualistic) mode.
 
 ## Threatening mudra
+*sdigs mdzubs*, Skt. *tarjani mudra*, threatening gesture, pointing with the forefinger and little finger.
 
 ## Three Brothers
+*sku mched gsum*, the three principal disciples of [Drom Tonpa](#drom-tonpa): [Potowa](#potowa-geshe), [Chengawa](#chengawa-geshe), and [Puchungwa](#puchungwa-geshe).
 
 ## Three concepts
+*'khor gsum*, subject, object and action, perceived as having a real and independent existence.
 
 ## Three Jewels
+*dkon mchog gsum*, Skt. *triratna*, the [Buddha](#buddha), the [Dharma](#dharma), and the [Sangha](#sangha).
 
 ## Three kayas
+*sku gsum*, Skt. *trikaya*, lit. the Three Bodies: the three aspects of Buddhahood: [dharmakaya](#dharmakaya), [sambhogakaya](#sambhogakaya), and [nirmanakaya](#nirmanakaya).
 
 ## Three mandalas
+*dkyil 'khor gsum*, the mandalas of body, speech and mind as manifestations of the primordial nature: forms as deity, sounds as [mantra](#mantra) and thoughts as [wisdom](#wisdom).
 
 ## Three poisons
+*dug gsum*, the three [negative emotions](#negative-emotions) of bewilderment (ignorance), attachment and aversion. See [five poisons](#five-poisons).
 
 ## Three Roots
+*rtsa gsum*, the [lama](#lama), root or source of blessings; the [yidam](#yidam), source of accomplishments; and the [dakini](#dakini) (or [protectors](#protectors)), source of activities.
 
 ## Three supreme methods
+*dam pa gsum*. See [preparation, main part and conclusion](#preparation-main-part-and-conclusion).
 
 ## Three sweet foods
+*mngar gsum*, sugar, molasses and honey.
 
 ## Three times
+*dus gsum*, Skt. *trikala*, past, present and future.
 
 ## Three vows
+*sdom pa gsum*, Skt. *trisamvara*, the vows of [Pratimoksa](#pratimoksa), the precepts of the [Bodhisattvas](#bodhisattva) and the [samayas](#samaya) of the [Secret Mantrayana](#secret-mantrayana).
 
 ## Three white foods
+*dkar gsum*, milk, butter and curd, which are traditionally considered as very pure foods.
 
 ## Three worlds
+1. *khams gsum*, the world of desire, the world of form and the world of formlessness. The first contains the beings of the [hell](#hell), [preta](#preta), animal, human, and [demigod](#demigod) realms, and some of the god realms. The second two are god realms with a rarified experience which is the result of certain types of intense concentration (see [worldly concentration](#worldly-concentrations)).
+2. Occasionally used to translate *sa gsum*, Skt. *tribhvana*, lit. the three levels:  
+    I. above the earth (*sa bla*),  
+    II. on the earth (*sa steng*),  
+    III. below the earth (*sa 'og*);  
+    they are called respectively the realms of gods, of humans, and of [nagas](#naga).
 
 ## Threefold training
+*bslab pa gsum*, Skt. *trisiksa*, discipline (*tshul khrims*, *sila*), concentration (*ting nges 'dzin*, *citta*) and wisdom (*shes rab*, *prajna*).
 
 ## Thusness
+*de bzhin nyid*, Skt. *tathata*, "tha nature of things, emptiness." DKR.
 
 ## Tilopa
+*ti lo pa*, one of the eighty four [mahasiddhas](#mahasiddha) of India. Teacher of [Naropa](#naropa).
 
 ## Tingdzin Zangpo (Nyang)
+*myang ting 'dzin bzang po* (9th century), Tibetan [mahasiddha](#mahasiddha), disciple of [Vimalamitra](#vimalamitra) (from whom he received the entire teachings of the *Heart-essence*) and of [Padmasambhava](#padmasambhava-of-oddiyana). He is said to have been the first Tibetan to attain the rainbow body of the great transference (*'ja' lus 'pho ba chen po*), the greatest accomplishment of the [Great Perfection](#great-perfection).
 
 ## Tirthika
+*mu stegs pa*, a proponent of extreme philosophical views such as [nihilism](#nihilism) and [eternalism](#eternalism). Often used for the schools of philosophical and religious thought in India that were opposed to Buddhism.
 
 ## Tonpa (Geshe)
+(1005 - 1064), another name of [Drom Tonpa](#drom-tonpa).
 
 ## Torma
+*gtor ma*, a ritual object, often modelled from flour and butter, which can be the symbol of a deity, a mandala, an offering, or occasionally a weapon to fight negative forces.
 
 ## Total enlightenment
+*rdzogs pa'i byang chub*, Skt. *sambodhi*, complete Buddhahood.
 
 ## Trakpa Gyaltsen
+*grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Sakya](#sakya) school, who are known as the Sakya Gongma.
 
 ## Transcendent perfection
+*pha rol tu phyin pa*, Skt. *paramita*. The six methods of training in the bodhicitta of application. They are transcendent because they are accompanied by the wisdom of emptiness. See also [six transcendent perfections](#six-transcendent-perfections).
 
 ## Transference
+*'pho ba*,
+1. passing from one place to another, transmigrating (after death).
+2. practice for directing the transference of consciousness at the time of death.
 
 ## Treasure
+see [spiritual treasure](#spiritual-treasure).
 
 ## Treasure discoverer
+*gter ston*, see [spiritual treasure](#spiritual-treasure).
 
 ## Tripitaka
+*sde snod gsum*, The three collections of the Buddha's teachings, [Vinaya](#vinaya), [Sutra](#sutra), and [Abhidharma](#abhidarma). The [Vajrayana](#vajrayana) teachings are sometimes considered as a fourth [pitaka](#pitaka). Tripitaka means "the three baskets," so called because the palm-leaf folios on which the scriptures were originally written were collected and stored in baskets.
 
 ## Trisong Detsen
 
