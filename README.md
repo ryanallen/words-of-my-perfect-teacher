@@ -2643,26 +2643,37 @@ see [spiritual treasure](#spiritual-treasure).
 *sde snod gsum*, The three collections of the Buddha's teachings, [Vinaya](#vinaya), [Sutra](#sutra), and [Abhidharma](#abhidarma). The [Vajrayana](#vajrayana) teachings are sometimes considered as a fourth [pitaka](#pitaka). Tripitaka means "the three baskets," so called because the palm-leaf folios on which the scriptures were originally written were collected and stored in baskets.
 
 ## Trisong Detsen
+*khri srong sde'u btsan (790 - 844), 38th king of Tibet, second of the three great religious kings. It was due to his efforts that the great masters came from India and established Buddhism firmly in Tibet.
 
 ## Tsampa
+*tsam pa*, flour made from roasted barley or other grains. A staple food in Tibet.
 
 ## Tsa-tsa
+*tsa tsa*, a small clay [stupa](#stupa), [Buddha](#buddha), or other figure, made with a mould.
 
 ## Tulku
+*sprul sku*, the Tibetan translation of the Skt. [nirmanakaya](#nirmanakaya), also used as an honorific title and general term for recognized incarnations of [lamas](#lama), who are found, usually in childhood, and brought up to inherit the lineage and often the monastic foundations of their predecessors.
 
 ## Tusita heaven
+*dga' ldan*, (fourth level) realm of the gods of the World of Desire, in which Buddha [Sakyamuni](#sakyamuni) took a final rebirth before appearing in this world. At present [Maitreya](#maitreya), the future [Buddha](#buddha), is in the Tusita heaven teaching the [Mahayana](#mahayana). See [three worlds](#three-worlds).
 
 ## Twelve categories of teaching in the pitakas
+*sde snod bcu gnyis*, lit. twelve pitakas, also called the Twelve Branches of Excellent Speech (*gsung rab yan lag bcu gnyis*). The twelve types of teaching given by the Buddha correspond to twelve types of text: condensed (*mdo sde*, Skt. *sutra*), melodious (*dbyangs bsnyan*, *geya*), prophetic (*lung bstan*, *vyakarana*), verse (*tshigs bcad*, *gatha*), spoken with a purpose (*ched brjod*, *udana*), conversatory (*gleng gzhi*, *nidana* - questions, talks, etc.), concerning his past lives (*skyes rab*, *jataka*), marvelous (*rmad byung*, *adbhutadharma*), establishing a truth (*gtan babs*, *upadesa*), biographical or "expressing realization" (*rtogs brjod*, *avadana*), historical (*de ltar byung*, *itivrittaka*), and very detailed (*shin tu rgyas pa*, *vaipulya*).
 
 ## Twelve qualities of full training
+*sbyangs pa'i yon tan bcu gnyis*, Skt. *dvadasadhutaguna*, twelve ascetic practices of [sravakas](#sravaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
 
 ## Twelve Vajra Laughs
+*rdo rje gad mo bcu gnyis*, a teaching of the [Great Perfection](#great-perfection).
 
 ## Twenty One Genyen
+*dge bsnyen nyer gcip*, a group of spirits who were subdued by [Padmasambhava](#padmasambhava-of-oddiyana) and became the protectors of the [Dharma](#dharma).
 
 ## Twenty-five disciples
+*rje 'bang nyer lnga*, the greatest Tibetan disciples of [Padmasambhava](#padmasambhava-of-oddiyana). All of them attained the supreme accomplishment. The most famous were [King Trisong Detsen](#trisong-detsen), [Yeshe Tsogyal](#yeshe-tsogyal), and [Vairotsana](#vairotsana). Many of the great masters of Tibetan Buddhism are emanations of the twenty-five disciples.
 
 ## Two accumulations
+*tshogs gnyis*, Skt. *sambharadvaya*, the accumulation of merit (*bsod nams*, Skt. *punya*) and that of wisdom (*ye shes*, *jnana*).
 
 ## Two obscurations
 
