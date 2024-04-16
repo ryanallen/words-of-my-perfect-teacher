@@ -2723,97 +2723,155 @@ see [spiritual treasure](#spiritual-treasure).
 *rdo rje*, AT: diamond, adamantine thunderbolt. Symbol of unchanging and indestructible wisdom capable of penetrating through everything. Ritual instrument symbolizing compassion, skilful means, awareness. Always associated with the bell, *dril bu*, Skt. *ghanta*, the symbol of wisdom, emptiness. For the vajra's form see illustration of Vajrasattva who holds the vajra in his right hand and the bell in his left.
 
 ## Vajra brothers and sisters
+*rdo rje spun*, students of the same teacher, or with whom one has received [Vajrayana](#vajrayana) teachings. See [spiritual companions](#spiritual-companions).
 
 ## Vajra master
+*rdo rje slob spon*, Skt. *vajracarya*, "the spiritual master who introduces one to a mandala of the [Secret Mantrayana](#secret-mantrayana) and gives the liberating instructions." DICT.
 
 ## Vajra of Joy
+*dgyes pa rdo rje*, a name of [Garab Dorje](#garab-dorje).
 
 ## Vajra of Laughter
+*bzhad pa rdo rje*, another name of [Garab Dorje](#garab-dorje).
 
 ## Vajra posture
+*rdo rje dkyil krung*, Skt. *vajrasana*, meditation posture with the legs crossed and the feet resting on the thighs.
 
 ## Vajra recitation
+*rdo rje bzlas pa*, recitation of mantras in concert with inhalation, holding and exhalation.
 
 ## Vajra Seat
+*rdo rje gdan*, Skt. *Vajrasana*, the place in India (the present name is Bodh Gaya) where all the Buddhas of this [kalpa](#kalpa) are to attain enlightenment.
 
 ## Vajra song
+*rdo rje mgur*, song (*mgur*) expressing the inner experiences of a [yogi](#yogi-or-yogini), his realization of the ultimate indestructible (vajra) nature.
 
 ## Vajra Yogini
+*rdo rje rnal 'byor ma*, a female [sambhogakaya](#sambhogakaya) for of [Buddha](#buddha).
 
 ## Vajradhara
+*rdo rje 'chang*, lit. vajra holder. In the [New Tradition](#new-tradition), he is the primordial [Buddha](#buddha), source of all the [tantras](#tantra). In the [Ancient Tradition](#ancient-tradition), Vajradhara represents the principle of the Teacher as enlightened holder of the Vajrayana teachings.
 
 ## Vajradhatvisvari
+*rdo rje dbyings 'phugs ma*, one of the [consorts](#consort) of the Buddhas of the [Five Families](#five-families).
 
 ## Vajrapani
+*phyag na rdo rje*, one of the [Eight Great Close Sons](#eight-great-close-sons).
 
 ## Vajrasattva
+*rdo rje sems dpa'*, the [Buddha](#buddha) who embodies the [Hundred Families](#hundred-families). The practice of [Vajrasattva](#vajrasattva) and recitation of his mantra are particularly effective for purifying negative actions. In the lineage of the [Great Perfection](#great-perfection) he is the  [sambhogakaya](#sambhogakaya) [Buddha](#buddha).
 
 ## Vajrayana
+*rdo rje theg pa*, see [Secret Mantrayana](#secret-mantrayana).
 
 ## Vase empowerment
+*bum dbang*, the first [empowerment](#empowerment) "that purifies the defilements of the body, enables one to meditate on the generation phase and sows the seed for obtaining the vajra body and the [nirmanakaya](#nirmanakaya)." DICT.
 
 ## Vase of great treasure
+*gter chen po'i bum pa*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the throat of the [Buddha](#buddha) and symbolizes the teachings that fulfil all desires.
 
 ## Vehicle
+*theg pa*, Skt. *yana*, the means for traveling the path to enlightenment.
 
 ## Vidyadhara
+*rig 'dzin*, knowledge holder. "One who through profound means holds the deities, mantras, and the wisdom of great bliss." DICT. In the [Nyingmapa](#nyingmapa) Tradition there are four levels of vidyadhara:
+1. Totally matured (*rnam smin*)
+2. Mastering the duration of his life (*tshe dbang*)
+3. Mahamudra (*phyag chen*)
+4. Spontaneously accomplished (*lhun grub*)
 
 ## View
+*lta ba*, Skt. *dristi*
+1. point of view, belief
+2. the authentic point of view, the real knowledge of the natural state of all phenomena.
 
 ## Vikramasila
+one of the most famous Buddhist universities of India, destroyed in the 12th century.
 
 ## Vimalamitra
+*dri med bshes bnyen*, one of the most learned Indian Buddhist masters. He went to Tibet in the 9th century, where he taught extensively, and composed and translated numerous Sanskrit texts. The quintessence of his teaching is known as the *Vima Nyingtig*, one of the *Heart-essence* teachings of the [Great Perfection](#great-perfection).
 
 ## Vina
+an Indian musical instrument, with strings that are plucked.
 
 ## Vinaya
+*'dul ba*, one of the Three [Pitakas](#pitaka), containing teachings about monastic discipline and ethics in general.
 
 ## Vipasyin
+*rnam par gzigs*, the first of the six [Buddhas](#buddha) who preceded Buddha [Sakyamuni](#sakyamuni).
 
-## Virupa
+## Virupa 
+one of the eighty-four [mahasiddhas](#mahasiddha) of India. An important source of the teachings of the [Sakyapa](#sakyapa) tradition.
 
 ## Walking posture
+*mnyam pa'i 'dor stabs*, standing posture with the two legs together but the right foot slightly forward (symbolizing eagerness to help other beings).
 
 ## Warmth (sign of)
+*drod rtags*, a sign that the practice is beginning to work. (When a fire produces heat, it means that it has started properly.) This expression does not particularly refer to an experience of physical heat.
 
 ## Water torma
+*chu gtor*, an offering made with water, milk and grains.
 
 ## Wealthy deity
+*nor lha*, a deity that one propitiates to increase wealth.
 
 ## Wheel
+*'khor lo*, Skt, *cakra*, one of the centres of energy at different points on the [central channel](#central-channel), from which radiate the small subtle channels going to all parts of the body. Generally there are considered to be four or five of these wheels.
 
 ## Wheel of Dharma
+*chos kyi 'khor lo*, Skt. *dharmacakra*, the symbol of the Buddha's teaching. To turn the wheel of the [Dharma](#dharma) means to teach the [Dharma](#dharma). During his lifetime, the Buddha gave three major series of teachings, which are referred to as the first, second, and third turnings.
 
 ## Wind
+1. see [energy](#energy)
+2. one of the three humours according to Tibetan medicine. See also [bile](#bile), [phlegm](#phlegm).
 
 ## Wisdom
+*shes rab*, Skt. *prajna*, the ability to understand correctly, usually with the particular sense of understanding emptiness. AT: discerning wisdom. See also [primal wisdom](#primal-wisdom).
 
 ## Wisdom empowerment
+*shes rab kyi dbang*, the third empowerment "that purifies the defilements of the mind, enables one to meditate on the perfection phase and sows the seed for obtaining the vajra mind and the [dharmakaya](#dharmakaya)." DICT.
 
 ## Wish-fulfilling jewel
+*yid bzhin nor bu*, Skt. *cintamani*, a fabulous jewel found in realms of the [gods](#gods) or [nagas](#naga) which fulfills all one's wishes.
 
 ## Wish-fulfilling tree
+*dpag bsam gyi shing*, magical tree which has its root in the [demigod](#demigod) realm but bears its fruit in the realm of the [gods](#gods) of the [Thirty-three](#thirty-three).
 
 ## Without Fighting
+*thab bral*, Skt. *Yama*, name of a god realm of the World of Desire, so called because it is high enough for the [gods](#gods) there not to have to fight with the [demigods](#demigod). See [three worlds](#three-worlds).
 
 ## Worldly concentrations
+concentrations leading not to enlightenment but only to rebirth in god realms. See [four concentrations](#four-concentrations).
 
 ## Wrathful Black True Mother
+*ma cig khros ma nag mo*, Skt. *Krodhakali*, lit. the one mother wrathful and black. A manifestation of Samantabhadri
+in wrathful [sambhogakaya](#sambhogakaya) form, an aspect of Vajravarahi (*rdo rje phag mo).
 
 ## Wrong view
+*log lta*, Skt. *mithyadristi*, AT: false belief, particularly a view that will lead one to courses of action that bring more suffering.
 
 ## Yaksa
+*gnod sbyin*, a class of spirits.
 
 ## Yama
+*gshin rje*, the Lord of Death.
 
 ## Yamantaka
+*gshin rje bshed*, wrathful form of [Manjursri](#manjusri).
 
 ## Yellow scroll
+*shog ser*, piece of paper (not necessarily yellow) on which the texts of [spiritual treasures](#spiritual-treasure) are written.
 
 ## Yeshe Tsogyal
+*ye shes mtsho rgyal*, [Padmasambhava's](#padmasambhava-of-oddiyana) mystic [consort](#consort) and greatest disciple. She served him perfectly, and helped him to propagate his teachings, in particular concealing [spiritual treasures](#spiritual-treasure) to be rediscovered later for the sake of future disciples.
 
 ## Yidam
+*yi dam*, Skt. *devata*, *istadevata*, a deity representing enlightenment, in a male or female, peaceful or wrathful form corresponding to one's individual nature. The yidam is the source of accomplishments. See [three roots](#three-roots).
 
 ## Yoga
+*rnal 'byor*, practice, lit. a method for uniting (*'byor*) with the natural state (*rnal ma*).
 
 ## Yogi or Yogini
+*rnal 'byor pa* or *rnal 'byor ma*, someone who practices [yoga](#yoga), a spiritual practitioner.
+
+*<h1 id="contents" align="center">Bibliography</h1>*
