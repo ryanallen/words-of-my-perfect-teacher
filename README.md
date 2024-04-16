@@ -16,6 +16,48 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 
 ---
 
+<h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
+
+&nbsp;
+
+THE WORDS OF MY PERFECT TEACHER</h1>
+
+<h2 align="center">PATRUL RINPOCHE</h2>
+
+<p align="center">Translated by the Padmakara Translation Group</p>
+
+*<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
+
+<p align="center">YALE UNIVERSITY PRESS<br> New haven & London</p>
+
+---
+
+<span id="copyright">First Yale University Press edition 2011.</span>  
+Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
+
+All rights reserved.  
+This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by [Sections 107 and 108 of the U.S. Copyright Law](/LICENSE) and except by reviewers for the public press), without written permission from the publishers.
+
+Yale University Press books may be purchased in quantity for educational, business, or promotional use. For information, please e-mail sales.press@yale.edu (U.S. office) or sales@yaleup.co.uk (U.K. office).
+
+The Library of Congress has cataloged the original edition as follows:
+
+O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
+[Kun bzan bla ma'i zal lun. English]  
+The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche&ndash; 2nd ed.  
+p. cm. &ndash;(Sacred literature series)  
+Includes bibliographical references and index.  
+ISBN 0-7619-9026-7 (alk. paper). &ndash;ISBN 0-7619-9027-5 (alk. paper)  
+1.&nbsp;Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
+I. Title. II Series.  
+BQ 7662.4.072513  1998  98-23830  
+29-4.3'420423-dc21  CIP  
+ISBN 978-0-300-16532-6 (pbk.)  
+Printed in the United States of America.  
+10 9 8 7 6
+
+---
+
 <blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
 
 ---
@@ -44,23 +86,16 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ---
 
 *<h1 id="contents" align="center">Contents</h1>*
-[Buddha Sakyamuni](#buddha-sakyamuni)  
-[Guru Rinpoche](#guru-rinpoche)  
-[Table of Contents](#contents)  
-[Title](#title)  
-[Copyright](#copyright)  
-[Patron](#patron)  
-[Trustees](#trustees)  
-[International Sacred Literature Trust](#islt)  
+[List of illustrations](#listofillustrations)  
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
 [Foreword by Dilgo Khyentse Rinpoche](#forewordby-dilgo-khyentse-rinpoche)  
-Translators' Acknowledgements  
-Preface to the Second Edition  
+[Translators' Acknowledgements](#acknolwedgements)  
+[Preface to the Second Edition](#preface)  
 [Translators' Introduction](#introduction)  
-A brief historical introduction to Tibetan Buddhism  
+[A brief historical introduction to Tibetan Buddhism](#briefhistory)  
 
-PROLOGUE  
+[PROLOGUE](#prologue)  
 
 <h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>  
 <p align="center">◈</p>
@@ -400,55 +435,7 @@ CONCLUSION
 
 ---
 
-
-<h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
-
-&nbsp;
-
-THE WORDS OF MY PERFECT TEACHER</h1>
-
-<h2 align="center">PATRUL RINPOCHE</h2>
-
-<p align="center">Translated by the Padmakara Translation Group</p>
-
-*<p align="center">With forewords by the Dalai Lama and Dilgo Khyntse Rinpoche</p>*
-
-<p align="center">YALE UNIVERSITY PRESS<br> New haven & London</p>
-
----
-
-<span id="copyright">First Yale University Press edition 2011.</span>  
-Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
-
-All rights reserved.  
-This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by [Sections 107 and 108 of the U.S. Copyright Law](/LICENSE) and except by reviewers for the public press), without written permission from the publishers.
-
-Yale University Press books may be purchased in quantity for educational, business, or promotional use. For information, please e-mail sales.press@yale.edu (U.S. office) or sales@yaleup.co.uk (U.K. office).
-
-The Library of Congress has cataloged the original edition as follows:
-
-O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
-[Kun bzan bla ma'i zal lun. English]  
-The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche&ndash; 2nd ed.  
-p. cm. &ndash;(Sacred literature series)  
-Includes bibliographical references and index.  
-ISBN 0-7619-9026-7 (alk. paper). &ndash;ISBN 0-7619-9027-5 (alk. paper)  
-1.&nbsp;Rdzogs-chen 2. Jig-med-rgyal-ba 'I-my-gu, ca 1750-1825.  
-I. Title. II Series.  
-BQ 7662.4.072513  1998  98-23830  
-29-4.3'420423-dc21  CIP  
-ISBN 978-0-300-16532-6 (pbk.)  
-Printed in the United States of America.  
-10 9 8 7 6
-
----
-
-<h2 id="patron" align="center">Patron</h2>
-<p align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</p>
-
-<h2 id="trustees" align="center">Trustees</h2>
-<p align="center">Sir Brian McGrath, KCVO (Chair)<br>Martine Batchelor, Dr. Muhammad Zaki Badawi, The Duchess of Abercorn<br>Dr Narinder Singh Kapany, Richard Summers, Michael</p>
-
+<h1 id="listofillustrations" align="center">List of Illustrations</h1>
 ---
 
 <h1 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h1>
