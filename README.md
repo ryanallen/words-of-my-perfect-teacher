@@ -2676,34 +2676,51 @@ see [spiritual treasure](#spiritual-treasure).
 *tshogs gnyis*, Skt. *sambharadvaya*, the accumulation of merit (*bsod nams*, Skt. *punya*) and that of wisdom (*ye shes*, *jnana*).
 
 ## Two obscurations
+*sgrib gnyis*, the [obscurations of negative emotions](#obscurations-of-negative-emotions) and [conceptual obscurations](#concept-obscurations). See also [obscurations](#obscurations) and [four obscurations](#four-obscurations).
 
 ## Two Supreme Ones
+*mchog gnyis*, Gunaprabha (*yon tan 'od*) and Sakyaprabha (sha kya 'od).
 
 ## Two truths
+*bden pa gnyis*, the [absolute](#absolute-truth) and [relative truths](#relative-truth).
 
 ## Twofold goal
+*don gnyis*, one's own goal, benefit or welfare (*rang don*) and that of others (*gzhan don*). Often understood in the ultimate sense of the goal for oneself being achieved by the realization of emptiness, the [dharmakaya](#dharmakaya), and the goal for others by compassion manifesting as the [rupakaya](#rupakaya).
 
 ## Twofold purity
+*dag pa gnyis*, original purity (*rang bzhin ye dag*), which is the [Buddha nature](#buddha-nature) in all beings, and purity from all adventitious stains (*blo bur phral dag*). Only a [Buddha](#buddha) has this second purity as well.
 
 ## Oddiyana
+*o rgyan*, a [dakini](#dakini) land which is the birthplace of [Padmasambhava](#padmasambhava-of-oddiyana). According to some it is located between present-day Afghanistan and Kashmire. It is also the birthplace of [Garab Dorje](#garab-dorje). The use of "Oddiyana" coupled with titles such as "Great One", "Second Buddha", "Great Master", and so on invariably refers to [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Unaltered
+*ma bcos pa*, Skt. *naisargika*, left in its original state, without manipulations or fabrications.
 
 ## Unexcelled, the
+*'og min*, Skt. *Akanistha*, see [Akanistha](#akanistha).
 
 ## Universal monarch
+*'khor lo sgyur ba'i rgyal po*, Skt. *cakravartin*,  
+1. a king ruling over a world system.
+2. an emperor.
 
 ## Untainted (action)
+*zag med*, Skt. *anasrava*, done without concepts of subject, object, and action.
 
 ## Vairocana
+*rnam par snang mdzad*, the [Buddha](#buddha) of the Buddha family. See [five families](#five-families).
 
 ## Vairotsana
+*bai ro tsa na*, Tibet's greatest translator and one of the first seven monks to be ordained in Tibet. He was one of the principal disciples of [Padmasambhava](#padmasambhava-of-oddiyana) and of [Sri Simha](#sri-simha).
 
 ## Vaisakha
+*sa ga zla ba*, the fourth month of the Tibetan lunar calendar. It is on the fifteenth of that month that the Buddha was born, attained enlightenment and passed into nirvana.
 
 ## Vaisravana
+*rnam thos sras*, one of the [Four Great Kings](#four-great-kings) (whose god realm is the first in the World of Desire), guardian of the North and god of wealth.
 
 ## Vajra
+*rdo rje*, AT: diamond, adamantine thunderbolt. Symbol of unchanging and indestructible wisdom capable of penetrating through everything. Ritual instrument symbolizing compassion, skilful means, awareness. Always associated with the bell, *dril bu*, Skt. *ghanta*, the symbol of wisdom, emptiness. For the vajra's form see illustration of Vajrasattva who holds the vajra in his right hand and the bell in his left.
 
 ## Vajra brothers and sisters
 
@@ -2717,7 +2734,7 @@ see [spiritual treasure](#spiritual-treasure).
 
 ## Vajra recitation
 
-## vajra Seat
+## Vajra Seat
 
 ## Vajra song
 
