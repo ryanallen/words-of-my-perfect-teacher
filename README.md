@@ -372,8 +372,8 @@ CONCLUSION
 
 [Notes](#notes)  
 [Glossary](#glossary)  
-Bibliography  
-Index  
+[Bibliography](#bibliography)  
+[Index](#index)    
 
 ---
 
@@ -446,7 +446,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 Jig-me Gyal-wai Nyu-gu, who was one of the eminent disciples of Jig-me Ling-pa, the exponent of Dzog-pa Chen-po Long-chen Nying-thig, gave an oral instruction on Long-chen Nying-thig and his disciple Dza Pal-trul Rinpoche transcribed it, giving it the title: KUNSANG LA-MAI ZHAL-LUNG.
 
-It is said in the Great Perfection teachings that one cannot become enlightened through a contrived mind; rather, the basic mind is to be identified, in relation to which all phenomena are to be understood as the sport of the mind. One then familiarizes oneself continuously and one-pointedly with this ascertainment. However, to have a full understanding of this it is not not sufficient merely to read books; one needs the full preparatory practice of the Nying-ma system and, in addition, the special teaching of a qualified Nying-ma master as well as his blessings. The student must also have accumulated great merit. That is why great Nying-ma-pa masters like Jig-me Ling-pa and Do-drup-chen worked so hard.
+It is said in the [Great Perfection](#great-perfection) teachings that one cannot become enlightened through a contrived mind; rather, the basic mind is to be identified, in relation to which all phenomena are to be understood as the sport of the mind. One then familiarizes oneself continuously and one-pointedly with this ascertainment. However, to have a full understanding of this it is not not sufficient merely to read books; one needs the full preparatory practice of the Nying-ma system and, in addition, the special teaching of a qualified Nying-ma master as well as his blessings. The student must also have accumulated great merit. That is why great [Nying-ma-pa](#nyingmapa) masters like Jig-me Ling-pa and Do-drup-chen worked so hard.
 
 Translation of such works containing the Dzog-chen preliminaries will be of immense value these days. I congratulate the Padmakara Translation Group for having produced this work in English and French. I am sure this authentic preliminary work will benefit all those who are interested in Dzog-chen.
 
@@ -455,7 +455,7 @@ November 23, 1990 The Dalai Lama
 ---
 
 *<p id="longchenpa">Longchenpa (1308-1363)</p>*
-The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oddiyana), Vimalamitra and Yeshe Tsogyol. he transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
+The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oddiyana), [Vimalamitra](#vimalamitra) and [Yeshe Tsogyol](#yeshe-tsogyal). He transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
 ---
 
@@ -1143,7 +1143,7 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 ---
 
-<h1 id="glossary" align="center">Glossary</h1>
+*<h1 id="glossary" align="center">Glossary</h1>*
 
 Abbreviations:  
 - **DKR**: Dilgo Khyentse Rinpoche
@@ -2874,4 +2874,5 @@ in wrathful [sambhogakaya](#sambhogakaya) form, an aspect of Vajravarahi (*rdo r
 ## Yogi or Yogini
 *rnal 'byor pa* or *rnal 'byor ma*, someone who practices [yoga](#yoga), a spiritual practitioner.
 
-*<h1 id="contents" align="center">Bibliography</h1>*
+*<h1 id="bibliography" align="center">Bibliography</h1>*
+*<h1 id="index" align="center">Index</h1>*
