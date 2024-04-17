@@ -90,7 +90,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
 [Foreword by Dilgo Khyentse Rinpoche](#forewordby-dilgo-khyentse-rinpoche)  
-[Translators' Acknowledgements](#acknolwedgements)  
+[Translators' Acknowledgements](#acknowledgements)  
 [Preface to the Second Edition](#preface)  
 [Translators' Introduction](#introduction)  
 [A brief historical introduction to Tibetan Buddhism](#briefhistory)  
@@ -438,6 +438,9 @@ CONCLUSION
 <h1 id="listofillustrations" align="center">List of Illustrations</h1>
 ---
 
+*<p id="Padmasambhava-illustration" align="center">Padmasambhava</p>*
+---
+
 <h1 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h1>
 
 Jig-me Gyal-wai Nyu-gu, who was one of the eminent disciples of Jig-me Ling-pa, the exponent of Dzog-pa Chen-po Long-chen Nying-thig, gave an oral instruction on Long-chen Nying-thig and his disciple Dza Pal-trul Rinpoche transcribed it, giving it the title: KUNSANG LA-MAI ZHAL-LUNG.
@@ -464,6 +467,20 @@ It contains all the teachings, including the Steps of the Path for those of the 
 For all teachings on all practices, whether preliminaries or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is beginning to shine its light throughout the world, this book has been translated in the profound hope that&ndash;being of enormous worth and little danger, and covering as it does all the essential points of the path&ndash;all contact with it may be fruitful, and that it may become the object of study, reflection and meditation. That followers of [Dharma](#dharma) teach or listen to this text is of great importance.
 
 ---
+
+<h1 id="acknowledgements" align="center">Translators' Acknowledgements</h1>
+
+In accordance with Tibetan tradition, the translators would like to thank the teachers of the lineage: the late Dudjom Rinpoche, Dilgo Khyentse Rinpoche and Kangyur Rinpoche, whose extraordinary inspiration and patient explanations form the basis for all our efforts to understand these teachings; and also the numerous other [lamas](#lama) who answered our questions and gave us encouragement&ndash;Dodrup Chen Rinpoche, Nyoshul Khenpo Rinpoche, Dzogchen Khenpo Thubten, Zenkar Rinpoche, Khetsun Zangpo Rinpoche, Lama Sonam Tobgyal and many others.
+
+The Padmakara Translation Group is made up of students of Tibetan Buddhism from several countries and disciplines, working under the direction of Pema Wangyal Rinpoche and Jigme Khyentse Rinpoche, at the centre d'Etudes de Chanteloube in Dordogne, Southwest France.
+
+The history of this particular project runs parallel to the evolution of the group, many of whose members began their study of Patrul Rinpoche's *Kunzang Lamai Shelung* in the mid seventies, both in India and in Europe. They were then taught in detail from it, as the basis for their own practice of the [Vajrayana](#vajrayana) path during the traditional meditation retreats which started in 1980 at Chanteloube. The text was translated into French by members of the group guided by their Tibetan teachers, and published as *Le Chemin de La Grande Perfection* by the newly-formed Editions Padmakara in 1987.
+
+The first stage of the English version was a draft translation from the French by Michael Dickman. This was the starting point for a new translation from the original Tibetan. It was prepared, with many revisions, by Christian Bruyat, Charles Hastings and John Canti. Stephen Gethin provided editorial help and prepared the index.
+
+The translators are grateful to readers Michal Abrams, Wulstan Fletcher, Helena Blankleder, Rinchen Lhamo, Elissa Mannheimer and Vivian Kurz for their valuable suggestions, and to Jill Heald for help with the typescript.
+
+Finally, our warmest thanks to Kerry Brown of the International Sacred Literature Trust for her constant and patient encouragement.
 
 <h1 id="introduction" align="center">Translators' Introduction</h1>
 
