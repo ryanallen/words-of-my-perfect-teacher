@@ -539,6 +539,26 @@ To his students he was immensely kind, but also immensely tough. He treated begg
 
 *The Words of My Perfect Teacher* belongs to a category of literature known as "written guides" (*khrid yig*), which emulate and supplement the oral explanations needed to elucidate a meditation text. In this case the text in question is the preliminary practice of the *Heart-essence of the Vast Expanse*.
 
+The *Heart-essence of the Vast Expanse* cycle of teachings that [Longchenpa](#longchenpa) passed on to [Jigme Lingpa](#jigme-lingpa) has become one of the most widely practiced in the [Nyingmapa](#nyingmapa) school. It contains a complete [Vajrayana](#vajrayana) path, starting at the beginner stage with the preliminary practices (*sngon 'gro*). Then comes the main practice (*dngos gzhi*), which has three principal parts, the generation phase (*bskyed rim*) the perfection phase (*rdzogs rim*), and the [Great Perfection](#great-perfection) (*rdzogs pa chen po*).
+
+The preliminary practices have an outer and an inner section, and our text is accordingly divided into two. The  first part, the ordinary or external preliminaries, deals with:  
+1. the freedoms and advantages offered by human life
+2. impermanence
+3. the sufferings of [samsara](#samsara)
+4. how [karma](#karma), the principle of cause and effect, applies to all our actions
+5. the benefits of liberation and
+6. how to follow a spiritual teacher.
+
+These elements are fundamental for a proper understanding of Buddhist values. They are general because they are the fundamentals of Buddhism in general. The contemplations in this section can be practiced by anyone, Buddhist or not.
+
+The second part, the inner preliminaries, starts with taking refuge&ndash;learning to rely on the Buddha, the [Dharma](#dharma) (his teaching) and the [Sangha](#sangha) (the Buddhist community). This is the basis of Buddhist commitment common to all traditions. Next comes the development of bodhicitta, the "mind of enlightenment." This attitude of unconditional love and compassion, that seeks to bring all beings to perfect freedom, is the basis of the [Mahayana](#mahayana). It is followed by practices to purify the effects of one's past negative actions and accumulate the positive energy necessary to progress on the path. These practices use more fully the techniques of visualization and mantra specific to the [Vajrayana](#vajrayana) approach.
+
+Finally comes the [Guru Yoga](#guru-yoga), uniting one's mind with the mind of the teacher. [Guru Yoga](#guru-yoga) is the very root of the [Vajrayana](#vajrayana), where the purity of the link between teacher and disciple is of paramount importance. Also included here is the practice of *phowa*, or transference of consciousness, a shortcut method to enable those who are unable to pursue the path to the end to be liberated nonetheless at the time of death.
+
+For the practices in Part Two, it is necessary to have the guidance of a qualified teacher. Indeed this is advisable for any spiritual practice. In pre-communist Tibet almost all Tibetans considered themselves Buddhists, and they would try to follow Buddhist ethics, make offerings and recite some prayers and [mantras](#mantra). This remains largely true even in occupied Tibet today. A smaller number of those who are Buddhists in this general sense then take the decision to pursue the spiritual journey actively, and it is such people who would undertake these practices, usually repeating each element one hundred thousand times.
+
+Next comes the practices of the generation and perfection phases, culminating in the [Great Perfection](#great-perfection). In the Tibetan tradition the inner journey is mapped with astonishing precision. For each stage of the practice there are oral explanations and explanatory texts. [Vajrayana](#vajrayana) is a science of the mind, in which an expert teacher fully understands the significance of each experience, and the solution for each error. Our present text does not go into the details of the rest of the path, but we shall give a brief overview here, to give an idea of the progression that follows on from the preliminaries.
+
 ---
 
 <h1 id="postface" align="center">Postface</h1>
