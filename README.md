@@ -426,7 +426,7 @@ II. ORDINARY TRANSFERENCE USING THREE IDEAS
 
 CONCLUSION
 
-&ndash;Postface by Jamgon Kongtrul Lodro Thaye
+[Postface by Jamgon Kongtrul Lodro Thaye](#postface)
 
 [Notes](#notes)  
 [Glossary](#glossary)  
@@ -482,9 +482,28 @@ The translators are grateful to readers Michal Abrams, Wulstan Fletcher, Helena 
 
 Finally, our warmest thanks to Kerry Brown of the International Sacred Literature Trust for her constant and patient encouragement.
 
+<h1 id="preface" align="center">Preface to the Second Edition</h1>
+
+  The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgon Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the [notes](#notes) and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
+
+  However, the principal change is a revision of the text itself, the fruit of a painstaking, detailed re-reading by Pema Wangyal Rinpoche. His numerous comments, clarifications and queries&ndash;on average three or four per page&ndash;have enabled us to take a critical look at the accuracy of our translation and to bring it closer still to Patrul Rinpoche's original meaning. Readers of the first edition may be assured that we have found no glaring errors in the substance of the instructions and practices explained. Nevertheless, in a text so justly celebrated for its extraordinary wealth of detail and anecdote, it is in those finer details that we hope the translation has gained in authenticity and accuracy.
+
+No translation will ever be definitive. Our hope is that we may continue to improve the translation of this text in the future, particularly since&ndash;as testified by the many encouraging letters we have received from all over the world&ndash; it is used intensively by many individual readers and Buddhist groups as a tool for study and practice. Had time allowed, we would have liked to undertake a thorough revision of the endnotes in the light of a new translation of one of the principal sources from which they were compiled, Khenpo Ngawang Palzang's *Notes*, currently proceeding under the direction of Alak Zenkar (with the participation of several members of the Padmakara Translation Group, see bibliography). That, unfortunately, will have to await a third edition.
+
+All the changes to this edition were compiled, edited and entered by John Canti, with valuable help from Maria Jesus Hervas, whose assiduous work in preparing a forthcoming Spanish translation uncovered a number of errors and omissions in the English, and from readers Helena Blankleder, Charles Hastings, Steven Gethin and Wulstan Fletcher.
+
+Once again, we are grateful for the continuing interest and support of the Sacred Literature Trust and its successive directors, Paul Seto and Malcolm Gerratt&ndash;and especially for their patience, which the delays in the preparation of this second edition must have sorely tested.
+
+---
+
 <h1 id="introduction" align="center">Translators' Introduction</h1>
 
 ---
+
+<h1 id="postface" align="center">Postface</h1>
+
+---
+
 
 <h1 id="notes" align="center">Notes</h1>
 
