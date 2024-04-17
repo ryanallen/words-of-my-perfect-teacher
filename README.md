@@ -6,12 +6,12 @@ translated by the [Padmakara Translation Group](https://www.shambhala.com/padmak
 
 ---
 
-*<p id="buddha-sakyamuni">Buddha Sakyamuni</p>*
+*<p id="buddha-sakyamuni-il" align="center">Buddha Sakyamuni</p>*
 The [Buddha](#buddha) of our time
 
 ---
 
-*<p id="guru-rinpoche">Guru Rinpoche</p>*
+*<p id="guru-rinpoche-il" align="center">Guru Rinpoche</p>*
 Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
 
 ---
@@ -438,7 +438,8 @@ CONCLUSION
 <h1 id="listofillustrations" align="center">List of Illustrations</h1>
 ---
 
-*<p id="Padmasambhava-illustration" align="center">Padmasambhava</p>*
+*<p id="Padmasambhava-il" align="center">Padmasambhava</p>*
+
 ---
 
 <h1 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h1>
@@ -453,7 +454,7 @@ November 23, 1990 The Dalai Lama
 
 ---
 
-*<p id="longchenpa">Longchenpa (1308-1363)</p>*
+*<p id="longchenpa-il">Longchenpa (1308-1363)</p>*
 The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oddiyana), [Vimalamitra](#vimalamitra) and [Yeshe Tsogyol](#yeshe-tsogyal). He transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
 ---
@@ -496,7 +497,47 @@ Once again, we are grateful for the continuing interest and support of the Sacre
 
 ---
 
+*<p id="jigme-il">Jigme Lingpa (1729-1798)</p>*
+[Jigme Lingpa](#jigme-lingpa) received the transmission of the *Heart-essence of the Vast Expanse* from [Longchenpa](#longchenpa). He practiced them in solitude and subsequently transmitted them to his own students.
+
+---
+
 <h1 id="introduction" align="center">Translators' Introduction</h1>
+
+*The Words of My Perfect Teacher* is one of the best-loved introductions to the foundations of Tibetan Buddhism, constantly recommended by His Holiness the Dalai Lama and other eminent teachers. It provides a detailed guide to the methods by which an ordinary person can transform his or her consciousness and set off on the path to Buddhahood, the state of awakening and freedom. The first half of the book contains a series of contemplations on the frustration and deep suffering of [samsara](#samsara), the round of existence based on ignorance and deluded emotions, and the enormous value of our human life, which provides a unique opportunity to attain Buddhahood. The second half explains the first steps of the [Vajrayana](#vajrayana), the "Diamond Vehicle" whose powerful methods of transformation provide the distinctive character of the Tibetan tradition of Buddhism.
+
+Patrul Rinpoche's work is not a treatise for experts but a manual of practical advice for anyone sincerely wishing to practice the [Dharma](#dharma). He wrote it in a style that could speak as easily to rough nomads and villagers as to lamas and monks. In fact he claimed that it was not really a literary composition at all, but that he had simply set down the oral instructions of his own teacher as he himself had heard them. The particular magic of the book is that we feel that we are Patrul Rinpoche's own students, listening to his heartfelt advice, based on the oral tradition that he received from his own teacher and the deep experience of years of practice.
+
+He explains everything we need to know to practice the teachings&ndash;and also, often with devastating irony, the many mistakes that can be made on the spiritual journey. The language veers from high poetry to broad vernacular. Each point is illustrated by numerous quotations, down-to-earth examples from daily life, and a wealth of stories. Some of these stories go back to the very origins of Buddhism in the 6th century BC and beyond; some are drawn from the extraordinary lives of the great masters of India and Tibet; some concern the doings of the ordinary folk of Patrul Rinpoche's native Kham.
+
+Patrul Rinpoche was famous for the direct way he probed the depths of this students' minds. He was a firm believer in [Atisa's](#atisa) dictum, **"The best [spiritual friend](#spiritual-friend) is the one who attacks your hidden faults."** Although his work is clearly adapted to his particular audience, with a little effort of transposition we can see that human nature remains remarkably the same regardless of time and culture. We feel that the recesses of our own character are exposed and we are forced to question our own habits of thought and open our minds to new possibilities.
+
+In his concluding chapter the author describes his work as follows:
+
+> In writing down these instructions I have not been guided primarily by aesthetic or literary considerations. My main aim has simply been to record faithfully the oral instructions of my revered teacher in a way that is easy to understand and useful for the mind. I have done my best not to spoil them by mixing in my own words or ideas. On separate occasions my teacher also used to give numerous special instructions for exposing hidden faults, and I have added whatever I have been able to remember of these in the most appropriate places. Do not take them as a window through which to observe others' faults, but rather as a mirror for examining your own. Look carefully within yourself to see whether or not you have those hidden faults. If you do, recognize them and take them out of their hiding place. Correct your mind and set it at ease on the right path...
+
+For [Vajrayana](#vajrayana) Buddhism, enlightenment is not a remote ideal but something which, with the appropriate methods and a supreme effort, can be achieved here and now, in this very life. In Tibet's living wisdom tradition, every scripture, every meditation practice and training for the mind, is passed on from teacher to student, and then internalized till it becomes an integral part of that person's experience. One of the words for spiritual practice in Tibetan is *nyamlen*, literally "taking into experience." Someone who can be considered a lineage holder, a truly qualified spiritual teacher, must have actually attained realization. Patrul Rinpoche held a continuous line of transmission coming down from the Buddha himself. This lineage has been passed on unbroken, from one realized teacher to the next, until the present day.
+
+*<p id="Nyugu-il" align="center">Jigme Gyalwai Nyugu</p>*
+Patrul Rinpoche's perfect teacher. Patrul Rinpoche heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
+
+## Patrul Rinpoche and the tradition he inherited
+
+In the [Nyingmapa](#nyingmapa) school, to which Patrul Rinpoche belonged, and which is the oldest tradition of Tibetan Buddhism, there are two kinds of transmission. There is the Kahma, (*bka' ma*) or oral lineage, passed on from teacher to student over the centuries, and there is the miraculous direct lineage of Terma (*gter ma*) or [Spiritual Treasures](#spiritual-treasure). These were hidden in the eighth century by [Padmasambhava](#padmasambhava-of-oddiyana) and his great woman disciple [Yeshe Tshogyal](#yeshe-tsogyal), to be discovered in later ages at the appropriate moment. *The Words of My Perfect Teacher* is an explanation of the preliminary practices of the *Longchen Nyingtik* (*klong chen snying thig*), *The Heart-essence of the Vast Expanse*, a [spiritual treasure](#spiritual-treasure) discovered by [Rigdzin Jigme Lingpa](#jigme-lingpa) (1729 - 1798).
+
+[Jigme Lingpa](#jigme-lingpa) was a prodigy who became immensely learned with almost no study, through arousing his wisdom mind in a series of long meditation retreats. He received the *Heart-essence of the Vast Expanse* in a series of visions of [Longchenpa](#longchenpa), a great [lama](#lama) of the fourteenth century.
+
+[Longchenpa](#longchenpa) systematized the [Nyingmapa](#nyingmapa) doctrines in his astonishing *Seven Treasures* (*mdzod bdun*, see [bibliography](#bibliography)) and other works, which cover all aspects of the Buddhist teachings, and in particular discuss fully the subtleties of [Dzogchen, the Great Perfection](#great-perfection). He also wrote extensively on the teachings of the other schools, but these works have been lost. Although [Longchenpa](#longchenpa) lived several centuries before him, he was in fact [Jigme Lingpa's](#jigme-lingpa) principal teacher.
+
+[Jigme Lingpa](#jigme-lingpa) first practiced and mastered the teachings he had discovered, and then passed them on to a few close disciples who were capable of becoming pure holders of the doctrine. One of these was Patrul Rinpoche's teacher, Jigme Gyalwai Nyugu, who after spending a considerable time with [Jigme Lingpa](#jigme-lingpa) in central Tibet, returned to Kham (the eastern region of the country). There he undertook the practice of what [Jigme Lingpa](#jigme-lingpa) had taught him, living on a remote mountainside in a mere depression in the ground, without even a cave for shelter, and with only wild plants for food. He was indifferent to comfort and convenience, determined to let go of all worldly considerations and concentrate on the goal of ultimate realization. Gradually disciples gathered around him, living in tents on the windswept hillside. One of these was the young Patrul, who received from him, no less than fourteen times, the teachings contained in this book. Subsequently Patrul also studied with many other great [lamas](#lama) of the day, including the highly unconventional Do Khyentse Yeshe Dorje, who directly introduced him to the nature of the mind.
+
+Throughout his life Patrul Rinpoche emulated the uncompromising simplicity of his master. Although he had been recognized in his childhood as an incarnate [lama](#lama) or [*tulku*](#tulku)&ndash;his name is an abbreviation of Palgye Tulku&ndash;and would normally have had a high position in a monastic establishment, he spent his life wandering from place to place, camping in the open, in the guise of an ordinary beggar. If he was offered gold or silver he would often just leave it lying on the ground, thinking that wealth was only a source of trouble. Even when he had become a famous teacher, he would travel around unrecognized, living in the same simple and carefree manner. There is even a story of a [lama](#lama) he met on his travels who, thinking he was a good fellow who might benefit from such an extraordinary teaching, taught him this very text. On another occasion he traveled with a poor widow, helping her to cook and to take care of her children, carrying them on his back. When they arrived at their destination, Patrul Rinpoche excused himself, saying he had something important to do. The woman heard that the great Patrul Rinpoche was teaching at the monastery. She went there to watch, and was amazed to see her traveling companion on the throne instructing a vast assembly. At the end of the teaching he asked that all the offerings be given to her.
+
+To his students he was immensely kind, but also immensely tough. He treated beggars and kins in exactly the same way. In all situations his only interest was to benefit others, and he would always say whatever would be most useful, regardless of social niceties.
+
+## The stages of practice
+
+*The Words of My Perfect Teacher* belongs to a category of literature known as "written guides" (*khrid yig*), which emulate and supplement the oral explanations needed to elucidate a meditation text. In this case the text in question is the preliminary practice of the *Heart-essence of the Vast Expanse*.
 
 ---
 
