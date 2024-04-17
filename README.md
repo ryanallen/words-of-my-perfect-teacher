@@ -559,6 +559,30 @@ For the practices in Part Two, it is necessary to have the guidance of a qualifi
 
 Next comes the practices of the generation and perfection phases, culminating in the [Great Perfection](#great-perfection). In the Tibetan tradition the inner journey is mapped with astonishing precision. For each stage of the practice there are oral explanations and explanatory texts. [Vajrayana](#vajrayana) is a science of the mind, in which an expert teacher fully understands the significance of each experience, and the solution for each error. Our present text does not go into the details of the rest of the path, but we shall give a brief overview here, to give an idea of the progression that follows on from the preliminaries.
 
+### The preliminary practice
+
+*The outer preliminaries* comprise the four contemplations which turn away from [samsara](#samsara).
+*The inner preliminaries* are:
+1. taking refuge
+2. bodhicitta
+3. purification through the practice of [Vajrasattva](#vajrasattva)
+4. accumulation of merit through the offering of the [mandala](#mandala), and
+4. [Guru Yoga](#guru-yoga).
+
+Sometimes there are additional elements, as in the *Heart-essence of the Vast Expanse*. The ritual text may be quite long or very short. This, however, is the general structure.
+
+### The generation phase
+
+In the generation phase one learns to develop and enlightened vision of the world by visualizing oneself as a [Buddha](#buddha), and one's surroundings as a pure [Buddhafield](#buddhafield), while reciting the appropriate [mantra](#mantra). This process is at first artificial, something which is developed or generated, but the visualizations correspond to the visionary experience of enlightened beings. By adopting these new habits of perception, one can weaken the ordinary habits of gross perception based on ignorance and emotional tendencies, and put oneself in touch with a more subtle level of experience. These practices take the form of *sadhanas*, the ritual texts for which are sometimes extraordinarily poetic.
+
+### The perfection phase
+
+Once the sacred vision has become a living experience, the perfection phase completes the process, taking it to a more interior level by working with the subtle energies of the body, through mastery of the breath, physical postures and other [yogas](#yoga).
+
+### The Great Perfection
+
+In the generation and perfection phases one acquires the illustrative wisdom (*dpe'i ye shes*) through meditation experiences which serve as pointers to indicate the ultimate nature of the mind.
+
 ---
 
 <h1 id="postface" align="center">Postface</h1>
