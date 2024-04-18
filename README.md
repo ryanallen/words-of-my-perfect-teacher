@@ -581,7 +581,15 @@ Once the sacred vision has become a living experience, the perfection phase comp
 
 ### The Great Perfection
 
-In the generation and perfection phases one acquires the illustrative wisdom (*dpe'i ye shes*) through meditation experiences which serve as pointers to indicate the ultimate nature of the mind.
+In the generation and perfection phases one acquires the illustrative wisdom (*dpe'i ye shes*) through meditation experiences which serve as pointers to indicate the ultimate nature of the mind. In Dzogchen&ndash;the [Great Perfection](#great-perfection)&ndash;the nature of the mind is introduced directly and suddenly by the teacher. This is an immediate experiential recognition of the [Buddha-nature](#buddha-nature) itself. The subsequent practice consists essentially in getting used to that experience and developing it in an increasingly vast way. Here one acquires real or absolute wisdom (*don gyi ye shes*), the direct experience of ultimate truth.
+
+In a sense, each level of practice builds on the previous one, but at the same time it further strips away the layers of delusion, leaving an ever more denuded experience of reality. Each practice is also a complete path in itself, in which&ndash;for those who have the wisdom to see it&ndash;all the others are included. Even the preliminaries, and indeed the individual elements of the preliminaries, can, in themselves, constitute a complete path to enlightenment.
+
+In particular, the [Guru Yoga](#guru-yoga) is the essence of all paths. The teachers of the lineage often say that all practices should be done in the manner of [Guru Yoga](#guru-yoga). Total openness and devotion to a realized teacher is the most sure and rapid way to progress.
+
+Patrul Rinpoche expresses this capital importance of the spiritual teacher in the very title of this book, Kunzang Lamai Shelung, which we have freely translated as *The Words of My Perfect Teacher*.
+
+Kunzang means "everywhere perfect" or "always perfect." It is the abbreviated form of Kuntuzangpo (in Sanskrit, Samantabhadra), the primordial Buddha, source of all lineages. Kuntuzangpo is shown iconographically as a naked [Buddha](#buddha), the deep blue color of the sky. However this symbol does not represent a person, but the [Buddha-nature](#buddha-nature) itself, the unchanging purity of the m ind which is the fundamental nature of all beings. Normally this nature is hidden, and it is the teacher who has realized it himself who can lead us to discover it within ourselves, in all its glorious nakedness. [Lama](#lama) literally means, "there is nothing higher." This is the Tibetan expression for the Indian word Guru. Both these words have become overused in common speech, but, as Patrul Rinpoche explains, for us, the spiritual teacher is like the Buddha himself. He brings us the transmission of the Buddhas of the past, embodies for us the Buddhas of the present, and, through his teaching, is the source of the Buddhas of the future. Patrul Rinpoche says that the [Guru Yoga](#guru-yoga) is in a sense superior to the generation and perfection phases, because it directly opens the way to ultimate wisdom through the teacher's blessings.
 
 ---
 
