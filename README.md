@@ -36,7 +36,7 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
 
 All rights reserved.  
-This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by [Sections 107 and 108 of the U.S. Copyright Law](/LICENSE) and except by reviewers for the public press), without written permission from the publishers.
+This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by Sections 107 and 108 of the U.S. Copyright Law and except by reviewers for the public press), without written permission from the publishers.
 
 Yale University Press books may be purchased in quantity for educational, business, or promotional use. For information, please e-mail sales.press@yale.edu (U.S. office) or sales@yaleup.co.uk (U.K. office).
 
