@@ -610,11 +610,19 @@ Brief explanations that we felt might be helpful to many readers appear as footn
 
 *<h1 id="historical-introduction" align="center">A brief historical introduction to Tibetan Buddhism</h1>*
 
-<h1 id="postface" align="center">Postface</h1>
+Gautama the Buddha was born in Northern India in the fifth century BC, the son of a king who brought him up as heir to the throne. His birth and youth were remarkable, and it was clear from the beginning that the young prince Siddhartha was destined to be an extraordinary being. His early life was spent in palatial luxury, with few worries or cares, and he excelled in all the pursuits of his time, both academic and athletic.
+
+Before long, however, he began to doubt the validity of his worldly life. Fleeing his father's palace, he sought a more meaningful life, studying under a number of highly regarded masters of philosophy and meditation. Such was the sincerity of his quest that he rapidly achieved the highest meditational accomplishments that these masters could teach him, but he was still not satisfied. Despite years of strenuous ascetic practice, he found that none of these systems could take him beyond the limits of conditioned existence. He decided to continue his search alone, and through his own efforts finally attained enlightenment at present-day Bodh Gaya. What he discovered was so profound and vast that at first he was reluctant to reveal it to anyone else, fearing that none would understand it. Later however he began teaching, and quickly attracted a large following of disciples, many of whom became highly accomplished in meditation.
+
+The diversity of people who came to teh Buddha to receive his teaching and practice his path called for a corresponding diversity in the way in which he taught, and different individuals or groups received different instructions appropriate to their respective temperaments and intellectual abilities. The teachings that the Buddha taught during his lifetime can therefore be broadly divided into three categories&ndash;those that were eventually collected together in the Pali Canon and form the basis for what is now known as the Theravada School, emphasizing moral discipline and ethics; the teachings of the [Mahayana](#mahayana), or Great Vehicle, which stress compassion and concern for others; and the tantric teachings of the [Vajrayana](#vajrayana) or [Secret Mantrayana](#secret-mantrayana), which use an enormous variety of skillful methods to bring about profound realization in a relatively short time. The latter were given by the Buddha himself only on a limited scale, but he predicted that they would be spread in this world by other enlightened beings, who would appear later. This is why the [Vajrayana](#vajrayana) is no less a Buddhist teaching than the other two schools, even though it was not widely taught in the Buddha's lifetime.
+
+After his death the differences between the various teachings that he had given became more rigidly apparent as different schools and traditions took shape. The present Theravada tradition, for example, has its beginnings in a group of the Buddha's disciples which later divided into eighteen schools. The [Mahayana](#mahayana) similarly diversified into a number of traditions, each with their own subtly individual philosophical differences. The same is true for the [Vajrayana](#vajrayana), in which there is an immense variety of practices, many of which were originally taught only to a single individual.
+
+*<h1 id="postface" align="center">Postface</h1>*
 
 ---
 
-<h1 id="notes" align="center">Notes</h1>
+*<h1 id="notes" align="center">Notes</h1>*
 
 ## 1
 
