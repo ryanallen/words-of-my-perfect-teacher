@@ -20,7 +20,7 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 
 &nbsp;
 
-THE WORDS OF MY PERFECT TEACHER</h1>
+*THE WORDS OF MY PERFECT TEACHER*</h1>
 
 <h2 align="center">PATRUL RINPOCHE</h2>
 
@@ -58,7 +58,7 @@ Printed in the United States of America.
 
 ---
 
-<blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>
+*<blockquote align="center">To the teachers<br>of the past, the present and the future</blockquote>*
 
 ---
 
@@ -93,13 +93,13 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 [Translators' Acknowledgements](#acknowledgements)  
 [Preface to the Second Edition](#preface)  
 [Translators' Introduction](#introduction)  
-[A brief historical introduction to Tibetan Buddhism](#briefhistory)  
+[A brief historical introduction to Tibetan Buddhism](#historical-introduction)  
 
 [PROLOGUE](#prologue)  
 
 <h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</h3>  
+<h3 align="center"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></h3>  
 &nbsp;
 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING 
@@ -127,7 +127,7 @@ II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS
 4. Reflecting on numerical comparisons  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Two<br>The impermanence of life</h3>  
+<h3 align="center"><i>Chapter Two<br>The impermanence of life</i></h3>  
 &nbsp;
 
 I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
@@ -145,7 +145,7 @@ VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH
 VII. INTENSE AWARENESS OF IMPERMANENCE  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Three<br>The defects of samsara</h3>  
+<h3 align="center"><i>Chapter Three<br>The defects of samsara</i></h3>  
 &nbsp;
 
 I. THE SUFFERINGS OF SAMSARA IN GENERAL  
@@ -192,7 +192,7 @@ II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
   6. The gods  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Four<br>Actions: the principle of cause and effect</h3>  
+<h3 align="center"><i>Chapter Four<br>Actions: the principle of cause and effect</i></h3>  
 &nbsp;
 
 I. NEGATIVE ACTIONS TO BE ABANDONED  
@@ -221,7 +221,7 @@ II. POSITIVE ACTIONS TO BE ADOPTED
 III.  THE ALL-DETERMINING QUALITY OF ACTIONS
  
 <p align="center">◈</p>
-<h3 align="center">Chapter Five<br>The benefits of liberation</h3>  
+<h3 align="center"><i>Chapter Five<br>The benefits of liberation</i></h3>  
 &nbsp;
 
 I. CAUSES LEADING TO LIBERATION  
@@ -229,7 +229,7 @@ I. CAUSES LEADING TO LIBERATION
 II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT  
  
 <p align="center">◈</p>
-<h3 align="center">Chapter Six<br>How to follow a spiritual friend</h3>  
+<h3 align="center"><i>Chapter Six<br>How to follow a spiritual friend</i></h3>  
 &nbsp;
 
 I. EXAMINING THE TEACHER  
@@ -242,7 +242,7 @@ III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS
 
 <h2 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h2>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>Taking refuge, foundation stone of all paths</h3>  
+<h3 align="center"><i>Chapter One<br>Taking refuge, foundation stone of all paths</i></h3>  
 &nbsp;
 
 I. APPROACHES TO TAKING REFUGE  
@@ -267,7 +267,7 @@ III. PRECEPTS AND BENEFITS OF TAKING REFUGE
 2. The benefits of taking refuge
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</h3>  
+<h3 align="center"><i>Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</i></h3>  
 &nbsp;
 
 I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES  
@@ -323,7 +323,7 @@ III. TRAINING IN THE BODHICITTA PRECEPTS
         3. Wisdom through meditation  
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</h3>  
+<h3 align="center"><i>Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</i></h3>  
 &nbsp;
 
 I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION  
@@ -338,7 +338,7 @@ II. THE FOUR POWERS
 III. THE ACTUAL MEDITATION ON VAJRASATTVA
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Four<br>Offering the mandala to accumulate merit and wisdom</h3>  
+<h3 align="center"><i>Chapter Four<br>Offering the mandala to accumulate merit and wisdom</i></h3>  
 &nbsp;
 
 I. THE NEED FOR THE TWO ACCUMULATIONS
@@ -354,7 +354,7 @@ III. THE OFFERING MANDALA
     3. THE SPECIAL MANDALA OF THE DHARMAKAYA
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</h3>  
+<h3 align="center"><i>Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</i></h3>  
 &nbsp;
 
 I. THE BODY AS AN OFFERING
@@ -369,7 +369,7 @@ II. THE PRACTICE OF OFFERING THE BODY
 III. THE MEANING OF CHO
 
 <p align="center">◈</p>
-<h3 align="center">Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</h3>  
+<h3 align="center"><i>Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</i></h3>  
 &nbsp;
 
 I. THE REASON FOR GURU YOGA
@@ -405,7 +405,7 @@ IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
 
 <h2 align="center">PART THREE<br>THE SWIFT PATH OF TRANSFERENCE</h2>  
 <p align="center">◈</p>
-<h3 align="center">Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</h3>  
+<h3 align="center"><i>Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></h3>  
 &nbsp;
 
 I. THE FIVE KINDS OF TRANSFERENCE
@@ -435,14 +435,15 @@ CONCLUSION
 
 ---
 
-<h1 id="listofillustrations" align="center">List of Illustrations</h1>
+*<h1 id="listofillustrations" align="center">List of Illustrations</h1>*
+
 ---
 
 *<p id="Padmasambhava-il" align="center">Padmasambhava</p>*
 
 ---
 
-<h1 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h1>
+*<h1 id="forewordhhdl" align="center">Foreword<br>by The Dalai Lama</h1>*
 
 Jig-me Gyal-wai Nyu-gu, who was one of the eminent disciples of Jig-me Ling-pa, the exponent of Dzog-pa Chen-po Long-chen Nying-thig, gave an oral instruction on Long-chen Nying-thig and his disciple Dza Pal-trul Rinpoche transcribed it, giving it the title: KUNSANG LA-MAI ZHAL-LUNG.
 
@@ -459,7 +460,7 @@ The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjam
 
 ---
 
-<h1 id="forewordhhdkr" align="center">Foreword<br>by Dilgo Khyentse Rinpoche</h1>
+*<h1 id="forewordhhdkr" align="center">Foreword<br>by Dilgo Khyentse Rinpoche</h1>*
 
 *The Words of My Perfect Teacher, a Guide to the Preliminaries for the Heart-essence of the Vast Expanse from the Great Perfection*, sets out the paths of the four main schools of Tibetan Buddhism without any conflict between them.
 
@@ -469,7 +470,7 @@ For all teachings on all practices, whether preliminaries or main, this text is 
 
 ---
 
-<h1 id="acknowledgements" align="center">Translators' Acknowledgements</h1>
+*<h1 id="acknowledgements" align="center">Translators' Acknowledgements</h1>*
 
 In accordance with Tibetan tradition, the translators would like to thank the teachers of the lineage: the late Dudjom Rinpoche, Dilgo Khyentse Rinpoche and Kangyur Rinpoche, whose extraordinary inspiration and patient explanations form the basis for all our efforts to understand these teachings; and also the numerous other [lamas](#lama) who answered our questions and gave us encouragement&ndash;Dodrup Chen Rinpoche, Nyoshul Khenpo Rinpoche, Dzogchen Khenpo Thubten, Zenkar Rinpoche, Khetsun Zangpo Rinpoche, Lama Sonam Tobgyal and many others.
 
@@ -483,7 +484,7 @@ The translators are grateful to readers Michal Abrams, Wulstan Fletcher, Helena 
 
 Finally, our warmest thanks to Kerry Brown of the International Sacred Literature Trust for her constant and patient encouragement.
 
-<h1 id="preface" align="center">Preface to the Second Edition</h1>
+*<h1 id="preface" align="center">Preface to the Second Edition</h1>*
 
   The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgon Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the [notes](#notes) and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
 
@@ -502,7 +503,7 @@ Once again, we are grateful for the continuing interest and support of the Sacre
 
 ---
 
-<h1 id="introduction" align="center">Translators' Introduction</h1>
+*<h1 id="introduction" align="center">Translators' Introduction</h1>*
 
 *The Words of My Perfect Teacher* is one of the best-loved introductions to the foundations of Tibetan Buddhism, constantly recommended by His Holiness the Dalai Lama and other eminent teachers. It provides a detailed guide to the methods by which an ordinary person can transform his or her consciousness and set off on the path to Buddhahood, the state of awakening and freedom. The first half of the book contains a series of contemplations on the frustration and deep suffering of [samsara](#samsara), the round of existence based on ignorance and deluded emotions, and the enormous value of our human life, which provides a unique opportunity to attain Buddhahood. The second half explains the first steps of the [Vajrayana](#vajrayana), the "Diamond Vehicle" whose powerful methods of transformation provide the distinctive character of the Tibetan tradition of Buddhism.
 
@@ -597,12 +598,21 @@ The Tibetans have preserved all aspects of Indian Buddhism intact from the eight
 
 One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no means the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. Patrul Rinpoche was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgon Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai Lama, and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
 
+Dilgo Khyentse Rinpoche, like Patrul, came from Eastern Tibet. He spent twenty years of his life in meditation retreats, often in the simplest conditions. He studied with a vast number of teachers, even meeting some of Patrul Rinpoche's own disciples in his youth. He responded to the terrible destruction in Tibet in the nineteen fifties and sixties by working tirelessly to find, preserve and reprint lost texts, to establish monastic communities in exile, and above all to teach and inspire the new generations. He considered Patrul Rinpoche to be the perfect example of a Dzogchen practitioner, and encouraged and helped the translators of this book, which he considered tob e the perfect guide for students embarking on the Buddhist path.
+
+Our translation comes directly from within the tradition. In a sense it has its own lineage. Dudjom Rinpoche, Dilgo Khyentse Rinpoche, Kangyur Rinpoche, Nyoshul Khenpo Rinpoche, and the other [lamas](#lama) who taught us the entire text orally&ndash;and during the translation gave us their advice on the difficult points of the book&ndash;are realized holders of Patrul Rinpoche's teaching.
+
+Although close adherence to the exact words of an original text commands a certain respect in Tibetan circles, we have found that such translations often make ideas which are perfectly lucid and reasonable in Tibetan seem unnecessarily obscure and even bizarre in English. For this book in particular, such a method could never reflect the extraordinary lively vernacular style and humor of the original. So although we have tried to be consistent in our translation of technical terms, we have aimed to reflect not only the words, but also the atmosphere and style, by rendering the ideas in a natural English, keeping as close to the Tibetan as possible, but not at the expense of the clarity and flow of the whole.
+
+Brief explanations that we felt might be helpful to many readers appear as footnotes. There are also a large number of endnotes, not all of which will be of interest to the general reader. However we felt it important to include them, since they contain fascinating comments from the notes of Patrul Rinpoche's disciples, and interpretations of the more difficult points given by Dilgo Khyentse Rinpoche and other teachers. They will help the reader to avoid some common misunderstandings about Buddhist ideas; and for the Buddhist practitioner with some previous knowledge of the subject, these comments give a revealing extra dimension to the book.
+
 ---
+
+*<h1 id="historical-introduction" align="center">A brief historical introduction to Tibetan Buddhism</h1>*
 
 <h1 id="postface" align="center">Postface</h1>
 
 ---
-
 
 <h1 id="notes" align="center">Notes</h1>
 
