@@ -626,6 +626,8 @@ One of these four, the [Nyingma school](#nyingmapa) (whose name derives from the
 
 The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the Buddha, and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sutras](#sutra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayana](#vajrayana) teachings), and countless commentaries on all three vehicles ([Sravakayana](#sravakayana), [Mahayana](#mahayana), and [Vajrayana](#vajrayana)) written by Tibetan masters.
 
+The enormous range of teachings to be found within Tibetan Buddhism can nevertheless be summarized by the Four Noble Truths, which the Buddha expounded shortly after his enlightenment.
+
 *<h1 id="postface" align="center">Postface</h1>*
 
 ---
