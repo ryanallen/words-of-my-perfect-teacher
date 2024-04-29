@@ -638,6 +638,27 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 ---
 
+<h1 align="center">THE WORDS OF MY PERFECT TEACHER</h1>
+
+<h2 align="center">a guide to the preliminaries for the <i>Heart-essence of the Vast Expanse</i> from the Great Perfection</h2>
+
+
+*<h1 id="prologue" align="center">Prologue</h1>*
+
+*Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
+
+*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
+Most fortunate of ordinary beings who,  
+Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&ndash;  
+Teachers of the three lineages, I [prostrate](#prostration) myself before you.
+
+In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
+In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;
+
+---
+
+*<h1 id="part-one" align="center">Part One</h1>*
+
 *<p id="buddha-sakyamuni-il" align="center">Patrul Rinpoche (1808-1887)</p>*
 
 *<h1 id="postface" align="center">Postface</h1>*
