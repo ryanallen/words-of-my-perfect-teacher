@@ -630,7 +630,7 @@ The enormous range of teachings to be found within Tibetan Buddhism can neverthe
 
 The fourth truth explains the way through which this can be achieved. This essentially means, on the one hand, the accumulation of positive actions, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Sangha](#sangha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own liberation in mind can attain a high degree of realization and become and [Arhat](#arhat) (one who has overcome the negative emotions). But this is not full enlightenment. Only those who have as their motivation the good and ultimate enlightenment of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayana](#vajrayana) is able to become fully enlightened in a very short time.
 
-During his lifetime the Buddha created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogis](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization. *(The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).) Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no means the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
+During his lifetime the Buddha created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogis](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.* <sup>*The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no means the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
 
 Albert Einstein once pointed out that Buddhism was the tradition that he felt fulfilled the criteria he thought necessary for a spiritual path adapted to the twentieth century. Today modern physicists are drawing conclusions which approach the doctrines the Buddha expounded two thousand five hundred years ago. While the attractions of materialism have had an adverse affect on traditional spiritual life throughout Asia, there are increasing numbers of people in the West who are showing an interest in the possibilities offered by the study and practice of Buddhism.
 
@@ -647,13 +647,23 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 *Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
 
-*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
+Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
 Most fortunate of ordinary beings who,  
 Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&ndash;  
 Teachers of the three lineages, I [prostrate](#prostration) myself before you.
 
 In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
-In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;
+In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;  
+To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.  
+*Omniscient Sovereign of Dharma*, <sup>* [Longchenpa](#longchenpa)</sup> I [prostrate](#prostration) myself before you.
+
+In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
+The light of your love beamed benefit upon all beings;  
+You elucidated the teachings of the profound path, summit of all [vehicles](#vehicle).  
+[Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.
+
+You were Lord [Avalokitesvara](#avalokitesvara) himself in the form of a [spiritual friend](#spiritual-friend);  
+
 
 ---
 
