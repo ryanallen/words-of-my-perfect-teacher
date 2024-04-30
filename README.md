@@ -645,25 +645,42 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 *<h1 id="prologue" align="center">Prologue</h1>*
 
-*Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
-
-Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
+>*Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
+>
+>*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
 Most fortunate of ordinary beings who,  
 Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&ndash;  
-Teachers of the three lineages, I [prostrate](#prostration) myself before you.
-
-In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
+Teachers of the three lineages, I [prostrate](#prostration) myself before you.*
+>
+>*In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
 In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;  
 To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.  
-*Omniscient Sovereign of Dharma*, <sup>* [Longchenpa](#longchenpa)</sup> I [prostrate](#prostration) myself before you.
-
-In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
+*Omniscient Sovereign of Dharma*, <sup>* [Longchenpa](#longchenpa)</sup> I [prostrate](#prostration) myself before you.*
+>
+>*In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
 The light of your love beamed benefit upon all beings;  
 You elucidated the teachings of the profound path, summit of all [vehicles](#vehicle).  
-[Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.
+[Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.*
+>
+>*You were Lord [Avalokitesvara](#avalokitesvara) himself in the form of a [spiritual friend](#spiritual-friend);  
+Whoever heard you speak was established on the path to freedom;  
+To fulfil all beings' needs your activity was infinite;  
+Gracious root teacher, I [prostrate](#prostration) myself before you.*
+>
+>*The writings of Omniscient [Longchenpa](#longchenpa) and his lineage contain the Buddha's entire teachings:  
+The quintessential [pith instructions](#pith-instructions) that bring Buddhahood in a single lifetime,  
+The ordinary, outer, and the inner [preliminaries](#preliminaries) of the path  
+And the additional advice on the swift path of [transference](#transference).*
+>
+>*May the [Buddhas](#buddha) and the teachers bless me  
+That I may explain definitively as I have remembered them,  
+Wonderfully profound, yet clear and easy to understand&ndash;  
+The unerring words of my perfect teacher.*
 
-You were Lord [Avalokitesvara](#avalokitesvara) himself in the form of a [spiritual friend](#spiritual-friend);  
-
+This faithful record of my peerliess teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
+1. the ordinary outer [preliminaries](#preliminaries);
+2. the extraordinary inner [preliminaries](#preliminaries);
+3. and, as part of the main practice, the swift path of [transference](#transference).
 
 ---
 
