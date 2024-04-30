@@ -469,6 +469,8 @@ November 23, 1990 The Dalai Lama
 
 ---
 
+[alt text](image_url)
+
 *<p id="longchenpa-il">Longchenpa (1308-1363)</p>*
 The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oddiyana), [Vimalamitra](#vimalamitra) and [Yeshe Tsogyol](#yeshe-tsogyal). He transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse. 
 
@@ -512,6 +514,8 @@ Once again, we are grateful for the continuing interest and support of the Sacre
 
 ---
 
+[alt text](image_url)
+
 *<p id="jigme-il">Jigme Lingpa (1729-1798)</p>*
 [Jigme Lingpa](#jigme-lingpa) received the transmission of the *Heart-essence of the Vast Expanse* from [Longchenpa](#longchenpa). He practiced them in solitude and subsequently transmitted them to his own students.
 
@@ -539,6 +543,11 @@ Patrul Rinpoche's perfect teacher. Patrul Rinpoche heard his explanation of the 
 ## Patrul Rinpoche and the tradition he inherited
 
 In the [Nyingmapa](#nyingmapa) school, to which Patrul Rinpoche belonged, and which is the oldest tradition of Tibetan Buddhism, there are two kinds of transmission. There is the Kahma, (*bka' ma*) or oral lineage, passed on from teacher to student over the centuries, and there is the miraculous direct lineage of Terma (*gter ma*) or [Spiritual Treasures](#spiritual-treasure). These were hidden in the eighth century by [Padmasambhava](#padmasambhava-of-oddiyana) and his great woman disciple [Yeshe Tshogyal](#yeshe-tsogyal), to be discovered in later ages at the appropriate moment. *The Words of My Perfect Teacher* is an explanation of the preliminary practices of the *Longchen Nyingtik* (*klong chen snying thig*), *The Heart-essence of the Vast Expanse*, a [spiritual treasure](#spiritual-treasure) discovered by [Rigdzin Jigme Lingpa](#jigme-lingpa) (1729 - 1798).
+
+[alt text](image_url)
+
+*<p id="jigme-gyalwai-nyugu-il" align="center">Jigme Gyalwai Nyugu</p>*
+[Patrul Rinpoche's](#patrul-rinpoche-and-the-tradition-he-inherited) perfect teacher. Patrul Rinpoche heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
 
 [Jigme Lingpa](#jigme-lingpa) was a prodigy who became immensely learned with almost no study, through arousing his wisdom mind in a series of long meditation retreats. He received the *Heart-essence of the Vast Expanse* in a series of visions of [Longchenpa](#longchenpa), a great [lama](#lama) of the fourteenth century.
 
@@ -652,6 +661,10 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 ---
 
+[alt text](image_url)
+
+*<p id="patrul-rinpoche-il" align="center">Patrul Rinpoche (1808-1887)</p>*
+
 <h1 align="center">THE WORDS OF MY PERFECT TEACHER</h1>
 
 <h2 align="center">a guide to the preliminaries for the <i>Heart-essence of the Vast Expanse</i> from the Great Perfection</h2>
@@ -709,7 +722,16 @@ This faithful record of my peerless teacher's instructions on the general outer 
 <h3 align="center">THE BENEFITS OF LIBERATION</h3>
 <h3 align="center">HOW TO FOLLOW A SPIRITUAL FRIEND</h3>
 
-*<p id="buddha-sakyamuni-il" align="center">Patrul Rinpoche (1808-1887)</p>*
+---
+
+[alt text](image_url)
+
+*<p id="jamyang-khyentse-wangpo-il" align="center">Jamyang Khyentse Wangpo (1820 - 1892)</p>*
+<p id="patrul-rinpoche-il" align="center">The first Khyentse. One of the main holders of the *Heart-essence of the Vast Expanse*. He was one of the founders of the ecumenical movement in which the teachings particular to all traditions of Tibetan Buddhism are studied impartially, creating a spiritual renaissance in Tibet. He saved many teachings whose lineages were about to disappear.</p>
+
+---
+
+<h1 id="chapter-one" align="center"> Chapter One</h1>
 
 *<h1 id="postface" align="center">Postface</h1>*
 
