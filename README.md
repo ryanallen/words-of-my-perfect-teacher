@@ -1,18 +1,30 @@
 # Words of My Perfect Teacher
 A Complete Translation of a Classic Introduction to Tibetan Buddhism  
+<sub>REVISED EDITION</sub>
+
+[alt text](image_url)
+
 by Patrul Rinpoche  
-translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/)   
+translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/), with a [foreword by the Dalai Lama](#forewordhhdl)   
 [hand copied](https://github.com/ryanallen/words-of-my-perfect-teacher) by [Ryan Allen](https://github.com/ryanallen) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
 
 ---
+
+[alt text](image_url)
 
 *<p id="buddha-sakyamuni-il" align="center">Buddha Sakyamuni</p>*
 The [Buddha](#buddha) of our time
 
 ---
 
+[alt text](image_url)
+
 *<p id="guru-rinpoche-il" align="center">Guru Rinpoche</p>*
 Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
+
+---
+
+[Uchen script](image_url)
 
 ---
 
@@ -438,6 +450,8 @@ CONCLUSION
 *<h1 id="listofillustrations" align="center">List of Illustrations</h1>*
 
 ---
+
+[alt text](image_url)
 
 *<p id="Padmasambhava-il" align="center">Padmasambhava</p>*
 
