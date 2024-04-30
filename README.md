@@ -3104,3 +3104,8 @@ in wrathful [sambhogakaya](#sambhogakaya) form, an aspect of Vajravarahi (*rdo r
 
 *<h1 id="bibliography" align="center">Bibliography</h1>*
 *<h1 id="index" align="center">Index</h1>*
+
+<details>
+  <summary>Details</summary>
+  Summary summarizing summaries.
+</details>
