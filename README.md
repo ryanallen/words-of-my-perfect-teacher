@@ -677,7 +677,7 @@ That I may explain definitively as I have remembered them,
 Wonderfully profound, yet clear and easy to understand&ndash;  
 The unerring words of my perfect teacher.*
 
-This faithful record of my peerliess teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
+This faithful record of my peerless teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
 1. the ordinary outer [preliminaries](#preliminaries);
 2. the extraordinary inner [preliminaries](#preliminaries);
 3. and, as part of the main practice, the swift path of [transference](#transference).
@@ -685,6 +685,15 @@ This faithful record of my peerliess teacher's instructions on the general outer
 ---
 
 *<h1 id="part-one" align="center">Part One</h1>*
+
+<h2 align="center">THE ORDINARY OR OUTER PRELIMINARIES</h2>
+
+<h3 align="center">THE DIFFICULTY OF FINDING THE FREEDOMS AND ADVANTAGES</h3>
+<h3 align="center">THE IMPERMANENCE OF LIFE</h3>
+<h3 align="center">THE DEFECTS OF SAMSARA</h3>
+<h3 align="center">ACTIONS: THE PRINCIPLE OF CAUSE AND EFFECT</h3>
+<h3 align="center">THE BENEFITS OF LIBERATION</h3>
+<h3 align="center">HOW TO FOLLOW A SPIRITUAL FRIEND</h3>
 
 *<p id="buddha-sakyamuni-il" align="center">Patrul Rinpoche (1808-1887)</p>*
 
