@@ -109,11 +109,11 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
-<h2 align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</h2>  
+<h2 align="center"><a href="#part-one">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h2>  
 <p align="center">◈</p>
-<h3 align="center"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></h3>  
+<h3 align="center"><a href="#chapter-one"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
 &nbsp;
-
+ 
 I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING 
 1. Attitude  
     1. THE VAST ATTITUDE OF THE BODHICITTA  
