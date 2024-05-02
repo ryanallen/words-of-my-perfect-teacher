@@ -731,7 +731,24 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 ---
 
-<h1 id="chapter-one" align="center"> Chapter One</h1>
+<h1 id="chapter-one" align="center">CHAPTER ONE</h1>
+<h2 id="chapter-one" align="center"><i>The difficulty of finding the freedoms and advantages</i></h2>
+
+The main subject of the chapter, the teaching on how difficult it is to find the freedoms and advantages, is preceded by an explanation of the proper way to listen to any spiritual instruction.
+
+### I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
+
+The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
+
+#### 1. Attitude
+
+The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
+
+##### 1.1 THE VAST ATTITUDE OF THE BODHICITTA
+
+There is not a single being in [samsara](#samsara), this immense ocean of suffering, who in the course of time without beginning has never been our father or mother. When they were our parents, these beings' only thought was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
+
+All of these beings, who have been so kind to us, want to be happy, and yet they have no idea how to put into practice what brings about happiness, the ten positive actions. 
 
 *<h1 id="postface" align="center">Postface</h1>*
 
