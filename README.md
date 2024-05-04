@@ -6,7 +6,7 @@ A Complete Translation of a Classic Introduction to Tibetan Buddhism
 
 by Patrul Rinpoche  
 translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/), with a [foreword by the Dalai Lama](#forewordhhdl)   
-[hand copied](https://github.com/ryanallen/words-of-my-perfect-teacher) by [Ryan Allen](https://github.com/ryanallen) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
+[hand copied](https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC) by [Ryan Allen](https://github.com/ryanallen) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
 
 ---
 
