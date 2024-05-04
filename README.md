@@ -109,15 +109,15 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
-<h2 align="center"><a href="#part-one">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h2>  
+<h2 align="center"><a href="#p1">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h2>  
 <p align="center">◈</p>
-<h3 align="center"><a href="#chapter-one"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
+<h3 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
 &nbsp;
  
-I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING 
-1. Attitude  
-    1. THE VAST ATTITUDE OF THE BODHICITTA  
-    2. VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA  
+[I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
+[1. Attitude](#1-attitude)  
+    [1. THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
+    [2. VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
 2. Conduct  
     1. WHAT TO AVOID  
         1. The Three Defects of the Pot  
@@ -711,7 +711,7 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 ---
 
-*<h1 id="part-one" align="center">Part One</h1>*
+*<h1 id="p1" align="center">Part One</h1>*
 
 <h2 align="center">THE ORDINARY OR OUTER PRELIMINARIES</h2>
 
@@ -731,8 +731,8 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 ---
 
-<h1 id="chapter-one" align="center">CHAPTER ONE</h1>
-<h2 id="chapter-one" align="center"><i>The difficulty of finding the freedoms and advantages</i></h2>
+<h1 id="ch1" align="center">CHAPTER ONE</h1>
+<h2 align="center"><i>The difficulty of finding the freedoms and advantages</i></h2>
 
 The main subject of the chapter, the teaching on how difficult it is to find the freedoms and advantages, is preceded by an explanation of the proper way to listen to any spiritual instruction.
 
