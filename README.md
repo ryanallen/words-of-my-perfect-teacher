@@ -752,6 +752,10 @@ All of these beings, who have been so kind to us, want to be happy, and yet they
 
 Tell yourself: "It is for their well-being that I am going to listen to the profound [Dharma](#dharma) and put it into practice. I will lead all these beings, my parents, tormented by the miseries of the [six realms of existence](#six-realms-of-existence), to the state of omniscient Buddhahood, freeing them from all the [karmic phenomena](#karmic-energy), habitual patterns and sufferings of every one of the [six realms](#six-realms-of-existence)." It is important to have this attitude each time you listen to teachings or practice them.
 
+Whenever you do something positive, whether of major or minor importance, it is indispensable to enhance it with the three supreme methods. Before beginning, arouse the bodhicitta as a skilful means to make sure that the action becomes a source of good for the future. While carrying out the action, avoid getting involved in any conceptualization <details><summary><sup>[1](#1)</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
+
+
+
 *<h1 id="postface" align="center">Postface</h1>*
 
 ---
@@ -759,6 +763,7 @@ Tell yourself: "It is for their well-being that I am going to listen to the prof
 *<h1 id="notes" align="center">Notes</h1>*
 
 ## 1
+For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.
 
 ## 2
 
