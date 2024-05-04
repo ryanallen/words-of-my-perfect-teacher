@@ -778,6 +778,20 @@ No matter how many teachings you have heard, to be motivated by ordinary concern
 
 ##### 1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA
 
+The *Torch of the Three Methods* says of the [Secret Mantrayana](#secret-mantrayana):
+
+>It has the same goal but is free from all confusion,<sup>[4](#4)</sup>  
+It is rich in methods and without difficulties.<sup>[5](#5)</sup>  
+It is for those with sharp faculties.<sup>[6](#6)</sup>  
+The Mantra Vehicle is sublime.
+
+<details id="4"><summary>Note <sup>4</sup></summary>
+"The object of view (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>>chos kyi dbyings</i>, Skt. <i>dharmadhatu</i>). But with regard to the view itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The Vehicle of Characteristics (the sutras) establishes the support, the essence, the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial wisdom (<i>dbyings ye zung 'jug</i>).
+</details>
+<details id="5"><summary>Note <sup>5</sup></summary></details>
+<details id="6"><summary>Note <sup>6</sup></summary></details>
+
+
 *<h1 id="postface" align="center">Postface</h1>*
 
 ---
