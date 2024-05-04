@@ -752,11 +752,31 @@ All of these beings, who have been so kind to us, want to be happy, and yet they
 
 Tell yourself: "It is for their well-being that I am going to listen to the profound [Dharma](#dharma) and put it into practice. I will lead all these beings, my parents, tormented by the miseries of the [six realms of existence](#six-realms-of-existence), to the state of omniscient Buddhahood, freeing them from all the [karmic phenomena](#karmic-energy), habitual patterns and sufferings of every one of the [six realms](#six-realms-of-existence)." It is important to have this attitude each time you listen to teachings or practice them.
 
-Whenever you do something positive, whether of major or minor importance, it is indispensable to enhance it with the three supreme methods. Before beginning, arouse the bodhicitta as a skilful means to make sure that the action becomes a source of good for the future. While carrying out the action, avoid getting involved in any conceptualization<sup>1</sup>, so that the merit cannot be destroyed by circumstances<sup>2</sup>.  
+Whenever you do something positive, whether of major or minor importance, it is indispensable to enhance it with the three supreme methods. Before beginning, arouse the bodhicitta as a skilful means to make sure that the action becomes a source of good for the future. While carrying out the action, avoid getting involved in any conceptualization,<sup>[1](#1)</sup> so that the merit cannot be destroyed by circumstances.<sup>[2](#2)</sup> At the end, seal the action properly by dedicating the [merit](#merit), which will ensure that it continually grows ever greater.<sup>[3](#3)</sup>
 
-<details><summary>Note 1</summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
+<details id="1"><summary>Note <sup>1</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
 
-<details><summary>Note 2</summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
+<details id="2"><summary>Note <sup>2</sup></summary>The positive energy of the practice can also be channelled away from enlightenment into other things. NT mentions four circumstances which destroy one's sources of merit. (<i>dge rtsa</i>):<br>  
+1. Not dedicating the action to the attainment of perfect Buddhahood for the sake of other.<br>
+2. Anger: one moment of anger is said to be capable of destroying <a href="#kalpa">kalpas</a> of positive actions.<br>
+3. Regret: regretting the beneficial actions one has done, even partially.<br>
+4. Boasting of one's positive actions to others.</details>
+
+<details id="3"><summary>Note <sup>3</sup></summary>The positive energy of the practice can also be channelled away from enlightenment into other things. NT mentions four circumstances which destroy one's sources of merit. (<i>dge rtsa</i>):<br>  
+1. Not dedicating the action to the attainment of perfect Buddhahood for the sake of other.<br>
+2. Anger: one moment of anger is said to be capable of destroying <a href="#kalpa">kalpas</a> of positive actions.<br>
+3. Regret: regretting the beneficial actions one has done, even partially.<br>
+4. Boasting of one's positive actions to others.</details>
+
+The way you listen to the [Dharma](#dharma) is very important. But even more important is the motivation with which you listen to it.
+
+> What makes an action good or bad?  
+Not how it looks, nor whether it is big or small,  
+But the good or evil motivation behind it.
+
+No matter how many teachings you have heard, to be motivated by ordinary concerns&ndash;such as a desire for greatness, fame or whatever&ndash;is not the way of the true [Dharma](#dharma). So, **first of all, it is most important to turn inwards and change your motivation**. If you can correct your attitude, [skilful means](#skilful-means) will permeate your positive actions, and you will have set out on the path of great beings. If you cannot, you might think that you are studying and practicing the [Dharma](#dharma) but it will be no more than a semblance of the real thing. Therefore, whenever you listen to the teachings and whenever you practice, be it meditating on a [deity](#deity), doing [prostrations](#prostration) and [circumambulations](#circumambulation), or reciting a [mantra](#mantra)&ndash;even a single *[mani](#mani)*&ndash;**it is always essential to give rise to bodhicitta**.
+
+##### 1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA
 
 *<h1 id="postface" align="center">Postface</h1>*
 
