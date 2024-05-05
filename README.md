@@ -115,7 +115,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 &nbsp;
  
 <h4><a href="#i-the-proper-way-to-listen-to-spiritual-teaching">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</a></h4>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude<</a></h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude</a></h3>
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-the-vast-attitude-of-the-bodhicitta">1.1 THE VAST ATTITUDE OF THE BODHICITTA</a></h5>
 <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
