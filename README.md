@@ -101,7 +101,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 [List of illustrations](#listofillustrations)  
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
-[Foreword by Dilgo Khyentse Rinpoche](#forewordby-dilgo-khyentse-rinpoche)  
+[Foreword by Dilgo Khyentse Rinpoche](#forewordhhdkr)  
 [Translators' Acknowledgements](#acknowledgements)  
 [Preface to the Second Edition](#preface)  
 [Translators' Introduction](#introduction)  
@@ -114,11 +114,11 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 <h3 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
 &nbsp;
  
-<h4><a href="#i-the-proper-way-to-listen-to-spiritual-teaching">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</a></h4>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude</a></h3>
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-the-vast-attitude-of-the-bodhicitta">1.1 THE VAST ATTITUDE OF THE BODHICITTA</a></h5>
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
+<h4 id="toc1.i"><a href="#i-the-proper-way-to-listen-to-spiritual-teaching">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</a></h4>
+<h3 id="toc1.1">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude</a></h3>
+<h5 id="toc1.1.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-the-vast-attitude-of-the-bodhicitta">1.1 THE VAST ATTITUDE OF THE BODHICITTA</a></h5>
+<h5 id="toc1.1.2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
+<h3 id="toc1.2">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
     1. WHAT TO AVOID  
         1. The Three Defects of the Pot  
         2. The Six Stains  
