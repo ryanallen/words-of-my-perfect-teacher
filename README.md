@@ -824,11 +824,24 @@ These visualizations<sup>[9](#9)</sup> are to help us understand how things are 
 <i>gsal btab pa</i> means visualize but also to bring to mind, to have clearly in one's mind, to refresh one's memory. "Visualizing in this way does not mean telling oneself that a donkey is a horse or that a piece of coal is gold; it means having vividly in one's mind what has always been so from the beginning, that appearances and beings spring from the primal ground, which is the state of Buddhahood." NT
 </details>
 
-The teacher embodies the essence of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Sangha](#sangha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [dakini](#dakini). He is the union of the [three kayas](#three-kayas): his body is the [nirmanakaya](#nirmanakaya), his speech the [sambhogakaya](#sambhogakaya), his mind the [dharmakaya](#dharmakaya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand Buddhas of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha)
+The teacher embodies the essence of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Sangha](#sangha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [dakini](#dakini). He is the union of the [three kayas](#three-kayas): his body is the [nirmanakaya](#nirmanakaya), his speech the [sambhogakaya](#sambhogakaya), his mind the [dharmakaya](#dharmakaya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand Buddhas of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
 
 <details id="10"><summary>Note <sup>10</sup></summary>
 "In this <a href="#kalpa">kalpa</a> a thousand <a href="#buddha">Buddhas</a> are to appear. However, we have not met those <a href="#buddha">Buddhas</a> who have already come&mdash;or if we did meet them they did not succeed in bringing us to liberation. As for the <a href="#buddha">Buddhas</a> of the future, it is still too soon for us to meet them. So without our spiritual teachers we would hav no one to help us." DKR
 </details>
+
+>The teacher is the [Buddha](#buddha), the teacher is the [Dharma](#dharma),  
+The teacher is also the [Sangha](#sangha).  
+The teacher is the one who accomplishes everything.  
+The teacher is Glorious [Vajradhara](#vajradhara).
+
+We, as the assembly gathered to listen to the teachings, use the basis of our own [Buddha-nature](#buddha-nature), the support of our precious human life, the circumstance of having a [spiritual friend](#spiritual-friend) and the method of following his advice, to become the [Buddhas](#buddha) of the future. As the *Hevajra Tantra* says:
+
+> All beings are [Buddhas](#buddha),  
+But this is concealed by adventitious stains.  
+When their stains are purified, their Buddhahood is revealed.
+
+
 
 *<h1 id="postface" align="center">Postface</h1>*
 
