@@ -653,7 +653,9 @@ The enormous range of teachings to be found within Tibetan Buddhism can neverthe
 
 The fourth truth explains the way through which this can be achieved. This essentially means, on the one hand, the accumulation of positive actions, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Sangha](#sangha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own liberation in mind can attain a high degree of realization and become and [Arhat](#arhat) (one who has overcome the negative emotions). But this is not full enlightenment. Only those who have as their motivation the good and ultimate enlightenment of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayana](#vajrayana) is able to become fully enlightened in a very short time.
 
-During his lifetime the Buddha created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogis](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.* <sup>*The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no means the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
+During his lifetime the Buddha created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogis](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.<sup>*</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no means the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
+
+<sup>*The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).</sup>
 
 Albert Einstein once pointed out that Buddhism was the tradition that he felt fulfilled the criteria he thought necessary for a spiritual path adapted to the twentieth century. Today modern physicists are drawing conclusions which approach the doctrines the Buddha expounded two thousand five hundred years ago. While the attractions of materialism have had an adverse affect on traditional spiritual life throughout Asia, there are increasing numbers of people in the West who are showing an interest in the possibilities offered by the study and practice of Buddhism.
 
@@ -681,8 +683,9 @@ Teachers of the three lineages, I [prostrate](#prostration) myself before you.*
 >
 >*In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
 In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;  
-To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.  
-*Omniscient Sovereign of Dharma*, <sup>* [Longchenpa](#longchenpa)</sup> I [prostrate](#prostration) myself before you.*
+To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.*  
+*Omniscient Sovereign of Dharma*<sup>*</sup>,  *I [prostrate](#prostration) myself before you.*    
+><sup> *[Longchenpa](#longchenpa)</sup>
 >
 >*In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
 The light of your love beamed benefit upon all beings;  
@@ -702,7 +705,7 @@ And the additional advice on the swift path of [transference](#transference).*
 >*May the [Buddhas](#buddha) and the teachers bless me  
 That I may explain definitively as I have remembered them,  
 Wonderfully profound, yet clear and easy to understand&mdash;  
-The unerring words of my perfect teacher.*
+The unerring words of my perfect teacher.*  
 
 This faithful record of my peerless teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
 1. the ordinary outer [preliminaries](#preliminaries);
@@ -838,6 +841,54 @@ But this is concealed by adventitious stains.
 When their stains are purified, their Buddhahood is revealed.
 
 <h3 id="ch1.2"><b>2. Conduct</b></h3>
+
+The right conduct while listening to teachings is described in terms of what to avoid and what to do.
+
+<h4 id="ch1.2.1">2.1 WHAT TO AVOID</h4>
+
+Conduct to avoid includes the three defects of the pot, the six stains and the five wrong ways of remembering.
+
+<h5 id="ch1.2.1.1">2.1.1 The Three Defects of the Pot</h5>
+
+Not to listen is to be like a pot turned upside down. Not to be able to retain what you hear is to be like a pot with a hole in it. To mix negative emotions with what you hear is to be like a pot with poison in it.
+
+*The upside-down pot*. When you are listening to the teachings, listen to what is being said and do not let yourself be distracted by anything else. Otherwise you will be like an upside-down pot on which liquid is being poured. Although you are physically present, you do not hear a word of the teaching.
+
+*The pot with a hole in it*. If you just listen without remembering anything that you hear or understand, you will be like a pot with a leak: however much liquid is poured into it, nothing can stay. No matter how many teachings you hear, you can never assimilate them or put them into practice.
+
+*The pot containing poison*. If you listen to the teachings with the wrong attitude, such as the desire to become great or famous, or a mind full of the [five poisons](#five-poisons), the [Dharma](#dharma) will not only fail to help your mind; it will also be changed into something that is not [Dharma](#dharma) at all, like [nectar](#nectar) poured into a pot containing poison.
+
+This is why the Indian sage, [Padampa Sangye](#padampa-sangye), said:
+> Listen to the teachings like a deer listening to music;  
+Contemplate them like a northern nomad shearing sheep;<sup>*</sup>  
+Meditate on them like a dumb person savouring food;<sup>**</sup>  
+Practice them like a hungry yak eating grass;  
+Reach their result, like the sun coming out from behind the clouds.  
+>
+> <sup> *That is to say, meticulously, in their entirety, and without distraction.</sup>  
+> <sup> **A dumb person can taste, but not describe the flavors they are tasting. In the same way, the taste of true meditation is beyond any description or concepts.</sup>
+
+When listening to the teachings, you should be like a deer so entranced by the sound of the *[vina](#vina)* that it does not notice the hidden hunter shooting his poisoned arrow. Put your hands together palm to palm and listen, every pore on your body tingling and your eyes wet with tears, never letting any other thought get in the way.
+
+It is no good listening with only your body physically present, while your mind wanders off after your thoughts and your speech lets loose a rich store of gossip, saying whatever you like and looking around everywhere. When listening to teachings, you should even stop reciting prayers, counting mantras, or whatever other meritorious activities you may be doing.
+
+AFter you have listened properly to a teaching in this way, it is then also important to retain the meaning of what has been said without ever forgetting it, and to continually put it into practice. For, as the Great Sage himself said:
+
+> I have shown you the methods  
+That lead to liberation.  
+But you should know  
+That liberation depends upon yourself.
+
+The teacher gives the disciple instructions explaining how to listen to the [Dharma](#dharma) and how to apply it, how to give up [negative actions](#negative-action), how to perform [positive ones](#positive-action), and how to practice. It is up to the disciple to remember those instructions, forgetting nothing; to put them into practice; and to realize them.
+
+Just listening to the [Dharma](#dharma) is perhaps of some benefit by itself. But unless you remember what you hear, you will not have the slightest knowledge of either the words or the meaning of the teaching&mdash;which is no different from not having heard it at all.
+
+If you remember the teachings but mix them with your [negative emotions](#negative-emotions), they will never be the pure [Dharma](#dharma). As the peerless [Dago Rinpoche](#dago-rinpoche) says:
+
+> Unless you practice [Dharma](#dharma) according to the [Dharma](#dharma),  
+[Dharma](#dharma) itself becomes the cause of evil rebirths.
+
+Rid yourself of every wrong thought concerning the teacher and the [Dharma](#dharma), do not criticize or abuse your [spiritual brothers companions](#spiritual-companions), be free of pride and contempt, abandon all bad thoughts. For all of these cause lower rebirths.
 
 *<h1 id="postface" align="center">Postface</h1>*
 
