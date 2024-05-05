@@ -117,8 +117,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ### [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#ch1.i)
 ### &nbsp;&nbsp;&nbsp;&nbsp; **[1. Attitude](#ch1.1)**
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#ch1.1.1)
-<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#ch1.1.2)
+### **[2. Conduct](#ch1.2)**
     1. WHAT TO AVOID  
         1. The Three Defects of the Pot  
         2. The Six Stains  
@@ -776,7 +776,7 @@ But the good or evil motivation behind it.
 
 No matter how many teachings you have heard, to be motivated by ordinary concerns&mdash;such as a desire for greatness, fame or whatever&mdash;is not the way of the true [Dharma](#dharma). So, **first of all, it is most important to turn inwards and change your motivation**. If you can correct your attitude, [skilful means](#skilful-means) will permeate your positive actions, and you will have set out on the path of great beings. If you cannot, you might think that you are studying and practicing the [Dharma](#dharma) but it will be no more than a semblance of the real thing. Therefore, whenever you listen to the teachings and whenever you practice, be it meditating on a [deity](#deity), doing [prostrations](#prostration) and [circumambulations](#circumambulation), or reciting a [mantra](#mantra)&mdash;even a single *[mani](#mani)*&mdash;**it is always essential to give rise to bodhicitta**.
 
-##### 1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA
+<h4 id="ch1.1.2">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</h4>
 
 The *Torch of the Three Methods* says of the [Secret Mantrayana](#secret-mantrayana):
 
@@ -841,7 +841,7 @@ We, as the assembly gathered to listen to the teachings, use the basis of our ow
 But this is concealed by adventitious stains.  
 When their stains are purified, their Buddhahood is revealed.
 
-### 2. Conduct
+<h3 id="ch1.2"><b>2. Conduct</b></h3>
 
 *<h1 id="postface" align="center">Postface</h1>*
 
