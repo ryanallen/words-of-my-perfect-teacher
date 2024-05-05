@@ -114,11 +114,11 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 <h3 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
 &nbsp;
  
-[I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
-[1. Attitude](#1-attitude)  
-    [1. THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
-    [2. VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
-2. Conduct  
+<h4><a href="#i-the-proper-way-to-listen-to-spiritual-teaching">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</a></h4>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude<</a></h3>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-the-vast-attitude-of-the-bodhicitta">1.1 THE VAST ATTITUDE OF THE BODHICITTA</a></h5>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
     1. WHAT TO AVOID  
         1. The Three Defects of the Pot  
         2. The Six Stains  
@@ -740,7 +740,7 @@ The main subject of the chapter, the teaching on how difficult it is to find the
 
 The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
 
-#### 1. Attitude
+### 1. Attitude
 
 The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
 
@@ -841,7 +841,7 @@ We, as the assembly gathered to listen to the teachings, use the basis of our ow
 But this is concealed by adventitious stains.  
 When their stains are purified, their Buddhahood is revealed.
 
-
+### 2. Conduct
 
 *<h1 id="postface" align="center">Postface</h1>*
 
