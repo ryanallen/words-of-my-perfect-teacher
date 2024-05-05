@@ -109,16 +109,16 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
-<h2 align="center"><a href="#p1">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h2>  
+<h1 align="center"><a href="#p1">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h1>  
 <p align="center">◈</p>
-<h3 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h3>  
+<h2 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h2>  
 &nbsp;
  
-<h4 id="toc1.i"><a href="#i-the-proper-way-to-listen-to-spiritual-teaching">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</a></h4>
-<h3 id="toc1.1">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-attitude">1. Attitude</a></h3>
-<h5 id="toc1.1.1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-the-vast-attitude-of-the-bodhicitta">1.1 THE VAST ATTITUDE OF THE BODHICITTA</a></h5>
-<h5 id="toc1.1.2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
-<h3 id="toc1.2">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
+### [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#ch1.i)
+### &nbsp;&nbsp;&nbsp;&nbsp; **[1. Attitude](#ch1.1)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#ch1.1.1)
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</a></h5>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2-conduct">2. Conduct</a></h3>
     1. WHAT TO AVOID  
         1. The Three Defects of the Pot  
         2. The Six Stains  
@@ -736,15 +736,15 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 The main subject of the chapter, the teaching on how difficult it is to find the freedoms and advantages, is preceded by an explanation of the proper way to listen to any spiritual instruction.
 
-### I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
+<h3 id="ch1.i">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</h4>
 
 The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
 
-### 1. Attitude
+<h3 id="ch1.1"><b>1. Attitude</b></h3>
 
 The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
 
-##### 1.1 THE VAST ATTITUDE OF THE BODHICITTA
+<h4 id="ch1.1.1"> 1.1 THE VAST ATTITUDE OF THE BODHICITTA</h4>
 
 There is not a single being in [samsara](#samsara), this immense ocean of suffering, who in the course of time without beginning has never been our father or mother. When they were our parents, these beings' only thought was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
 
