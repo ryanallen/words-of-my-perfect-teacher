@@ -786,11 +786,35 @@ It is for those with sharp faculties.<sup>[6](#6)</sup>
 The Mantra Vehicle is sublime.
 
 <details id="4"><summary>Note <sup>4</sup></summary>
-"The object of view (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>>chos kyi dbyings</i>, Skt. <i>dharmadhatu</i>). But with regard to the view itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The Vehicle of Characteristics (the sutras) establishes the support, the essence, the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial wisdom (<i>dbyings ye zung 'jug</i>).
+"The object of view (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>>chos kyi dbyings</i>, Skt. <i>dharmadhatu</i>). But with regard to the view itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The Vehicle of Characteristics (the sutras) establishes the support, the essence, the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial wisdom (<i>dbyings ye zung 'jug</i>). As for what is supported, the phenomena of relative reality, the Vehicle of Characteristics establishes them as being interdependent and like a magical illusion. But it does not go further than this impure magical display, to establish the <a href="#kaya">kayas</a> and wisdoms. The Vehicle of the Secret Mantras, on the other hand, establishes the higher great <a href="#dharmakaya">dharmakaya</a>, the array of <a href="#kaya">kayas</a> and wisdoms which have always been inseparable, the two absolute truths." NT
 </details>
-<details id="5"><summary>Note <sup>5</sup></summary></details>
-<details id="6"><summary>Note <sup>6</sup></summary></details>
+<details id="5"><summary>Note <sup>5</sup></summary>
+"In the Vehicle of Characteristics it is not taught that one can attain Enlightenment without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant Vehicle) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the level of Union, the level of Vajradhara, in one life and one body."</details>
+<details id="6"><summary>Note <sup>6</sup></summary>
+Beings with sharp faculties are those who are "intelligent enough to be able to realize the profound view of the Adamantine Vehicle of Secret Mantras and who possess sufficient confidence not to be afraid of vast and powerful actions."</details>  
 
+The [Mantrayana](#secret-mantrayana) can be entered by many routes. It contains many methods for accumulating [merit](#merit) and [wisdom](#wisdom), and profound [skillful means](#skilful-means) to make the potential within us manifest<sup>[7](#7)</sup> without our having to undergo great hardships. The basis for these methods is the way we direct our aspirations:
+
+> Everything is circumstantial  
+And depends entirely on one's aspiration.  
+
+<details id="7"><summary>Note <sup>7</sup></summary>
+According to the <a href="#secret-mantrayana">Secret Mantrayana</a> one does not create or develop anything by following the path. One is simply making visible something which is already present&ndash;one's own Buddha-nature.
+</details>
+
+Do not consider the place where the [Dharma](#dharma) is being taught, the teacher, the teachings and so on as ordinary and impure. As you listen, keep the [five perfections](#five-perfections) clearly in mind:
+
+The perfect *place* is the citadel of the absolute expanse, called [Akanistha](#akanistha), "the Unexcelled." The perfect *teacher* is [Samantabhadra](#samantabhadra), the [dharmakaya](#dharmakaya). The perfect *assembly* consists of the male and female [Bodhisattvas](#bodhisattva) and [deities](#deity)<sup>8</sup> of the [mind lineage of the Conquerors](#mind-lineage-of-the-conquerors) and of the [symbol lineage of the Vidyadharas](#symbol-lineage-of-the-vidyadharas).
+
+<details id="8"><summary>Note <sup>8</sup></summary>
+One should not see them as ordinary (<i>rags pa</i>) but as subtle (<i>phra ba</i>) or extremely subtle (<i>shin tu phra ba</i>) beings." DKR "All in the assembly, whether they realize it or not, are pervaded by the <a href="#buddha-nature">Buddha nature</a> just as sesame seeds are pervaded by oil... So all sentient beings are <a href="#buddha">Buddhas</a>, visualized as <a href="#daka">dakas</a> and <a href="#dakini">dakinis</a> of the appropriate family. If both teacher and retinue are Buddhas, their <a href="#buddhafield">Buddhafield</a> is also pure and should be visualized as <a href="#akanistha">Akanistha</a> or another <a href="#pure-land">pure land</a>." NT
+</details>
+
+Or you can think that the place where the [Dharma](#dharma) is being taught is the Lotus-Light Palace of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain), the teacher who teaches is [Padmasambhava of Oddiyana](#padmasambhava-of-oddiyana), and we, the audience, are the Eight [Vidyadharas](#vidyadhara), the [Twenty-five Disciples](#twenty-five-disciples), and the [dakas](#daka) and [dakinis](#dakini).
+
+Or consider that this perfect place is the Eastern [Buddhafield](#buddhafield), [Manifest Joy](#manifest-joy), where the perfect teacher [Vajrasattva](#vajrasattva), the perfect [sambhogakaya](#sambhogakaya), is teaching the assembly of the divinities of the Vajra Family and male and female [Bodhisattvas](#bodhisattva).
+
+Equally well, the perfect place where the [Dharma](#dharma)
 
 *<h1 id="postface" align="center">Postface</h1>*
 
