@@ -762,11 +762,7 @@ Whenever you do something positive, whether of major or minor importance, it is 
 3. Regret: regretting the beneficial actions one has done, even partially.<br>
 4. Boasting of one's positive actions to others.</details>
 
-<details id="3"><summary>Note <sup>3</sup></summary>The positive energy of the practice can also be channelled away from enlightenment into other things. NT mentions four circumstances which destroy one's sources of merit. (<i>dge rtsa</i>):<br>  
-1. Not dedicating the action to the attainment of perfect Buddhahood for the sake of other.<br>
-2. Anger: one moment of anger is said to be capable of destroying <a href="#kalpa">kalpas</a> of positive actions.<br>
-3. Regret: regretting the beneficial actions one has done, even partially.<br>
-4. Boasting of one's positive actions to others.</details>
+<details id="3"><summary>Note <sup>3</sup></summary>NT explains that just as when a drop of water becomes part of the ocean it will continue to exist as long as the ocean exists, when the merit of one's actions is completely dedicated to "the fruit, the ocean of Omniscience," it will not be lost until one has attained complete Buddhahood.</details>
 
 The way you listen to the [Dharma](#dharma) is very important. But even more important is the motivation with which you listen to it.
 
