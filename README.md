@@ -890,6 +890,39 @@ If you remember the teachings but mix them with your [negative emotions](#negati
 
 Rid yourself of every wrong thought concerning the teacher and the [Dharma](#dharma), do not criticize or abuse your [spiritual brothers companions](#spiritual-companions), be free of pride and contempt, abandon all bad thoughts. For all of these cause lower rebirths.
 
+<h5 id="ch1.2.1.2">2.1.2 The Six Stains</h5>
+
+In the *Well Explained Reasoning*, it says:
+
+> Pride, lack of faith and lack of effort,  
+Outward distraction, inward tension and discouragement;  
+These are the six stains.
+
+Avoid these six: proudly believing yourself superior to the teacher who is explaining the [Dharma](#dharma), not trusting the master and their teachings, failing to apply yourself to the [Dharma](#dharma), getting distracted by external events, focussing your five senses too intently inwards, and being discouraged if, for example, a teaching is too long.
+
+Of all negative emotions, pride and jealousy are the most difficult to recognize. Therefore, examine your mind minutely. Any feeling that there is something even the least bit special about your own qualities, whether worldly or spiritual, will make you blind to your own faults and unaware of others' good qualities. So renounce pride and always take a low position.
+
+If you have no faith, the entrance to the [Dharma](#dharma) is blocked. Of the four types of faith,<sup>[11](#11)</sup> aim for faith that is irreversible.
+
+<details id="11"><summary>Note <sup>11</sup></summary>
+The first three are explained in Part Two, Chapter One. A fourth, irreversible faith, is sometimes added to denote the culmination of faith, when it has become an integral part of one's being.
+</details>
+
+Your interest<sup>[12](#12)</sup> in the [Dharma](#dharma) is the basis of what you will achieve. So depending on whether your degree of interest is superior, middling or inferior you will become a superior, middling or inferior practitioner. And if you are not at all interested in the [Dharma](#dharma), there will be no results at all. As the proverb puts it:
+
+> The [Dharma](#dharma) is nobody's property. It belongs to whoever has the most endeavour.
+
+The Buddha himself obtained the teachings at the price of hundreds of hardships. To obtain a single four-line verse, he gouged holes in his own flesh to serve as offering lamps, filling them with oil and planting in them thousands of burning wicks. He leapt into flaming pits, and drove a thousand iron nails into his body.<sup>[13](#13)</sup>
+
+<details id="13"><summary>Note <sup>13</sup></summary>
+These examples from stories of the Buddha's previous lives serve to illustrate the degree of his commitment and should not be taken as recommending extreme asceticism. 
+</details>
+
+> Even if you have to face blazing infernos or razor-sharp blades,  
+Search for the [Dharma](#dharma) until you die.
+
+Listen to the teachings, therefore, with great effort, ignoring heat, cold and all other trials.
+
 *<h1 id="postface" align="center">Postface</h1>*
 
 ---
