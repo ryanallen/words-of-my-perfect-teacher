@@ -118,11 +118,11 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ### &nbsp;&nbsp;&nbsp;&nbsp; **[1. Attitude](#ch1.1)**
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#ch1.1.1)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#ch1.1.2)
-### **[2. Conduct](#ch1.2)**
-    1. WHAT TO AVOID  
-        1. The Three Defects of the Pot  
-        2. The Six Stains  
-        3. The Five Wrong Ways of Remembering  
+### &nbsp;&nbsp;&nbsp;&nbsp; **[2. Conduct](#ch1.2)**
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1 WHAT TO AVOID](#ch1.2.1)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.1 The Three Defects of the Pot](#ch1.2.1.1)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.2 The Six Stains](#ch1.2.1.2)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.3 The Five Wrong Ways of Remembering](#ch1.2.1.3)
     2. WHAT TO DO  
         1. The Four Metaphors  
         2. The Six Transcendent Perfections  
