@@ -681,8 +681,8 @@ Most fortunate of ordinary beings who,
 Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&mdash;  
 Teachers of the three lineages, I [prostrate](#prostration) myself before you.*
 >
->*In the [expanse](#nine-expanses) where all [phenomena](#exhaustion-of-phenomena-in-the-real-nature) come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
-In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambogakaya) [Buddhafields](#buddhafield) appear;  
+>*In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
+In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambhogakaya) [Buddhafields](#buddhafield) appear;  
 To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.*  
 *Omniscient Sovereign of Dharma*<sup>*</sup>,  *I [prostrate](#prostration) myself before you.*    
 ><sup> *[Longchenpa](#longchenpa)</sup>
