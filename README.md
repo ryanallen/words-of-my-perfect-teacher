@@ -730,7 +730,7 @@ This faithful record of my peerless teacher's instructions on the general outer 
 [alt text](image_url)
 
 *<p id="jamyang-khyentse-wangpo-il" align="center">Jamyang Khyentse Wangpo (1820 - 1892)</p>*
-<p id="patrul-rinpoche-il" align="center">The first Khyentse. One of the main holders of the *Heart-essence of the Vast Expanse*. He was one of the founders of the ecumenical movement in which the teachings particular to all traditions of Tibetan Buddhism are studied impartially, creating a spiritual renaissance in Tibet. He saved many teachings whose lineages were about to disappear.</p>
+<p id="patrul-rinpoche-il" align="center">The first Khyentse. One of the main holders of the <i>Heart-essence of the Vast Expanse</i>. He was one of the founders of the ecumenical movement in which the teachings particular to all traditions of Tibetan Buddhism are studied impartially, creating a spiritual renaissance in Tibet. He saved many teachings whose lineages were about to disappear.</p>
 
 ---
 
@@ -910,6 +910,10 @@ The first three are explained in Part Two, Chapter One. A fourth, irreversible f
 
 Your interest<sup>[12](#12)</sup> in the [Dharma](#dharma) is the basis of what you will achieve. So depending on whether your degree of interest is superior, middling or inferior you will become a superior, middling or inferior practitioner. And if you are not at all interested in the [Dharma](#dharma), there will be no results at all. As the proverb puts it:
 
+<details id="12"><summary>Note <sup>12</sup></summary>
+NT says "Whether or not we have received the Dharma, if we have no interest in it we will be like a horse who is offered a bone, or a dog presented with grass" <i>don gnyer</i>, "interest," also means "effort," that is to say, not only intellectual interest but also active engagement.
+</details>
+
 > The [Dharma](#dharma) is nobody's property. It belongs to whoever has the most endeavour.
 
 The Buddha himself obtained the teachings at the price of hundreds of hardships. To obtain a single four-line verse, he gouged holes in his own flesh to serve as offering lamps, filling them with oil and planting in them thousands of burning wicks. He leapt into flaming pits, and drove a thousand iron nails into his body.<sup>[13](#13)</sup>
@@ -922,6 +926,56 @@ These examples from stories of the Buddha's previous lives serve to illustrate t
 Search for the [Dharma](#dharma) until you die.
 
 Listen to the teachings, therefore, with great effort, ignoring heat, cold and all other trials.
+
+The tendency of consciousness to get engrossed in the objects of the six senses<sup>[14](#14)</sup> is the root of all [samsara's](#samsara) hallucinations and the source of all suffering. This is how the moth dies in the lamp-flame, because its visual consciousness is attracted to forms; how the stag is killed by the hunter, because its hearing draws it to sounds; how bees are swallowed by carnivorous plants, seduced by their smell; how fish are caught with bait, their sense of taste lured by its flavor; how elephants drown in the swamp because they love the physical feeling of mud. In the same way, whenever you are listening to the [Dharma](#dharma), teaching, meditating or practicing, it is important not to follow tendencies from the past, not to entertain emotions about the future and not to let your present thoughts get distracted by anything around you . As [Gyalse Rinpoche](#gyalse-rinpoche) says:
+
+<details id="14"><summary>Note <sup>14</sup></summary>
+The sixth sense is mind, since the same psychological reactions are produced by objects which simply arise in thought as by objects perceived by the five physical sense.
+</details>
+
+> Your past joys and sorrows are like drawings on water:  
+No trace of them remains. Don't run after them!  
+But should they come to mind, reflect on how success and failure come and go.  
+Is there anything you can trust besides [Dharma](#dharma), mani-reciters?<sup>[15](#15)</sup>
+>
+><details id="15"><summary>Note <sup>15</sup></summary>This refers to ordinary Tibetans, who characteristically have faith in the Dharma and recite the well known mantra, <i>Om mani padme hum</i>, but who may not have any detailed knowledge of the Buddhist teachings. Here Gyalse Rinpoche is using the term in a slightly derogatory way to provoke his listeners.</details>
+>
+> Your future projects and plans are like nets cast in a dry riverbed:   
+They'll never bring what you want. Limit your desires and aspirations!  
+But should they come to mind, think how uncertain it is when you'll die:  
+Have you got time for anything other than [Dharma](#dharma), mani-reciters?
+>
+> Your present work is like a job in a dream.  
+Since all such effort is pointless, cast it aside.  
+Consider even your honest earnings without any attachment.  
+Activities are without essence, mani-reciters!
+> 
+> Between meditation sessions, learn to control in this way all thoughts arising from the [three poisons](#three-poisons);  
+Until all thoughts and perceptions arise as the [dharmakaya](#dharmakaya),  
+This is indispensable&mdash;remembering it whenever you need it,  
+Do not give rein to deluded thoughts, mani-reciters!
+
+It also said:
+
+> Don't invite the future. If you do,  
+You're like the father of Famous Moon!
+
+This refers to the story of a poor man who came across a large pile of barley. He put it in a big sack, tied it to a rafter, and then lay down beneath it and started to day-dream.
+
+"This barley is going to make me really rich," he thought. "Once I'm rich, I'll get myself a wife... She's bound to have a boy... What shall I call him?"
+
+Just then, the moon appeared and he decided to call his son Famous Moon. However, all this time a rat had been gnawing away at the rope that was holding up the sack. The rope suddenly snapped, the sack fell on the man and he was killed. 
+
+Such dreams about the past and future will never come to fruition and are only a distraction. Give them up altogether. Be mindful and listen with attention and care.
+
+Do not focus too intently, picking out individual words and points, like a *dremo* bear digging up marmots&mdash;each time you seize one item, you forget the one before, and will never get to understand the whole. **Too much concentration also makes you sleepy. Instead keep a balance between tight and loose.**
+
+Once, in the past, [Ananda](#ananda) was teaching [Srona](#srona-sronajat) to meditate. Srona had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Srona went to discuss the matter with the Buddha, who asked him: "When you were a layman, you were a good *[vina](#vina)*-player, weren't you?"
+
+"Yes, I played very well."
+
+"Did your *vina* sound best when the strings were very slack or when they were very taut?"
+
 
 *<h1 id="postface" align="center">Postface</h1>*
 
