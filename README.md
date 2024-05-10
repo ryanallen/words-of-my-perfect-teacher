@@ -1277,7 +1277,7 @@ see [Karma Chagme](#karma-chagme).
 *snyigs dus*, Skt. *kaliyuga*, a period of the [five degenerations](#five-degenerations).
 
 ## Deity
-*lha*, Skt. *deva*, this term designates a [Buddha](#buddha) or [wisdom](#wisdom) deity, or sometimes a [wealth deity](#wealth-deity) or [Dharma protector]. See also [gods](#gods).
+*lha*, Skt. *deva*, this term designates a [Buddha](#buddha) or wisdom deity, or sometimes a [wealth deity](#wealth-deity) or [Dharma protector](#dharma-protector). See also [gods](#gods).
 
 ## Demigod
 *lha ma yin*, Skt. *asura*. One of the [six classes of beings](#six-classes-of-beings), with jealousy as their predominant emotion.
@@ -2650,7 +2650,7 @@ one of the eighty-four [mahasiddhas](#mahasiddha) of India. An important source 
 ## Water torma
 *chu gtor*, an offering made with water, milk and grains.
 
-## Wealthy deity
+## Wealth deity
 *nor lha*, a deity that one propitiates to increase wealth.
 
 ## Wheel
