@@ -976,6 +976,30 @@ Once, in the past, [Ananda](#ananda) was teaching [Srona](#srona-sronajat) to me
 
 "Did your *vina* sound best when the strings were very slack or when they were very taut?"
 
+"It sounded best when they were neither too taut nor too loose."
+
+"It is the same for your mind," said the Buddha; and by practicing with that advice [Srona](#srona-sronajat) attained his goal.
+
+[Machik Labdron](#machik-labdron) says:
+
+> Be firmly concentrated and loosely relaxed:<sup>16</sup>  
+Here is an essential point for the View.
+
+Do not let your mind get too tense or too inwardly concentrated; let your senses be naturally at ease, balanced between tension and relaxation.
+
+You should not tire of listening to the teachings. Do not feel discouraged when you get hungry or thirsty during a teaching that goes on too long, or when you have to put up with discomfort caused by the wind, sun, rain and so forth. Just be glad that you now have the freedoms and advantages of human life, that you have met an authentic teacher, and that you can listen to their profound instructions.
+
+The fact that you are at this moment listening to the profound [Dharma](#dharma) is the fruit of [merits](#merit) accumulated over innumerable [kalpas](#kalpa). It is like eating a meal when you have only eaten once every hundred mealtimes throughout your life. So it is imperative to listen with joy, vowing to bear heat, cold and whatever trials and difficulties might arise, in order to receive these teachings.
+
+<h5 id="ch1.2.1.3">2.1.3 The Five Wrong Ways of Remembering</h5>
+
+> Avoid remembering the words but forgetting the meaning,  
+Or remembering the meaning but forgetting the words.  
+Avoid remembering both but with no understanding,  
+Remembering them out of order, or remembering them incorrectly.
+
+
+
 
 *<h1 id="postface" align="center">Postface</h1>*
 
