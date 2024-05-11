@@ -28,13 +28,11 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 
 ---
 
-<h1 id="title" align="center">KUNZAN LAMA'I SHELUNG
+# <span align="center">KUNZAN LAMA'I SHELUNG</span>  
 
-&nbsp;
+# *<span align="center">The Words of My Perfect Teacher</span>*
 
-*THE WORDS OF MY PERFECT TEACHER*</h1>
-
-<h2 align="center">PATRUL RINPOCHE</h2>
+## <span align="center">PATRUL RINPOCHE</span>
 
 <p align="center">Translated by the Padmakara Translation Group</p>
 
@@ -109,8 +107,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
-<h1 align="center"><a href="#p1">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</a></h1>  
-<p align="center">◈</p>
+[PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)  
+◈  
 <h2 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h2>  
 &nbsp;
  
@@ -714,16 +712,14 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 ---
 
-*<h1 id="p1" align="center">Part One</h1>*
-
-<h2 align="center">THE ORDINARY OR OUTER PRELIMINARIES</h2>
-
-<h3 align="center">THE DIFFICULTY OF FINDING THE FREEDOMS AND ADVANTAGES</h3>
-<h3 align="center">THE IMPERMANENCE OF LIFE</h3>
-<h3 align="center">THE DEFECTS OF SAMSARA</h3>
-<h3 align="center">ACTIONS: THE PRINCIPLE OF CAUSE AND EFFECT</h3>
-<h3 align="center">THE BENEFITS OF LIBERATION</h3>
-<h3 align="center">HOW TO FOLLOW A SPIRITUAL FRIEND</h3>
+# <div align="center">Part One</div>
+## <div align="center">THE ORDINARY OR OUTER PRELIMINARIES</div>
+### <div align="center">THE DIFFICULTY OF FINDING THE FREEDOMS AND ADVANTAGES</div>
+### <div align="center">THE IMPERMANENCE OF LIFE</div>
+### <div align="center">THE DEFECTS OF SAMSARA</div>
+### <div align="center">ACTIONS: THE PRINCIPLE OF CAUSE AND EFFECT</div>
+### <div align="center">THE BENEFITS OF LIBERATION</div>
+### <div align="center">HOW TO FOLLOW A SPIRITUAL FRIEND</div>
 
 ---
 
