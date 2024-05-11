@@ -1018,6 +1018,12 @@ The real meaning expresses the truth from the point of view of realized beings. 
 "That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and liberation. To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
 </details>
 
+However long and difficult the teaching may be, do not feel disheartened and wonder if it will ever end; perserver. And howerver short and simple it may be, do not undervalue it as just elementary.
+
+To remember both words and meaning perfectly, in the right order and with everything properly linked together, is therefore indispensable.
+
+
+
 
 *<h1 id="postface" align="center">Postface</h1>*
 
