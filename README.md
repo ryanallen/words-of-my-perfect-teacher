@@ -982,8 +982,12 @@ Once, in the past, [Ananda](#ananda) was teaching [Srona](#srona-sronajat) to me
 
 [Machik Labdron](#machik-labdron) says:
 
-> Be firmly concentrated and loosely relaxed:<sup>16</sup>  
+> Be firmly concentrated and loosely relaxed:<sup>[16](#16)</sup>  
 Here is an essential point for the View.
+
+<details id="16"><summary>Note <sup>16</sup></summary>
+<i>grims kyis sgrim la lhod kyis glod</i>. "This means without distraction, but very relaxed at the same time." DKR. Furthermore, at first it is necessary to rein in the wild thoughts to achieve sustained calm (<i>zhi gnas</i>), then one has to relax the mind to allow the expansion of profound insight (<i>lhag mthong</i>).
+</details>
 
 Do not let your mind get too tense or too inwardly concentrated; let your senses be naturally at ease, balanced between tension and relaxation.
 
@@ -998,7 +1002,11 @@ Or remembering the meaning but forgetting the words.
 Avoid remembering both but with no understanding,  
 Remembering them out of order, or remembering them incorrectly.
 
+Do not attach undue importance to elegant turns of phrase without making any attempt to analyze the profound meaning of the words, like a child gathering flowers. Words alone are of no benefit for the mind. On the other hand, do not disregard the way in which the teachings are expressed, as being just the words and therefore dispensable. For then, even if you grasp the profound meaning, you will no longer have the means through which to express it. Words and meaning will have lost their connection.<sup>[17](#17)</sup>
 
+<details id="17"><summary>Note <sup>17</sup></summary>
+"That the way the teachings are expressed are just the words and therefore dispensable is what people say who think they are great [Nyingmapa](#nyingmapa) meditators. They think that they can grasp the essential naked meaning without bothering about the words. Pointing to their hearts they will say that this explanation is just words which have no substance and that it is only necessary to understand the essence of mind."
+</details>
 
 
 *<h1 id="postface" align="center">Postface</h1>*
