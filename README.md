@@ -1008,6 +1008,16 @@ Do not attach undue importance to elegant turns of phrase without making any att
 "That the way the teachings are expressed are just the words and therefore dispensable is what people say who think they are great [Nyingmapa](#nyingmapa) meditators. They think that they can grasp the essential naked meaning without bothering about the words. Pointing to their hearts they will say that this explanation is just words which have no substance and that it is only necessary to understand the essence of mind."
 </details>
 
+If you remember the teaching without identifying the different levels&mdash;the expedient meaning, the real meaning and the indirect meaning&mdash;you will be confused about what the words refer to.<sup>[18](#18)</sup> This may lead you away from the true [Dharma](#dharma). If you remember it out of order, you will mix up the proper sequence of the teaching, and every time you listen to it, explain it, or meditate on it the confusion will be multiplied.  If you remember incorrectly what has been said, endless wrong ideas will proliferate.<sup>[19](#19)</sup> This will spoil your mind and debase the teaching. Avoid all these errors and remember everything&mdash;the words, the meaning and the order of the teachings&mdash;properly and without any mistake.
+
+<details id="18"><summary>Note <sup>18</sup></summary>
+The real meaning expresses the truth from the point of view of realized beings. The expedient meaning refers to teachings intended to lead unrealized beings towards that truth, who would not be able to accept or understand it if it was stated directly. The indirect meaning refers to teachings given to beings to introduce them indirectly to a meaning which is not directly stated.
+</details>
+
+<details id="19"><summary>Note <sup>19</sup></summary>
+"That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and liberation. To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
+</details>
+
 
 *<h1 id="postface" align="center">Postface</h1>*
 
