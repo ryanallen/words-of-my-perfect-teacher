@@ -28,11 +28,11 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 
 ---
 
-# <span align="center">KUNZAN LAMA'I SHELUNG</span>  
+# <div align="center">KUNZAN LAMA'I SHELUNG</div>  
 
-# *<span align="center">The Words of My Perfect Teacher</span>*
+# *<div align="center">The Words of My Perfect Teacher</div>*
 
-## <span align="center">PATRUL RINPOCHE</span>
+## <div align="center">PATRUL RINPOCHE</div>
 
 <p align="center">Translated by the Padmakara Translation Group</p>
 
@@ -42,7 +42,7 @@ Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is
 
 ---
 
-<span id="copyright">First Yale University Press edition 2011.</span>  
+<div id="copyright">First Yale University Press edition 2011.</div>  
 Translation and introductory matter copyright 1994, 1998 by Padmakara Translation Group.
 
 All rights reserved.  
@@ -72,12 +72,14 @@ Printed in the United States of America.
 
 ---
 
-*<h1 id="patron" align="center">Patron</h1>*
-HRH The Prince Philip, Duke of Edinburgh, KG, KT  
+# *<div align="center">Patron</div>*  
+<div align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</div>  
 
-*<h1 id="contents" align="center">Trustees</h1>*
-Sir Brian McGrath, KCVO (Chair)  
-Martine Batchelor, Dr Narinder Singh Kapany, Dr Muhammad Zaki Badawi, Richard Summers, The Duchess of Abercorn, Michael Stillwell
+# *<div align="center">Trustees</div>
+<div align="center">Sir Brian McGrath, KCVO (Chair)</div>  
+| Martine Batchelor          | Dr Narinder Singh Kapany  |
+| Dr Muhammad Zaki Badawi    | Richard Summers           |
+| The Duchess of Abercorn   | Michael Stillwell         |
 
 ---
 
@@ -506,7 +508,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 No translation will ever be definitive. Our hope is that we may continue to improve the translation of this text in the future, particularly since&mdash;as testified by the many encouraging letters we have received from all over the world&mdash; it is used intensively by many individual readers and Buddhist groups as a tool for study and practice. Had time allowed, we would have liked to undertake a thorough revision of the endnotes in the light of a new translation of one of the principal sources from which they were compiled, Khenpo Ngawang Palzang's *Notes*, currently proceeding under the direction of Alak Zenkar (with the participation of several members of the Padmakara Translation Group, see bibliography). That, unfortunately, will have to await a third edition.
 
-All the changes to this edition were compiled, edited and entered by John Canti, with valuable help from Maria Jesus Hervas, whose assiduous work in preparing a forthcoming Spanish translation uncovered a number of errors and omissions in the English, and from readers Helena Blankleder, Charles Hastings, Steven Gethin and Wulstan Fletcher.
+All the changes to this edition were compiled, edited and entered by John Canti, with valuable help from Maria Jesus Hervas, whose assiduous work in preparing a forthcoming divish translation uncovered a number of errors and omissions in the English, and from readers Helena Blankleder, Charles Hastings, Steven Gethin and Wulstan Fletcher.
 
 Once again, we are grateful for the continuing interest and support of the Sacred Literature Trust and its successive directors, Paul Seto and Malcolm Gerratt&mdash;and especially for their patience, which the delays in the preparation of this second edition must have sorely tested.
 
@@ -1494,7 +1496,7 @@ see [negative emotions](#negative-emotions).
 *mtshams meed lnga*, Skt. *pancanantariya*, i) killing one's father or ii) one's mother or iii) an [Arhat](#arhat); iv) creating a split in the [Sangha](#sangha); v) malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
 
 ## Five degenerations
-*snyigs ma lnga*, they are the degeneration of i) lifespan ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
+*snyigs ma lnga*, they are the degeneration of i) lifediv ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
 
 ## Five energies
 see [energy](#energy).
@@ -1740,7 +1742,7 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *bka' brgyud pa* one of the schools of the [New Tradition](#new-tradition), which followed the teachings brought to Tibet from India by [Marpa](#marpa) the Translator in the 11th century and transmitted to [Milarepa](#milarepa). There are several branches of the Kagyu school.
 
 ## Kalpa
-*bskal pa*. A great kalpa, which corresponds to a cycle of formation and destruction of a universe, is divided into eighty intermediate kalpas. An intermediate kalpa is composed of one small kalpa during which the span of life, etc., increases and one small kalpa during which it decreases.
+*bskal pa*. A great kalpa, which corresponds to a cycle of formation and destruction of a universe, is divided into eighty intermediate kalpas. An intermediate kalpa is composed of one small kalpa during which the div of life, etc., increases and one small kalpa during which it decreases.
 
 ## Kapala
 *ka pa la*, a bowl made with the top of a skull.
