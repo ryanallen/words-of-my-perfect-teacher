@@ -511,7 +511,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 No translation will ever be definitive. Our hope is that we may continue to improve the translation of this text in the future, particularly since&mdash;as testified by the many encouraging letters we have received from all over the world&mdash; it is used intensively by many individual readers and Buddhist groups as a tool for study and practice. Had time allowed, we would have liked to undertake a thorough revision of the endnotes in the light of a new translation of one of the principal sources from which they were compiled, Khenpo Ngawang Palzang's *Notes*, currently proceeding under the direction of Alak Zenkar (with the participation of several members of the Padmakara Translation Group, see bibliography). That, unfortunately, will have to await a third edition.
 
-All the changes to this edition were compiled, edited and entered by John Canti, with valuable help from Maria Jesus Hervas, whose assiduous work in preparing a forthcoming divish translation uncovered a number of errors and omissions in the English, and from readers Helena Blankleder, Charles Hastings, Steven Gethin and Wulstan Fletcher.
+All the changes to this edition were compiled, edited and entered by John Canti, with valuable help from Maria Jesus Hervas, whose assiduous work in preparing a forthcoming Spanish translation uncovered a number of errors and omissions in the English, and from readers Helena Blankleder, Charles Hastings, Steven Gethin and Wulstan Fletcher.
 
 Once again, we are grateful for the continuing interest and support of the Sacred Literature Trust and its successive directors, Paul Seto and Malcolm Gerratt&mdash;and especially for their patience, which the delays in the preparation of this second edition must have sorely tested.
 
@@ -1497,7 +1497,7 @@ see [negative emotions](#negative-emotions).
 *mtshams meed lnga*, Skt. *pancanantariya*, i) killing one's father or ii) one's mother or iii) an [Arhat](#arhat); iv) creating a split in the [Sangha](#sangha); v) malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
 
 ## Five degenerations
-*snyigs ma lnga*, they are the degeneration of i) lifediv ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
+*snyigs ma lnga*, they are the degeneration of i) lifespan ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
 
 ## Five energies
 see [energy](#energy).
