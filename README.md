@@ -735,21 +735,19 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 ---
 
-<h1 id="ch1" align="center">CHAPTER ONE</h1>
-<h2 align="center"><i>The difficulty of finding the freedoms and advantages</i></h2>
+# <div align="center">CHAPTER ONE<br><i>The difficulty of finding the freedoms and advantages</i></div>
 
 The main subject of the chapter, the teaching on how difficult it is to find the freedoms and advantages, is preceded by an explanation of the proper way to listen to any spiritual instruction.
 
-<h3 id="ch1.i">I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING</h4>
+## I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
 
 The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
 
-<h3 id="ch1.1"><b>1. Attitude</b></h3>
+### 1. Attitude
 
 The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
 
-<h4 id="ch1.1.1"> 1.1 THE VAST ATTITUDE OF THE BODHICITTA</h4>
-
+#### 1.1 THE VAST ATTITUDE OF THE BODHICITTA
 There is not a single being in [samsara](#samsara), this immense ocean of suffering, who in the course of time without beginning has never been our father or mother. When they were our parents, these beings' only thought was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
 
 All of these beings, who have been so kind to us, want to be happy, and yet they have no idea how to put into practice what brings about happiness, the **ten positive actions**. None of them want to suffer, but they do not know how to give up the **ten negative actions** at the root of all suffering. Their deepest wishes and what they actually do thus contradict each other. Poor beings, lost and confused, like a blind man abandoned in the middle of an empty plain!
@@ -776,7 +774,7 @@ But the good or evil motivation behind it.
 
 No matter how many teachings you have heard, to be motivated by ordinary concerns&mdash;such as a desire for greatness, fame or whatever&mdash;is not the way of the true [Dharma](#dharma). So, **first of all, it is most important to turn inwards and change your motivation**. If you can correct your attitude, [skilful means](#skilful-means) will permeate your positive actions, and you will have set out on the path of great beings. If you cannot, you might think that you are studying and practicing the [Dharma](#dharma) but it will be no more than a semblance of the real thing. Therefore, whenever you listen to the teachings and whenever you practice, be it meditating on a [deity](#deity), doing [prostrations](#prostration) and [circumambulations](#circumambulation), or reciting a [mantra](#mantra)&mdash;even a single *[mani](#mani)*&mdash;**it is always essential to give rise to bodhicitta**.
 
-<h4 id="ch1.1.2">1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA</h4>
+#### 1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA
 
 The *Torch of the Three Methods* says of the [Secret Mantrayana](#secret-mantrayana):
 
@@ -841,15 +839,15 @@ We, as the assembly gathered to listen to the teachings, use the basis of our ow
 But this is concealed by adventitious stains.  
 When their stains are purified, their Buddhahood is revealed.
 
-<h3 id="ch1.2"><b>2. Conduct</b></h3>
+### 2. Conduct
 
 The right conduct while listening to teachings is described in terms of what to avoid and what to do.
 
-<h4 id="ch1.2.1">2.1 WHAT TO AVOID</h4>
+#### 2.1 WHAT TO AVOID
 
 Conduct to avoid includes the three defects of the pot, the six stains and the five wrong ways of remembering.
 
-<h5 id="ch1.2.1.1">2.1.1 The Three Defects of the Pot</h5>
+##### 2.1.1 The Three Defects of the Pot
 
 Not to listen is to be like a pot turned upside down. Not to be able to retain what you hear is to be like a pot with a hole in it. To mix negative emotions with what you hear is to be like a pot with poison in it.
 
@@ -891,7 +889,7 @@ If you remember the teachings but mix them with your [negative emotions](#negati
 
 Rid yourself of every wrong thought concerning the teacher and the [Dharma](#dharma), do not criticize or abuse your [spiritual brothers companions](#spiritual-companions), be free of pride and contempt, abandon all bad thoughts. For all of these cause lower rebirths.
 
-<h5 id="ch1.2.1.2">2.1.2 The Six Stains</h5>
+##### 2.1.2 The Six Stains
 
 In the *Well Explained Reasoning*, it says:
 
@@ -996,7 +994,7 @@ You should not tire of listening to the teachings. Do not feel discouraged when 
 
 The fact that you are at this moment listening to the profound [Dharma](#dharma) is the fruit of [merits](#merit) accumulated over innumerable [kalpas](#kalpa). It is like eating a meal when you have only eaten once every hundred mealtimes throughout your life. So it is imperative to listen with joy, vowing to bear heat, cold and whatever trials and difficulties might arise, in order to receive these teachings.
 
-<h5 id="ch1.2.1.3">2.1.3 The Five Wrong Ways of Remembering</h5>
+##### 2.1.3 The Five Wrong Ways of Remembering
 
 > Avoid remembering the words but forgetting the meaning,  
 Or remembering the meaning but forgetting the words.  
@@ -1026,11 +1024,11 @@ To remember both words and meaning perfectly, in the right order and with everyt
 
 
 
-*<h1 id="postface" align="center">Postface</h1>*
+# *<div align="center">Postface</div>*
 
 ---
 
-*<h1 id="glossary" align="center">Glossary</h1>*
+# *<div align="center">Glossary</div>*
 
 Abbreviations:  
 - **DKR**: Dilgo Khyentse Rinpoche
