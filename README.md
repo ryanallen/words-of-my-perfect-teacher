@@ -76,14 +76,17 @@ Printed in the United States of America.
 <div align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</div>  
 
 # *<div align="center">Trustees</div>
-<div align="center">Sir Brian McGrath, KCVO (Chair)</div>  
-| Martine Batchelor          | Dr Narinder Singh Kapany  |
-| Dr Muhammad Zaki Badawi    | Richard Summers           |
-| The Duchess of Abercorn   | Michael Stillwell         |
+<div align="center">Sir Brian McGrath, KCVO (Chair)
 
+|||
+|-|-|
+| Martine Batchelor  | Dr Narinder Singh Kapany  |
+| Dr Muhammad Zaki Badawi  | Richard Summers  |
+| The Duchess of Abercorn  | Michael Stillwell  |
+</div>
 ---
 
-<h1 id="islt" align="center">INTERNATIONAL SACRED LITERATURE TRUST</h1>
+# INTERNATIONAL SACRED LITERATURE TRUST
 
 The International Sacred Literature Trust was established to promote understanding and open discussion between and within faiths and to give voice in today's world to the wisdom that speaks across time and traditions.
 
@@ -97,7 +100,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-*<h1 id="contents" align="center">Contents</h1>*
+# *Contents*
 [List of illustrations](#listofillustrations)  
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
