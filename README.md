@@ -868,7 +868,7 @@ When listening to the teachings, you should be like a deer so entranced by the s
 
 It is no good listening with only your body physically present, while your mind wanders off after your thoughts and your speech lets loose a rich store of gossip, saying whatever you like and looking around everywhere. When listening to teachings, you should even stop reciting prayers, counting mantras, or whatever other meritorious activities you may be doing.
 
-AFter you have listened properly to a teaching in this way, it is then also important to retain the meaning of what has been said without ever forgetting it, and to continually put it into practice. For, as the Great Sage himself said:
+After you have listened properly to a teaching in this way, it is then also important to retain the meaning of what has been said without ever forgetting it, and to continually put it into practice. For, as the Great Sage himself said:
 
 > I have shown you the methods  
 That lead to liberation.  
@@ -1014,7 +1014,7 @@ The real meaning expresses the truth from the point of view of realized beings. 
 "That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and liberation. To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
 </details>
 
-However long and difficult the teaching may be, do not feel disheartened and wonder if it will ever end; perserver. And howerver short and simple it may be, do not undervalue it as just elementary.
+However long and difficult the teaching may be, do not feel disheartened and wonder if it will ever end; persevere. And however short and simple it may be, do not undervalue it as just elementary.
 
 To remember both words and meaning perfectly, in the right order and with everything properly linked together, is therefore indispensable.
 
