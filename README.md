@@ -113,19 +113,20 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 [PROLOGUE](#prologue)  
 
 [PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)  
+
 ◈  
-<h2 align="center"><a href="#ch1"><i>Chapter One<br>The difficulty of finding the freedoms and advantages</i></a></h2>  
-&nbsp;
+
+*[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
  
-### [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#ch1.i)
-### &nbsp;&nbsp;&nbsp;&nbsp; **[1. Attitude](#ch1.1)**
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#ch1.1.1)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#ch1.1.2)
-### &nbsp;&nbsp;&nbsp;&nbsp; **[2. Conduct](#ch1.2)**
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1 WHAT TO AVOID](#ch1.2.1)
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.1 The Three Defects of the Pot](#ch1.2.1.1)
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.2 The Six Stains](#ch1.2.1.2)
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.1.3 The Five Wrong Ways of Remembering](#ch1.2.1.3)
+[I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
+**[1. Attitude](#1-attitude)**  
+[1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
+[1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
+**[2. Conduct](#2-conduct)**  
+[2.1 WHAT TO AVOID](#21-what-to-avoid)  
+[2.1.1 The Three Defects of the Pot](#211-the-three-defects-of-the-pot)  
+[2.1.2 The Six Stains](#212-the-six-stains)  
+[2.1.3 The Five Wrong Ways of Remembering](#213-the-five-wrong-ways-of-remembering)  
     2. WHAT TO DO  
         1. The Four Metaphors  
         2. The Six Transcendent Perfections  
