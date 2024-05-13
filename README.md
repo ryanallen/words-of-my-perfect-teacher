@@ -127,12 +127,12 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 [2.1.1 The Three Defects of the Pot](#211-the-three-defects-of-the-pot)  
 [2.1.2 The Six Stains](#212-the-six-stains)  
 [2.1.3 The Five Wrong Ways of Remembering](#213-the-five-wrong-ways-of-remembering)  
-    2. WHAT TO DO  
-        1. The Four Metaphors  
-        2. The Six Transcendent Perfections  
-        3. Other Modes of Conduct  
+[2.2 WHAT TO DO](#22-what-to-do)  
+[2.2.1 The Four Metaphors](#221-the-four-metaphors)  
+[2.2.2 The Six Transcendent Perfections](#222-the-six-transcendent-perfections)  
+[2.2.3 Other Modes of Conduct](#223-other-mods-of-conduct)
 
-II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES  
+[II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
 1. Reflecting on the nature of freedom  
 2. Reflecting on the particular advantages related to Dharma  
     1. THE FIVE INDIVIDUAL ADVANTAGES  
@@ -1042,6 +1042,82 @@ When people are seriously ill, they go to consult a good doctor. They follow the
 Following a teacher without doing what they say is like disobeying your doctor, which leaves them no chance of treating your illness. Not taking the medicine of the [Dharma](#dharma)&mdash;that is to say, not putting it into practice&mdash;is like having innumerable medications and prescriptions beside your bed but never touching them. That will never cure your disease.
 
 These days, people say full of optimism, "Lama, look on me with compassion!" thinking that even if they have done many terrible things, they will never have to endure the consequences. They reckon that the teacher, in their compassion, will toss them up into the heavenly realms as if they were throwing a pebble. But when we speak of the teacher holding us with their compassion, what this really means is that they have lovingly accepted us as disciples, and that they give us their profound instructions, opens our eyes to what to do and what not to do and shows us the way to liberation taught by the [Conqueror](#conqueror). What greater compassion could there be? It is up to us whether or not we take advantage of this compassion and actually pursue the path of liberation.
+
+Now that we have this free and well-endowed human birth, now that we know what we should and should not do, our decision at this juncture, when we have the freedom to choose, marks the turning-point which will determine our fate, for better or worse, far into the future.<sup>[20](#20)</sup> It is crucial that we choose between [samsara](#samsara) and [nirvana](#nirvana) once and for all and put the instructions of our teacher into practice.
+
+<details id="20"><summary>Note <sup>20</sup></summary>
+AT "an inspiration which is good or bad forever." Here we have followed the explanation of DKR.
+</details>
+
+Those who conduct village ceremonies will have you believe that on your death-bed you can still go up or down, as if you were steering a horse by the reins. But by that time, unless you have already mastered the path, the fierce [wind](#wind) of your past actions will be chasing after you, while in front a terrifying black darkness rushes toward you as you are driven helplessly down the long and perilous path of the [intermediate state](#intermediate-state). The Lord of Death's countless henchmen will be pursuing you, crying, "Kill! Kill! Strike! Strike!" How could such a moment&mdash;when there is no place to run to and nowhere to hide, no refuge and no hope, when you are desperate and have no idea what to do&mdash;how could such a moment be the turning point at which you control whether you go up or down? As the Great One of Oddiyana says:
+
+> By the time empowerment is being given to the card marked with your name,<sup>[21](#21)</sup> it's too late! Your consciousness, already wandering in the intermediate state like a dazed dog, will find it very hard to even think of higher realms.
+>
+><details id="21"><summary>Note <sup>21</sup></summary>This refers to a purification practice for the dead in which the dead person is represented by a card bearing their name.</details>
+
+In fact the turning point, the only time that you really can direct yourself up or down as if steering a horse with the reins, is right now, while you are still alive.
+
+As a human being, your positive actions are more powerful than those of other kinds of being. This gives you, on the one hand, an opportunity here and now in this very life to cast rebirth aside once and for all.<sup>[22](#22)</sup> But your negative actions are more powerful too; thus you are also quite capable of making sure, on the other hand, that you will never get free from the depths of the lower realms. So now that you have met the teacher, the skilful doctor, and the [Dharma](#dharma), the elixir that conquers death, this is the moment to apply the four metaphors, putting the teachings you have heard into practice, and traveling the path of liberation.
+
+<details id="22"><summary>Note <sup>22</sup></summary>
+The expression <i>thod pa bor chog ma</i> literally means "getting rid of the skull," that is, of getting rid of one's body, in the sense of freeing oneself from future rebirths. DKR
+</details>
+
+The *Treasury of Precious Qualities* describes four wrong notions that must be avoided, which are the opposite of the four metaphors we have mentioned:
+
+> Shallow-tongued men with evil natures  
+Approach the teacher as if he were a musk-deer.  
+Having extracted the musk, the perfect [Dharma](#dharma),  
+Full of joy, they sneer at the [samaya](#samaya).
+
+Such people behave as though their spiritual teacher were a musk-deer, the [Dharma](#dharma) were the musk, they themselves the hunters, and intense practice the way to kill the deer with an arrow or a trap. They do not practice the teachings they have received and feel no gratitude toward the teacher. They use [Dharma](#dharma) to accumulate evil actions, which will drag them down like a millstone to the lower realms.
+
+##### 2.2.2 The Six Transcendent Perfections
+
+In the *Tantra of Thorough Comprehension of the Instructions on all Dharma Practices*, it says:
+
+> Make excellent offerings such as flowers and cushions ***(generosity)***,  
+Put the place in order and control your behavior ***(discipline)***,  
+Do not harm any living being ***(patience)***,  
+Have genuine faith in your teacher ***(diligence)***,  
+Listen to his instructions without distraction ***(concentration)***  
+And question him in order to dispel your doubts; ***(wisdom)***  
+These are the six transcendent perfections of a listener.
+
+A person listening to the teaching should practice the six transcendent perfections as follows:
+
+Prepare the teacher's seat, arrange cushions upon it, offer a mandala, flowers and other offerings, This is the practice of ***generosity***.
+
+Sweep clean the place or room after carefully settling the dust with water, and refrain from all disrespectful conduct. This is the practice of ***discipline***.
+
+Avoid harm to living beings, even the smallest of insects, and bear heat, cold and all other difficulties. This is the practice of ***patience***.
+
+Lay aside any wrong views concerning the teacher and the teaching and listen joyfully with genuine faith. This is the practice of ***diligence***.
+
+Listen to the [Lama's](#lama) instructions without distraction. This is the practice of ***concentration***.
+
+Ask questions to clear up any hesitations and doubts. This is the practice of ***wisdom***.
+
+##### 2.2.3 Other Mods of Conduct
+
+All forms of disrespectful behavior should be avoided. The *Vinaya* says:
+
+> Do not teach those who have no respect,  
+Who cover their heads although in good health,  
+Who carry canes, weapons and parasols,  
+Or whose heads are swathed in turbans.
+
+and the *Jatakas*:
+
+> Take the lowest seat.  
+Cultivate the dignified bearing of thorough discipline.  
+With your eyes brimming with joy,  
+Drink in the words like nectar  
+And be completely concentrated.  
+That is the way to listen to the teaching.
+
+## II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IT IS TO FIND THE FREEDOMS AND ADVANTAGES
+
 
 ---
 ---
