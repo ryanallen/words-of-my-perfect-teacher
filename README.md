@@ -112,11 +112,11 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
-[<div align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</div>](#part-one)
+[PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)
 
 <div align="center">◈</div>
 
-*[<div align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</div>](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
+*[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
  
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
