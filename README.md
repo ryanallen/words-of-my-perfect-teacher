@@ -744,7 +744,7 @@ The main subject of the chapter, the teaching on how difficult it is to find the
 
 The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
 
-### 1. Attitude
+### **1. Attitude**
 
 The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
 
@@ -840,7 +840,7 @@ We, as the assembly gathered to listen to the teachings, use the basis of our ow
 But this is concealed by adventitious stains.  
 When their stains are purified, their Buddhahood is revealed.
 
-### 2. Conduct
+### **2. Conduct**
 
 The right conduct while listening to teachings is described in terms of what to avoid and what to do.
 
@@ -1022,7 +1022,43 @@ However long and difficult the teaching may be, do not feel disheartened and won
 
 To remember both words and meaning perfectly, in the right order and with everything properly linked together, is therefore indispensable.
 
+#### 2.2 WHAT TO DO
 
+The conduct to be adopted while listening to teachings is explained as the four metaphors. the six transcendent perfections, and other modes of conduct.
+
+##### 2.2.1 The Four Metaphors
+
+*The Sutra Arranged like a Tree says:*
+
+> Noble one, you should think of yourself as someone who is sick,  
+Of the [Dharma](#dharma) as the remedy,  
+Of your [spiritual friend](#spiritual-friend) as a skilful doctor,  
+And of diligent practice as the way to recovery.
+
+We are sick. From beginningless time, in this immense ocean of suffering that is [samsara](#samsara), we have been tormented by the illness of the [three poisons](#three-poisons) and their fruit, the three kinds of suffering.
+
+When people are seriously ill, they go to consult a good doctor. They follow the doctor's advice, take whatever medicine they prescribe, and do all they can to overcome the disease and get well. In the same way, you should cure yourself of the diseases of [karma](#karma), [negative emotions](#negative-emotions) and suffering by following the prescriptions of that experienced doctor, the authentic teacher, and by taking the medicine of the [Dharma](#dharma).
+
+Following a teacher without doing what they say is like disobeying your doctor, which leaves them no chance of treating your illness. Not taking the medicine of the [Dharma](#dharma)&mdash;that is to say, not putting it into practice&mdash;is like having innumerable medications and prescriptions beside your bed but never touching them. That will never cure your disease.
+
+These days, people say full of optimism, "Lama, look on me with compassion!" thinking that even if they have done many terrible things, they will never have to endure the consequences. They reckon that the teacher, in their compassion, will toss them up into the heavenly realms as if they were throwing a pebble. But when we speak of the teacher holding us with their compassion, what this really means is that they have lovingly accepted us as disciples, and that they give us their profound instructions, opens our eyes to what to do and what not to do and shows us the way to liberation taught by the [Conqueror](#conqueror). What greater compassion could there be? It is up to us whether or not we take advantage of this compassion and actually pursue the path of liberation.
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 
 # *<div align="center">Postface</div>*
