@@ -101,38 +101,38 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ---
 
 # *Contents*
-[List of illustrations](#listofillustrations)  
+*[List of illustrations](#listofillustrations)  
 [Foreword by the Dalai Lama](#forewordhhdl)  
 [Longchenpa](#longchenpa)  
 [Foreword by Dilgo Khyentse Rinpoche](#forewordhhdkr)  
 [Translators' Acknowledgements](#acknowledgements)  
 [Preface to the Second Edition](#preface)  
 [Translators' Introduction](#introduction)  
-[A brief historical introduction to Tibetan Buddhism](#historical-introduction)  
+[A brief historical introduction to Tibetan Buddhism](#historical-introduction)*  
 
 [PROLOGUE](#prologue)  
 
-[PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)  
+[<div align="center">PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES</div>](#part-one)
 
-◈  
+<div align="center">◈</div>
 
-*[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
+*[<div align="center">Chapter One<br>The difficulty of finding the freedoms and advantages</div>](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
  
-[I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
-**[1. Attitude](#1-attitude)**  
-[1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
-[1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
-**[2. Conduct](#2-conduct)**  
-[2.1 WHAT TO AVOID](#21-what-to-avoid)  
-[2.1.1 The Three Defects of the Pot](#211-the-three-defects-of-the-pot)  
-[2.1.2 The Six Stains](#212-the-six-stains)  
-[2.1.3 The Five Wrong Ways of Remembering](#213-the-five-wrong-ways-of-remembering)  
-[2.2 WHAT TO DO](#22-what-to-do)  
-[2.2.1 The Four Metaphors](#221-the-four-metaphors)  
-[2.2.2 The Six Transcendent Perfections](#222-the-six-transcendent-perfections)  
-[2.2.3 Other Modes of Conduct](#223-other-mods-of-conduct)
+* [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
+    * **[1. Attitude](#1-attitude)**  
+        * [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
+        * [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
+    * **[2. Conduct](#2-conduct)**  
+        * [2.1 WHAT TO AVOID](#21-what-to-avoid)  
+            * [2.1.1 The Three Defects of the Pot](#211-the-three-defects-of-the-pot)  
+            * [2.1.2 The Six Stains](#212-the-six-stains)  
+            * [2.1.3 The Five Wrong Ways of Remembering](#213-the-five-wrong-ways-of-remembering)  
+        * [2.2 WHAT TO DO](#22-what-to-do)  
+            * [2.2.1 The Four Metaphors](#221-the-four-metaphors)  
+            * [2.2.2 The Six Transcendent Perfections](#222-the-six-transcendent-perfections)  
+            * [2.2.3 Other Modes of Conduct](#223-other-mods-of-conduct)
 
-[II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
+* [II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
 1. Reflecting on the nature of freedom  
 2. Reflecting on the particular advantages related to Dharma  
     1. THE FIVE INDIVIDUAL ADVANTAGES  
