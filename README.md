@@ -738,15 +738,15 @@ This faithful record of my peerless teacher's instructions on the general outer 
 
 # <div align="center">CHAPTER ONE<br><i>The difficulty of finding the freedoms and advantages</i></div>
 
-The main subject of the chapter, the teaching on how difficult it is to find the freedoms and advantages, is preceded by an explanation of the proper way to listen to any spiritual instruction.
+The main subject of the chapter, the teaching on [how difficult it is to find the freedoms and advantages](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages), is preceded by an explanation of [the proper way to listen to any spiritual instruction](#i-the-proper-way-to-listen-to-spiritual-teaching).
 
 ## I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING
 
-The proper way to listen to the teachings has two aspects: the right attitude and the right conduct.
+The proper way to listen to the teachings has two aspects: the right [attitude](#1-attitude) and the right [conduct](#2-conduct).
 
 ### **1. Attitude**
 
-The right attitude combines the vast attitude of the *bodhicitta*, the mind of enlightenment, and the vast [skill in means](#skilful-means) of the [Secret Mantrayana](#secret-mantrayana).
+The right attitude combines [the vast attitude of the *bodhicitta*](#11-the-vast-attitude-of-the-bodhicitta), the mind of enlightenment, and [the vast skill in means of the Secret Mantrayana](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana).
 
 #### 1.1 THE VAST ATTITUDE OF THE BODHICITTA
 There is not a single being in [samsara](#samsara), this immense ocean of suffering, who in the course of time without beginning has never been our father or mother. When they were our parents, these beings' only thought was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
@@ -842,11 +842,11 @@ When their stains are purified, their Buddhahood is revealed.
 
 ### **2. Conduct**
 
-The right conduct while listening to teachings is described in terms of what to avoid and what to do.
+The right conduct while listening to teachings is described in terms of [what to avoid](#21-what-to-avoid) and [what to do](#22-what-to-do).
 
 #### 2.1 WHAT TO AVOID
 
-Conduct to avoid includes the three defects of the pot, the six stains and the five wrong ways of remembering.
+Conduct to avoid includes the [three defects of the pot](#211-the-three-defects-of-the-pot), [the six stains](#212-the-six-stains) and [the five wrong ways of remembering](#213-the-five-wrong-ways-of-remembering).
 
 ##### 2.1.1 The Three Defects of the Pot
 
@@ -1117,6 +1117,10 @@ And be completely concentrated.
 That is the way to listen to the teaching.
 
 ## II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IT IS TO FIND THE FREEDOMS AND ADVANTAGES
+
+The main subject of the chapter is explained in four sections: reflecting on the nature of freedom, reflecting on the particular advantages related to [Dharma](#dharma), reflecting on images that show how difficult it is to find the freedoms and advantages, and reflecting on numerical comparisons.
+
+
 
 
 ---
