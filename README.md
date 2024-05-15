@@ -1118,9 +1118,19 @@ That is the way to listen to the teaching.
 
 ## II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IT IS TO FIND THE FREEDOMS AND ADVANTAGES
 
-The main subject of the chapter is explained in four sections: reflecting on the nature of freedom, reflecting on the particular advantages related to [Dharma](#dharma), reflecting on images that show how difficult it is to find the freedoms and advantages, and reflecting on numerical comparisons.
+The main subject of the chapter is explained in four sections: [reflecting on the nature of freedom](#1-reflecting-on-the-nature-of-freedom), [reflecting on the particular advantages related to Dharma](#2-reflecting-on-the-particular-advantages-related-to-dharma), [reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages), and [reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons).
 
+### **1. Reflecting on the nature of freedom**
 
+In general, here, "freedom" means to have the opportunity to practice [Dharma](#dharma)
+
+### **2. Reflecting on the particular advantages related to Dharma**
+#### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
+#### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
+#### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
+#### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
+### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
+### **4. Reflecting on numerical comparisons**
 
 
 ---
