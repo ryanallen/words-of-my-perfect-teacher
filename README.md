@@ -1122,7 +1122,24 @@ The main subject of the chapter is explained in four sections: [reflecting on th
 
 ### **1. Reflecting on the nature of freedom**
 
-In general, here, "freedom" means to have the opportunity to practice [Dharma](#dharma)
+In general, here, "freedom" means to have the opportunity to practice [Dharma](#dharma) and not to be born in one of the eight states without that opportunity. "Lack of freedom" refers to those eight states where there is no such opportunity:
+
+> Being born in the [hells](#hell), in the [preta](#preta) realm,  
+As an animal, a long-lived [god](#gods) or a barbarian,  
+Having wrong views, being born when there is no [Buddha](#buddha)  
+Or being born deaf and mute; these are the eight states without freedom.
+
+Beings reborn in [hell](#hell) have no opportunity to practice the [Dharma](#dharma) because they are constantly tormented by intense heat or cold.
+
+The *[pretas](#preta)* have no opportunity to practice the [Dharma](#dharma) because of the suffering they experience from hunger and thirst.
+
+Animals have no opportunity to practice the [Dharma](#dharma) because they undergo slavery and suffer from the attacks of other animals.
+
+The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharma) because they spend their time in a state of mental blankness.<sup>[23](#23)</sup>
+
+<details id="23"><summary>Note <sup>23</sup></summary>
+*'du shes med pa*. AT "without perception." We have followed the explanation of DKR: "The gods without perception have created a blankness in their minds and perceive nothing, as in the state of deep sleep without dreams."
+</details>
 
 ### **2. Reflecting on the particular advantages related to Dharma**
 #### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
