@@ -1147,7 +1147,13 @@ Those born mute or mentally deficient have no opportunity to practice the [Dharm
 
 The inhabitants of the three lower realms suffer constantly from heat, cold, hunger, thirst and other torments, as a result of their past negative actions; they have no opportunity to practice the [Dharma](#dharma).
 
-"Barbarians" means those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmfful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into lower realms as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
+"Barbarians" means those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into lower realms as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
+
+<details id="24"><summary>Note <sup>24</sup></summary>
+*klo kha khra* refers to the large area inhabited by tribal peoples lying to the south of central and eastern Tibet. It includes present-day Arunachal Pradesh, Nagaland and parts of Assam in north-eastern India, as well as parts of north-western Burma.
+</details>
+
+The long-lived [gods](#gods) are those gods who are absorbed in a state of mental blankness. Beings are born in this realm as a result of believing that liberation is a state in which all mental activities, good or bad, are absent, and of meditating upon that state. They remain in such states of concentration for great [kalpas](#kalpa) on end. But once the effect of the past actions that produced that condition has exhausted itself they are reborn in the lower realms because of their wrong views.
 
 ### **2. Reflecting on the particular advantages related to Dharma**
 #### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
