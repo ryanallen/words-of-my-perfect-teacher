@@ -1141,6 +1141,14 @@ The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharm
 *'du shes med pa*. AT "without perception." We have followed the explanation of DKR: "The gods without perception have created a blankness in their minds and perceive nothing, as in the state of deep sleep without dreams."
 </details>
 
+Those born as *[tirthikas](#tirthika)* or with similar wrong views have no opportunity to practice the [Dharma](#dharma) because they never even hear of the [Three Jewels](#three-jewels), and cannot distinguish good from bad.
+
+Those born mute or mentally deficient have no opportunity to practice the [Dharma](#dharma) because their faculties are incomplete.
+
+The inhabitants of the three lower realms suffer constantly from heat, cold, hunger, thirst and other torments, as a result of their past negative actions; they have no opportunity to practice the [Dharma](#dharma).
+
+"Barbarians" means those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmfful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into lower realms as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
+
 ### **2. Reflecting on the particular advantages related to Dharma**
 #### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
