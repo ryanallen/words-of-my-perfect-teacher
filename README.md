@@ -1172,6 +1172,8 @@ Under this heading are included [five individual advantages](#21-the-five-indivi
 > Born a human, in a central place, with all one's faculties,  
 Without a conflicting lifestyle and with faith in the [Dharma](#dharma).
 
+*(**support**, **place**, **possessing the sense faculties**, **intention**, **faith**)*
+
 Without a human life, it would not be possible even to encounter the [Dharma](#dharma). So this human body is the advantage of ***support***.
 
 Had you been born in a remote place where [Dharma](#dharma) was unheard of, you would never have come across it. But the region you were born in is central as far as [Dharma](#dharma) is concerned and so you have the advantage of ***place***.
@@ -1179,6 +1181,26 @@ Had you been born in a remote place where [Dharma](#dharma) was unheard of, you 
 Not to have all your sense faculties intact would be a hindrance to the practice of [Dharma](#dharma). If you are free of such disabilities, you have the advantage of ***possessing the sense faculties***.
 
 If you had a conflicting lifestyle, you would always be immersed in negative actions and at variance with the [Dharma](#dharma). Since you now have the wish to do positive actions, this is the advantage of ***intention***.
+
+If you had no faith in the Buddha's teachings you would not feel any inclination for the Dharma. Having the ability to turn your mind to the Dharma, as you are doing now, constitutes the advantage of ***faith***.
+
+Because these five advantages need to be complete with regard to one's own make-up, they are called the ***[five individual advantages](#21-the-five-individual-advantages)***.
+
+To practice the real, authentic [Dharma](#dharma), it is absolutely necessary to be a human being. Now suppose that you did not have the support of a human form, but had the highest form of life in the three lower realms, that of an animal&mdash;even the most beautiful and highly prized animal known to man. If someone said to you, "Say *Om mani padme hum* once, and you will become a [Buddha](#buddha)," you would be quite incapable of understanding his words or grasping their meaning, nor would you be able to utter a word.l In fact, even if you were dying of cold, you would be unable to think of anything to do but lie in a heap&mdash;whereas a man, no matter how weak, would know how to shelter in a cave or under a tree, and would gather wood and make a fire to warm his face and hands. If animals are incapable of even such simple things, how could they ever conceive of practicing [Dharma](#dharma)?
+
+[Gods](#gods) and other beings of the kind, however superior their physical form, do not meet the requirements laid down for taking the *[pratimoksa](#pratimoksa) vows, and therefore cannot assimilate the [Dharma](#dharma) in its totality.
+
+As to what is meant by a "central region," one should distinguish between a geographically central region and a place that is central in terms of the [Dharma](#dharma).
+
+Geographically speaking, the central region is generally said to be the [Vajra Seat](#vajra-seat) at Bodh Gaya<sup>[25](#25)</sup> in India, at the centre of [Jambudvipa](#jambudvipa), the Southern Continent. The thousand Buddhas of the [Good Kalpa](#good-kalpa) all attain [enlightenment](#enlightenment) there. Even in the universal destruction at the end of the [kalpa](#kalpa), the four elements cannot harm it, and it remains there as if suspended in space. At its centre grows the Tree of Enlightenment. This place, with all the towns of India around it, is therefore considered the central region in terms of geography.
+
+<details id="25"><summary>Note <sup>25</sup></summary>
+Tibetans habitually call Bodh Gaya <i>rdo rje ldan</i>, the Vajra Seat, referring to the spot on which the Buddha sat when he attained enlightenment. It is considered to be the centre of the world.
+</details>
+
+In [Dharma](#dharma) terms, a central place is wherever the [Dharma](#dharma)&mdash;the teaching of Lord Buddha&mdash;exists. All other regions are said to be peripheral.
+
+In the distant past, from the time Lord Buddha came into this world and as long as his doctrine still existed in India, that land was central in terms of both geography and [Dharma](#dharma). However, now that it has fallen into the hands of the [tirthikas](#tirthika) and the doctrine of the Conqueror has disappeared in that region, as far as [Dharma](#dharma) is concerned even Bodh Gaya is a peripheral place.
 
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
