@@ -1162,12 +1162,40 @@ Birth in a dark [kalpa](#kalpa) means to be reborn in a period during which ther
 The mind of a person born deaf and mute cannot function properly and the process of listening to the teachings, expounding them, reflecting on them and putting them into practice is impeded. The description "def mute" usually refers to a speech dysfunction. It becomes a condition without the opportunity for [Dharma](#dharma) when the usual human ability to use and understand language is absent. This category therefore also includes those whose mental disability makes them unable to comprehend the teachings and thus deprives them of the opportunity to practice them.
 
 ### **2. Reflecting on the particular advantages related to Dharma**
+
+Under this heading are included [five individual advantages](#21-the-five-individual-advantages) and [five circumstantial advantages](#22-the-five-circumstantial-advantages).
+
 #### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
+
+[Nagarjuna](#nagarjuna) lists them as follows:
+
+> Born a human, in a central place, with all one's faculties,  
+Without a conflicting lifestyle and with faith in the [Dharma](#dharma).
+
+Without a human life, it would not be possible even to encounter the [Dharma](#dharma). So this human body is the advantage of ***support***.
+
+Had you been born in a remote place where [Dharma](#dharma) was unheard of, you would never have come across it. But the region you were born in is central as far as [Dharma](#dharma) is concerned and so you have the advantage of ***place***.
+
+Not to have all your sense faculties intact would be a hindrance to the practice of [Dharma](#dharma). If you are free of such disabilities, you have the advantage of ***possessing the sense faculties***.
+
+If you had a conflicting lifestyle, you would always be immersed in negative actions and at variance with the [Dharma](#dharma). Since you now have the wish to do positive actions, this is the advantage of ***intention***.
+
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
+
+---
+
+[alt text](image_url)
+
+*<p id="king-trisong-detsen-il" align="center">King Trisong Detsen (790 - 844)</p>*
+<p align="center">The king who invited the scholar <a href="#santaraksita">Santaraksita</a> and the <a href="#tantric">Tantric</a> master <a href="#padmasambhava-of-oddiyana">Padmasambhava</a> to Tibet. He built <a href="#samye">Samye</a>, Tibet's first monastery, and was responsible for establishing the Buddhist teachings on a firm basis.</p>
+
+---
+
+# <div align="center">CHAPTER TWO<br><i>The impermanence of life</i></div>
 
 
 ---
