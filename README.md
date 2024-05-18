@@ -1202,6 +1202,19 @@ In [Dharma](#dharma) terms, a central place is wherever the [Dharma](#dharma)&md
 
 In the distant past, from the time Lord Buddha came into this world and as long as his doctrine still existed in India, that land was central in terms of both geography and [Dharma](#dharma). However, now that it has fallen into the hands of the [tirthikas](#tirthika) and the doctrine of the Conqueror has disappeared in that region, as far as [Dharma](#dharma) is concerned even Bodh Gaya is a peripheral place.
 
+In the days of the Buddha, Tibet, the Land of Snows, was called 'the border country of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the Buddhas. The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *Sutra of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mould and other objects fell on the palace roof.
+
+Five generations later, in accordance with prophecies that he would understand the meaning of the sutra, there appeared the Dharma King [Songtsen Gampo](#songtsen-gampo), an emanation of the Sublime Compassionate One.<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to study its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sutras](#sutra) and [tantras](#tantra) of [Avalokitesvara](#avalokitesvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous means to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the Buddha's body, speech and mind including the statues called the Jowo Mikyo Dorje and the Jowo Sakyamuni, the actual representatives of the Buddha.<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
+
+<sup>* Avalokitesvara, the Bodhisattva of Compassion.</sup>
+
+<details id="26"><summary>Note <sup>26</sup></summary>
+</details>
+
+<details id="27"><summary>Note <sup>27</sup></summary>
+</details>
+
+
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
