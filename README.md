@@ -1209,17 +1209,30 @@ Five generations later, in accordance with prophecies that he would understand t
 <sup>* Avalokitesvara, the Bodhisattva of Compassion.</sup>
 
 <details id="26"><summary>Note <sup>26</sup></summary>
+Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Kongjo to the Tibetans, was the daughter of the T'ang emperor T'ai-tsung. The statue she brought was of [Sakyamuni Buddha](#sakyamuni) at the age of twelve, and had been presented to the Chinese emperor by a Buddhist king of Bengal; the Ramoche temple was built in 641 to house it but it was later moved to the Rasa Trulnang (Jokhang), where it is now&mdash;the famous Jowo Rinpoche. Queen Tritsun was the daughter of the Nepalese king Amsuvarman; the statue she brought was of [Buddha Sakyamuni](#sakyamuni) at the age of eight is now in the Ramoche Temple.
 </details>
 
 <details id="27"><summary>Note <sup>27</sup></summary>
+These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details fo the story sites, see HIST, Vol. 1, page 510 and notes.
 </details>
 
+His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oddiyana), the Preceptor of Oddiyana, the greatest of the mantra-holders, unequalled throughout the three worlds. To uphold representations of the Buddha's form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the Buddha's speech, the authentic [Dharma](#dharma) one hundred and eight translators, including the great [Vairotsana](#vairotsana), learned the art of translation and translated all the main [sutras](#sutra), [tantras](#tantra) and [sastras](#sastra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Sangha](#sangha), to uphold the Buddha's mind.
+
+From that time onwards up to the present day, the teachings of the [Buddha](#buddha) have shone like the sun in Tibet and, despite ups and downs, the doctrine of the Conqueror has never been lost in either of its aspects, transmission or realization. Thus Tibet, as far as the [Dharma](#dharma) is concerned, is a central country.
+
+A person lacking any of the five sense faculties does not meet the requirements laid down for taking the monastic vows. Moreover, someone who does not have the good fortune to be able to see representations of the Conqueror to inspire his devotion, or to read and hear the precious and excellent teachings as the material for study and reflection, will not be fully capable of receiving the [Dharma](#dharma).
+
+"Conflicting lifestyle" refers, strictly speaking, to the lifestyles of people born in communities of hunters, prostitutes and so forth, who are involved in these negative activities from their earliest youth. But in fact it also includes anyone whose every thought, word and deed is contrary to the [Dharma](#dharma)&mdash;for even those not born into such lifestyles can easily slip into them later in life. It is therefore essential to avoid doing anything which conflicts with the authentic [Dharma](#dharma).
+
+If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nagas](#naga) and so forth, or in other doctrines such as those of the [tirthikas](#tirthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [samsara](#samsara) or from rebirth in lower realms. But if you have acquired a properly reasoned faith in the Conqueror's doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
 
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
+
+
 
 ---
 
