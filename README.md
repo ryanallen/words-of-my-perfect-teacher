@@ -1227,6 +1227,39 @@ A person lacking any of the five sense faculties does not meet the requirements 
 If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nagas](#naga) and so forth, or in other doctrines such as those of the [tirthikas](#tirthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [samsara](#samsara) or from rebirth in lower realms. But if you have acquired a properly reasoned faith in the Conqueror's doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
 
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
+
+> A [Buddha](#buddha) has appeared and has preached the [Dharma](#dharma)  
+His teachings still exist and can be followed,  
+There are those who are kind-hearted towards others.
+
+Those not born in a [bright kalpa](#good-kalpa), one in which a [Buddha](#buddha) has appeared, have never even heard of the [Dharma](#dharma). But we are now in a [kalpa](#kalpa) in which a [Buddha](#buddha) has come, and so we possess the advantage of the presence of the particular *teacher*.
+
+Although a [Buddha](#buddha) has come, if they had not taught no-one would benefit. But since the Buddha turned the [Wheel of Dharma](#wheel-of-dharma) according to three levels, we have the advantage of the *teaching of the Dharma*.
+
+Although they have taught, had their doctrine died out it would no longer be there to help us. But the period during which the doctrine will remain extant has not yet ended, so we have the advantage of the *time*.
+
+Although the teachings still exist, unless we follow them they can be of no benefit to us. But since we have taken up the [Dharma](#dharma), we possess the advantage of *our own good fortune*.
+
+Although we have taken up the [Dharma](#dharma), without the favorable circumstance of being accepted by a [spiritual friend](#spiritual-friend) we would never come to know what the [Dharma](#dharma) is really about. But since a [spiritual friend](#spiritual-friend) has accepted us, we possess the advantage of their *extraordinary compassion*.
+
+Because these five factors need to be complete with regard to circumstances other than one's own, they are called the *[five circumstantial advantages](#22-the-five-circumstantial-advantages)*
+
+The time it takes for the universe to form, to stay in existence, to be destroyed and to remain in a state of [emptiness](#emptiness) is called a [kalpa](#kalpa). A [kalpa](#kalpa) in which a perfect [Buddha](#buddha) appears in the world is called a "[bright kalpa](#good-kalpa);" while one in which a [Buddha](#buddha) does not appear is called a "dark kalpa." Long ago, during the great [Kalpa](#kalpa) of Manifest Joy, thirty-three thousand [Buddhas](#buddha) appeared. A hundred dark kalpas followed. Then, during the Perfect Kalpa, eight hundred million Buddhas appeared, again followed by a hundred kalpas without [Dharma](#dharma). Then eight hundred and forty million [Buddhas](#buddha) appeared during the Excellent Kalpa, after which there were five hundred dark kalpas. During the Kalpa Delightful to See, eight hundred million Buddhas appeared, and then there were seven hundred kalpas of darkness. Sixty thousand Buddhas appeared during the Joyous Kalpa. Then came our own kalpa, the Good Kalpa.
+
+Before our [kalpa](#kalpa) arose, this cosmos of a billion universes was an immense ocean on whose surface appeared a thousand thousand-petalled lotuses. The [gods](#gods) of the Brahma-world, wondering how this could be, through clairvoyance understood it to signify that during this [kalpa](#kalpa) one thousand [Buddhas](#buddhas) would appear. "This will be a good [kalpa](#kalpa)," they said, and "Good" became its name.
+
+From the time when beings' lifespan was eighty thousand years and the Buddha Destoryer-of-Samsara appeared, and up to the time when beings will live incalculably long and the Buddha Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of Jambudvipa. Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
+
+It will be followed by sixty peripheral, bad kalpas, and after that, in the Kalpa of Vast Numbers, ten thousand Buddhas will appear. Then another ten thousand bad kalpas will ensue. In this alternation of bright and dark kalpas, should we happen to be born duirng a dark kalpa, we would never even hear that there was such a thing as the [Three Jewels](#three-jewels).
+
+Moreover, as the Great on of Oddiyana points out, the [Secret Mantra](#secret-mantrayana) [Vajrayana](#vajrayana) in particular is taught only rarely:
+
+> Long ago, during the very first [kalpa](#kalpa), the Kalpa of the Complete Array, the teachings of the [Secret Mantrayana](#secret-mantrayana) were promulgated by the [Buddha](#buddha) known as [Once-Come-King](#once-come-king) and achieved great renown. The teachings we have now, those of the present [Buddha Sakyamuni](#sakyamuni), also include the [Secret Mantrayana](#secret-mantrayana). In ten million [kalpas'](#kalpa) time, during the Kalpa of the Array of Flowers, the Buddha Manjursri will come, as I have come now, to reveal the [Secret Mantra](#secret-mantrayana) teachings on a vast scale. This is so because beings in these three kalpas are suitable recipients for the Secret Mantras, and the reason why the Mantrayana teachings do not appear at other times is because the beings of those times are not capable of making use of them.<sup>[28](#28)</sup>
+
+<details id="28"><summary>Note <sup>28</sup></summary>
+According to NT Padmasambhava means that only in these three periods is the Secret Mantra Vajrayana revealed on a large scale.
+</details>
+
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
