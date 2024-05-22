@@ -1,26 +1,26 @@
-# Words of My Perfect Teacher
-A Complete Translation of a Classic Introduction to Tibetan Buddhism  
-<sub>REVISED EDITION</sub>
+# <div align="center">Words of My Perfect Teacher</div>
+<div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
+<div align="center"><sub>REVISED EDITION</sub></div>
 
 [alt text](image_url)
 
-by Patrul Rinpoche  
-translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/), with a [foreword by the Dalai Lama](#forewordhhdl)   
-[hand copied](https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC) by [Ryan Allen](https://github.com/ryanallen) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.  
+<div align="center">by Patrul Rinpoche</div>  
+<div align="center">translated by the [Padmakara Translation Group](https://www.shambhala.com/padmakara-translation-group-home/), with a [foreword by the Dalai Lama](#forewordhhdl)   
+[hand copied](https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC) by [Ryan Allen](https://github.com/ryanallen) for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.</div>  
 
 ---
 
 [alt text](image_url)
 
 *<p id="buddha-sakyamuni-il" align="center">Buddha Sakyamuni</p>*
-The [Buddha](#buddha) of our time
+<p align="center">The Buddha of our time</p>
 
 ---
 
 [alt text](image_url)
 
 *<p id="guru-rinpoche-il" align="center">Guru Rinpoche</p>*
-Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.
+<p align="center">Also known as [Padmasambhava](#padmasambhava-of-oddiyana), the Lotus-born, he is the "Second Buddha" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over Appearances and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.</p>
 
 ---
 
@@ -1276,6 +1276,27 @@ Accordingly, for seven weeks he did not teach, until [Brahma](#brahma) and [Indr
 Furthermore, if those who hold the authentic teaching do not explain it, it is difficult for the [Dharma](#dharma) to be of any real benefit to beings. An example is the great [Smrtijnana](#smrtijnana) of India, who came to Tibet because his mother had been reborn there in one of the ephemeral [hells](#hell). His interpreter died on the journey, and [Smrtijnana](#smrtijnana), who was wandering around the province of Kham unable to speak a word of the language, became a shepherd and died there without having been of very much benefit to anyone. When [Jowo Atisa](#atisa) later arrived in Tibet and learned what had happened, he cried out: "How sad! Tibetans, your merit is weak! Nowhere in India, East or West, was there a [pandita](#pandita) better than [Smrtijnana](#smrtijnana)," and, placing his hands together, he wept.
 
 For us, the [Buddha Sakyamuni](#sakyamuni) has turned the [Wheel of the Dharma](#wheel-of-dharma) on three levels and, manifesting an inconceivable number of forms according to the needs and capacities of those to be helped, leads disciples through the nine vehicles of his teaching to maturity and liberation.
+
+Even during a [kalpa](#kalpa) in which a [Buddha](#buddha) has appeared and given teachings, once the time for those teachings to endure has come to an end and the authentic [Dharma](#dharma) he has taught disappears it is exactly the same as in a dark kalpa. The period between the disappearance of one [Buddha's](#buddha) teachings and the next [Buddha's](#buddha) teachings being given is described as "devoid of [Dharma](#dharma)." In fortunate places where beings have adequate [merit](#merit), [pratyekabuddhas](#pratyekabuddha) appear, but the doctrine is not taught or practiced.
+
+These days we still have the teachings of the [Buddha Sakyamuni](#sakyamuni). Their degree of survival follows a tenfold sequence. First, there are three periods, each consisting of five hundred parts.<sup>[29](#29)</sup> During this time, there appears the "teaching of the heart of [Samantabhadra](#samantabhadra)," which is the *fruit*.<sup>[30](#30)</sup> Then comes three periods of five hundred parts for *accomplishment*.<sup>[31](#31)</sup> These are followed by three periods of five hundred parts for *transmission*. Finally, one period of five hundred parts arises when *only the symbols are retained*. Altogether, this makes ten periods, each of five hundred parts. At present we have reached the seventh or eighth period. We live in an age of increase in the five degenerations&mdash;those of lifespan, beliefs, emotions, time and beings. Nonetheless, the doctrine of transmission and realization does still exist. As it has not died out, we still possess the advantage of *having the [Dharma](#dharma) in its entirety*.
+
+That the Doctrine is still present, however, is irrelevant unless you make use of it&mdash;just as the rising sun, although it lights up the whole world, does not make the slightest difference to a blind man. And just as the waters ofa  great lake cannot quench the thirst of a traveler arriving at its shore unless he actually drinks from them, the [Dharma](#dharma) of transmission and realization cannot infiltrate your mind by itself.
+
+To enter the [Dharma](#dharma) just to protect yourself from sickness and negative influences in this life, or because you fear the sufferings of the three lower realms in future lives, is called "[Dharma](#dharma) as protection against fears," and is not the right way to set out on the path.
+
+To enter the [Dharma](#dharma) merely to have food, clothing and sxo on in this life, or to obtain the pleasant reward of a divine or human rebirth in the next, is called "[Dharma](#dharma) as quest for excellence."
+
+To enter the [Dharma](#dharma) understanding that the whole of [samsara](#samsara) has no meaning, striving to find a way to be free from it, is called "taking up the teaching by arriving at the starting point fo the path."
+
+Even if you start practicing the [Dharma](#dharma), unless you have been accepted by a [spiritual friend](#spiritual-friend) it will be of no use. The *Condensed Transcendent Wisdom* says:
+
+> The [Buddha](#buddha) and the teachings depend upon the [spiritual friend](#spiritual-friend).  
+Thus said the Conqueror, supreme embodiment of all good qualities.
+
+The Buddha's teaching is immense, its transmissions are numerous, and it covers an inexhaustible range of topics. Without relying on the pith instructions of a teacher we would never know how to condense the essential points of all those teachings and put them into practice.
+
+Once, when [Jowo Atisa](#atisa)
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
