@@ -1248,9 +1248,9 @@ The time it takes for the universe to form, to stay in existence, to be destroye
 
 Before our [kalpa](#kalpa) arose, this cosmos of a billion universes was an immense ocean on whose surface appeared a thousand thousand-petalled lotuses. The [gods](#gods) of the Brahma-world, wondering how this could be, through clairvoyance understood it to signify that during this [kalpa](#kalpa) one thousand [Buddhas](#buddhas) would appear. "This will be a good [kalpa](#kalpa)," they said, and "Good" became its name.
 
-From the time when beings' lifespan was eighty thousand years and the Buddha Destoryer-of-Samsara appeared, and up to the time when beings will live incalculably long and the Buddha Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of Jambudvipa. Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
+From the time when beings' lifespan was eighty thousand years and the Buddha Destroyer-of-Samsara appeared, and up to the time when beings will live incalculably long and the Buddha Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of Jambudvipa. Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
 
-It will be followed by sixty peripheral, bad kalpas, and after that, in the Kalpa of Vast Numbers, ten thousand Buddhas will appear. Then another ten thousand bad kalpas will ensue. In this alternation of bright and dark kalpas, should we happen to be born duirng a dark kalpa, we would never even hear that there was such a thing as the [Three Jewels](#three-jewels).
+It will be followed by sixty peripheral, bad kalpas, and after that, in the Kalpa of Vast Numbers, ten thousand Buddhas will appear. Then another ten thousand bad kalpas will ensue. In this alternation of bright and dark kalpas, should we happen to be born during a dark kalpa, we would never even hear that there was such a thing as the [Three Jewels](#three-jewels).
 
 Moreover, as the Great on of Oddiyana points out, the [Secret Mantra](#secret-mantrayana) [Vajrayana](#vajrayana) in particular is taught only rarely:
 
@@ -1259,6 +1259,23 @@ Moreover, as the Great on of Oddiyana points out, the [Secret Mantra](#secret-ma
 <details id="28"><summary>Note <sup>28</sup></summary>
 According to NT Padmasambhava means that only in these three periods is the Secret Mantra Vajrayana revealed on a large scale.
 </details>
+
+In this [Good Kalpa](#good-kalpa), at the present time when the span of human life is a hundred years, the perfect [Buddha Sakyamuni](#sakyamuni) has come to the world, and so it is a [bright kalpa](#good-kalpa).
+
+Suppose that a [Buddha](#buddha) had come, but was still in meditation and had not yet taught the [Dharma](#dharma). As long as the light of his [Dharma](#dharma) had not appeared, his having come would make no difference to us. It would be just as if he had never come at all.
+
+On attaining total and perfect Buddhahood upon the [Vajra Seat](#vajra-seat), our Teacher exclaimed:
+
+> I have found a [Dharma](#dharma) like [ambrosia](#ambrosia),  
+Deep, peaceful, simple, uncompounded, radiant.  
+If I explain it no-one will understand,  
+So I shall stay here silent in the forest.
+
+Accordingly, for seven weeks he did not teach, until [Brahma](#brahma) and [Indra](#indra) begged him to turn the [Wheel of Dharma](#wheel-of-dharma).
+
+Furthermore, if those who hold the authentic teaching do not explain it, it is difficult for the [Dharma](#dharma) to be of any real benefit to beings. An example is the great [Smrtijnana](#smrtijnana) of India, who came to Tibet because his mother had been reborn there in one of the ephemeral [hells](#hell). His interpreter died on the journey, and [Smrtijnana](#smrtijnana), who was wandering around the province of Kham unable to speak a word of the language, became a shepherd and died there without having been of very much benefit to anyone. When [Jowo Atisa](#atisa) later arrived in Tibet and learned what had happened, he cried out: "How sad! Tibetans, your merit is weak! Nowhere in India, East or West, was there a [pandita](#pandita) better than [Smrtijnana](#smrtijnana)," and, placing his hands together, he wept.
+
+For us, the [Buddha Sakyamuni](#sakyamuni) has turned the [Wheel of the Dharma](#wheel-of-dharma) on three levels and, manifesting an inconceivable number of forms according to the needs and capacities of those to be helped, leads disciples through the nine vehicles of his teaching to maturity and liberation.
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
