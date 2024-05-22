@@ -1899,7 +1899,21 @@ see [energy](#energy).
 *bsam gtan bzhi*, Skt. *caturdhyana*, four levels of meditative absorption, the fruit of which is to be reborn in four kinds of god realms in the World of Form. However they can also be used on the path of enlightenment.
 
 ## Four demons
-*bdud bzhi* see note [230](#230). See also [demon](#demon).
+*bdud bzhi* from note <sup>[230](#230)</sup>. See also [demon](#demon).
+
+"According to the causal vehicle of characteristics, the four demons are:
+
+1. The demon of the aggregates, *phung po'i bdud*, referring to that which dies. (Without the five aggregates, there would be no support, or basis for the sufferings of [samsara](#samsara).)
+2. The demon of [negative emotions](#negative-emotions), *nyon mongs pa'i bdud*, the causer of death. (These emotions, which arise from the belief in a self, give rise to [negative actions](#negative-action). Negative actions give rise to [karma](#karma) and it is due to karma that we helplessly are born and die.)
+3. The demon of the Lord of Death, *'chi bdag gi bdud*, which is death itself. (This means death as such, which inevitably follows birth. More subtly it is the natural impermanence of each moment, which is by nature painful.)
+4. The demon of the sons of the [gods](#gods), *lha'i bu yi bdud*, that which prevents us from proceeding towards the state of peace beyond death. (In practice it refers to distraction, thoughts of attachment to external objects.)
+
+"According to the [Mantrayana](#secret-mantrayana) [vehicle](#vehicle), the four demons are:
+
+1. The tangible demon: exterior things and beings which harm our body and mind.
+2. The intangible demon: attachment, aversion and confusion and the 84,000 types of [negative emotions](#negative-emotions) that give rise to all the sufferings of [samsara](#samsara).
+3. The demon of exultation: this means the exultation that one feels when one thinks that one's own spiritual teacher, the teachings one has received and the practices one is engaged in are different, and that one's own vajra brothers and sisters are superior to other people's. More particularly, it is the infatuation that one feels when one achieves the slightest 'warmth' or power of the practice.
+4. The demon of conceit is the root of the three others: it is the belief in 'I' and 'mine;' this conceit makes us take the five aggregates as 'me' or 'mine:' if one destroys this demon, all external demons are destroyed by themselves, without doing anything to destroy them."
 
 ## Four elements
 *'byung ba bzhi*, Skt. *catur / panca bhuta*, earth water fire and wind or air, as principles of solidity, liquidity, heat and movement.
