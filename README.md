@@ -75,7 +75,7 @@ Printed in the United States of America.
 # *<div align="center">Patron</div>*  
 <div align="center">HRH The Prince Philip, Duke of Edinburgh, KG, KT</div>  
 
-# *<div align="center">Trustees</div>
+# *<div align="center">Trustees</div>*
 <div align="center">Sir Brian McGrath, KCVO (Chair)
 
 |||
@@ -84,6 +84,7 @@ Printed in the United States of America.
 | Dr Muhammad Zaki Badawi  | Richard Summers  |
 | The Duchess of Abercorn  | Michael Stillwell  |
 </div>
+
 ---
 
 # INTERNATIONAL SACRED LITERATURE TRUST
