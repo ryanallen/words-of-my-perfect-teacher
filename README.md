@@ -5,7 +5,7 @@
 [alt text](image_url)
 
 <div align="center">by Patrul Rinpoche</div>  
-<div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;   
+<div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
 <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand copied</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.</div>  
 
 ---
