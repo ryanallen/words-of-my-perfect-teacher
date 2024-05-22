@@ -134,14 +134,14 @@ Our religious traditions are diverse but, as with the natural environment, we ar
             * [2.2.3 Other Modes of Conduct](#223-other-mods-of-conduct)
 
 * [II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
-1. Reflecting on the nature of freedom  
-2. Reflecting on the particular advantages related to Dharma  
-    1. THE FIVE INDIVIDUAL ADVANTAGES  
-    2. THE FIVE CIRCUMSTANTIAL ADVANTAGES  
-    3. THE EIGHT INTRUSIVE CIRCUMSTANCES  
-    4. THE EIGHT INCOMPATIBLE PROPENSITIES  
-3. Reflecting on images that show how difficult it is to find the freedoms and advantages  
-4. Reflecting on numerical comparisons  
+    * **[1. Reflecting on the nature of freedom](#1-reflecting-on-the-nature-of-freedom)**  
+    * **[2. Reflecting on the particular advantages related to Dharma](#2-reflecting-on-the-particular-advantages-related-to-dharma)**  
+        * [2.1 THE FIVE INDIVIDUAL ADVANTAGES](#21-the-five-individual-advantages)  
+        * [2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES](#22-the-five-circumstantial-advantages)  
+        * [2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma)  
+        * [2.4 THE EIGHT INCOMPATIBLE PROPENSITIES](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma)  
+    * [3. Reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
+    * [4. Reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons)  
 
 <p align="center">◈</p>
 <h3 align="center"><i>Chapter Two<br>The impermanence of life</i></h3>  
@@ -1127,10 +1127,10 @@ The main subject of the chapter is explained in four sections: [reflecting on th
 
 In general, here, "freedom" means to have the opportunity to practice [Dharma](#dharma) and not to be born in one of the eight states without that opportunity. "Lack of freedom" refers to those eight states where there is no such opportunity:
 
-> Being born in the [hells](#hell), in the [preta](#preta) realm,  
-As an animal, a long-lived [god](#gods) or a barbarian,  
-Having wrong views, being born when there is no [Buddha](#buddha)  
-Or being born deaf and mute; these are the eight states without freedom.
+> Being born in the **[hells](#hell)**, in the **[preta](#preta) realm**,  
+As an **animal**, a **long-lived [god](#gods)** or a **barbarian**,  
+Having **wrong views**, being born when **there is no [Buddha](#buddha)**  
+Or being **born deaf and mute**; these are the eight states without freedom.
 
 Beings reborn in [hell](#hell) have no opportunity to practice the [Dharma](#dharma) because they are constantly tormented by intense heat or cold.
 
@@ -1343,7 +1343,7 @@ This illustrates how important it is to be taken under the care of a teacher, a 
 
 ---
 
-Checking your own life and circumstances for each of the eight freedoms and ten advantages, if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;eight intrusive circumstances<sup>[32](#32)</sup> and eight incompatible propensities<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
+Checking your own life and circumstances for each of the [eight freedoms](#1-reflecting-on-the-nature-of-freedom) and [ten advantages](#2-reflecting-on-the-particular-advantages-related-to-dharma), if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;eight intrusive circumstances<sup>[32](#32)</sup> and eight incompatible propensities<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
 
 
 
