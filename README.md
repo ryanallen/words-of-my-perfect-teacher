@@ -1343,6 +1343,8 @@ This illustrates how important it is to be taken under the care of a teacher, a 
 
 ---
 
+Checking your own life and circumstances for each of the eight freedoms and ten advantages, if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;eight intrusive circumstances<sup>[32](#32)</sup> and eight incompatible propensities<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
+
 
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
