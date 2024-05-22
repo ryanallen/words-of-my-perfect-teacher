@@ -891,7 +891,7 @@ If you remember the teachings but mix them with your [negative emotions](#negati
 > Unless you practice [Dharma](#dharma) according to the [Dharma](#dharma),  
 [Dharma](#dharma) itself becomes the cause of evil rebirths.
 
-Rid yourself of every wrong thought concerning the teacher and the [Dharma](#dharma), do not criticize or abuse your [spiritual brothers companions](#spiritual-companions), be free of pride and contempt, abandon all bad thoughts. For all of these cause lower rebirths.
+Rid yourself of every wrong thought concerning the teacher and the [Dharma](#dharma), do not criticize or abuse your [spiritual companions](#spiritual-companions), be free of pride and contempt, abandon all bad thoughts. For all of these cause lower rebirths.
 
 ##### 2.1.2 The Six Stains
 
