@@ -612,6 +612,8 @@ Once the sacred vision has become a living experience, the perfection phase comp
 
 In the generation and perfection phases one acquires the illustrative wisdom (*dpe'i ye shes*) through meditation experiences which serve as pointers to indicate the ultimate nature of the mind. In Dzogchen&mdash;the [Great Perfection](#great-perfection)&mdash;the nature of the mind is introduced directly and suddenly by the teacher. This is an immediate experiential recognition of the [Buddha-nature](#buddha-nature) itself. The subsequent practice consists essentially in getting used to that experience and developing it in an increasingly vast way. Here one acquires real or absolute wisdom (*don gyi ye shes*), the direct experience of ultimate truth.
 
+---
+
 In a sense, each level of practice builds on the previous one, but at the same time it further strips away the layers of delusion, leaving an ever more denuded experience of reality. Each practice is also a complete path in itself, in which&mdash;for those who have the wisdom to see it&mdash;all the others are included. Even the preliminaries, and indeed the individual elements of the preliminaries, can, in themselves, constitute a complete path to enlightenment.
 
 In particular, the [Guru Yoga](#guru-yoga) is the essence of all paths. The teachers of the lineage often say that all practices should be done in the manner of [Guru Yoga](#guru-yoga). Total openness and devotion to a realized teacher is the most sure and rapid way to progress.
@@ -1146,6 +1148,8 @@ Those born as *[tirthikas](#tirthika)* or with similar wrong views have no oppor
 
 Those born mute or mentally deficient have no opportunity to practice the [Dharma](#dharma) because their faculties are incomplete.
 
+---
+
 The inhabitants of the three lower realms suffer constantly from heat, cold, hunger, thirst and other torments, as a result of their past negative actions; they have no opportunity to practice the [Dharma](#dharma).
 
 "Barbarians" means those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into lower realms as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
@@ -1278,9 +1282,25 @@ Furthermore, if those who hold the authentic teaching do not explain it, it is d
 
 For us, the [Buddha Sakyamuni](#sakyamuni) has turned the [Wheel of the Dharma](#wheel-of-dharma) on three levels and, manifesting an inconceivable number of forms according to the needs and capacities of those to be helped, leads disciples through the nine vehicles of his teaching to maturity and liberation.
 
+---
+
 Even during a [kalpa](#kalpa) in which a [Buddha](#buddha) has appeared and given teachings, once the time for those teachings to endure has come to an end and the authentic [Dharma](#dharma) he has taught disappears it is exactly the same as in a dark kalpa. The period between the disappearance of one [Buddha's](#buddha) teachings and the next [Buddha's](#buddha) teachings being given is described as "devoid of [Dharma](#dharma)." In fortunate places where beings have adequate [merit](#merit), [pratyekabuddhas](#pratyekabuddha) appear, but the doctrine is not taught or practiced.
 
 These days we still have the teachings of the [Buddha Sakyamuni](#sakyamuni). Their degree of survival follows a tenfold sequence. First, there are three periods, each consisting of five hundred parts.<sup>[29](#29)</sup> During this time, there appears the "teaching of the heart of [Samantabhadra](#samantabhadra)," which is the *fruit*.<sup>[30](#30)</sup> Then comes three periods of five hundred parts for *accomplishment*.<sup>[31](#31)</sup> These are followed by three periods of five hundred parts for *transmission*. Finally, one period of five hundred parts arises when *only the symbols are retained*. Altogether, this makes ten periods, each of five hundred parts. At present we have reached the seventh or eighth period. We live in an age of increase in the five degenerations&mdash;those of lifespan, beliefs, emotions, time and beings. Nonetheless, the doctrine of transmission and realization does still exist. As it has not died out, we still possess the advantage of *having the [Dharma](#dharma) in its entirety*.
+
+<details id="29"><summary>Note <sup>29</sup></summary>
+Lit. "years," but this does not refer to precise units of time but to periods of growth or decline affected by various causes such as the appearance of a holy being or, conversely, the harmful influence of evil beings. DKR
+</details>
+
+<details id="30"><summary>Note <sup>30</sup></summary>
+During the period immediately following the promulgation of the teachings, those who practice them attain the fruit almost straight away.
+</details>
+
+<details id="31"><summary>Note <sup>31</sup></summary>
+"These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
+</details>
+
+---
 
 That the Doctrine is still present, however, is irrelevant unless you make use of it&mdash;just as the rising sun, although it lights up the whole world, does not make the slightest difference to a blind man. And just as the waters ofa  great lake cannot quench the thirst of a traveler arriving at its shore unless he actually drinks from them, the [Dharma](#dharma) of transmission and realization cannot infiltrate your mind by itself.
 
@@ -1290,6 +1310,8 @@ To enter the [Dharma](#dharma) merely to have food, clothing and sxo on in this 
 
 To enter the [Dharma](#dharma) understanding that the whole of [samsara](#samsara) has no meaning, striving to find a way to be free from it, is called "taking up the teaching by arriving at the starting point fo the path."
 
+---
+
 Even if you start practicing the [Dharma](#dharma), unless you have been accepted by a [spiritual friend](#spiritual-friend) it will be of no use. The *Condensed Transcendent Wisdom* says:
 
 > The [Buddha](#buddha) and the teachings depend upon the [spiritual friend](#spiritual-friend).  
@@ -1297,7 +1319,31 @@ Thus said the Conqueror, supreme embodiment of all good qualities.
 
 The Buddha's teaching is immense, its transmissions are numerous, and it covers an inexhaustible range of topics. Without relying on the pith instructions of a teacher we would never know how to condense the essential points of all those teachings and put them into practice.
 
-Once, when [Jowo Atisa](#atisa)
+Once, when [Jowo Atisa](#atisa) was in Tibet, [Khu, Ngok and Drom](#khu-ngok-and-drom<sup>*</sup> asked him:
+
+<sup>* [Atisa's](#atisa) three main disciples ([see glossary](#khu-ngok-and-drom))</sup>
+
+"For someone to achieve liberation and complete omniscience, which is more important&mdash;the canonical scriptures and their commentaries, or the oral instructions of the teacher?"
+
+"The teacher's instructions," [Atisa](#atisa) replied.
+
+"Why?"
+
+"Because when it comes to doing the practice&mdash;even if you can explain the whole *[Tripitaka](#tripitaka)* from memory and are very skilled in metaphysics&mdash;without the teacher's practical guidance you and the [Dharma](#dharma) will part company."
+
+"So," they continued, "is the main point of the teacher's instructions to keep the [three vows](#three-vows) and to strive to do good with body, speech and mind?"
+
+"That is not the slightest bit of use," [Atisa](#atisa) replied.
+
+"How can that be?" they exclaimed.
+
+"You may be able to keep the [three vows](#three-vows) perfectly, but unless you are determined to free yourself from the [three worlds](#three-worlds) of [samsara](#samsara) it just creates further causes of [samsara](#samsara). You may be able to strive day and night to do good with body, speech, and mind, but unless you know how to dedicate the merit to perfect enlightenment, two or three wrong thoughts are enough to destroy it entirely. You may be teachers and meditators, full of piety and learning, but unless your minds are turned away from the eight ordinary concerns, whatever you do will only be for this present life, and you will not encounter the path that helps for future lives."
+
+This illustrates how important it is to be taken under the care of a teacher, a [spiritual friend](#spiritual-friend)
+
+---
+
+
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
@@ -1444,7 +1490,7 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [sastras](#sastras), in particular the five teachings he received from [Maitreya](#maitreya).
 
 ## Atisa
-(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. he spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
+(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
 
 ## Atiyoga
 the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
