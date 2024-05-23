@@ -1027,7 +1027,7 @@ To remember both words and meaning perfectly, in the right order and with everyt
 
 #### 2.2 WHAT TO DO
 
-The conduct to be adopted while listening to teachings is explained as the four metaphors. the six transcendent perfections, and other modes of conduct.
+The conduct to be adopted while listening to teachings is explained as the [four metaphors](#221-the-four-metaphors). [the six transcendent perfections](#222-the-six-transcendent-perfections), and [other modes of conduct](#223-other-mods-of-conduct).
 
 ##### 2.2.1 The Four Metaphors
 
@@ -1343,7 +1343,7 @@ This illustrates how important it is to be taken under the care of a teacher, a 
 
 ---
 
-Checking your own life and circumstances for each of the [eight freedoms](#1-reflecting-on-the-nature-of-freedom) and [ten advantages](#2-reflecting-on-the-particular-advantages-related-to-dharma), if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;eight intrusive circumstances<sup>[32](#32)</sup> and eight incompatible propensities<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
+Checking your own life and circumstances for each of the [eight freedoms](#1-reflecting-on-the-nature-of-freedom) and [ten advantages](#2-reflecting-on-the-particular-advantages-related-to-dharma), if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;[eight intrusive circumstances](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma)<sup>[32](#32)</sup> and [eight incompatible propensities](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma)<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
 
 <details id="32"><summary>Note <sup>32</sup></summary>
 NT explains that these can crop up suddenly, between one session of practice and the next, or during a session, and destroy one or several of the eighteen freedoms and advantages, like a wolf entering a sheep fold and carrying off one or two of the eighteen sheep within.
