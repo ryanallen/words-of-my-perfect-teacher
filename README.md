@@ -1345,14 +1345,29 @@ This illustrates how important it is to be taken under the care of a teacher, a 
 
 Checking your own life and circumstances for each of the [eight freedoms](#1-reflecting-on-the-nature-of-freedom) and [ten advantages](#2-reflecting-on-the-particular-advantages-related-to-dharma), if you find that all these favorable conditions are present, you have what is known as "human life endowed with the eighteen freedoms and advantages." However, the Omniscient Dharma King [Longchenpa](#longchenpa), in his *Wish-granting Treasury*, specifies sixteen additional conditions which preclude any opportunity to practice the [Dharma](#dharma)&mdash;eight intrusive circumstances<sup>[32](#32)</sup> and eight incompatible propensities<sup>[33](#33)</sup>&mdash;under whose sway it is important not to fall. In his words:
 
+<details id="32"><summary>Note <sup>32</sup></summary>
+NT explains that these can crop up suddenly, between one session of practice and the next, or during a session, and destroy one or several of the eighteen freedoms and advantages, like a wolf entering a sheep fold and carrying off one or two of the eighteen sheep within.
+</details>
 
+<details id="33"><summary>Note <sup>33</sup></summary>
+"These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
+</details>
+
+> Turmoil from the five emotions, stupidity, being dominated by evil influences,  
+Laziness, being inundated by the effect of past evil actions,  
+Enslavement to others, seeking protection from dangers, and hypocritical practice:  
+These are the eight intrusive circumstances that leave no freedom.  
+>  
+> Being bound by one's ties, flagrant depravity,  
+Lack of dissatisfaction with samsara, complete absence of faith,  
+Taking pleasure in bad actions, lack of interest in the Dharma,  
+Heedlessness of the vows and of the samayas:  
+These are the eight incompatible propensities that leave no freedom. 
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
-
-
 
 ---
 
