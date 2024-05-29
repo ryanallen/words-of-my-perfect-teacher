@@ -1356,13 +1356,13 @@ NT explains that these can crop up suddenly, between one session of practice and
 > Turmoil from the five emotions, stupidity, being dominated by evil influences,  
 Laziness, being inundated by the effect of past evil actions,  
 Enslavement to others, seeking protection from dangers, and hypocritical practice:  
-These are the eight intrusive circumstances that leave no freedom.  
+These are [the eight intrusive circumstances that leave no freedom](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma).  
 >  
 > Being bound by one's ties, flagrant depravity,  
 Lack of dissatisfaction with samsara, complete absence of faith,  
 Taking pleasure in bad actions, lack of interest in the Dharma,  
 Heedlessness of the vows and of the samayas:  
-These are the eight incompatible propensities that leave no freedom. 
+These are [the eight incompatible propensities that leave no freedom](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma). 
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
