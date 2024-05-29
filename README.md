@@ -760,15 +760,15 @@ Tell yourself: "It is for their well-being that I am going to listen to the prof
 
 Whenever you do something positive, whether of major or minor importance, it is indispensable to enhance it with the three supreme methods. Before beginning, arouse the bodhicitta as a skilful means to make sure that the action becomes a source of good for the future. While carrying out the action, avoid getting involved in any conceptualization,<sup>[1](#1)</sup> so that the merit cannot be destroyed by circumstances.<sup>[2](#2)</sup> At the end, seal the action properly by dedicating the [merit](#merit), which will ensure that it continually grows ever greater.<sup>[3](#3)</sup>
 
-<details id="1"><summary>Note <sup>1</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
+<details id="1"><summary>Note <sup>1</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details><br>
 
 <details id="2"><summary>Note <sup>2</sup></summary>The positive energy of the practice can also be channelled away from enlightenment into other things. NT mentions four circumstances which destroy one's sources of merit. (<i>dge rtsa</i>):<br>  
 1. Not dedicating the action to the attainment of perfect Buddhahood for the sake of other.<br>
 2. Anger: one moment of anger is said to be capable of destroying <a href="#kalpa">kalpas</a> of positive actions.<br>
 3. Regret: regretting the beneficial actions one has done, even partially.<br>
-4. Boasting of one's positive actions to others.</details>
+4. Boasting of one's positive actions to others.</details><br>
 
-<details id="3"><summary>Note <sup>3</sup></summary>NT explains that just as when a drop of water becomes part of the ocean it will continue to exist as long as the ocean exists, when the merit of one's actions is completely dedicated to "the fruit, the ocean of Omniscience," it will not be lost until one has attained complete Buddhahood.</details>
+<details id="3"><summary>Note <sup>3</sup></summary>NT explains that just as when a drop of water becomes part of the ocean it will continue to exist as long as the ocean exists, when the merit of one's actions is completely dedicated to "the fruit, the ocean of Omniscience," it will not be lost until one has attained complete Buddhahood.</details><br>
 
 The way you listen to the [Dharma](#dharma) is very important. But even more important is the motivation with which you listen to it.
 
@@ -789,11 +789,11 @@ The Mantra Vehicle is sublime.
 
 <details id="4"><summary>Note <sup>4</sup></summary>
 "The object of view (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>chos kyi dbyings</i>, Skt. <i>dharmadhatu</i>). But with regard to the view itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The Vehicle of Characteristics (the sutras) establishes the support, the essence, the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial wisdom (<i>dbyings ye zung 'jug</i>). As for what is supported, the phenomena of relative reality, the Vehicle of Characteristics establishes them as being interdependent and like a magical illusion. But it does not go further than this impure magical display, to establish the <a href="#kaya">kayas</a> and wisdoms. The Vehicle of the Secret Mantras, on the other hand, establishes the higher great <a href="#dharmakaya">dharmakaya</a>, the array of <a href="#kaya">kayas</a> and wisdoms which have always been inseparable, the two absolute truths." NT
-</details>
+</details><br>
 <details id="5"><summary>Note <sup>5</sup></summary>
-"In the Vehicle of Characteristics it is not taught that one can attain Enlightenment without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant Vehicle) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the level of Union, the level of Vajradhara, in one life and one body."</details>
+"In the Vehicle of Characteristics it is not taught that one can attain Enlightenment without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant Vehicle) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the level of Union, the level of Vajradhara, in one life and one body."</details><br>
 <details id="6"><summary>Note <sup>6</sup></summary>
-Beings with sharp faculties are those who are "intelligent enough to be able to realize the profound view of the Adamantine Vehicle of Secret Mantras and who possess sufficient confidence not to be afraid of vast and powerful actions."</details>  
+Beings with sharp faculties are those who are "intelligent enough to be able to realize the profound view of the Adamantine Vehicle of Secret Mantras and who possess sufficient confidence not to be afraid of vast and powerful actions."</details><br>  
 
 The [Mantrayana](#secret-mantrayana) can be entered by many routes. It contains many methods for accumulating [merit](#merit) and [wisdom](#wisdom), and profound [skillful means](#skilful-means) to make the potential within us manifest<sup>[7](#7)</sup> without our having to undergo great hardships. The basis for these methods is the way we direct our aspirations:
 
@@ -802,7 +802,7 @@ And depends entirely on one's aspiration.
 
 <details id="7"><summary>Note <sup>7</sup></summary>
 According to the <a href="#secret-mantrayana">Secret Mantrayana</a> one does not create or develop anything by following the path. One is simply making visible something which is already present&mdash;one's own Buddha-nature.
-</details>
+</details><br>
 
 Do not consider the place where the [Dharma](#dharma) is being taught, the teacher, the teachings and so on as ordinary and impure. As you listen, keep the [five perfections](#five-perfections) clearly in mind:
 
@@ -810,7 +810,7 @@ The perfect *place* is the citadel of the absolute expanse, called [Akanistha](#
 
 <details id="8"><summary>Note <sup>8</sup></summary>
 One should not see them as ordinary (<i>rags pa</i>) but as subtle (<i>phra ba</i>) or extremely subtle (<i>shin tu phra ba</i>) beings." DKR "All in the assembly, whether they realize it or not, are pervaded by the <a href="#buddha-nature">Buddha nature</a> just as sesame seeds are pervaded by oil... So all sentient beings are <a href="#buddha">Buddhas</a>, visualized as <a href="#daka">dakas</a> and <a href="#dakini">dakinis</a> of the appropriate family. If both teacher and retinue are Buddhas, their <a href="#buddhafield">Buddhafield</a> is also pure and should be visualized as <a href="#akanistha">Akanistha</a> or another <a href="#pure-land">pure land</a>." NT
-</details>
+</details><br>
 
 Or you can think that the place where the [Dharma](#dharma) is being taught is the Lotus-Light Palace of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain), the teacher who teaches is [Padmasambhava of Oddiyana](#padmasambhava-of-oddiyana), and we, the audience, are the Eight [Vidyadharas](#vidyadhara), the [Twenty-five Disciples](#twenty-five-disciples), and the [dakas](#daka) and [dakinis](#dakini).
 
@@ -824,13 +824,13 @@ These visualizations<sup>[9](#9)</sup> are to help us understand how things are 
 
 <details id="9"><summary>Note <sup>9</sup></summary>
 <i>gsal btab pa</i> means visualize but also to bring to mind, to have clearly in one's mind, to refresh one's memory. "Visualizing in this way does not mean telling oneself that a donkey is a horse or that a piece of coal is gold; it means having vividly in one's mind what has always been so from the beginning, that appearances and beings spring from the primal ground, which is the state of Buddhahood." NT
-</details>
+</details><br>
 
 The teacher embodies the essence of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Sangha](#sangha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [dakini](#dakini). He is the union of the [three kayas](#three-kayas): his body is the [nirmanakaya](#nirmanakaya), his speech the [sambhogakaya](#sambhogakaya), his mind the [dharmakaya](#dharmakaya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand Buddhas of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
 
 <details id="10"><summary>Note <sup>10</sup></summary>
 "In this <a href="#kalpa">kalpa</a> a thousand <a href="#buddha">Buddhas</a> are to appear. However, we have not met those <a href="#buddha">Buddhas</a> who have already come&mdash;or if we did meet them they did not succeed in bringing us to liberation. As for the <a href="#buddha">Buddhas</a> of the future, it is still too soon for us to meet them. So without our spiritual teachers we would hav no one to help us." DKR
-</details>
+</details><br>
 
 >The teacher is the [Buddha](#buddha), the teacher is the [Dharma](#dharma),  
 The teacher is also the [Sangha](#sangha).  
@@ -854,23 +854,29 @@ Conduct to avoid includes the [three defects of the pot](#211-the-three-defects-
 ##### 2.1.1 The Three Defects of the Pot
 
 1. 
+
 Not to listen is to be like a pot turned upside down.  
 
 2. 
+
 Not to be able to retain what you hear is to be like a pot with a hole in it.  
 
 3. 
+
 To mix negative emotions with what you hear is to be like a pot with poison in it.  
 
 ---
 
 1. 
+
 *The upside-down pot*. When you are listening to the teachings, listen to what is being said and do not let yourself be distracted by anything else. Otherwise you will be like an upside-down pot on which liquid is being poured. Although you are physically present, you do not hear a word of the teaching.
 
 2. 
+
 *The pot with a hole in it*. If you just listen without remembering anything that you hear or understand, you will be like a pot with a leak: however much liquid is poured into it, nothing can stay. No matter how many teachings you hear, you can never assimilate them or put them into practice.
 
 3. 
+
 *The pot containing poison*. If you listen to the teachings with the wrong attitude, such as the desire to become great or famous, or a mind full of the [five poisons](#five-poisons), the [Dharma](#dharma) will not only fail to help your mind; it will also be changed into something that is not [Dharma](#dharma) at all, like [nectar](#nectar) poured into a pot containing poison.
 
 ---
@@ -921,21 +927,53 @@ In the *Well Explained Reasoning*, it says:
 Outward distraction, inward tension and discouragement;  
 These are the six stains.
 
-Avoid these six: proudly believing yourself superior to the teacher who is explaining the [Dharma](#dharma), not trusting the master and their teachings, failing to apply yourself to the [Dharma](#dharma), getting distracted by external events, focussing your five senses too intently inwards, and being discouraged if, for example, a teaching is too long.
+Avoid these six: 
+
+1. Pride 
+
+Proudly believing yourself superior to the teacher who is explaining the [Dharma](#dharma).
+
+2. Lack of faith
+
+Not trusting the master and their teachings.
+
+3. Lack of effort
+
+Failing to apply yourself to the [Dharma](#dharma).
+
+4. Outward distraction
+
+Getting distracted by external events.
+
+5. Inward tension
+
+Focussing your five senses too intently inwards.
+
+6. Discouragement
+
+Being discouraged if, for example, a teaching is too long.
+
+---
+
+1. Pride
 
 Of all negative emotions, pride and jealousy are the most difficult to recognize. Therefore, examine your mind minutely. Any feeling that there is something even the least bit special about your own qualities, whether worldly or spiritual, will make you blind to your own faults and unaware of others' good qualities. So renounce pride and always take a low position.
+
+2. Lack of faith
 
 If you have no faith, the entrance to the [Dharma](#dharma) is blocked. Of the four types of faith,<sup>[11](#11)</sup> aim for faith that is irreversible.
 
 <details id="11"><summary>Note <sup>11</sup></summary>
 The first three are explained in Part Two, Chapter One. A fourth, irreversible faith, is sometimes added to denote the culmination of faith, when it has become an integral part of one's being.
-</details>
+</details><br>
+
+3. Lack of effort
 
 Your interest<sup>[12](#12)</sup> in the [Dharma](#dharma) is the basis of what you will achieve. So depending on whether your degree of interest is superior, middling or inferior you will become a superior, middling or inferior practitioner. And if you are not at all interested in the [Dharma](#dharma), there will be no results at all. As the proverb puts it:
 
 <details id="12"><summary>Note <sup>12</sup></summary>
 NT says "Whether or not we have received the Dharma, if we have no interest in it we will be like a horse who is offered a bone, or a dog presented with grass" <i>don gnyer</i>, "interest," also means "effort," that is to say, not only intellectual interest but also active engagement.
-</details>
+</details><br>
 
 > The [Dharma](#dharma) is nobody's property. It belongs to whoever has the most endeavour.
 
@@ -943,25 +981,27 @@ The Buddha himself obtained the teachings at the price of hundreds of hardships.
 
 <details id="13"><summary>Note <sup>13</sup></summary>
 These examples from stories of the Buddha's previous lives serve to illustrate the degree of his commitment and should not be taken as recommending extreme asceticism. 
-</details>
+</details><br>
 
 > Even if you have to face blazing infernos or razor-sharp blades,  
 Search for the [Dharma](#dharma) until you die.
 
 Listen to the teachings, therefore, with great effort, ignoring heat, cold and all other trials.
 
+4. Outward distraction
+
 The tendency of consciousness to get engrossed in the objects of the six senses<sup>[14](#14)</sup> is the root of all [samsara's](#samsara) hallucinations and the source of all suffering. This is how the moth dies in the lamp-flame, because its visual consciousness is attracted to forms; how the stag is killed by the hunter, because its hearing draws it to sounds; how bees are swallowed by carnivorous plants, seduced by their smell; how fish are caught with bait, their sense of taste lured by its flavor; how elephants drown in the swamp because they love the physical feeling of mud. In the same way, whenever you are listening to the [Dharma](#dharma), teaching, meditating or practicing, it is important not to follow tendencies from the past, not to entertain emotions about the future and not to let your present thoughts get distracted by anything around you . As [Gyalse Rinpoche](#gyalse-rinpoche) says:
 
 <details id="14"><summary>Note <sup>14</sup></summary>
 The sixth sense is mind, since the same psychological reactions are produced by objects which simply arise in thought as by objects perceived by the five physical sense.
-</details>
+</details><br>
 
 > Your past joys and sorrows are like drawings on water:  
 No trace of them remains. Don't run after them!  
 But should they come to mind, reflect on how success and failure come and go.  
 Is there anything you can trust besides [Dharma](#dharma), mani-reciters?<sup>[15](#15)</sup>
 >
-><details id="15"><summary>Note <sup>15</sup></summary>This refers to ordinary Tibetans, who characteristically have faith in the Dharma and recite the well known mantra, <i>Om mani padme hum</i>, but who may not have any detailed knowledge of the Buddhist teachings. Here Gyalse Rinpoche is using the term in a slightly derogatory way to provoke his listeners.</details>
+><details id="15"><summary>Note <sup>15</sup></summary>This refers to ordinary Tibetans, who characteristically have faith in the Dharma and recite the well known mantra, <i>Om mani padme hum</i>, but who may not have any detailed knowledge of the Buddhist teachings. Here Gyalse Rinpoche is using the term in a slightly derogatory way to provoke his listeners.</details><br>
 >
 > Your future projects and plans are like nets cast in a dry riverbed:   
 They'll never bring what you want. Limit your desires and aspirations!  
@@ -1010,9 +1050,15 @@ Here is an essential point for the View.
 
 <details id="16"><summary>Note <sup>16</sup></summary>
 <i>grims kyis sgrim la lhod kyis glod</i>. "This means without distraction, but very relaxed at the same time." DKR. Furthermore, at first it is necessary to rein in the wild thoughts to achieve sustained calm (<i>zhi gnas</i>), then one has to relax the mind to allow the expansion of profound insight (<i>lhag mthong</i>).
-</details>
+</details><br>
+
+
+5. Inward tension  
+
 
 Do not let your mind get too tense or too inwardly concentrated; let your senses be naturally at ease, balanced between tension and relaxation.
+
+6. Discouragement
 
 You should not tire of listening to the teachings. Do not feel discouraged when you get hungry or thirsty during a teaching that goes on too long, or when you have to put up with discomfort caused by the wind, sun, rain and so forth. Just be glad that you now have the freedoms and advantages of human life, that you have met an authentic teacher, and that you can listen to their profound instructions.
 
@@ -1025,25 +1071,41 @@ Or remembering the meaning but forgetting the words.
 Avoid remembering both but with no understanding,  
 Remembering them out of order, or remembering them incorrectly.
 
-Do not attach undue importance to elegant turns of phrase without making any attempt to analyze the profound meaning of the words, like a child gathering flowers. Words alone are of no benefit for the mind. On the other hand, do not disregard the way in which the teachings are expressed, as being just the words and therefore dispensable. For then, even if you grasp the profound meaning, you will no longer have the means through which to express it. Words and meaning will have lost their connection.<sup>[17](#17)</sup>
+1. Avoid remembering the words but forgetting the meaning
+
+Do not attach undue importance to elegant turns of phrase without making any attempt to analyze the profound meaning of the words, like a child gathering flowers. Words alone are of no benefit for the mind. 
+
+2. Avoid remembering the meaning but forgetting the words
+
+On the other hand, do not disregard the way in which the teachings are expressed, as being just the words and therefore dispensable. For then, even if you grasp the profound meaning, you will no longer have the means through which to express it. Words and meaning will have lost their connection.<sup>[17](#17)</sup>
 
 <details id="17"><summary>Note <sup>17</sup></summary>
 "That the way the teachings are expressed are just the words and therefore dispensable is what people say who think they are great [Nyingmapa](#nyingmapa) meditators. They think that they can grasp the essential naked meaning without bothering about the words. Pointing to their hearts they will say that this explanation is just words which have no substance and that it is only necessary to understand the essence of mind."
-</details>
+</details><br>
 
-If you remember the teaching without identifying the different levels&mdash;the expedient meaning, the real meaning and the indirect meaning&mdash;you will be confused about what the words refer to.<sup>[18](#18)</sup> This may lead you away from the true [Dharma](#dharma). If you remember it out of order, you will mix up the proper sequence of the teaching, and every time you listen to it, explain it, or meditate on it the confusion will be multiplied.  If you remember incorrectly what has been said, endless wrong ideas will proliferate.<sup>[19](#19)</sup> This will spoil your mind and debase the teaching. Avoid all these errors and remember everything&mdash;the words, the meaning and the order of the teachings&mdash;properly and without any mistake.
+3. Avoid remembering both but with no understanding
+
+If you remember the teaching without identifying the different levels&mdash;the expedient meaning, the real meaning and the indirect meaning&mdash;you will be confused about what the words refer to.<sup>[18](#18)</sup> This may lead you away from the true [Dharma](#dharma). 
+
+4. Avoid remembering them out of order
+
+If you remember it out of order, you will mix up the proper sequence of the teaching, and every time you listen to it, explain it, or meditate on it the confusion will be multiplied.  
+
+5. Avoid remembering them incorrectly
+
+If you remember incorrectly what has been said, endless wrong ideas will proliferate.<sup>[19](#19)</sup> This will spoil your mind and debase the teaching. Avoid all these errors and remember everything&mdash;(1)&ndash;the words, (2)&ndash;the meaning and (4)&ndash;the order of the teachings&mdash;(3)&ndash;properly and (5)&ndash;without any mistake.
 
 <details id="18"><summary>Note <sup>18</sup></summary>
 The real meaning expresses the truth from the point of view of realized beings. The expedient meaning refers to teachings intended to lead unrealized beings towards that truth, who would not be able to accept or understand it if it was stated directly. The indirect meaning refers to teachings given to beings to introduce them indirectly to a meaning which is not directly stated.
-</details>
+</details><br>
 
 <details id="19"><summary>Note <sup>19</sup></summary>
 "That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and liberation. To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
-</details>
+</details><br>
 
 However long and difficult the teaching may be, do not feel disheartened and wonder if it will ever end; persevere. And however short and simple it may be, do not undervalue it as just elementary.
 
-To remember both words and meaning perfectly, in the right order and with everything properly linked together, is therefore indispensable.
+To remember both (1)&ndash;words and (2)&ndash;meaning (5)&ndash;perfectly, (4)&ndash;in the right order and (3)&ndash;with everything properly linked together, is therefore indispensable.
 
 #### 2.2 WHAT TO DO
 
@@ -1070,13 +1132,13 @@ Now that we have this free and well-endowed human birth, now that we know what w
 
 <details id="20"><summary>Note <sup>20</sup></summary>
 AT "an inspiration which is good or bad forever." Here we have followed the explanation of DKR.
-</details>
+</details><br>
 
 Those who conduct village ceremonies will have you believe that on your death-bed you can still go up or down, as if you were steering a horse by the reins. But by that time, unless you have already mastered the path, the fierce [wind](#wind) of your past actions will be chasing after you, while in front a terrifying black darkness rushes toward you as you are driven helplessly down the long and perilous path of the [intermediate state](#intermediate-state). The Lord of Death's countless henchmen will be pursuing you, crying, "Kill! Kill! Strike! Strike!" How could such a moment&mdash;when there is no place to run to and nowhere to hide, no refuge and no hope, when you are desperate and have no idea what to do&mdash;how could such a moment be the turning point at which you control whether you go up or down? As the Great One of Oddiyana says:
 
 > By the time empowerment is being given to the card marked with your name,<sup>[21](#21)</sup> it's too late! Your consciousness, already wandering in the intermediate state like a dazed dog, will find it very hard to even think of higher realms.
 >
-><details id="21"><summary>Note <sup>21</sup></summary>This refers to a purification practice for the dead in which the dead person is represented by a card bearing their name.</details>
+><details id="21"><summary>Note <sup>21</sup></summary>This refers to a purification practice for the dead in which the dead person is represented by a card bearing their name.</details><br>
 
 In fact the turning point, the only time that you really can direct yourself up or down as if steering a horse with the reins, is right now, while you are still alive.
 
@@ -1084,7 +1146,7 @@ As a human being, your positive actions are more powerful than those of other ki
 
 <details id="22"><summary>Note <sup>22</sup></summary>
 The expression <i>thod pa bor chog ma</i> literally means "getting rid of the skull," that is, of getting rid of one's body, in the sense of freeing oneself from future rebirths. DKR
-</details>
+</details><br>
 
 The *Treasury of Precious Qualities* describes four wrong notions that must be avoided, which are the opposite of the four metaphors we have mentioned:
 
@@ -1162,7 +1224,7 @@ The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharm
 
 <details id="23"><summary>Note <sup>23</sup></summary>
 *'du shes med pa*. AT "without perception." We have followed the explanation of DKR: "The gods without perception have created a blankness in their minds and perceive nothing, as in the state of deep sleep without dreams."
-</details>
+</details><br>
 
 Those born as *[tirthikas](#tirthika)* or with similar wrong views have no opportunity to practice the [Dharma](#dharma) because they never even hear of the [Three Jewels](#three-jewels), and cannot distinguish good from bad.
 
@@ -1176,7 +1238,7 @@ The inhabitants of the three lower realms suffer constantly from heat, cold, hun
 
 <details id="24"><summary>Note <sup>24</sup></summary>
 *klo kha khra* refers to the large area inhabited by tribal peoples lying to the south of central and eastern Tibet. It includes present-day Arunachal Pradesh, Nagaland and parts of Assam in north-eastern India, as well as parts of north-western Burma.
-</details>
+</details><br>
 
 The long-lived [gods](#gods) are those gods who are absorbed in a state of mental blankness. Beings are born in this realm as a result of believing that liberation is a state in which all mental activities, good or bad, are absent, and of meditating upon that state. They remain in such states of concentration for great [kalpas](#kalpa) on end. But once the effect of the past actions that produced that condition has exhausted itself they are reborn in the lower realms because of their wrong views. They, too, lack any opportunity to practice the [Dharma](#dharma).
 
@@ -1221,7 +1283,7 @@ Geographically speaking, the central region is generally said to be the [Vajra S
 
 <details id="25"><summary>Note <sup>25</sup></summary>
 Tibetans habitually call Bodh Gaya <i>rdo rje ldan</i>, the Vajra Seat, referring to the spot on which the Buddha sat when he attained enlightenment. It is considered to be the centre of the world.
-</details>
+</details><br>
 
 In [Dharma](#dharma) terms, a central place is wherever the [Dharma](#dharma)&mdash;the teaching of Lord Buddha&mdash;exists. All other regions are said to be peripheral.
 
@@ -1235,11 +1297,11 @@ Five generations later, in accordance with prophecies that he would understand t
 
 <details id="26"><summary>Note <sup>26</sup></summary>
 Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Kongjo to the Tibetans, was the daughter of the T'ang emperor T'ai-tsung. The statue she brought was of [Sakyamuni Buddha](#sakyamuni) at the age of twelve, and had been presented to the Chinese emperor by a Buddhist king of Bengal; the Ramoche temple was built in 641 to house it but it was later moved to the Rasa Trulnang (Jokhang), where it is now&mdash;the famous Jowo Rinpoche. Queen Tritsun was the daughter of the Nepalese king Amsuvarman; the statue she brought was of [Buddha Sakyamuni](#sakyamuni) at the age of eight is now in the Ramoche Temple.
-</details>
+</details><br>
 
 <details id="27"><summary>Note <sup>27</sup></summary>
 These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details fo the story sites, see HIST, Vol. 1, page 510 and notes.
-</details>
+</details><br>
 
 His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oddiyana), the Preceptor of Oddiyana, the greatest of the mantra-holders, unequalled throughout the three worlds. To uphold representations of the Buddha's form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the Buddha's speech, the authentic [Dharma](#dharma) one hundred and eight translators, including the great [Vairotsana](#vairotsana), learned the art of translation and translated all the main [sutras](#sutra), [tantras](#tantra) and [sastras](#sastra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Sangha](#sangha), to uphold the Buddha's mind.
 
@@ -1283,7 +1345,7 @@ Moreover, as the Great on of Oddiyana points out, the [Secret Mantra](#secret-ma
 
 <details id="28"><summary>Note <sup>28</sup></summary>
 According to NT Padmasambhava means that only in these three periods is the Secret Mantra Vajrayana revealed on a large scale.
-</details>
+</details><br>
 
 In this [Good Kalpa](#good-kalpa), at the present time when the span of human life is a hundred years, the perfect [Buddha Sakyamuni](#sakyamuni) has come to the world, and so it is a [bright kalpa](#good-kalpa).
 
@@ -1310,15 +1372,15 @@ These days we still have the teachings of the [Buddha Sakyamuni](#sakyamuni). Th
 
 <details id="29"><summary>Note <sup>29</sup></summary>
 Lit. "years," but this does not refer to precise units of time but to periods of growth or decline affected by various causes such as the appearance of a holy being or, conversely, the harmful influence of evil beings. DKR
-</details>
+</details><br>
 
 <details id="30"><summary>Note <sup>30</sup></summary>
 During the period immediately following the promulgation of the teachings, those who practice them attain the fruit almost straight away.
-</details>
+</details><br>
 
 <details id="31"><summary>Note <sup>31</sup></summary>
 "These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
-</details>
+</details><br>
 
 ---
 
@@ -1367,11 +1429,11 @@ Checking your own life and circumstances for each of the [eight freedoms](#1-ref
 
 <details id="32"><summary>Note <sup>32</sup></summary>
 NT explains that these can crop up suddenly, between one session of practice and the next, or during a session, and destroy one or several of the eighteen freedoms and advantages, like a wolf entering a sheep fold and carrying off one or two of the eighteen sheep within.
-</details>
+</details><br>
 
 <details id="33"><summary>Note <sup>33</sup></summary>
 "These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
-</details>
+</details><br>
 
 > Turmoil from the five emotions, stupidity, being dominated by evil influences,  
 Laziness, being inundated by the effect of past evil actions,  
