@@ -853,13 +853,29 @@ Conduct to avoid includes the [three defects of the pot](#211-the-three-defects-
 
 ##### 2.1.1 The Three Defects of the Pot
 
-Not to listen is to be like a pot turned upside down. Not to be able to retain what you hear is to be like a pot with a hole in it. To mix negative emotions with what you hear is to be like a pot with poison in it.
+1. 
+Not to listen is to be like a pot turned upside down.  
 
+2. 
+Not to be able to retain what you hear is to be like a pot with a hole in it.  
+
+3. 
+To mix negative emotions with what you hear is to be like a pot with poison in it.  
+
+---
+
+1. 
 *The upside-down pot*. When you are listening to the teachings, listen to what is being said and do not let yourself be distracted by anything else. Otherwise you will be like an upside-down pot on which liquid is being poured. Although you are physically present, you do not hear a word of the teaching.
 
+2. 
 *The pot with a hole in it*. If you just listen without remembering anything that you hear or understand, you will be like a pot with a leak: however much liquid is poured into it, nothing can stay. No matter how many teachings you hear, you can never assimilate them or put them into practice.
 
+3. 
 *The pot containing poison*. If you listen to the teachings with the wrong attitude, such as the desire to become great or famous, or a mind full of the [five poisons](#five-poisons), the [Dharma](#dharma) will not only fail to help your mind; it will also be changed into something that is not [Dharma](#dharma) at all, like [nectar](#nectar) poured into a pot containing poison.
+
+---
+
+1. 
 
 This is why the Indian sage, [Padampa Sangye](#padampa-sangye), said:
 > Listen to the teachings like a deer listening to music;  
@@ -875,6 +891,8 @@ When listening to the teachings, you should be like a deer so entranced by the s
 
 It is no good listening with only your body physically present, while your mind wanders off after your thoughts and your speech lets loose a rich store of gossip, saying whatever you like and looking around everywhere. When listening to teachings, you should even stop reciting prayers, counting mantras, or whatever other meritorious activities you may be doing.
 
+2. 
+
 After you have listened properly to a teaching in this way, it is then also important to retain the meaning of what has been said without ever forgetting it, and to continually put it into practice. For, as the Great Sage himself said:
 
 > I have shown you the methods  
@@ -885,6 +903,8 @@ That liberation depends upon yourself.
 The teacher gives the disciple instructions explaining how to listen to the [Dharma](#dharma) and how to apply it, how to give up [negative actions](#negative-action), how to perform [positive ones](#positive-action), and how to practice. It is up to the disciple to remember those instructions, forgetting nothing; to put them into practice; and to realize them.
 
 Just listening to the [Dharma](#dharma) is perhaps of some benefit by itself. But unless you remember what you hear, you will not have the slightest knowledge of either the words or the meaning of the teaching&mdash;which is no different from not having heard it at all.
+
+3. 
 
 If you remember the teachings but mix them with your [negative emotions](#negative-emotions), they will never be the pure [Dharma](#dharma). As the peerless [Dago Rinpoche](#dago-rinpoche) says:
 
@@ -1365,6 +1385,7 @@ Heedlessness of the vows and of the samayas:
 These are [the eight incompatible propensities that leave no freedom](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma). 
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
+
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
