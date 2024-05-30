@@ -853,35 +853,35 @@ Conduct to avoid includes the [three defects of the pot](#211-the-three-defects-
 
 ##### 2.1.1 The Three Defects of the Pot
 
-1. 
+**1. Upside-down pot**
 
 Not to listen is to be like a pot turned upside down.  
 
-2. 
+**2. Pot with a hole**
 
 Not to be able to retain what you hear is to be like a pot with a hole in it.  
 
-3. 
+**3. Poison pot**
 
 To mix negative emotions with what you hear is to be like a pot with poison in it.  
 
 ---
 
-1. 
+**1. Upside-down pot**
 
 *The upside-down pot*. When you are listening to the teachings, listen to what is being said and do not let yourself be distracted by anything else. Otherwise you will be like an upside-down pot on which liquid is being poured. Although you are physically present, you do not hear a word of the teaching.
 
-2. 
+**2. Pot with a hole**
 
 *The pot with a hole in it*. If you just listen without remembering anything that you hear or understand, you will be like a pot with a leak: however much liquid is poured into it, nothing can stay. No matter how many teachings you hear, you can never assimilate them or put them into practice.
 
-3. 
+**3. Poison pot**
 
 *The pot containing poison*. If you listen to the teachings with the wrong attitude, such as the desire to become great or famous, or a mind full of the [five poisons](#five-poisons), the [Dharma](#dharma) will not only fail to help your mind; it will also be changed into something that is not [Dharma](#dharma) at all, like [nectar](#nectar) poured into a pot containing poison.
 
 ---
 
-1. 
+**1. Upside-down pot**
 
 This is why the Indian sage, [Padampa Sangye](#padampa-sangye), said:
 > Listen to the teachings like a deer listening to music;  
@@ -897,7 +897,7 @@ When listening to the teachings, you should be like a deer so entranced by the s
 
 It is no good listening with only your body physically present, while your mind wanders off after your thoughts and your speech lets loose a rich store of gossip, saying whatever you like and looking around everywhere. When listening to teachings, you should even stop reciting prayers, counting mantras, or whatever other meritorious activities you may be doing.
 
-2. 
+**2. Pot with a hole**
 
 After you have listened properly to a teaching in this way, it is then also important to retain the meaning of what has been said without ever forgetting it, and to continually put it into practice. For, as the Great Sage himself said:
 
@@ -910,7 +910,7 @@ The teacher gives the disciple instructions explaining how to listen to the [Dha
 
 Just listening to the [Dharma](#dharma) is perhaps of some benefit by itself. But unless you remember what you hear, you will not have the slightest knowledge of either the words or the meaning of the teaching&mdash;which is no different from not having heard it at all.
 
-3. 
+**3. Poison pot**
 
 If you remember the teachings but mix them with your [negative emotions](#negative-emotions), they will never be the pure [Dharma](#dharma). As the peerless [Dago Rinpoche](#dago-rinpoche) says:
 
@@ -929,37 +929,37 @@ These are the six stains.
 
 Avoid these six: 
 
-1. Pride 
+**1. Pride**
 
 Proudly believing yourself superior to the teacher who is explaining the [Dharma](#dharma).
 
-2. Lack of faith
+**2. Lack of faith**
 
 Not trusting the master and their teachings.
 
-3. Lack of effort
+**3. Lack of effort**
 
 Failing to apply yourself to the [Dharma](#dharma).
 
-4. Outward distraction
+**4. Outward distraction**
 
 Getting distracted by external events.
 
-5. Inward tension
+**5. Inward tension**
 
 Focussing your five senses too intently inwards.
 
-6. Discouragement
+**6. Discouragement**
 
 Being discouraged if, for example, a teaching is too long.
 
 ---
 
-1. Pride
+**1. Pride**
 
 Of all negative emotions, pride and jealousy are the most difficult to recognize. Therefore, examine your mind minutely. Any feeling that there is something even the least bit special about your own qualities, whether worldly or spiritual, will make you blind to your own faults and unaware of others' good qualities. So renounce pride and always take a low position.
 
-2. Lack of faith
+**2. Lack of faith**
 
 If you have no faith, the entrance to the [Dharma](#dharma) is blocked. Of the four types of faith,<sup>[11](#11)</sup> aim for faith that is irreversible.
 
@@ -967,7 +967,7 @@ If you have no faith, the entrance to the [Dharma](#dharma) is blocked. Of the f
 The first three are explained in Part Two, Chapter One. A fourth, irreversible faith, is sometimes added to denote the culmination of faith, when it has become an integral part of one's being.
 </details><br>
 
-3. Lack of effort
+**3. Lack of effort**
 
 Your interest<sup>[12](#12)</sup> in the [Dharma](#dharma) is the basis of what you will achieve. So depending on whether your degree of interest is superior, middling or inferior you will become a superior, middling or inferior practitioner. And if you are not at all interested in the [Dharma](#dharma), there will be no results at all. As the proverb puts it:
 
@@ -988,7 +988,7 @@ Search for the [Dharma](#dharma) until you die.
 
 Listen to the teachings, therefore, with great effort, ignoring heat, cold and all other trials.
 
-4. Outward distraction
+**4. Outward distraction**
 
 The tendency of consciousness to get engrossed in the objects of the six senses<sup>[14](#14)</sup> is the root of all [samsara's](#samsara) hallucinations and the source of all suffering. This is how the moth dies in the lamp-flame, because its visual consciousness is attracted to forms; how the stag is killed by the hunter, because its hearing draws it to sounds; how bees are swallowed by carnivorous plants, seduced by their smell; how fish are caught with bait, their sense of taste lured by its flavor; how elephants drown in the swamp because they love the physical feeling of mud. In the same way, whenever you are listening to the [Dharma](#dharma), teaching, meditating or practicing, it is important not to follow tendencies from the past, not to entertain emotions about the future and not to let your present thoughts get distracted by anything around you . As [Gyalse Rinpoche](#gyalse-rinpoche) says:
 
@@ -1053,12 +1053,12 @@ Here is an essential point for the View.
 </details><br>
 
 
-5. Inward tension  
+**5. Inward tension** 
 
 
 Do not let your mind get too tense or too inwardly concentrated; let your senses be naturally at ease, balanced between tension and relaxation.
 
-6. Discouragement
+**6. Discouragement**
 
 You should not tire of listening to the teachings. Do not feel discouraged when you get hungry or thirsty during a teaching that goes on too long, or when you have to put up with discomfort caused by the wind, sun, rain and so forth. Just be glad that you now have the freedoms and advantages of human life, that you have met an authentic teacher, and that you can listen to their profound instructions.
 
@@ -1071,11 +1071,11 @@ Or remembering the meaning but forgetting the words.
 Avoid remembering both but with no understanding,  
 Remembering them out of order, or remembering them incorrectly.
 
-1. Avoid remembering the words but forgetting the meaning
+**1. Avoid remembering the words but forgetting the meaning**
 
 Do not attach undue importance to elegant turns of phrase without making any attempt to analyze the profound meaning of the words, like a child gathering flowers. Words alone are of no benefit for the mind. 
 
-2. Avoid remembering the meaning but forgetting the words
+**2. Avoid remembering the meaning but forgetting the words**
 
 On the other hand, do not disregard the way in which the teachings are expressed, as being just the words and therefore dispensable. For then, even if you grasp the profound meaning, you will no longer have the means through which to express it. Words and meaning will have lost their connection.<sup>[17](#17)</sup>
 
@@ -1083,15 +1083,15 @@ On the other hand, do not disregard the way in which the teachings are expressed
 "That the way the teachings are expressed are just the words and therefore dispensable is what people say who think they are great [Nyingmapa](#nyingmapa) meditators. They think that they can grasp the essential naked meaning without bothering about the words. Pointing to their hearts they will say that this explanation is just words which have no substance and that it is only necessary to understand the essence of mind."
 </details><br>
 
-3. Avoid remembering both but with no understanding
+**3. Avoid remembering both but with no understanding**
 
 If you remember the teaching without identifying the different levels&mdash;the expedient meaning, the real meaning and the indirect meaning&mdash;you will be confused about what the words refer to.<sup>[18](#18)</sup> This may lead you away from the true [Dharma](#dharma). 
 
-4. Avoid remembering them out of order
+**4. Avoid remembering them out of order**
 
 If you remember it out of order, you will mix up the proper sequence of the teaching, and every time you listen to it, explain it, or meditate on it the confusion will be multiplied.  
 
-5. Avoid remembering them incorrectly
+**5. Avoid remembering them incorrectly**
 
 If you remember incorrectly what has been said, endless wrong ideas will proliferate.<sup>[19](#19)</sup> This will spoil your mind and debase the teaching. Avoid all these errors and remember everything&mdash;(1)&ndash;the words, (2)&ndash;the meaning and (4)&ndash;the order of the teachings&mdash;(3)&ndash;properly and (5)&ndash;without any mistake.
 
@@ -1120,19 +1120,19 @@ Of the [Dharma](#dharma) as the remedy,
 Of your [spiritual friend](#spiritual-friend) as a skilful doctor,  
 And of diligent practice as the way to recovery.
 
-1. We are sick
+**1. We are sick**
 
 From beginningless time, in this immense ocean of suffering that is [samsara](#samsara), we have been tormented by the illness of the [three poisons](#three-poisons) and their fruit, the three kinds of suffering.
 
-2. Dharma is the medicine
+**2. Dharma is the medicine**
 
 When people are seriously ill, they go to consult a good doctor. They follow the doctor's advice, take whatever medicine they prescribe, and do all they can to overcome the disease and get well. In the same way, you should cure yourself of the diseases of [karma](#karma), [negative emotions](#negative-emotions) and suffering by following the prescriptions of that experienced doctor, the authentic teacher, and by taking the medicine of the [Dharma](#dharma).
 
-3. Our teacher is the doctor
+**3. Our teacher is the doctor**
 
 Following a teacher without doing what they say is like disobeying your doctor, which leaves them no chance of treating your illness. Not taking the medicine of the [Dharma](#dharma)&mdash;that is to say, not putting it into practice&mdash;is like having innumerable medications and prescriptions beside your bed but never touching them. That will never cure your disease.
 
-4. Practice leads to recovery
+**4. Practice leads to recovery**
 
 These days, people say full of optimism, "Lama, look on me with compassion!" thinking that even if they have done many terrible things, they will never have to endure the consequences. They reckon that the teacher, in their compassion, will toss them up into the heavenly realms as if they were throwing a pebble. But when we speak of the teacher holding us with their compassion, what this really means is that they have lovingly accepted us as disciples, and that they give us their profound instructions, opens our eyes to what to do and what not to do and shows us the way to liberation taught by the [Conqueror](#conqueror). What greater compassion could there be? It is up to us whether or not we take advantage of this compassion and actually pursue the path of liberation.
 
@@ -1151,7 +1151,7 @@ Those who conduct village ceremonies will have you believe that on your death-be
 
 In fact the turning point, the only time that you really can direct yourself up or down as if steering a horse with the reins, is right now, while you are still alive.
 
-As a human being, your positive actions are more powerful than those of other kinds of being. This gives you, on the one hand, an opportunity here and now in this very life to cast rebirth aside once and for all.<sup>[22](#22)</sup> But (1)&ndash;your negative actions are more powerful too; thus you are also quite capable of making sure, on the other hand, that you will never get free from the depths of the lower realms. So now that (3)&ndash;you have met the teacher, the skilful doctor, and (2)&ndash;the [Dharma](#dharma), the elixir that conquers death, (4)&ndash;this is the moment to apply the four metaphors, putting the teachings you have heard into practice, and traveling the path of liberation.
+As a human being, your positive actions are more powerful than those of other kinds of being. This gives you, on the one hand, an opportunity here and now in this very life to cast rebirth aside once and for all.<sup>[22](#22)</sup> But (**1**)&ndash;your negative actions are more powerful too; thus you are also quite capable of making sure, on the other hand, that you will never get free from the depths of the lower realms. So now that (**3**)&ndash;you have met the teacher, the skilful doctor, and (**2**)&ndash;the [Dharma](#dharma), the elixir that conquers death, (**4**)&ndash;this is the moment to apply the four metaphors, putting the teachings you have heard into practice, and traveling the path of liberation.
 
 <details id="22"><summary>Note <sup>22</sup></summary>
 The expression <i>thod pa bor chog ma</i> literally means "getting rid of the skull," that is, of getting rid of one's body, in the sense of freeing oneself from future rebirths. DKR
@@ -1164,7 +1164,7 @@ Approach the teacher as if he were a musk-deer.
 Having extracted the musk, the perfect [Dharma](#dharma),  
 Full of joy, they sneer at the [samaya](#samaya).
 
-Such people behave as though their (3)&ndash;spiritual teacher were a musk-deer, the (2)&ndash;[Dharma](#dharma) were the musk, (1)&ndash;they themselves the hunters, and (4)&ndash;intense practice the way to kill the deer with an arrow or a trap. They do not practice the teachings they have received and feel no gratitude toward the teacher. They use [Dharma](#dharma) to accumulate evil actions, which will drag them down like a millstone to the lower realms.
+Such people behave as though their (**3**)&ndash;spiritual teacher were a musk-deer, the (**2**)&ndash;[Dharma](#dharma) were the musk, (**1**)&ndash;they themselves the hunters, and (**4**)&ndash;intense practice the way to kill the deer with an arrow or a trap. They do not practice the teachings they have received and feel no gratitude toward the teacher. They use [Dharma](#dharma) to accumulate evil actions, which will drag them down like a millstone to the lower realms.
 
 ##### 2.2.2 The Six Transcendent Perfections
 
@@ -1180,27 +1180,27 @@ These are the six transcendent perfections of a listener.
 
 A person listening to the teaching should practice the six transcendent perfections as follows:
 
-1. Make excellent offerings
+**1. Make excellent offerings**
 
 Prepare the teacher's seat, arrange cushions upon it, offer a mandala, flowers and other offerings, This is the practice of ***generosity***.
 
-2. Clean the place and behave
+**2. Clean the place and behave**
 
 Sweep clean the place or room after carefully settling the dust with water, and refrain from all disrespectful conduct. This is the practice of ***discipline***.
 
-3. Harm nothing
+**3. Harm nothing**
 
 Avoid harm to living beings, even the smallest of insects, and bear heat, cold and all other difficulties. This is the practice of ***patience***.
 
-4. Listen joyfully and faithfully
+**4. Listen joyfully and faithfully**
 
 Lay aside any wrong views concerning the teacher and the teaching and listen joyfully with genuine faith. This is the practice of ***diligence***.
 
-5. Listen without distraction
+**5. Listen without distraction**
 
 Listen to the [Lama's](#lama) instructions without distraction. This is the practice of ***concentration***.
 
-6. Understand clearly
+**6. Understand clearly**
 
 Ask questions to clear up any hesitations and doubts. This is the practice of ***wisdom***.
 
@@ -1235,19 +1235,19 @@ As an **animal**, a **long-lived [god](#gods)** or a **barbarian**,
 Having **wrong views**, being born when **there is no [Buddha](#buddha)**  
 Or being **born deaf and mute**; these are the eight states without freedom.
 
-1. Hell
+**1. Hell**
 
 Beings reborn in [hell](#hell) have no opportunity to practice the [Dharma](#dharma) because they are constantly tormented by intense heat or cold.
 
-2. The pretas
+**2. The pretas**
 
 The *[pretas](#preta)* have no opportunity to practice the [Dharma](#dharma) because of the suffering they experience from hunger and thirst.
 
-3. Animals
+**3. Animals**
 
 Animals have no opportunity to practice the [Dharma](#dharma) because they undergo slavery and suffer from the attacks of other animals.
 
-4. Gods
+**4. Gods**
 
 The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharma) because they spend their time in a state of mental blankness.<sup>[23](#23)</sup>
 
@@ -1255,25 +1255,25 @@ The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharm
 *'du shes med pa*. AT "without perception." We have followed the explanation of DKR: "The gods without perception have created a blankness in their minds and perceive nothing, as in the state of deep sleep without dreams."
 </details><br>
 
-5. Barbarians
-6. Wrong views
-7. No Buddha
+**5. Barbarians**  
+**6. Wrong views**  
+**7. No Buddha**
 
 Those born as *[tirthikas](#tirthika)* or with similar wrong views have no opportunity to practice the [Dharma](#dharma) because they never even hear of the [Three Jewels](#three-jewels), and cannot distinguish good from bad.
 
-8. Mentally deficient
+**8. Mentally deficient**
 
 Those born mute or mentally deficient have no opportunity to practice the [Dharma](#dharma) because their faculties are incomplete.
 
 ---
 
-1. Hell
-2. The pretas
-3. Animals
+**1. Hell**  
+**2. The pretas**  
+**3. Animals**  
 
 The inhabitants of the three lower realms suffer constantly from heat, cold, hunger, thirst and other torments, as a result of their past negative actions; they have no opportunity to practice the [Dharma](#dharma).
 
-5. Barbarians
+**5. Barbarians**
 
 "Barbarians" means those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into lower realms as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
 
@@ -1281,19 +1281,19 @@ The inhabitants of the three lower realms suffer constantly from heat, cold, hun
 *klo kha khra* refers to the large area inhabited by tribal peoples lying to the south of central and eastern Tibet. It includes present-day Arunachal Pradesh, Nagaland and parts of Assam in north-eastern India, as well as parts of north-western Burma.
 </details><br>
 
-4. Gods
+**4. Gods**
 
 The long-lived [gods](#gods) are those gods who are absorbed in a state of mental blankness. Beings are born in this realm as a result of believing that liberation is a state in which all mental activities, good or bad, are absent, and of meditating upon that state. They remain in such states of concentration for great [kalpas](#kalpa) on end. But once the effect of the past actions that produced that condition has exhausted itself they are reborn in the lower realms because of their wrong views. They, too, lack any opportunity to practice the [Dharma](#dharma).
 
-6. Wrong views
+**6. Wrong views**
 
 The term "[wrong views](#wrong-view)" includes, in general, eternalist and nihilist beliefs, which are views contrary to, and outside, the teaching of the Buddha. Such views spoil our minds and prevent us from aspiring to the authentic [Dharma](#dharma), to the extent that we no longer have the opportunity to practice it. Here in Tibet, because the second Buddha, [Padmasambhava of Oddiyana](#padmasambhava-of-oddiyana), entrusted the protection of the land to the twelve [Tenma](#tenma), the [tirthikas](#tirthika) themselves have not really been able to penetrate. However, anyone whose understanding is like that of the [tirthikas](#tirthika), and contrary to that of the authentic [Dharma](#dharma) and authentic masters, will thereby be deprived of the opportunity to practice according to those true teachings. The monk [Sunaksatra](#sunaksatra) spent twenty-five years as Lord Buddha's attendant, and yet, because he did not have the slightest faith and held only wrong views, ended up being reborn as a [preta](#preta) in a flower-garden.
 
-7. No Buddha
+**7. No Buddha**
 
 Birth in a dark [kalpa](#kalpa) means to be reborn in a period during which there is no [Buddha](#buddha). In a universe where no [Buddha](#buddha) has appeared, no-one has ever even heard of the [Three Jewels](#three-jewels). As there is no [Dharma](#dharma), there is no opportunity to practice it.
 
-8. Mental deficiency
+**8. Mental deficiency**
 
 The mind of a person born deaf and mute cannot function properly and the process of listening to the teachings, expounding them, reflecting on them and putting them into practice is impeded. The description "def mute" usually refers to a speech dysfunction. It becomes a condition without the opportunity for [Dharma](#dharma) when the usual human ability to use and understand language is absent. This category therefore also includes those whose mental disability makes them unable to comprehend the teachings and thus deprives them of the opportunity to practice them.
 
@@ -1308,35 +1308,35 @@ Under this heading are included [five individual advantages](#21-the-five-indivi
 > Born a human, in a central place, with all one's faculties,  
 Without a conflicting lifestyle and with faith in the [Dharma](#dharma).
 
-1. Born a human
+**1. Born a human**
 
 Without a human life, it would not be possible even to encounter the [Dharma](#dharma). So this human body is the advantage of ***support***.
 
-2. In a central place
+**2. In a central place**
 
 Had you been born in a remote place where [Dharma](#dharma) was unheard of, you would never have come across it. But the region you were born in is central as far as [Dharma](#dharma) is concerned and so you have the advantage of ***place***.
 
-3. With all one's faculties
+**3. With all one's faculties**
 
 Not to have all your sense faculties intact would be a hindrance to the practice of [Dharma](#dharma). If you are free of such disabilities, you have the advantage of ***possessing the sense faculties***.
 
-4. Without a conflicting lifestyle
+**4. Without a conflicting lifestyle**
 
 If you had a conflicting lifestyle, you would always be immersed in negative actions and at variance with the [Dharma](#dharma). Since you now have the wish to do positive actions, this is the advantage of ***intention***.
 
-5. With faith in the Dharma
+**5. With faith in the Dharma**
 
 If you had no faith in the Buddha's teachings you would not feel any inclination for the Dharma. Having the ability to turn your mind to the Dharma, as you are doing now, constitutes the advantage of ***faith***.
 
 Because these five advantages need to be complete with regard to one's own make-up, they are called the ***[five individual advantages](#21-the-five-individual-advantages)***.
 
-1. Born a human
+**1. Born a human**
 
 To practice the real, authentic [Dharma](#dharma), it is absolutely necessary to be a human being. Now suppose that you did not have the support of a human form, but had the highest form of life in the three lower realms, that of an animal&mdash;even the most beautiful and highly prized animal known to man. If someone said to you, "Say *Om mani padme hum* once, and you will become a [Buddha](#buddha)," you would be quite incapable of understanding his words or grasping their meaning, nor would you be able to utter a word.l In fact, even if you were dying of cold, you would be unable to think of anything to do but lie in a heap&mdash;whereas a man, no matter how weak, would know how to shelter in a cave or under a tree, and would gather wood and make a fire to warm his face and hands. If animals are incapable of even such simple things, how could they ever conceive of practicing [Dharma](#dharma)?
 
 [Gods](#gods) and other beings of the kind, however superior their physical form, do not meet the requirements laid down for taking the *[pratimoksa](#pratimoksa) vows, and therefore cannot assimilate the [Dharma](#dharma) in its totality.
 
-2. In a central place
+**2. In a central place**
 
 As to what is meant by a "central region," one should distinguish between a geographically central region and a place that is central in terms of the [Dharma](#dharma).
 
@@ -1368,15 +1368,15 @@ His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred
 
 From that time onwards up to the present day, the teachings of the [Buddha](#buddha) have shone like the sun in Tibet and, despite ups and downs, the doctrine of the Conqueror has never been lost in either of its aspects, transmission or realization. Thus Tibet, as far as the [Dharma](#dharma) is concerned, is a central country.
 
-3. With all one's faculties
+**3. With all one's faculties**
 
 A person lacking any of the five sense faculties does not meet the requirements laid down for taking the monastic vows. Moreover, someone who does not have the good fortune to be able to see representations of the Conqueror to inspire his devotion, or to read and hear the precious and excellent teachings as the material for study and reflection, will not be fully capable of receiving the [Dharma](#dharma).
 
-4. Without a conflicting lifestyle
+**4. Without a conflicting lifestyle**
 
 "Conflicting lifestyle" refers, strictly speaking, to the lifestyles of people born in communities of hunters, prostitutes and so forth, who are involved in these negative activities from their earliest youth. But in fact it also includes anyone whose every thought, word and deed is contrary to the [Dharma](#dharma)&mdash;for even those not born into such lifestyles can easily slip into them later in life. It is therefore essential to avoid doing anything which conflicts with the authentic [Dharma](#dharma).
 
-5. With faith in the Dharma
+**5. With faith in the Dharma**
 
 If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nagas](#naga) and so forth, or in other doctrines such as those of the [tirthikas](#tirthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [samsara](#samsara) or from rebirth in lower realms. But if you have acquired a properly reasoned faith in the Conqueror's doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
 
@@ -1386,29 +1386,29 @@ If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods]
 His teachings still exist and can be followed,  
 There are those who are kind-hearted towards others.
 
-1. A Buddha has appeared
+**1. A Buddha has appeared**
 
 Those not born in a [bright kalpa](#good-kalpa), one in which a [Buddha](#buddha) has appeared, have never even heard of the [Dharma](#dharma). But we are now in a [kalpa](#kalpa) in which a [Buddha](#buddha) has come, and so we possess the advantage of the presence of the particular *teacher*.
 
-2. They have preached the Dharma
+**2. They have preached the Dharma**
 
 Although a [Buddha](#buddha) has come, if they had not taught no-one would benefit. But since the Buddha turned the [Wheel of Dharma](#wheel-of-dharma) according to three levels, we have the advantage of the *teaching of the Dharma*.
 
-3. The teachings still exist
+**3. The teachings still exist**
 
 Although they have taught, had their doctrine died out it would no longer be there to help us. But the period during which the doctrine will remain extant has not yet ended, so we have the advantage of the *time*.
 
-4. The teachings can be followed
+**4. The teachings can be followed**
 
 Although the teachings still exist, unless we follow them they can be of no benefit to us. But since we have taken up the [Dharma](#dharma), we possess the advantage of *our own good fortune*.
 
-5. There are spiritual friends who can teach us
+**5. There are spiritual friends who can teach us**
 
 Although we have taken up the [Dharma](#dharma), without the favorable circumstance of being accepted by a [spiritual friend](#spiritual-friend) we would never come to know what the [Dharma](#dharma) is really about. But since a [spiritual friend](#spiritual-friend) has accepted us, we possess the advantage of their *extraordinary compassion*.
 
 Because these five factors need to be complete with regard to circumstances other than one's own, they are called the *[five circumstantial advantages](#22-the-five-circumstantial-advantages)*
 
-1. A Buddha has appeared
+**1. A Buddha has appeared**
 
 The time it takes for the universe to form, to stay in existence, to be destroyed and to remain in a state of [emptiness](#emptiness) is called a [kalpa](#kalpa). A [kalpa](#kalpa) in which a perfect [Buddha](#buddha) appears in the world is called a "[bright kalpa](#good-kalpa);" while one in which a [Buddha](#buddha) does not appear is called a "dark kalpa." Long ago, during the great [Kalpa](#kalpa) of Manifest Joy, thirty-three thousand [Buddhas](#buddha) appeared. A hundred dark kalpas followed. Then, during the Perfect Kalpa, eight hundred million Buddhas appeared, again followed by a hundred kalpas without [Dharma](#dharma). Then eight hundred and forty million [Buddhas](#buddha) appeared during the Excellent Kalpa, after which there were five hundred dark kalpas. During the Kalpa Delightful to See, eight hundred million Buddhas appeared, and then there were seven hundred kalpas of darkness. Sixty thousand Buddhas appeared during the Joyous Kalpa. Then came our own kalpa, the Good Kalpa.
 
@@ -1428,7 +1428,7 @@ According to NT Padmasambhava means that only in these three periods is the Secr
 
 In this [Good Kalpa](#good-kalpa), at the present time when the span of human life is a hundred years, the perfect [Buddha Sakyamuni](#sakyamuni) has come to the world, and so it is a [bright kalpa](#good-kalpa).
 
-2. They have preached the Dharma
+**2. They have preached the Dharma**
 
 Suppose that a [Buddha](#buddha) had come, but was still in meditation and had not yet taught the [Dharma](#dharma). As long as the light of his [Dharma](#dharma) had not appeared, his having come would make no difference to us. It would be just as if he had never come at all.
 
@@ -1445,7 +1445,7 @@ Furthermore, if those who hold the authentic teaching do not explain it, it is d
 
 For us, the [Buddha Sakyamuni](#sakyamuni) has turned the [Wheel of the Dharma](#wheel-of-dharma) on three levels and, manifesting an inconceivable number of forms according to the needs and capacities of those to be helped, leads disciples through the nine vehicles of his teaching to maturity and liberation.
 
-3. The teachings still exist
+**3. The teachings still exist**
 
 Even during a [kalpa](#kalpa) in which a [Buddha](#buddha) has appeared and given teachings, once the time for those teachings to endure has come to an end and the authentic [Dharma](#dharma) he has taught disappears it is exactly the same as in a dark kalpa. The period between the disappearance of one [Buddha's](#buddha) teachings and the next [Buddha's](#buddha) teachings being given is described as "devoid of [Dharma](#dharma)." In fortunate places where beings have adequate [merit](#merit), [pratyekabuddhas](#pratyekabuddha) appear, but the doctrine is not taught or practiced.
 
@@ -1463,7 +1463,7 @@ During the period immediately following the promulgation of the teachings, those
 "These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
 </details><br>
 
-4. The teachings can be followed
+**4. The teachings can be followed**
 
 That the Doctrine is still present, however, is irrelevant unless you make use of it&mdash;just as the rising sun, although it lights up the whole world, does not make the slightest difference to a blind man. And just as the waters ofa  great lake cannot quench the thirst of a traveler arriving at its shore unless he actually drinks from them, the [Dharma](#dharma) of transmission and realization cannot infiltrate your mind by itself.
 
@@ -1473,7 +1473,7 @@ To enter the [Dharma](#dharma) merely to have food, clothing and sxo on in this 
 
 To enter the [Dharma](#dharma) understanding that the whole of [samsara](#samsara) has no meaning, striving to find a way to be free from it, is called "taking up the teaching by arriving at the starting point fo the path."
 
-5. There are spiritual friends who can teach us
+**5. There are spiritual friends who can teach us**
 
 Even if you start practicing the [Dharma](#dharma), unless you have been accepted by a [spiritual friend](#spiritual-friend) it will be of no use. The *Condensed Transcendent Wisdom* says:
 
@@ -1528,6 +1528,18 @@ Heedlessness of the vows and of the samayas:
 These are [the eight incompatible propensities that leave no freedom](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma). 
 
 #### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
+
+**1. Strong five poisons**
+
+People in whom the **[five poisons](#five-poisons)**&mdash;that is, [negative emotions](#negative-emotions) such as hatred for enemies, infatuation with friends and relatives, and so forth&mdash; **are extremely strong**, may wish from time to time that they could practice some kind of true [Dharma](#dharma). But the [five poisons](#five-poisons) are too strong, dominating their minds most of the time and preventing them from ever accomplishing the [Dharma](#dharma) properly.
+
+**2. Very stupid beings,**
+
+lacking even the slightest glimmer of intelligence, might enter the [Dharma](#dharma) but, being unable to understand a single word of the teaching or its meaning, they will never be able to study it or reflect and meditate upon it.
+
+**3. Led by false teacher**
+
+Once people have been taken as **disciples by a false [spiritual friend](#spiritual-friend) who teaches the view and action in a perverted manner**, their minds will be led on to wrong paths and will not be in accord with the true [Dharma](#dharma).
 
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
