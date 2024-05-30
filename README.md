@@ -512,7 +512,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
 
 May all beings be free from suffering.
 
