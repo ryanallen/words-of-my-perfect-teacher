@@ -506,9 +506,13 @@ The translators are grateful to readers Michal Abrams, Wulstan Fletcher, Helena 
 
 Finally, our warmest thanks to Kerry Brown of the International Sacred Literature Trust for her constant and patient encouragement.
 
+---
+
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
 Enhancements include a linkable glossary and collapsible notes for improved readability during study. Sections identified by numbers (example "[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)") now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are appended at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
+
+---
 
 *<h1 id="preface" align="center">Preface to the Second Edition</h1>*
 
