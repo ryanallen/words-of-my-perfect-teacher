@@ -6,7 +6,7 @@
 
 <div align="center">by Patrul Rinpoche</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-<a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand copied</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for  study, scholarship, research, and teaching to help end the suffering of all sentient beings.</div>  
+digital edition <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for study, scholarship, research, and teaching to help end the suffering of all sentient beings.</div>  
 
 ---
 
@@ -510,7 +510,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> hand-typed this digital edition from the printed second edition for research and study. May it help end all sufferings.
+Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
 Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
 
