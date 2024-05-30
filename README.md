@@ -510,7 +510,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you great teachers. In response to the need for a mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> hand-typed this digital edition from the printed second edition for research and study. May it help end the all sufferings.
+Thank you great teachers. In response to the need for a mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> hand-typed this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
 Other enhancements include a linkable glossary and collapsible notes. Sections identified by numbers (example "[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)") now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
 
