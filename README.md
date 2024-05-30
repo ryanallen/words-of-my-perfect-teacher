@@ -1546,13 +1546,37 @@ These are [the eight incompatible propensities that leave no freedom](#24-the-ei
 
 People in whom the **[five poisons](#five-poisons)**&mdash;that is, [negative emotions](#negative-emotions) such as hatred for enemies, infatuation with friends and relatives, and so forth&mdash; **are extremely strong**, may wish from time to time that they could practice some kind of true [Dharma](#dharma). But the [five poisons](#five-poisons) are too strong, dominating their minds most of the time and preventing them from ever accomplishing the [Dharma](#dharma) properly.
 
-**2. Very stupid beings,**
+**2. Too stupid**
 
-lacking even the slightest glimmer of intelligence, might enter the [Dharma](#dharma) but, being unable to understand a single word of the teaching or its meaning, they will never be able to study it or reflect and meditate upon it.
+Very stupid beings, lacking even the slightest glimmer of intelligence, might enter the [Dharma](#dharma) but, being unable to understand a single word of the teaching or its meaning, they will never be able to study it or reflect and meditate upon it.
 
 **3. Led by false teacher**
 
 Once people have been taken as **disciples by a false [spiritual friend](#spiritual-friend) who teaches the view and action in a perverted manner**, their minds will be led on to wrong paths and will not be in accord with the true [Dharma](#dharma).
+
+**4. Too lazy**
+
+People who want to learn the [Dharma](#dharma) but are **too lazy**, without even a trace of diligence, will never accomplish it because they are so ensnared in their own indolence and procrastination.
+
+**5. Too many obscurations and negative actions**
+
+Some people's **[obscurations](#obscurations) and [negative actions](#negative-action)** are such that, in spite of the effort they put into the [Dharma](#dharma), they fail to develop any of the right qualities in their minds. Their **backlog of [bad actions](#negative-action) has overwhelmed them**, and they will lose confidence in the teachings without perceiving that it is all due to their own past actions.
+
+**6. Servants without autonomy**
+
+Those who are **in servitude to someone else, and have lost their autonomy**, may want to take up [Dharma](#dharma); but the person who dominates them does not allow them to practice.
+
+**7. Out of fear without conviction**
+
+Some people take up [Dharma](#dharma) out of **fear for this present life&mdash;that they might lack food or clothing, or experience other afflictions. But since they have no deep conviction in the [Dharma](#dharma)**, they give themselves up to their old habits and get involved in things that are not [Dharma](#dharma).
+
+**8. Imposters**
+
+Others are **imposters** who, through a pretense of [Dharma](#dharma), try to win possessions, services and prestige. In front of others they assume the guise of practitioners, but in their minds they are only interested in this life, so they are far removed from the path of liberation.
+
+These are [eight circumstances that render it impossible to continue practising the Dharma].(#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma)
+
+
 
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
