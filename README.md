@@ -1574,7 +1574,7 @@ Some people take up [Dharma](#dharma) out of **fear for this present life&mdash;
 
 Others are **imposters** who, through a pretense of [Dharma](#dharma), try to win possessions, services and prestige. In front of others they assume the guise of practitioners, but in their minds they are only interested in this life, so they are far removed from the path of liberation.
 
-These are [eight circumstances that render it impossible to continue practising the Dharma].(#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma)
+These are [eight circumstances that render it impossible to continue practising the Dharma](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma).
 
 
 
