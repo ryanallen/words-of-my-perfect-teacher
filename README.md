@@ -1797,6 +1797,13 @@ These are [eight circumstances that render it impossible to continue practising 
 ### **3. Praying<sup>[266](#266) with resolute trust**
 ### **4. Taking the four empowerments**
 ## III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE
+### **1. The mind lineage of the Conquerors**
+### **2. The symbol lineage of the Vidyadharas**
+#### 2.1 THE MAHAYOGA TANTRAS
+#### 2.2 THE TRANSMISSION OF ANUYOGA
+#### 2.3 THE PITH-INSTRUCTIONS OF ATIYOGA
+### **3. The hearing lineage of ordinary beings<sup>*</sup>**
+## IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
 
 
 
