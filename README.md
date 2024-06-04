@@ -1592,6 +1592,59 @@ These are [eight circumstances that render it impossible to continue practising 
 ---
 
 # <div align="center">CHAPTER TWO<br><i>The impermanence of life</i></div>
+## I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE
+## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
+## III. THE IMPERMANENCE OF HOLY BEINGS
+## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
+## V. OTHER EXAMPLES OF IMPERMANENCE
+## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
+## VII. INTENSE AWARENESS OF IMPERMANENCE
+
+# <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
+## I. THE SUFFERINGS OF SAMSARA IN GENERAL
+## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
+### **1. The eighteen hells**
+#### 1.1 THE EIGHT HOT HELLS
+##### 1.1.1 The Reviving Hell
+##### 1.1.2 The Black-Line Hell
+##### 1.1.3 The Rounding-Up and Crushing Hell
+##### 1.1.4 The Howling Hell
+##### 1.1.5 The Great Howling Hell
+##### 1.1.6 The Heating Hell
+##### 1.1.7 The Intense Heating Hell
+##### 1.1.8 The Hell of Ultimate Torment
+##### 1.1.9 The Neighboring Hells
+#### 1.2 THE EIGHT COLD HELLS
+#### 1.3 THE EPHEMERAL HELLS
+### **2. The pretas**
+#### 2.1 PRETAS WHO LIVE COLLECTIVELY
+##### 2.1.1 Pretas suffering from external obscurations
+##### 2.1.2 Pretas suffering from internal obscurations
+##### 2.1.3 Pretas suffering from specific obscurations
+#### 2.2 PRETAS WHO MOVE THROUGH SPACE
+### **3. The animals**
+#### 3.1 ANIMALS LIVING IN THE DEPTHS
+#### 3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES
+### **4. The human realm**
+#### 4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING
+##### 4.1.1 The suffering of change
+##### 4.1.2 Suffering upon suffering
+##### 4.1.3 The suffering of everything composite<sup>[53](#53)</sup>
+#### 4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE AND DEATH
+##### 4.2.1 The suffering of birth
+##### 4.2.2 The suffering of old age
+##### 4.2.3 The suffering of sickness
+##### 4.2.4 The suffering of death
+#### 4.3 OTHER HUMAN SUFFERINGS
+##### 4.3.1 The fear of meeting hated enemies
+##### 4.3.2 The fear of losing loved ones
+##### 4.3.3 The suffering of not getting what one wants
+##### 4.3.4 The suffering of encountering what one does not want
+### **5. The asuras**
+### **6. The gods**
+
+# <div align="center">CHAPTER FOUR<br><i> Actions:<sup>*</sup> the principle of cause and effect</i></div>
+
 
 
 ---
