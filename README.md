@@ -1809,11 +1809,29 @@ These are [eight circumstances that render it impossible to continue practising 
 
 # <div align="center">Part Three</div>
 ## <div align="center">THE SWIFT PATH OF TRANSFERENCE</div>
+### <div align="center">TRANSFERENCE OF CONSCIOUSNESS, THE INSTRUCTIONS FOR THE DYING: BUDDHAHOOD WITHOUT MEDITATION</div>
 
 ---
 
 # <div align="center">CHAPTER ONE<br><i>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></div>
 ## I. THE FIVE KINDS OF TRANSFERENCE
+### **1. Superior transference to the dharmakaya through the seal of the view
+### **2. Middling transference to the sambhogakaya through the union of the generation and perfection phases**
+### **3. Lower transference to the nirmanakaya through immeasurable compassion**
+### **4. Ordinary transference using three metaphors**
+### **5. Transference performed for the dead with the hook of compassion**
+## II. ORDINARY TRANSFERENCE USING THREE METAPHORS
+### **1. Training for transference**
+### **2. Actual transference**
+### **3. The steps of the meditation on transference**
+#### 3.1 THE PRELIMINARIES
+#### 3.2 THE MAIN VISUALIZATION
+
+---
+
+# <div align="center">Conclusion</div>
+
+---
 
 
 
