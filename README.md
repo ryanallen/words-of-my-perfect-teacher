@@ -116,9 +116,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)
 
-<div align="center">◈</div>
+◈
 
-*[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)*
+***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***
  
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
@@ -144,41 +144,34 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * [3. Reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
     * [4. Reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons)  
 
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Two<br>The impermanence of life</i></h3>  
-&nbsp;
+◈
 
-I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE  
+***[Chapter Two<br>The impermanence of life](#chapter-twothe-impermanence-of-life)***  
 
-II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE  
-
-III. THE IMPERMANENCE OF HOLY BEINGS  
-
-IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
-
-V. OTHER EXAMPLES OF IMPERMANENCE
-
-VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH  
-
-VII. INTENSE AWARENESS OF IMPERMANENCE  
+* [I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE](#i-the-impermanence-of-the-outer-universe-in-which-beings-live)  
+* [II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE](#ii-the-impermanence-of-beings-living-in-the-universe)  
+* [III. THE IMPERMANENCE OF HOLY BEINGS](#iii-the-impermanence-of-holy-beings)  
+* [IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER](#iv-the-impermanence-of-those-in-positions-of-power)  
+* [V. OTHER EXAMPLES OF IMPERMANENCE](#v-other-examples-of-impermanence)
+* [VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH](#vi-the-uncertainty-of-the-circumstances41-of-death)  
+* [VII. INTENSE AWARENESS OF IMPERMANENCE](#vii-intense-awareness-of-impermanence)  
 
 <p align="center">◈</p>
-<h3 align="center"><i>Chapter Three<br>The defects of samsara</i></h3>  
-&nbsp;
 
-I. THE SUFFERINGS OF SAMSARA IN GENERAL  
+***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
 
-II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS  
-1. The eighteen hells  
-    1. THE EIGHT HOT HELLS  
-        1. The Reviving Hell  
-        2. The Black-Line Hell  
-        3. The Rounding-Up and Crushing Hell  
-        4. The Howling Hell  
-        5. The Great Howling Hell  
-        6. The Heating Hell  
-        7. The Intense Heating Hell  
-        8. The Hell of Ultimate Torment  
+* [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
+* [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
+    * **[1. The eighteen hells](#1-the-eighteen-hells)**  
+        * **[1.1 THE EIGHT HOT HELLS](#11-the-eight-hot-hells)**  
+            * **[1.1.1 The Reviving Hell](#111-the-reviving-hell)**  
+            * **[1.1.2 The Black-Line Hell](#112-the-black-line-hell)**  
+        3. 1.1.3 The Rounding-Up and Crushing Hell  
+        4. 1.5 The Howling Hell  
+        5. 1.6 The Great Howling Hell  
+        6. 1.7 The Heating Hell  
+        7. 1.8 The Intense Heating Hell  
+        8. 1.9The Hell of Ultimate Torment  
         9. The Neighboring Hells  
     2. THE EIGHT COLD HELLS  
     3. THE EPHEMERAL HELLS  
