@@ -512,7 +512,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Swapped sections that appeared out of order (3. The hearing lineage of ordinary being, and IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS). Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
 
 May all beings be free from suffering.
 
@@ -1804,6 +1804,16 @@ These are [eight circumstances that render it impossible to continue practising 
 #### 2.3 THE PITH-INSTRUCTIONS OF ATIYOGA
 ### **3. The hearing lineage of ordinary beings<sup>*</sup>**
 ## IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
+
+---
+
+# <div align="center">Part Three</div>
+## <div align="center">THE SWIFT PATH OF TRANSFERENCE</div>
+
+---
+
+# <div align="center">CHAPTER ONE<br><i>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></div>
+## I. THE FIVE KINDS OF TRANSFERENCE
 
 
 
