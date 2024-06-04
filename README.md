@@ -512,7 +512,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate.
 
 May all beings be free from suffering.
 
@@ -1643,7 +1643,162 @@ These are [eight circumstances that render it impossible to continue practising 
 ### **5. The asuras**
 ### **6. The gods**
 
-# <div align="center">CHAPTER FOUR<br><i> Actions:<sup>*</sup> the principle of cause and effect</i></div>
+# <div align="center">CHAPTER FOUR<br><i>Actions:<sup>*</sup> the principle of cause and effect</i></div>
+## I. NEGATIVE ACTIONS TO BE ABANDONED
+### **1. The ten negative actions to be avoided
+#### 1.1 TAKING LIFE
+#### 1.2 TAKING WHAT IS NOT GIVEN
+#### 1.3 SEXUAL MISCONDUCT
+#### 1.4 LYING
+#### 1.5 SOWING DISCORD
+#### 1.6 HARSH SPEECH
+#### 1.7 WORTHLESS CHATTER
+#### 1.8 COVETOUSNESS
+#### 1.9 WISHING HARM ON OTHERS
+#### 1.10 WRONG VIEWS
+### **2. The effects of the ten negative actions**
+#### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
+#### 2.2 THE EFFECT SIMILAR TO THE CAUSE
+##### 2.2.1 Actions Similar to the Cause
+##### 2.2.2 Experiences Similar to the Cause
+#### 2.3 THE CONDITIONING EFFECT
+#### 2.4 THE PROLIFERATING EFFECT
+## II. POSITIVE ACTIONS TO BE ADOPTED
+## III. THE ALL-DETERMINING QUALITY OF ACTIONS
+
+# <div align="center">CHAPTER FIVE<br><i>The benefits of liberation</i></div>
+## I. CAUSES LEADING TO LIBERATION
+## II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT
+
+# <div align="center">CHAPTER SIX<br><i>How to follow a spiritual friend</i></div>
+## I. EXAMINING THE TEACHER
+## II. FOLLOWING THE TEACHER
+## III. EMULATING THE TEACHER'S REALIZATION<sup>[98](#98)</sup> AND ACTIONS
+
+---
+
+# <div align="center">Part Two</div>
+## <div align="center">THE EXTRAORDINARY OR INNER PRELIMINARIES</div>
+### <div align="center">TAKING REFUGE, THE FOUNDATION STONE OF ALL PATHS</div>
+### <div align="center">AROUSING BODHICITTA, THE ROOT OF THE GREAT VEHICLE</div>
+### <div align="center">MEDITATING ON THE TEACHER AS VAJRASATTVA TO CLEANSE ALL OBSCURATIONS</div>
+### <div align="center">OFFERING THE MANDALA TO ACCUMULATE MERIT AND WISDOM</div>
+### <div align="center">THE KUSALI'S ACCUMULATION: DESTROYING THE FOUR DEMONS AT A SINGLE STROKE</div>
+### <div align="center">GURU YOGA, ENTRANCE-WAY FOR BLESSINGS, THE ULTIMATE WAY TO AROUSE THE WISDOM OF REALIZATION</div>
+
+---
+
+# <div align="center">CHAPTER ONE<br><i>Taking refuge, the foundation stone of all paths</i></div>
+## I. APPROACHES TO TAKING REFUGE
+### **1. Faith**
+#### 1.1 VIVID FAITH
+#### 1.2 EAGER FAITH
+#### 1.3 CONFIDENT FAITH
+### **2. Motivation
+#### 2.1 THE REFUGE OF LESSER BEINGS
+#### 2.2 THE REFUGE OF MIDDLING BEINGS
+#### 2.3 THE REFUGE OF GREAT BEINGS
+## II. HOW TO TAKE REFUGE
+## III. PRECEPTS AND BENEFITS OF TAKING REFUGE
+### **1. The precepts of taking refuge**
+#### 1.1 THE THREE THINGS TO BE ABANDONED
+#### 1.2 THE THREE THINGS TO BE DONE
+#### 1.3 THE THREE SUPPLEMENTARY PRECEPTS
+### **3. The benefits of taking refuge**
+
+# <div align="center">CHAPTER TWO<br><i>Arousing bodhicitta, the root of the Great Vehicle</i></div>
+## I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES
+### **1. Meditation on impartiality**
+### **2. Meditation on love**
+### **3. Meditation on compassion**
+### **4. Meditation on sympathetic joy**
+## II. AROUSING BODHICITTA<sup>[135](#135)</sup>
+### **1. Classification based on the three degrees of courage**
+#### 1.1 THE COURAGE OF A KING
+#### 1.2 THE COURAGE OF A BOATMAN
+#### 1.3 THE COURAGE OF A SHEPHERD
+### **2. Classification according to the Bodhisattva levels**
+### **3. Classification according to the nature of bodhicitta**
+#### 3.1 RELATIVE BODHICITTA
+##### 3.1.1 Intention
+##### 3.1.2 Application
+#### 3.2 ABSOLUTE BODHICITTA
+### **4. Taking the vow of bodhicitta**<sup>[140](#140)</sup>
+## III. TRAINING IN THE BODHICITTA PRECEPTS
+### **1. Training in the precepts of the bodhicitta of aspiration**
+#### 1.1 CONSIDERING OTHERS AS EQUAL TO ONESELF
+#### 1.2 EXCHANGING ONESELF AND OTHERS
+#### 1.3 CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF
+### **2. Training in the precepts of the bodhicitta of application: the six transcendent perfections
+#### 2.1 TRANSCENDENT GENEROSITY
+##### 2.1.1 Material giving
+##### 2.1.2 Giving Dharma
+##### 2.1.3 Giving protection from fear
+#### 2.2 TRANSCENDENT DISCIPLINE
+##### 2.2.1 Avoiding negative actions
+##### 2.2.2 Undertaking positive actions
+##### 2.2.3 Bringing benefit to others
+#### 2.3 TRANSCENDENT PATIENCE
+##### 2.3.1 Patience when wronged
+##### 2.3.2 Patience to bear hardships for the Dharma
+##### 2.3.3 Patience to face the profound truth without fear
+#### 2.4 TRANSCENDENT DILIGENCE
+##### 2.4.1 Armor-like diligence
+##### 2.4.2 Diligence in action
+##### 2.4.3 Diligence that cannot be stopped
+#### 2.5 TRANSCENDENT CONCENTRATION
+##### 2.5.1 Giving up distractions
+##### 2.5.2 Actual concentration
+#### 2.6 TRANSCENDENT WISDOM
+##### 2.6.1 Wisdom through hearing
+##### 2.6.2 Wisdom through reflection
+##### 2.6.3 Wisdom through meditation
+
+# <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations<sup>[172](#172)</sup></i></div>
+## I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION
+## II. THE FOUR POWERS
+### **1. The power of support**
+### **2. The power of regretting having done wrong**
+### **3. The power of resolution**
+### **4. The power of action as an antidote**
+## III. THE ACTUAL MEDITATION ON VAJRASATTVA
+
+# <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
+## I. THE NEED FOR THE THE TWO ACCUMULATIONS
+## II. THE ACCOMPLISHMENT MANDALA<sup>[202](#202)</sup>
+## III. THE OFFERING MANDALA
+### **1. The thirty-seven element mandala offering**
+### **2. The mandala offering of the three kayas according to this text**
+#### 2.1 THE ORDINARY MANDALA<sup>[209](#209) OF THE NIRMANAKAYA
+#### 2.2 THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA
+#### 2.3 THE SPECIAL MANDALA OF THE DHARMAKAYA
+
+# <div align="center">CHAPTER FIVE<br><i>The kusali's accumulation: destroying<sup>*</sup> the four demons at a single stroke</i></div>
+## I. THE BODY AS AN OFFERING
+## II. THE PRACTICE OF OFFERING THE BODY
+### **1. The white feast for the guests above**
+### **2. The white feast for the guests below**
+### **3. The variegated feast for the guests above**
+### **4. The variegated feast for the guests below**
+## III. THE MEANING OF CHO
+
+# <div align="center">CHAPTER SIX<br><i>Guru Yoga,<sup>[223](#223)</sup> entrance-way for blessings, the ultimate method for arousing the wisdom of realization</i></div>
+## I. THE REASON FOR GURU YOGA
+## II. HOW TO PRACTICE GURU YOGA
+### **1. Visualizing the field of merit**
+### **2. Offering the seven branches**
+#### 2.1 PROSTRATION,<sup>[250](#250)</sup> THE ANTIDOTE TO PRIDE
+#### 2.2 OFFERING<sup>[255](#255)</sup>
+#### 2.3 CONFESSION OF HARMFUL ACTIONS<sup>[257](#257)</sup>
+#### 2.4 REJOICING, THE ANTIDOTE TO JEALOUSY
+#### 2.5 EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA<sup>[260](#260)</sup>
+#### 2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA<sup>[261](#261)</sup>
+#### 2.7 DEDICATION<sup>[263](#263)</sup>
+### **3. Praying<sup>[266](#266) with resolute trust**
+### **4. Taking the four empowerments**
+## III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE
+
+
 
 
 
