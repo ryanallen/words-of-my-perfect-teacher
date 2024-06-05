@@ -346,32 +346,28 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [III. THE MEANING OF CHO](#iii-the-meaning-of-cho)
 
 ◈
+
 ***[Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization](#chapter-sixguru-yoga223-entrance-way-for-blessings-the-ultimate-method-for-arousing-the-wisdom-of-realization)***
-
-I. THE REASON FOR GURU YOGA
-
-II. HOW TO PRACTICE GURU YOGA
-
-1. Visualizing the field of merit
-2. Offering the seven branches
-    1. PROSTRATION, THE ANTIDOTE TO PRIDE
-    2. OFFERING
-    3. CONFESSION OF HARMFUL ACTIONS
-    4. REJOICING, THE ANTIDOTE TO JEALOUSY
-    5. EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA
-    6. REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA
-    7. DEDICATION
-3. Praying with resolute trust
-4. Taking the four empowerments
-
-III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE
-
-1. The mind lineage of the Conquerors
-2. The symbol lineage of the Vidyadharas
-    1. THE MAHAYOGA TANTRAS
-    2. THE TRANSMISSION OF ANUYOGA
-    3. THE PITH-INSTRUCTIONS OF ATIYOGA
-    4. THE COMING OF ATIYOGA TO THE HUMAN REALM
+* [I. THE REASON FOR GURU YOGA](#i-the-reason-for-guru-yoga)
+* [II. HOW TO PRACTICE GURU YOGA](#ii-how-to-practice-guru-yoga)
+    * **[1. Visualizing the field of merit](#1-visualizing-the-field-of-merit)**
+    * **[2. Offering the seven branches](#2-offering-the-seven-branches)**
+        * [2.1 PROSTRATION, THE ANTIDOTE TO PRIDE](#21-prostration250-the-antidote-to-pride)
+        * [2.2 OFFERING](#22-offering255)
+        * [2.3 CONFESSION OF HARMFUL ACTIONS](#23-confession-of-harmful-actions257)
+        * [2.4 REJOICING, THE ANTIDOTE TO JEALOUSY](#24-rejoicing-the-antidote-to-jealousy)
+        * [2.5 EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA](#25-exhorting-the-buddhas-to-turn-the-wheel-of-dharma260)
+        * [2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA](#26-requesting-the-buddhas-not-to-enter-nirvana261)
+        * [2.7 DEDICATION](#27-dedication263)
+    * **[3. Praying with resolute trust](#3-praying266-with-resolute-trust)
+    * **[4. Taking the four empowerments](#4-taking-the-four-empowerments)
+* [III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE](#iii-the-history-of-the-advent-of-the-early-translation-doctrine)
+    * **[1. The mind lineage of the Conquerors](#1-the-mind-lineage-of-the-conquerors)
+    * **[2. The symbol lineage of the Vidyadharas](#2-the-symbol-lineage-of-the-vidyadharas)
+        * [2.1 THE MAHAYOGA TANTRAS](#21-the-mahayoga-tantras)
+        * [2.2 THE TRANSMISSION OF ANUYOGA](#22-the-transmission-of-anuyoga)
+        * [2.3 THE PITH-INSTRUCTIONS OF ATIYOGA](#23-the-pith-instructions-of-atiyoga)
+        * [2.4 THE COMING OF ATIYOGA TO THE HUMAN REALM](#24-the-coming-of-atiyoga-to-the-human-realm)
 
 IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
 
@@ -470,7 +466,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Swapped sections that appeared out of order (3. The hearing lineage of ordinary being, and IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS). Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
 
 May all beings be free from suffering.
 
@@ -1760,8 +1756,9 @@ These are [eight circumstances that render it impossible to continue practising 
 #### 2.1 THE MAHAYOGA TANTRAS
 #### 2.2 THE TRANSMISSION OF ANUYOGA
 #### 2.3 THE PITH-INSTRUCTIONS OF ATIYOGA
-### **3. The hearing lineage of ordinary beings<sup>*</sup>**
+#### 2.4 THE COMING OF ATIYOGA TO THE HUMAN REALM
 ## IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
+### **3. The hearing lineage of ordinary beings<sup>*</sup>**
 
 ---
 
