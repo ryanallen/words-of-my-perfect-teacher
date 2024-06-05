@@ -241,31 +241,27 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-<h2 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h2>  
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter One<br>Taking refuge, foundation stone of all paths</i></h3>  
+[PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES](#part-two)  
 
+◈
 
-I. APPROACHES TO TAKING REFUGE  
-
-1. Faith  
-    1. VIVID FAITH  
-    2. EAGER FAITH  
-    3. CONFIDENT FAITH  
-2. Motivation  
-    1. THE REFUGE OF LESSER BEINGS  
-    2. THE REFUGE OF MIDDLING BEINGS  
-    3. THE REFUGE OF GREAT BEINGS  
-
-II. HOW TO TAKE REFUGE  
-
-III. PRECEPTS AND BENEFITS OF TAKING REFUGE  
-
-1. The precepts of taking refuge  
-    1. THE THREE THINGS TO BE ABANDONED  
-    2. THE THREE THINGS TO BE DONE  
-    3. THE THREE SUPPLEMENTARY PRECEPTS  
-2. The benefits of taking refuge
+***[Chapter One<br>Taking refuge, foundation stone of all paths](#chapter-onetaking-refuge-the-foundation-stone-of-all-paths)***  
+* [I. APPROACHES TO TAKING REFUGE](#i-approaches-to-taking-refuge)  
+    * **[1. Faith](#1-faith)**  
+        * [1.1 VIVID FAITH](#11-vivid-faith)  
+        * [1.2 EAGER FAITH](#12-eager-faith)  
+        * [1.3 CONFIDENT FAITH](#13-confident-faith)  
+    * **[2. Motivation](#2-motivation)**  
+        * [2.1 THE REFUGE OF LESSER BEINGS](#21-the-refuge-of-lesser-beings)  
+        * [2.2 THE REFUGE OF MIDDLING BEINGS](#22-the-refuge-of-middling-beings)  
+        * [2.3 THE REFUGE OF GREAT BEINGS](#23-the-refuge-of-great-beings)  
+* [II. HOW TO TAKE REFUGE](#ii-how-to-take-refuge)  
+* [III. PRECEPTS AND BENEFITS OF TAKING REFUGE](#iii-precepts-and-benefits-of-taking-refuge)  
+    * **[1. The precepts of taking refuge](#1-the-precepts-of-taking-refuge)**  
+        * [1.1 THE THREE THINGS TO BE ABANDONED](#11-the-three-things-to-be-abandoned)  
+        * [1.2 THE THREE THINGS TO BE DONE](#12-the-three-things-to-be-done)  
+        * [1.3 THE THREE SUPPLEMENTARY PRECEPTS](#13-the-three-supplementary-precepts)  
+    * **[2. The benefits of taking refuge](#2-the-benefits-of-taking-refuge)**
 
 <p align="center">◈</p>
 <h3 align="center"><i>Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</i></h3>  
@@ -1687,7 +1683,7 @@ These are [eight circumstances that render it impossible to continue practising 
 #### 1.1 THE THREE THINGS TO BE ABANDONED
 #### 1.2 THE THREE THINGS TO BE DONE
 #### 1.3 THE THREE SUPPLEMENTARY PRECEPTS
-### **3. The benefits of taking refuge**
+### **2. The benefits of taking refuge**
 
 # <div align="center">CHAPTER TWO<br><i>Arousing bodhicitta, the root of the Great Vehicle</i></div>
 ## I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES
