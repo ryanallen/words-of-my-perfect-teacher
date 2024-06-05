@@ -207,28 +207,26 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ***[Chapter Four<br>Actions: the principle of cause and effect](#chapter-fouractions-the-principle-of-cause-and-effect)***
 
 * [I. NEGATIVE ACTIONS TO BE ABANDONED](#i-negative-actions-to-be-abandoned)  
-    * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)  
+    * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)**  
         * [1.1 TAKING LIFE](#11-taking-life)  
         * [1.2 TAKING WHAT IS NOT GIVEN](#12-taking-what-is-not-given)  
         * [1.3 SEXUAL MISCONDUCT](#13-sexual-misconduct)  
         * [1.4 LYING](#14-lying)  
         * [1.5 SOWING DISCORD](#15-sowing-discord)  
         * [1.6 HARSH SPEECH](#16-harsh-speech)  
-    7. WORTHLESS CHATTER  
-    8. COVETOUSNESS  
-    9. WISHING HARM ON OTHERS  
-    10. WRONG VIEWS  
-2. The effects of the ten negative actions  
-    1. THE FULLY RIPENED EFFECT  
-    2. THE EFFECT SIMILAR TO THE CAUSE  
-      1. Actions Similar to the Cause  
-      2. Experiences Similar to the Cause  
-    1. THE CONDITIONING EFFECT  
-    2. THE PROLIFERATING EFFECT  
-
-II. POSITIVE ACTIONS TO BE ADOPTED  
-  
-III.  THE ALL-DETERMINING QUALITY OF ACTIONS
+        * [1.7 WORTHLESS CHATTER](#17-worthless-chatter)  
+        * [1.8 COVETOUSNESS](#18-covetousness)  
+        * [1.9 WISHING HARM ON OTHERS](#19-wishing-harm-on-others)  
+        * [1.10 WRONG VIEWS](#110-wrong-views)  
+    * **[2. The effects of the ten negative actions](#2-the-effects-of-the-ten-negative-actions)**  
+        * [2.1 THE FULLY RIPENED EFFECT](#21-the-fully-ripened-effect80)  
+        * [2.2 THE EFFECT SIMILAR TO THE CAUSE](#22-the-effect-similar-to-the-cause)  
+            * [2.2.1 Actions Similar to the Cause](#221-actions-similar-to-the-cause)  
+            * [2.2.2 Experiences Similar to the Cause](#222-experiences-similar-to-the-cause)  
+        * [2.3 THE CONDITIONING EFFECT](#23-the-conditioning-effect)  
+        * [2.4 THE PROLIFERATING EFFECT](#24-the-proliferating-effect)  
+* [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
+* [III. THE ALL-DETERMINING QUALITY OF ACTIONS](#iii-the-all-determining-quality-of-actions)
  
 <p align="center">◈</p>
 <h3 align="center"><i>Chapter Five<br>The benefits of liberation</i></h3>  
