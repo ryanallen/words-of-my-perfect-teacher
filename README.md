@@ -156,7 +156,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH](#vi-the-uncertainty-of-the-circumstances41-of-death)  
 * [VII. INTENSE AWARENESS OF IMPERMANENCE](#vii-intense-awareness-of-impermanence)  
 
-<p align="center">◈</p>
+◈
 
 ***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
 
