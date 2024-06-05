@@ -54,7 +54,7 @@ The Library of Congress has cataloged the original edition as follows:
 
 O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
 [Kun bzan bla ma'i zal lun. English]  
-The words of my perfect teacher / Patrul Rinpoche : translated by the Padmakara Translation Group ; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche&mdash; 2nd ed.  
+The words of my perfect teacher / Patrul Rinpoche: translated by the Padmakara Translation Group; with a foreword by the Dalai Lama and Dilgo Khyntse Rinpoche&mdash; 2nd ed.  
 p. cm. &mdash;(Sacred literature series)  
 Includes bibliographical references and index.  
 ISBN 0-7619-9026-7 (alk. paper). &mdash;ISBN 0-7619-9027-5 (alk. paper)  
