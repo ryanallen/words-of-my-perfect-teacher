@@ -141,8 +141,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES](#22-the-five-circumstantial-advantages)  
         * [2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma)  
         * [2.4 THE EIGHT INCOMPATIBLE PROPENSITIES](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma)  
-    * [3. Reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
-    * [4. Reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons)  
+    * **[3. Reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages)**  
+    * **[4. Reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons)**  
 
 ◈
 
@@ -163,35 +163,35 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
 * [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
     * **[1. The eighteen hells](#1-the-eighteen-hells)**  
-        * **[1.1 THE EIGHT HOT HELLS](#11-the-eight-hot-hells)**  
-            * **[1.1.1 The Reviving Hell](#111-the-reviving-hell)**  
-            * **[1.1.2 The Black-Line Hell](#112-the-black-line-hell)**  
-        3. 1.1.3 The Rounding-Up and Crushing Hell  
-        4. 1.5 The Howling Hell  
-        5. 1.6 The Great Howling Hell  
-        6. 1.7 The Heating Hell  
-        7. 1.8 The Intense Heating Hell  
-        8. 1.9The Hell of Ultimate Torment  
-        9. The Neighboring Hells  
-    2. THE EIGHT COLD HELLS  
-    3. THE EPHEMERAL HELLS  
-2. The pretas  
-    1. PRETAS WHO LIVE COLLECTIVELY  
-        1. Pretas suffering from external obscurations  
-        2. Pretas suffering from internal obscurations  
-        3. Pretas suffering from specific obscurations  
-    2. PRETAS WHO MOVE THROUGH SPACE  
-3. The animals  
-    1. ANIMALS LIVING IN THE DEPTHS  
-    2. ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES  
-4. The human realm  
-    1. THE THREE FUNDAMENTAL TYPES OF SUFFERING  
-        1.  The suffering of change  
-        2. Suffering upon suffering  
-        3. The suffering of everything composite  
-    2. THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH  
-        1. The suffering of birth  
-        2. The suffering of old age  
+        * [1.1 THE EIGHT HOT HELLS](#11-the-eight-hot-hells)  
+            * [1.1.1 The Reviving Hell](#111-the-reviving-hell)  
+            * [1.1.2 The Black-Line Hell](#112-the-black-line-hell)  
+            * [1.1.3 The Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell)  
+            * [1.1.4 The Howling Hel](#114-the-howling-hell)  
+            * [1.1.5 The Great Howling Hell](#115-the-great-howling-hell)  
+            * [1.1.6 The Heating Hell](#116-the-heating-hell)  
+            * [1.1.7 The Intense Heating Hell](#117-the-intense-heating-hell)  
+            * [1.1.8 The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment)  
+            * [1.1.9 The Neighboring Hells](#119-the-neighboring-hells)  
+        * [1.2 THE EIGHT COLD HELLS](#12-the-eight-cold-hells)  
+        * [1.3 THE EPHEMERAL HELLS](#13-the-ephemeral-hells)  
+    * **[2. The pretas](#2-the-pretas)**  
+        * [2.1 PRETAS WHO LIVE COLLECTIVELY](#21-pretas-who-live-collectively)  
+            * [2.1.1 Pretas suffering from external obscurations](#211-pretas-suffering-from-external-obscurations)  
+            * [2.1.2 Pretas suffering from internal obscurations](#212-pretas-suffering-from-internal-obscurations)  
+            * [2.1.3 Pretas suffering from specific obscurations](#213-pretas-suffering-from-specific-obscurations)  
+        * [2.2 PRETAS WHO MOVE THROUGH SPACE](#22-pretas-who-move-through-space)  
+    * **[3. The animals](#3-the-animals)**  
+        * [3.1 ANIMALS LIVING IN THE DEPTHS](#31-animals-living-in-the-depths)  
+        * [3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES](#32-animals-that-live-scattered-in-different-places)  
+    * **[4. The human realm](#4-the-human-realm)**  
+        * [4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING](#41-the-three-fundamental-types-of-suffering)  
+            * [4.1.1 The suffering of change](#411-the-suffering-of-change)  
+            * [4.1.2 Suffering upon suffering](#412-suffering-upon-suffering)  
+            * [4.1.3 The suffering of everything composite](#413-the-suffering-of-everything-composite53)  
+        * [4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH](#42-the-sufferings-of-birth-sickness-old-age-and-death)  
+            * [4.2.1 The suffering of birth](#421-the-suffering-of-birth)  
+            * [4.2.2 The suffering of old age](#422-the-suffering-of-old-age)  
         3. The suffering of sickness  
         4. The suffering of death  
     3. OTHER HUMAN SUFFERINGS  
