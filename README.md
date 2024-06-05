@@ -120,7 +120,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ◈
 
-***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***
+***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***  
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
         * [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
@@ -134,7 +134,6 @@ Our religious traditions are diverse but, as with the natural environment, we ar
             * [2.2.1 The Four Metaphors](#221-the-four-metaphors)  
             * [2.2.2 The Six Transcendent Perfections](#222-the-six-transcendent-perfections)  
             * [2.2.3 Other Modes of Conduct](#223-other-mods-of-conduct)
-
 * [II. THE TEACHING ITSELF: AN EXPLANATION OF HOW DIFFICULT IS TO FIND THE FREEDOMS AND ADVANTAGES](#ii-the-teaching-itself-an-explanation-of-how-difficult-it-is-to-find-the-freedoms-and-advantages)  
     * **[1. Reflecting on the nature of freedom](#1-reflecting-on-the-nature-of-freedom)**  
     * **[2. Reflecting on the particular advantages related to Dharma](#2-reflecting-on-the-particular-advantages-related-to-dharma)**  
@@ -329,31 +328,25 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [I. THE NEED FOR THE TWO ACCUMULATIONS](#i-the-need-for-the-the-two-accumulations)
 * [II. THE ACCOMPLISHMENT MANDALA](#ii-the-accomplishment-mandala202)
 * [III. THE OFFERING MANDALA](#iii-the-offering-mandala)
+    * **[1. The thirty-seven element mandala offering](#1-the-thirty-seven-element-mandala-offering)**
+    * **[2. The mandala offering of the three kayas according to this text](#2-the-mandala-offering-of-the-three-kayas-according-to-this-text)**
+        * [2.1 THE ORDINARY MANDALA OF THE NIRMANAKAYA](#21-the-ordinary-mandala209-of-the-nirmanakaya)
+        * [2.2 THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA](#22-the-extraordinary-mandala-of-the-sambhogakaya)
+        * [2.3 THE SPECIAL MANDALA OF THE DHARMAKAYA](#23-the-special-mandala-of-the-dharmakaya)
 
-1. The thirty-seven element mandala offering
-2. The mandala offering of the three kayas according to this text
-    1. THE ORDINARY MANDALA OF THE NIRMANAKAYA
-    2. THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA
-    3. THE SPECIAL MANDALA OF THE DHARMAKAYA
+◈
 
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke</i></h3>  
-&nbsp;
+***[Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke](#chapter-fivethe-kusalis-accumulation-destroying-the-four-demons-at-a-single-stroke)***
+* [I. THE BODY AS AN OFFERING](#i-the-body-as-an-offering)
+* [II. THE PRACTICE OF OFFERING THE BODY](#ii-the-practice-of-offering-the-body)
+    * **[1. The white feast for the guests above](#1-the-white-feast-for-the-guests-above)**
+    * **[2. The white feast for the guests below](#2-the-white-feast-for-the-guests-below)**
+    * **[3. The variegated feast for the guests above](#3-the-variegated-feast-for-the-guests-above)**
+    * **[4. The variegated feast for the guests below](#4-the-variegated-feast-for-the-guests-below)**
+* [III. THE MEANING OF CHO](#iii-the-meaning-of-cho)
 
-I. THE BODY AS AN OFFERING
-
-II. THE PRACTICE OF OFFERING THE BODY
-
-1. The white feast for the guests above
-2. The white feast for the guests below
-3. The variegated feast for the guests above
-4. The variegated feast for the guests below
-
-III. THE MEANING OF CHO
-
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</i></h3>  
-&nbsp;
+◈
+***[Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization](#chapter-sixguru-yoga223-entrance-way-for-blessings-the-ultimate-method-for-arousing-the-wisdom-of-realization)***
 
 I. THE REASON FOR GURU YOGA
 
