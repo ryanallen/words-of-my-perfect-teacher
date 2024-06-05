@@ -367,22 +367,21 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ◈  
 ***[Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation](#chapter-onetransference-of-consciousness-the-instructions-for-the-dying-buddhahood-without-meditation)***
 * [I. THE FIVE KINDS OF TRANSFERENCE](#i-the-five-kinds-of-transference)
+    * **[1. Superior transference to the dharmakaya through the seal of the view](#1-superior-transference-to-the-dharmakaya-through-the-seal-of-the-view)**
+    * **[2. Middling transference to the sambhogakaya through the union of the generation and perfection phases](#2-middling-transference-to-the-sambhogakaya-through-the-union-of-the-generation-and-perfection-phases)**
+    * **[3. Lower transference to the nirmanakaya through immeasurable compassion](#3-lower-transference-to-the-nirmanakaya-through-immeasurable-compassion)**
+    * **[4. Ordinary transference using three metaphors](#4-ordinary-transference-using-three-metaphors)**
+    * **[5. Transference performed for the dead with the hook of compassion](#5-transference-performed-for-the-dead-with-the-hook-of-compassion)**
+* [II. ORDINARY TRANSFERENCE USING THREE METAPHORS](#ii-ordinary-transference-using-three-metaphors)
+    * **[1. Training for transference](#1-training-for-transference)**
+    * **[2. Actual transference](#2-actual-transference)**
+    * **[3. The steps of the meditation on transference](#3-the-steps-of-the-meditation-on-transference)**
+        * [3.1 THE PRELIMINARIES](#31-the-preliminaries)
+        * [3.2 THE MAIN VISUALIZATION](#32-the-main-visualization)
 
-1. Superior transference to the dharmakaya through the seal of the view
-2. Middling transference to the sambhogakaya through the union of the generation and perfection phases
-3. Lower transference to the nirmanakaya through immeasurable compassion
-4. Ordinary transference using three metaphors
-5. Transference performed for the dead with the hook of compassion
+---
 
-II. ORDINARY TRANSFERENCE USING THREE IDEAS
-
-1. Training for transference
-2. Actual transference
-3. The steps of the meditation on transference
-    1. THE PRELIMINARIES
-    2. THE MAIN VISUALIZATION
-
-CONCLUSION
+**[CONCLUSION](#conclusion)**
 
 [Postface by Jamgon Kongtrul Lodro Thaye](#postface)
 
