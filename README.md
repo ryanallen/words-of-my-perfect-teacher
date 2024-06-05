@@ -114,12 +114,13 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [PROLOGUE](#prologue)  
 
+---
+
 [PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)
 
 ◈
 
 ***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***
- 
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
         * [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
@@ -147,7 +148,6 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ◈
 
 ***[Chapter Two<br>The impermanence of life](#chapter-twothe-impermanence-of-life)***  
-
 * [I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE](#i-the-impermanence-of-the-outer-universe-in-which-beings-live)  
 * [II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE](#ii-the-impermanence-of-beings-living-in-the-universe)  
 * [III. THE IMPERMANENCE OF HOLY BEINGS](#iii-the-impermanence-of-holy-beings)  
@@ -159,7 +159,6 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ◈
 
 ***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
-
 * [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
 * [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
     * **[1. The eighteen hells](#1-the-eighteen-hells)**  
@@ -205,7 +204,6 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ◈
 
 ***[Chapter Four<br>Actions: the principle of cause and effect](#chapter-fouractions-the-principle-of-cause-and-effect)***
-
 * [I. NEGATIVE ACTIONS TO BE ABANDONED](#i-negative-actions-to-be-abandoned)  
     * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)**  
         * [1.1 TAKING LIFE](#11-taking-life)  
@@ -228,30 +226,25 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
 * [III. THE ALL-DETERMINING QUALITY OF ACTIONS](#iii-the-all-determining-quality-of-actions)
  
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Five<br>The benefits of liberation</i></h3>  
-&nbsp;
+◈
 
-I. CAUSES LEADING TO LIBERATION  
-
-II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT  
+***[Chapter Five<br>The benefits of liberation](#chapter-fivethe-benefits-of-liberation)***
+* [I. CAUSES LEADING TO LIBERATION](#i-causes-leading-to-liberation)  
+* [II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT](#ii-the-result-the-three-levels-of-enlightenment)  
  
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Six<br>How to follow a spiritual friend</i></h3>  
-&nbsp;
+◈
 
-I. EXAMINING THE TEACHER  
+***[Chapter Six<br>How to follow a spiritual friend](#chapter-sixhow-to-follow-a-spiritual-friend)***  
+* [I. EXAMINING THE TEACHER](#i-examining-the-teacher)  
+* [II. FOLLOWING THE TEACHER](#ii-following-the-teacher)  
+* [III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS](#iii-emulating-the-teachers-realization98-and-actions)  
 
-II. FOLLOWING THE TEACHER  
-
-III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS  
-
-&nbsp;
+---
 
 <h2 align="center">PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES</h2>  
 <p align="center">◈</p>
 <h3 align="center"><i>Chapter One<br>Taking refuge, foundation stone of all paths</i></h3>  
-&nbsp;
+
 
 I. APPROACHES TO TAKING REFUGE  
 
