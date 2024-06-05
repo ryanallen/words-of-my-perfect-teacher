@@ -263,86 +263,72 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [1.3 THE THREE SUPPLEMENTARY PRECEPTS](#13-the-three-supplementary-precepts)  
     * **[2. The benefits of taking refuge](#2-the-benefits-of-taking-refuge)**
 
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle</i></h3>  
-&nbsp;
+◈
+***[Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle](#chapter-twoarousing-bodhicitta-the-root-of-the-great-vehicle)***  
+* [I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES](#i-training-the-mind-in-the-four-boundless-qualities)  
+    * **[1. Meditation on impartiality](#1-meditation-on-impartiality)**  
+    * **[2. Meditation on love](#2-meditation-on-love)**  
+    * **[3. Meditation on compassion](#3-meditation-on-compassion)**  
+    * **[4. Meditation on sympathetic joy](#4-meditation-on-sympathetic-joy)**  
+* [II. AROUSING BODHICITTA](#ii-arousing-bodhicitta135)  
+    * **[1. Classification based on the three degrees of courage](#1-classification-based-on-the-three-degrees-of-courage)**  
+        * [1.1 THE COURAGE OF A KING](#11-the-courage-of-a-king)  
+        * [1.2 THE COURAGE OF A BOATMAN](#12-the-courage-of-a-boatman)  
+        * [1.3 THE COURAGE OF A SHEPHERD](#13-the-courage-of-a-shepherd)  
+    * **[2. Classification according to the Bodhisattva levels](#2-classification-according-to-the-bodhisattva-levels)**  
+    * **[3. Classification according to the nature of bodhicitta](#3-classification-according-to-the-nature-of-bodhicitta)**  
+        * [3.1 RELATIVE BODHICITTA](#31-relative-bodhicitta)  
+            * [3.1.1 Intention](#311-intention)  
+            * [3.1.2 Application](#312-application)  
+        * [3.2 ABSOLUTE BODHICITTA](#32-absolute-bodhicitta)  
+    * **[4. Taking the vow of bodhicitta](#4-taking-the-vow-of-bodhicitta140)**  
+* [III. TRAINING IN THE BODHICITTA PRECEPTS](#iii-training-in-the-bodhicitta-precepts)  
+    * **[1. Training in the precepts of the bodhicitta of aspiration](#1-training-in-the-precepts-of-the-bodhicitta-of-aspiration)**  
+        * [1.1 CONSIDERING OTHERS AS EQUAL TO ONESELF](#11-considering-others-as-equal-to-oneself)  
+        * [1.2 EXCHANGING ONESELF AND OTHERS](#12-exchanging-oneself-and-others)  
+        * [1.3 CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF](#13-considering-others-more-important-than-oneself)  
+    * **[2. Training in the precepts of the bodhicitta of application: the six transcendent perfections](#2-training-in-the-precepts-of-the-bodhicitta-of-application-the-six-transcendent-perfections)**
+        * [2.1 TRANSCENDENT GENEROSITY](#21-transcendent-generosity)
+            * [2.1.1 Material giving](#211-material-giving)  
+            * [2.1.2 Giving Dharma](#212-giving-dharma)  
+            * [2.1.3 Giving protection from fear](#213-giving-protection-from-fear)  
+        * [2.2 TRANSCENDENT DISCIPLINE](#22-transcendent-discipline)  
+            * [2.2.1 Avoiding negative actions](#221-avoiding-negative-actions)  
+            * [2.2.2 Undertaking positive actions](#222-undertaking-positive-actions)  
+            * [2.2.3 Bringing benefit to others](#223-bringing-benefit-to-others)  
+        * [2.3 TRANSCENDENT PATIENCE](#23-transcendent-patience)  
+            * [2.3.1 Patience when wronged](#231-patience-when-wronged)  
+            * [2.3.2 Patience to bear hardships for the Dharma](#232-patience-to-bear-hardships-for-the-dharma)  
+            * [2.3.3 Patience to face the profound truth without fear](#233-patience-to-face-the-profound-truth-without-fear)  
+        * [2.4 TRANSCENDENT DILIGENCE](#24-transcendent-diligence)  
+            * [2.4.1 Armor-like diligence](#241-armor-like-diligence)  
+            * [2.4.2 Diligence in action](#242-diligence-in-action)  
+            * [2.4.3 Diligence that cannot be stopped](#243-diligence-that-cannot-be-stopped)  
+        * [2.5 TRANSCENDENT CONCENTRATION](#25-transcendent-concentration)  
+            * [2.5.1 Giving up distractions](#251-giving-up-distractions)  
+            * [2.5.2 Actual concentration](#252-actual-concentration)  
+        * [2.6 TRANSCENDENT WISDOM](#26-transcendent-wisdom)  
+            * [2.6.1 Wisdom through hearing](#261-wisdom-through-hearing)  
+            * [2.6.2 Wisdom through reflection](#262-wisdom-through-reflection)  
+            * [2.6.3 Wisdom through meditation](#263-wisdom-through-meditation)  
 
-I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES  
+◈
 
-1. Meditation on impartiality  
-2. Meditation on love  
-3. Meditation on compassion  
-4. Meditation on sympathetic joy  
+***[Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations](#chapter-threemeditating-and-reciting-on-the-teacher-as-vajrasattva-to-cleanse-all-obscurations172)***
+* [I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION](#i-how-obscurations-can-be-purified-through-confession)  
+* [II. THE FOUR POWERS](#ii-the-four-powers)  
+    * **[1. The power of support](#1-the-power-of-support)**  
+    * **[2. The power of regretting having done wrong](#2-the-power-of-regretting-having-done-wrong)**
+    * **[3. The power of resolution](#3-the-power-of-resolution)**
+    * **[4. The power of action as an antidote](#4-the-power-of-action-as-an-antidote)**
+* [III. THE ACTUAL MEDITATION ON VAJRASATTVA](#iii-the-actual-meditation-on-vajrasattva)
 
-II. AROUSING BODHICITTA  
+◈
 
-1. Classification based on the three degrees of courage  
-    1. THE COURAGE OF A KING  
-    2. THE COURAGE OF A BOATMAN  
-    3. THE COURAGE OF A SHEPHERD  
-2. Classification according to the Bodhisattva levels  
-3. Classification according to the nature of bodhicitta  
-    1. RELATIVE BODHICITTA  
-        1. Intention  
-        2. Application  
-    2. ABSOLUTE BODHICITTA  
-4. Taking the vow of bodhicitta  
-
-III. TRAINING IN THE BODHICITTA PRECEPTS  
-
-1. Training in the precepts of the bodhicitta of aspiration  
-    1. CONSIDERING OTHERS AS EQUAL TO ONESELF  
-    2. EXCHANGING ONESELF AND OTHERS  
-    3. CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF  
-2. Training in the precepts of the bodhicitta of application: the six transcendent perfections
-    1. TRANSCENDENT GENEROSITY
-        1. Material giving  
-        2. Giving Dharma  
-        3. Giving protection from fear  
-    2. TRANSCENDENT DISCIPLINE  
-        1. Avoiding negative actions  
-        2. Undertaking positive actions  
-        3. Bringing benefit to others  
-    3. TRANSCENDENT PATIENCE  
-        1. Patience when wronged  
-        2. Patience to bear hardships for the Dharma  
-        3. Patience to face the profound truth without fear  
-    4. TRANSCENDENT DILIGENCE  
-        1. Armour-like diligence  
-        2. Diligence in action  
-        3. Diligence that cannot be stopped  
-    5. TRANSCENDENT CONCENTRATION  
-        1. Giving up distractions  
-        2. Actual concentration  
-    6. TRANSCENDENT WISDOM  
-        1. Wisdom through hearing  
-        2. Wisdom through reflection  
-        3. Wisdom through meditation  
-
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</i></h3>  
-&nbsp;
-
-I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION  
-
-II. THE FOUR POWERS  
-
-1. The power of support  
-2. The power of regretting having done wrong
-3. The power of resolution
-4. The power of action as an antidote
-
-III. THE ACTUAL MEDITATION ON VAJRASATTVA
-
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Four<br>Offering the mandala to accumulate merit and wisdom</i></h3>  
-&nbsp;
-
-I. THE NEED FOR THE TWO ACCUMULATIONS
-
-II. THE ACCOMPLISHMENT MANDALA
-
-III. THE OFFERING MANDALA
+***[Chapter Four<br>Offering the mandala to accumulate merit and wisdom](#chapter-fouroffering-the-mandala-to-accumulate-merit-and-wisdom)
+* [I. THE NEED FOR THE TWO ACCUMULATIONS](#i-the-need-for-the-the-two-accumulations)
+* [II. THE ACCOMPLISHMENT MANDALA](#ii-the-accomplishment-mandala202)
+* [III. THE OFFERING MANDALA](#iii-the-offering-mandala)
 
 1. The thirty-seven element mandala offering
 2. The mandala offering of the three kayas according to this text
