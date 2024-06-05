@@ -118,7 +118,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ◈
 
-***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***
+***[<h3>Chapter One<br>The difficulty of finding the freedoms and advantages</h3>](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***
  
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
@@ -146,7 +146,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ◈
 
-***[Chapter Two<br>The impermanence of life](#chapter-twothe-impermanence-of-life)***  
+***[<h3>Chapter Two<br>The impermanence of life<h3>](#chapter-twothe-impermanence-of-life)***  
 
 * [I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE](#i-the-impermanence-of-the-outer-universe-in-which-beings-live)  
 * [II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE](#ii-the-impermanence-of-beings-living-in-the-universe)  
@@ -158,7 +158,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ◈
 
-***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
+***[<h3>Chapter Three<br>The defects of samsara</h3>](#chapter-threethe-defects-of-samsara)***
 
 * [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
 * [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
