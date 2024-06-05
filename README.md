@@ -192,29 +192,28 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE, AND DEATH](#42-the-sufferings-of-birth-sickness-old-age-and-death)  
             * [4.2.1 The suffering of birth](#421-the-suffering-of-birth)  
             * [4.2.2 The suffering of old age](#422-the-suffering-of-old-age)  
-        3. The suffering of sickness  
-        4. The suffering of death  
-    3. OTHER HUMAN SUFFERINGS  
-        1. The fear of meeting hated enemies  
-        2. The fear of losing loved ones  
-        3. The suffering of not getting what one wants  
-        4. The suffering of encountering what one does not want  
-  5. The asuras  
-  6. The gods  
+            * [4.2.3 The suffering of sickness](#423-the-suffering-of-sickness)  
+            * [4.2.4 The suffering of death](#424-the-suffering-of-death)  
+        * [4.3 OTHER HUMAN SUFFERINGS](#43-other-human-sufferings)  
+            * [4.3.1 The fear of meeting hated enemies](#431-the-fear-of-meeting-hated-enemies)  
+            * [4.3.2 The fear of losing loved ones](#432-the-fear-of-losing-loved-ones)  
+            * [4.3.3 The suffering of not getting what one wants](#433-the-suffering-of-not-getting-what-one-wants)  
+            * [4.3.4 The suffering of encountering what one does not want](#434-the-suffering-of-encountering-what-one-does-not-want)  
+    * **[5. The asuras](#5-the-asuras)**  
+    * **[6. The gods](#6-the-gods)**  
 
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter Four<br>Actions: the principle of cause and effect</i></h3>  
-&nbsp;
+◈
 
-I. NEGATIVE ACTIONS TO BE ABANDONED  
+***[Chapter Four<br>Actions: the principle of cause and effect](#chapter-fouractions-the-principle-of-cause-and-effect)***
 
-1. The ten negative actions to be avoided  
-    1. TAKING LIFE  
-    2. TAKING WHAT IS NOT GIVEN  
-    3. SEXUAL MISCONDUCT  
-    4. LYING  
-    5. SOWING DISCORD  
-    6. HARSH SPEECH  
+* [I. NEGATIVE ACTIONS TO BE ABANDONED](#i-negative-actions-to-be-abandoned)  
+    * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)  
+        * [1.1 TAKING LIFE](#11-taking-life)  
+        * [1.2 TAKING WHAT IS NOT GIVEN](#12-taking-what-is-not-given)  
+        * [1.3 SEXUAL MISCONDUCT](#13-sexual-misconduct)  
+        * [1.4 LYING](#14-lying)  
+        * [1.5 SOWING DISCORD](#15-sowing-discord)  
+        * [1.6 HARSH SPEECH](#16-harsh-speech)  
     7. WORTHLESS CHATTER  
     8. COVETOUSNESS  
     9. WISHING HARM ON OTHERS  
