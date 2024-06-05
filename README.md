@@ -116,10 +116,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-[PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)
+**[PART ONE<br>THE ORDINARY OR EXTERNAL PRELIMINARIES](#part-one)**
 
-◈
-
+◈  
 ***[Chapter One<br>The difficulty of finding the freedoms and advantages](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages)***  
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
@@ -144,8 +143,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * **[3. Reflecting on images that show how difficult it is to find the freedoms and advantages](#3-reflecting-on-images-that-show-how-difficult-it-is-to-find-the-freedoms-and-advantages)**  
     * **[4. Reflecting on numerical comparisons](#4-reflecting-on-numerical-comparisons)**  
 
-◈
-
+◈  
 ***[Chapter Two<br>The impermanence of life](#chapter-twothe-impermanence-of-life)***  
 * [I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE](#i-the-impermanence-of-the-outer-universe-in-which-beings-live)  
 * [II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE](#ii-the-impermanence-of-beings-living-in-the-universe)  
@@ -155,8 +153,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [VI. THE UNCERTAINTY OF THE CIRCUMSTANCES OF DEATH](#vi-the-uncertainty-of-the-circumstances41-of-death)  
 * [VII. INTENSE AWARENESS OF IMPERMANENCE](#vii-intense-awareness-of-impermanence)  
 
-◈
-
+◈  
 ***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
 * [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
 * [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
@@ -200,8 +197,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * **[5. The asuras](#5-the-asuras)**  
     * **[6. The gods](#6-the-gods)**  
 
-◈
-
+◈  
 ***[Chapter Four<br>Actions: the principle of cause and effect](#chapter-fouractions-the-principle-of-cause-and-effect)***
 * [I. NEGATIVE ACTIONS TO BE ABANDONED](#i-negative-actions-to-be-abandoned)  
     * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)**  
@@ -225,14 +221,12 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
 * [III. THE ALL-DETERMINING QUALITY OF ACTIONS](#iii-the-all-determining-quality-of-actions)
  
-◈
-
+◈  
 ***[Chapter Five<br>The benefits of liberation](#chapter-fivethe-benefits-of-liberation)***
 * [I. CAUSES LEADING TO LIBERATION](#i-causes-leading-to-liberation)  
 * [II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT](#ii-the-result-the-three-levels-of-enlightenment)  
  
-◈
-
+◈  
 ***[Chapter Six<br>How to follow a spiritual friend](#chapter-sixhow-to-follow-a-spiritual-friend)***  
 * [I. EXAMINING THE TEACHER](#i-examining-the-teacher)  
 * [II. FOLLOWING THE TEACHER](#ii-following-the-teacher)  
@@ -240,10 +234,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-[PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES](#part-two)  
+**[PART TWO<br>THE EXTRAORDINARY OR EXTERNAL PRELIMINARIES](#part-two)**
 
-◈
-
+◈  
 ***[Chapter One<br>Taking refuge, foundation stone of all paths](#chapter-onetaking-refuge-the-foundation-stone-of-all-paths)***  
 * [I. APPROACHES TO TAKING REFUGE](#i-approaches-to-taking-refuge)  
     * **[1. Faith](#1-faith)**  
@@ -262,7 +255,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [1.3 THE THREE SUPPLEMENTARY PRECEPTS](#13-the-three-supplementary-precepts)  
     * **[2. The benefits of taking refuge](#2-the-benefits-of-taking-refuge)**
 
-◈
+◈  
 ***[Chapter Two<br>Arousing bodhicitta, the root of the Great Vehicle](#chapter-twoarousing-bodhicitta-the-root-of-the-great-vehicle)***  
 * [I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES](#i-training-the-mind-in-the-four-boundless-qualities)  
     * **[1. Meditation on impartiality](#1-meditation-on-impartiality)**  
@@ -311,8 +304,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
             * [2.6.2 Wisdom through reflection](#262-wisdom-through-reflection)  
             * [2.6.3 Wisdom through meditation](#263-wisdom-through-meditation)  
 
-◈
-
+◈  
 ***[Chapter Three<br>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations](#chapter-threemeditating-and-reciting-on-the-teacher-as-vajrasattva-to-cleanse-all-obscurations172)***
 * [I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION](#i-how-obscurations-can-be-purified-through-confession)  
 * [II. THE FOUR POWERS](#ii-the-four-powers)  
@@ -322,9 +314,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * **[4. The power of action as an antidote](#4-the-power-of-action-as-an-antidote)**
 * [III. THE ACTUAL MEDITATION ON VAJRASATTVA](#iii-the-actual-meditation-on-vajrasattva)
 
-◈
-
-***[Chapter Four<br>Offering the mandala to accumulate merit and wisdom](#chapter-fouroffering-the-mandala-to-accumulate-merit-and-wisdom)
+◈  
+***[Chapter Four<br>Offering the mandala to accumulate merit and wisdom](#chapter-fouroffering-the-mandala-to-accumulate-merit-and-wisdom)***
 * [I. THE NEED FOR THE TWO ACCUMULATIONS](#i-the-need-for-the-the-two-accumulations)
 * [II. THE ACCOMPLISHMENT MANDALA](#ii-the-accomplishment-mandala202)
 * [III. THE OFFERING MANDALA](#iii-the-offering-mandala)
@@ -334,8 +325,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.2 THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA](#22-the-extraordinary-mandala-of-the-sambhogakaya)
         * [2.3 THE SPECIAL MANDALA OF THE DHARMAKAYA](#23-the-special-mandala-of-the-dharmakaya)
 
-◈
-
+◈  
 ***[Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke](#chapter-fivethe-kusalis-accumulation-destroying-the-four-demons-at-a-single-stroke)***
 * [I. THE BODY AS AN OFFERING](#i-the-body-as-an-offering)
 * [II. THE PRACTICE OF OFFERING THE BODY](#ii-the-practice-of-offering-the-body)
@@ -345,8 +335,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * **[4. The variegated feast for the guests below](#4-the-variegated-feast-for-the-guests-below)**
 * [III. THE MEANING OF CHO](#iii-the-meaning-of-cho)
 
-◈
-
+◈  
 ***[Chapter Six<br>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization](#chapter-sixguru-yoga223-entrance-way-for-blessings-the-ultimate-method-for-arousing-the-wisdom-of-realization)***
 * [I. THE REASON FOR GURU YOGA](#i-the-reason-for-guru-yoga)
 * [II. HOW TO PRACTICE GURU YOGA](#ii-how-to-practice-guru-yoga)
@@ -359,28 +348,25 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.5 EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA](#25-exhorting-the-buddhas-to-turn-the-wheel-of-dharma260)
         * [2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA](#26-requesting-the-buddhas-not-to-enter-nirvana261)
         * [2.7 DEDICATION](#27-dedication263)
-    * **[3. Praying with resolute trust](#3-praying266-with-resolute-trust)
-    * **[4. Taking the four empowerments](#4-taking-the-four-empowerments)
+    * **[3. Praying with resolute trust](#3-praying266-with-resolute-trust)**
+    * **[4. Taking the four empowerments](#4-taking-the-four-empowerments)**
 * [III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE](#iii-the-history-of-the-advent-of-the-early-translation-doctrine)
-    * **[1. The mind lineage of the Conquerors](#1-the-mind-lineage-of-the-conquerors)
-    * **[2. The symbol lineage of the Vidyadharas](#2-the-symbol-lineage-of-the-vidyadharas)
+    * **[1. The mind lineage of the Conquerors](#1-the-mind-lineage-of-the-conquerors)**
+    * **[2. The symbol lineage of the Vidyadharas](#2-the-symbol-lineage-of-the-vidyadharas)**
         * [2.1 THE MAHAYOGA TANTRAS](#21-the-mahayoga-tantras)
         * [2.2 THE TRANSMISSION OF ANUYOGA](#22-the-transmission-of-anuyoga)
         * [2.3 THE PITH-INSTRUCTIONS OF ATIYOGA](#23-the-pith-instructions-of-atiyoga)
         * [2.4 THE COMING OF ATIYOGA TO THE HUMAN REALM](#24-the-coming-of-atiyoga-to-the-human-realm)
+* [IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS](#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows)
+    * **[3. The hearing lineage of ordinary beings](#3-the-hearing-lineage-of-ordinary-beings)**
 
-IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
+---
 
-3. The hearing lineage of ordinary beings
+**[PART THREE<br>THE SWIFT PATH OF TRANSFERENCE](#part-three)**
 
-&nbsp;
-
-<h2 align="center">PART THREE<br>THE SWIFT PATH OF TRANSFERENCE</h2>  
-<p align="center">◈</p>
-<h3 align="center"><i>Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></h3>  
-&nbsp;
-
-I. THE FIVE KINDS OF TRANSFERENCE
+◈  
+***[Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation](#chapter-onetransference-of-consciousness-the-instructions-for-the-dying-buddhahood-without-meditation)***
+* [I. THE FIVE KINDS OF TRANSFERENCE](#i-the-five-kinds-of-transference)
 
 1. Superior transference to the dharmakaya through the seal of the view
 2. Middling transference to the sambhogakaya through the union of the generation and perfection phases
