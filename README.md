@@ -1553,9 +1553,15 @@ These are eight propensities that lead one away from the [Dharma](#dharma) and s
 
 Before these sixteen factors that leave no opportunity for the practice have been carefully ruled out, people in these decadent times may look as if they hav all the [freedoms and advantages](#the-difficulty-of-finding-the-freedoms-and-advantages) and are true practitioners of the [Dharma](#dharma). However, the chieftain upon their throne and the [lama](#lama) beneath their parasol,<sup>[34](#34)</sup> the hermit in their mountain solitude, the person who has renounced the affairs of state, and anyone who might have a high opinion of their own worth&mdash;each may think they are practicing [Dharma](#dharma), but as long as they are under the sway of these additional limiting conditions, they are not on the true path.
 
+<details id="34"><summary>Note <sup>34</sup></summary>
+A ceremonial parasol carried before a high-ranking lama as a symbol of respect.
+</details><br>
+
 So, before blindly assuming the forms of [Dharma](#dharma), check your own state carefully first to see whether or not you have all thirty-four aspects of the freedoms and advantages. If you do have them all, rejoice and reflect deeply on them over and over again. Remind yourself how, now that you have finally gained these freedoms and advantages that are so difficult to find, you are not going to squander them; whatever happens, you are going to practice the true [Dharma](#dharma). Should you find, however, that some aspects are missing, try to acquire them by whatever means may be possible.
 
+At all times, you should take pains to examine carefully whether or not you have all elements of the freedoms and advantages. If you fail to check, and any one of those elements should be lacking, you will be missing the chance to practice the [Dharma](#dharma) truly. After all, even the execution of a single minor everyday task requires many mutually dependent materials and conditions to be brought together. Is it any wonder that the realization of our ultimate goal&mdash;the [Dharma](#dharma)&mdash;is impossible without the conjunction of many interconnected factors?
 
+Imagine a traveler who wants to brew themself some tea. The making of tea involves many different elements&mdash;the pot, the water, the wood, the fire, and so on. Of these, just to light the fire alone is impossible without a flint, steel, some tinder, the traveler's hands and so forth. If just one thing is missing, the tinder for instance, then the fact that the traveler has everything else they need is of no use whatsoever. They simply do not have what it takes to make tea. In the same way, if even one element of the freedoms and advantages is missing, there is no chance at all of practicing the true [Dharma](#dharma) 
 
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
