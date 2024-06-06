@@ -1515,9 +1515,48 @@ Others are **imposters** who, through a pretense of [Dharma](#dharma), try to wi
 
 These are [eight circumstances that render it impossible to continue practising the Dharma](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma).
 
-
-
 #### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
+
+**1. Tightly bound to worldly commitments**
+
+People who are tightly bound to their worldly commitments, wealth, pleasures, children, relatives, and so forth, are so preoccupied with the strenuous efforts entailed by these things that they have no time to practice the [Dharma](#dharma).
+
+**2. Very depraved**
+
+Some people lack any scrap of humanity, and their nature is so depraved that they are unable to improve their behavior. Even a genuine spiritual teacher would find it very difficult to set them on the noble path. As the sublime beings of the past said, "The abilities of a disciple can be shaped, but not hsi basic character."
+
+**3. Uninterested in liberation from samsara or life's sufferings**
+
+A person who feels not the slightest consternation either on hearing of lower rebirths and the ills of [samsara](#samsara), or in the face of this present life's sufferings, has no determination whatsoever to liberate himself from [samsara](#samsara), and therefore no reason to engage in [Dharma](#dharma) practice.
+
+**4. No trust in the teacher or teachings**
+
+To have no faith at all, either in the true [Dharma](#dharma) or in the teacher, shuts off any access to the teachings and bars entry to the path of liberation.
+
+**5. Enjoy causing harm**
+
+People who take pleasure in harmful or negative actions, and who fail to control their thoughts, words and deeds, are devoid of any noble qualities and have turned away from the [Dharma](#dharma).
+
+**6. Uninterested in spiritual values and Dharma**
+
+Some people are no more interested in spiritual values and [Dharma](#dhamra) than a dog in eating grass. Since they feel no enthusiasm for the [Dharma](#dharma), its qualities will never develop in their minds.
+
+**7. Breakers of vows and commitments to bodhicitta**
+
+Anyone who, having entered the Basic Vehicle, breaks their vows and commitment to bodhicitta, has nowhere else to go but the lower realms. They will not escape from states where there is no opportunity to practice the [Dharma](#dharma).
+
+**8. Breakers of samaya commitments**
+
+Anyone who, having entered the [Secret Mantra Vehicle](#secret-mantrayana), breaks their [samaya](#samaya) commitments to their teacher and spiritual brothers and sisters, will bring about their own ruin and theirs, destroying any prospect of accomplishments.
+
+These are eight propensities that lead one away from the [Dharma](#dharma) and snuff out the lamp of liberation.
+
+Before these sixteen factors that leave no opportunity for the practice have been carefully ruled out, people in these decadent times may look as if they hav all the [freedoms and advantages](#the-difficulty-of-finding-the-freedoms-and-advantages) and are true practitioners of the [Dharma](#dharma). However, the chieftain upon their throne and the [lama](#lama) beneath their parasol,<sup>[34](#34)</sup> the hermit in their mountain solitude, the person who has renounced the affairs of state, and anyone who might have a high opinion of their own worth&mdash;each may think they are practicing [Dharma](#dharma), but as long as they are under the sway of these additional limiting conditions, they are not on the true path.
+
+So, before blindly assuming the forms of [Dharma](#dharma), check your own state carefully first to see whether or not you have all thirty-four aspects of the freedoms and advantages. If you do have them all, rejoice and reflect deeply on them over and over again. Remind yourself how, now that you have finally gained these freedoms and advantages that are so difficult to find, you are not going to squander them; whatever happens, you are going to practice the true [Dharma](#dharma). Should you find, however, that some aspects are missing, try to acquire them by whatever means may be possible.
+
+
+
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
 ### **4. Reflecting on numerical comparisons**
 
@@ -1771,27 +1810,6 @@ These are [eight circumstances that render it impossible to continue practising 
 
 # <div align="center">Conclusion</div>
 
----
-
-
-
-
-
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 ---
 
 
