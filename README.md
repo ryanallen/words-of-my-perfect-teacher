@@ -1600,8 +1600,76 @@ The difficulty of obtaining human birth is also compared to that of getting drie
 
 ### **4. Reflecting on numerical comparisons**
 
+When you consider the relative numbers of different kinds of beings, you can appreciate that to be born a human is hardly possible at all. By way of illustration, it is said that if the inhabitants of the [hells](#hell) were as numerous as stars in the night sky, the [pretas](#preta) would be no more numerous than the stars visible in the daytime; that if there were as many [pretas](#preta) as stars at night, there would only be as many animals as stars in the daytime; and that if there were as many animals as stars at night, there would only be as many gods and humans as stars in the daytime.
 
+It is also said that there are as many beings in [hell](#hell) as specks of dust in the whole world, as many [pretas](#preta) as particles of sand in the Ganges, as many animals as grains in a beer-barrel<sup>[37](#37)</sup> and as many [asuras](#5-the-asuras) as snowflakes in a blizzard&mdash;but that [gods](#gods) and humans are as few a the particles of dust on a fingernail.
 
+<details id="37"><summary>Note <sup>37</sup></summary>
+This refers to a Tibetan beer prepared by pouring hot water over fermented grain. The barrel containing this preparation would thus be entirely full of grains.
+</details><br>
+
+To take form as any beings of the higher realms is already rare enough, but rarer still is a human life complete with all the freedoms and advantages. We can see for ourselves at any time how few human beings there are compared to animals. Think how many bugs live in a clod of earth in summertime, or ants in a single anthill&mdash; there are hardly that many humans in the whole world. But even within mankind, we can see that compared to all those people born in outlying regions where the teachings have never appeared, those born in places where the [Dharma](#dharma) has spread are exceedingly rare. And even among these, there are only a very few who have all the freedoms and advantages.
+
+With all these perspectives in mind, you should be filled with joy that you really have all the freedoms and advantages complete.
+
+---
+
+A human life can be called a "***precious human life***" only when it is complete with all aspects of the freedoms and advantages, and from then onwards it truly becomes precious. But as long as any of those aspects are incomplete, then, however extensive your knowledge, learning and talent in ordinary things may be, you do not have a precious human life. You have what is called an **ordinary human life**, **merely human life**, **hapless human life**, **meaningless human life**, or **human life returning empty handed**. it is like failing  to use a wish-fulfilling gem despite holding it in your hands, or returning empty-handed from a land full of precious gold.
+
+> To come across a precious jewel  
+Is nothing compared to finding this precious human life.  
+Look how those who are not saddened by [samsara](#samsara)  
+Fritter life away!  
+>  
+> To win a whole kingdom  
+Is nothing compared to meeting a perfect teacher.  
+Look how those with no devotion  
+Treat the teacher as their equal!  
+>  
+> To be given command of a province  
+Is nothing compared to receiving the [Bodhisattva](#bodhisattva) vows.  
+Look how those with no compassion  
+Hurl their vows away!  
+>  
+> To rule over the universe  
+Is nothing compared to receiving a [tantric](#tantric) [empowerment](#empowerment).  
+Look how those who do not keep the [samayas](#samaya)  
+Jettison their promises!  
+>  
+> To catch sight of the Buddha  
+Is nothing compared to seeing the true nature of mind.  
+Look how those with no determination  
+Sink back into delusion!
+
+These freedoms and advantages do not come by chance or coincidence. They are the result of an accumulation of [merit](#merit) and [wisdom](#wisdom) built up over many [kalpas](#kalpa). The great scholar [Trakpa Gyaltsen](#trakpa-gyaltsen) says:
+
+> This free and favored human existence  
+Is not the result of your resourcefulness.  
+It comes from the [merit](#merit) you have accumulated.
+
+To have obtained human life only to be wholly involved in [evil activities](#negative-action) without the least notion of [Dharma](#dharma) is to be lower than the lower realms. As [Jetsun Mila](#jetsun-mila) said to the hunter Gonpo Dorje:
+
+> To have the freedoms and fortunes of human birth is usually said to be precious,  
+But when I see someone like you it doesn't seem precious at all.
+
+Nothing has as much power to drag you down to the lower realms as human life. What you do with it, right now, is up to you alone:
+
+> Used well, this body is our raft to freedom.  
+Used badly, this body anchors us to [samsara](#samsara).  
+This body does the bidding of both [good](#positive-action) and [evil](#negative-action).
+
+It is through the power of all the [merit](#merit) you have accumulated in the past that you have now obtained this human life complete with its eighteen freedoms and advantages. To neglect the one essential thing&mdash;the supreme [Dharma](#dharma)&mdash;and instead just spend your life acquiring food and clothes and indulging the eight ordinary concerns would be a a useless waste of those freedoms and advantages. How ineffectual to wait until death is upon you and then beat your breast with remorse! For you will have made the wrong choice, as it says in *The Way of the Bodhisattva*:
+
+> Thus having found the freedoms of a human life,  
+If I now fail to train myself in virtue,  
+What greater folly could there ever be?  
+How more could I betray myself?
+
+This present life, therefore, is the turning-point at which you can choose between lasting good or lasting evil. If you do not make use of it right now to seize the citadel of the absolute nature within this lifetime, in lives to come it will be very hard to obtain such freedom again. Once you take birth in any of the forms of life in the lower realms, no idea of [Dharma](#dharma) will ever occur to you. Too bewildered to know what to do or what not to do, you will fall endlessly further and further to ever lower realms. So, telling yourself that now is the time to make an effort, meditate over and over again, applying the three supreme methods: **start with the thought of bodhicitta**, **do the practice itself without any conceptualization**, and **dedicate the merit at the end**.
+
+As a measure of how much this practice has truly convinced us, we should be like [Geshe Chengawa](#chengawa-geshe), who spent all his time practicing and never even slept. [Geshe Tonpa](#tonpa-geshe) said to him: "You'd better rest, my son. You'll make yourself ill."
+
+"Yes, I should rest," Chengawa replied. "But when I think how difficult it is to find the freedoms and advantages that we have, I have no time to rest." He recited nine hundred million mantras of Miyowa and did without sleep for the whole of his life. We should meditate until exactly that sort of conviction arises in our own minds.
 
 ---
 
@@ -2069,7 +2137,7 @@ see [Karma Chagme](#karma-chagme).
 *rtsa rlung gi 'phrul 'khor*, exercises combining visualization, concentration and physical movements, in which the flow of subtle energies through the subtle [channels](#channel) is controlled and directed. These practices should only be attempted with the proper transmission and guidance, after completing the [preliminaries](#preliminaries) and achieving some stability in the [generation phase](#generation-phase).
 
 ## Chekawa Yeshe Dorje
-*'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points, and rendered them more accessible. See *The Great Path of Awakening*, Jamgon Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
+*'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points [see external](https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/seven-points-mind-training), and rendered them more accessible. See *The Great Path of Awakening*, Jamgon Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
 
 ## Chengawa, (Geshe)
 *spyan snga ba*(1038 - 1103), disciple of [Drom Tonpa](#drom-tonpa), started the transmission lineage of the [Kadampa](#kadampa) oral instructions.
