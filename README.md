@@ -916,7 +916,7 @@ Of all negative emotions, pride and jealousy are the most difficult to recognize
 If you have no faith, the entrance to the [Dharma](#dharma) is blocked. Of the four types of faith,<sup>[11](#11)</sup> aim for faith that is irreversible.
 
 <details id="11"><summary>Note <sup>11</sup></summary>
-The first three are explained in Part Two, Chapter One. A fourth, irreversible faith, is sometimes added to denote the culmination of faith, when it has become an integral part of one's being.
+The first three are explained in <a href="#chapter-onetaking-refuge-the-foundation-stone-of-all-paths">Part Two, Chapter One</a>. A fourth, irreversible faith, is sometimes added to denote the culmination of faith, when it has become an integral part of one's being.
 </details><br>
 
 **3. Lack of effort**
