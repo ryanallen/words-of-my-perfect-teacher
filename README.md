@@ -1565,10 +1565,43 @@ Imagine a traveler who wants to brew themself some tea. The making of tea involv
 
 If you check your own mind carefully, you will see that even the basic eight freedoms and ten advantages are very difficult to attain, and that to have all ten advantages is even rarer than to have all eight freedoms.
 
-Someone born as a human, with all their faculties intact and in a central region, but who becomes involved in a lifestyle conflicting with the [Dharma](#dharma) and who has no faith in the Conqueror'rs teaching, only has three of the advantages. Were he to obtain either of the two others, he would still only have four. Now, to have a lifestyle which does not conflict at all with the [Dharma](#dharma) is extremely hard. If any of a person's thoughts, words and deeds are negative and his motives are for this life, then in fact, even if they have the reputation of a good and learned person, their lifestyle is in conflict with the [Dharma](#dharma)
+Someone born as a human, with all their faculties intact and in a central region, but who becomes involved in a lifestyle conflicting with the [Dharma](#dharma) and who has no faith in the Conqueror'rs teaching, only has three of the advantages. Were he to obtain either of the two others, he would still only have four. Now, to have a lifestyle which does not conflict at all with the [Dharma](#dharma) is extremely hard. If any of a person's thoughts, words and deeds are negative and his motives are for this life, then in fact, even if they have the reputation of a good and learned person, their lifestyle is in conflict with the [Dharma](#dharma).
+
+The same applies to the five circumstantial advantages. If a [Buddha](#buddha) has come, has taught the [Dharma](#dharma) and the teachings still exist, yet a person has not entered the [Dharma](#dharma), that person has only three of those advantages. Here again, "entering the Dharma" does not simply mean asking for some teaching and being give in. The starting point of the path of liberation is the conviction that the whole of [samsara](#samsara) is meaningless and the genuine determination to be free from it. To travel the path of the [great-vehicle](#great-vehicle), the essential is to have genuinely aroused bodhicitta. The minimum is to have such unshakeable faith in the [Three Precious Jewels](#three-jewels) that you would never renounce them, even to save your life. Without that, simply reciting prayers and wearing yellow robes is no proof that you have entered the [Dharma](#dharma).
+
+Make sure that you know how to identify each of these freedoms and advantages, and to check whether you have them yourself. This is of crucial importance.
 
 ### **3. Reflecting on images that show how difficult it is to find the freedoms and advantages**
+
+The [Buddha](#sakyamuni) said that it is more difficult for a being to obtain human birth than it would be for a turtle coming up from the depths of the ocean to put its head by chance through the opening of a wooden yoke tossed around by huge waves on the surface.
+
+Imagine the whole cosmos of a billion universes as a vast ocean. Floating upon it is a yoke, a piece of wood with a hole in it that can be fixed around the horns of draught oxen. this yoke, tossed hither and thither by the waves, sometimes eastward, sometimes westward, never stays in the same place even for an instant. Deep down in the depths of the ocean lives a blind turtle who rises up to the surface only once every hundred years.<sup>[35](#35)</sup> That the yoke and the turtle might meet is extremely unlikely. The yoke itself is inanimate; the turtle is not intentionally seeking it out. The turtle, being blind, has no eyes with which to spot the yoke. If the yoke were to stay in one place, there might be a chance of their meeting; but it is continually on the move. If the turtle were to spend its entire time swimming around the surface, it might, perhaps, cross paths with the yoke; but it surfaces only once every hundred years. The chances of the yoke and the turtle coming together are therefore extremely small. Nevertheless, by sheer chance the turtle might still just slip its neck into the yoke. But it is even more difficult than that, the [sutras](#sutra) say, to obtain a human existence with the freedoms and advantages. [Nagarjuna](#nagarjuna) expresses this in his *Advice to King Surabhibhadra*:<sup>[36](#36)</sup>
+
+<details id="35"><summary>Note <sup>35</sup></summary>
+"The ocean symbolizes the depth and vastness of the three lower realms of rebirth and their infinite sufferings. The blind turtle symbolizes the beings of these three worlds who are without the two eyes of adopting what is beneficial and abandoning what is harmful. The fact that the turtle only rises to the surface once every hundred years symbolizes the difficulty of escaping from those states. The one hole in the yoke symbolizes the rarity of human and celestial existences. The wind which propels it this way and that represents dependence on favorable circumstances."
+</details><br>
+
+<details id="36"><summary>Note <sup>36</sup></summary>
+We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom [Nagarjuna](#nagarjuna) wrote this text. In fact, although most accounts agree that he was a close friend and patron of [Nagarjuna](#nagarjuna), the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Guatamiputra Satakarni, who reigned at the beginning of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
+</details><br>
+
+> It is highly unlikely that a turtle might, by chance, arise through a yoke tossed about on a mighty sea;  
+And yet, compared to animal birth there is far less chance than even that  
+Of obtaining a human life. Accordingly, O Lord of Men,  
+Practice the authentic Dharma to make your fortune fruitful!
+
+And [Santideva](#santideva) says:
+
+> The [Buddha](#sakyamuni) declared that like a turtle that perchance can place  
+Its head within a yoke adrift upon a shoreless sea,  
+This human birth is difficult to find.
+
+The difficulty of obtaining human birth is also compared to that of getting dried peas thrown at a smooth wall to stick to it, or to that of balancing a pile of peas on the tip of an upright needle&mdash;which is hard enough with even one single pea! It is important to know these comparisons, which are from the *Nirvana Sutra*, and similar ones in other texts.
+
 ### **4. Reflecting on numerical comparisons**
+
+
+
 
 ---
 
@@ -3196,7 +3229,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *zhi gnas*, Skt. *samatha*, the basis of all concentrations. "The distraction of the mind by other objects having been calmed (*zhi*), the mind stays (*gnas*) without wavering in concentration." DICT.
 
 ## Sutra
-*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka).
+*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka). See also: [List of suttas on wikipedia](https://en.wikipedia.org/wiki/List_of_suttas), and Access to Insight's [Index of Suttas](#https://www.accesstoinsight.org/index-sutta.html#b)
 
 ## Suvarnadvipa (Lord of)
 *gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atisa](#atisa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
