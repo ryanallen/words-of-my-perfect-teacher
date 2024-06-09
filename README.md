@@ -1671,6 +1671,11 @@ As a measure of how much this practice has truly convinced us, we should be like
 
 "Yes, I should rest," Chengawa replied. "But when I think how difficult it is to find the freedoms and advantages that we have, I have no time to rest." He recited nine hundred million mantras of Miyowa and did without sleep for the whole of his life. We should meditate until exactly that sort of conviction arises in our own minds.
 
+> *Although I have won these freedoms, I am poor in Dharma, which is their essence.  
+Although I have entered the Dharma, I waste time doing other things.  
+Bless me and foolish beings like me  
+That we may attain the very essence of the freedoms and advantages.*
+
 ---
 
 [alt text](image_url)
