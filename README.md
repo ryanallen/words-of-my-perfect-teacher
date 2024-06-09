@@ -3229,7 +3229,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *zhi gnas*, Skt. *samatha*, the basis of all concentrations. "The distraction of the mind by other objects having been calmed (*zhi*), the mind stays (*gnas*) without wavering in concentration." DICT.
 
 ## Sutra
-*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka). See also: [List of suttas on wikipedia](https://en.wikipedia.org/wiki/List_of_suttas),Access to Insight's [Index of Suttas](#https://www.accesstoinsight.org/index-sutta.html#b), and [84,000's reading room with The Kangyur and The Tengyur](https://read.84000.co/section/lobby.html).
+*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka). See also: [List of suttas on wikipedia](https://en.wikipedia.org/wiki/List_of_suttas),Access to Insight's [Index of Suttas](#https://www.accesstoinsight.org/index-sutta.html), and [84,000's reading room with The Kangyur and The Tengyur](https://read.84000.co/section/lobby.html).
 
 ## Suvarnadvipa (Lord of)
 *gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atisa](#atisa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
