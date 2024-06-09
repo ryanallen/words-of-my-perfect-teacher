@@ -1686,6 +1686,8 @@ That we may attain the very essence of the freedoms and advantages.*
 ---
 
 # <div align="center">CHAPTER TWO<br><i>The impermanence of life</i></div>
+
+
 ## I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
 ## III. THE IMPERMANENCE OF HOLY BEINGS
