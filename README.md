@@ -1713,6 +1713,7 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
 There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
+<br>
 
 1. Purvavideha in the East:  
 - 1. Deha (T. lus) and  
@@ -1744,7 +1745,7 @@ The names of these mountain ranges are:<br>
 4. Pleasing (Sudarsana; T. lta na sdug)
 5. Horse Ear (Asvakarna; T. rta rna)
 6. Bent (Vinataka; T. rnam 'dud)
-- Rim (Nimindhara; T. mu khyud 'dzin)
+7. Rim (Nimindhara; T. mu khyud 'dzin)
 
 The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
 
@@ -1772,7 +1773,7 @@ Such is water that has the eight perfect qualities.
 
 <details id="37-3"><summary>Note <sup>37.3</sup></summary>
 Description of the Universe<br>
-Abhidharma<br>
+Abhidharma<br><br>
 
 A world system has a square Core Mountain (Mount Meru) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
 
