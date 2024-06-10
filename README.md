@@ -712,13 +712,13 @@ Tell yourself: "It is for their well-being that I am going to listen to the prof
 
 Whenever you do something positive, whether of major or minor importance, it is indispensable to enhance it with the three supreme methods. Before beginning, arouse the bodhicitta as a skilful means to make sure that the action becomes a source of good for the future. While carrying out the action, avoid getting involved in any conceptualization,<sup>[1](#1)</sup> so that the merit cannot be destroyed by circumstances.<sup>[2](#2)</sup> At the end, seal the action properly by dedicating the [merit](#merit), which will ensure that it continually grows ever greater.<sup>[3](#3)</sup>
 
-<details id="1"><summary>Note <sup>1</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details><br>
+<details id="1"><summary>Note <sup>1</sup></summary>For beginners, this means avoiding a materialistic or ambitions attitude to the practice. In fact only realized practitioners can practice with true freedom from concepts, but as one's practice matures, freedom from grasping comes progressively.</details>
 
 <details id="2"><summary>Note <sup>2</sup></summary>The positive energy of the practice can also be channelled away from enlightenment into other things. NT mentions four circumstances which destroy one's sources of merit. (<i>dge rtsa</i>):<br>  
 1. Not dedicating the action to the attainment of perfect Buddhahood for the sake of other.<br>
 2. Anger: one moment of anger is said to be capable of destroying <a href="#kalpa">kalpas</a> of positive actions.<br>
 3. Regret: regretting the beneficial actions one has done, even partially.<br>
-4. Boasting of one's positive actions to others.</details><br>
+4. Boasting of one's positive actions to others.</details>
 
 <details id="3"><summary>Note <sup>3</sup></summary>NT explains that just as when a drop of water becomes part of the ocean it will continue to exist as long as the ocean exists, when the merit of one's actions is completely dedicated to "the fruit, the ocean of Omniscience," it will not be lost until one has attained complete Buddhahood.</details><br>
 
