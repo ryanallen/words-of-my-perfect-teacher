@@ -1768,7 +1768,7 @@ Such is water that has the eight perfect qualities.
 [src](https://encyclopediaofbuddhism.org/wiki/Seven_golden_mountain_ranges)
 </details><br>
 
-<details id="37-2"><summary>Note <sup>37.2</sup></summary>
+<details id="37-3"><summary>Note <sup>37.3</sup></summary>
 Description of the Universe  
 Abhidharma  
 
