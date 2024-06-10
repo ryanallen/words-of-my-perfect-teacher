@@ -1687,6 +1687,19 @@ That we may attain the very essence of the freedoms and advantages.*
 
 # <div align="center">CHAPTER TWO<br><i>The impermanence of life</i></div>
 
+> *Seeing this threefold world as a fleeting illusion,  
+You have left this life's concerns behind like spittle in the dust.  
+Accepting all hardships, you have followed in the footsteps of the masters of old.  
+Peerless Teacher, at your feet I bow.*
+
+The way to listen to the teaching is as described in [Chapter One](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages). The actual subject matter consists of seven meditations:
+1. the impermanence of the outer universe in which beings live,
+2. the impermanence of the beings living in it,
+3. the impermanence of holy beings,
+4. the impermanence of those in positions of power,
+5. other examples of impermanence
+6. the uncertainty of the circumstances of death,
+7. and intense awareness of impermanence.
 
 ## I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
