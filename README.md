@@ -1707,7 +1707,9 @@ Our world, this outer environment fashioned by the collective good [karma](#karm
 
 As the present [great kalpa](#good-kalpa) draws closer to the time of destruction, the beings inhabiting each realm below the god-realm of the first meditative state will, realm by realm, progressively disappear until not a single being is left.
 
-Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents,<sup>[37.1](#37-1)</sup> the seven golden mountains,<sup>[37.2](#37-2)</sup> and the circular wall of mountains at the world's very rim<sup>[37.3](#37-3)</sup>.
+Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents,<sup>[37.1](#37-1)</sup> the seven golden mountains,<sup>[37.2](#37-2)</sup> and the circular wall of mountains at the world's very rim<sup>[37.3](#37-3)</sup>. Everything will fuse into one vast mass of fire. As it blazes downwards, it will consume all the infernal realms. As it flares upwards, it will engulf the celestial palace of Brahma, already long abandoned. Above, the younger gods of the realm of Clear Light will cry out in fear, "What an immense conflagration!" But the older gods will reassure them, saying "Have no fear! Once it reaches the world of Brahma, it will recede. This has happened before."<sup>*</sup>
+
+<sup>* These stages of destruction all take place within one kalpa, but even these long-lived gods can grow old between the first destruction by fire and the seventh, after which their realm&mdash;part of that of the second concentration&mdash;will be destroyed by water.</sup>
 
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
 There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:
@@ -1732,21 +1734,21 @@ There are two subcontinents for each of the four continents which surround Mount
 </details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
-Seven golden mountain rages (T. gser gyi ri bdun གསེར་གྱི་རི་བདུན་) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.  
+Seven golden mountain rages (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.  
 
 The names of these mountain ranges are:
 
 - Yoke (Yugandhara; T. gnya' shing 'dzin)
-- Plough (Īṣādhara; T. gshol mda' 'dzin)
+- Plough (Iṣadhara; T. gshol mda' 'dzin)
 - Forest of Acacia Trees (Khadiraka; T. seng ldeng can)
 - Pleasing (Sudarsana; T. lta na sdug)
-- Horse Ear (Aśvakarṇa; T. rta rna)
+- Horse Ear (Asvakarna; T. rta rna)
 - Bent (Vinataka; T. rnam 'dud)
 - Rim (Nimindhara; T. mu khyud 'dzin)
 
 The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
 
-Jamgön Kongtrul states:  
+Jamgon Kongtrul states:  
 
 > Beyond Mount Meru and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
 >  
@@ -1754,7 +1756,7 @@ Jamgön Kongtrul states:
 
 Dudjom Rinpoche states:  
 
-> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarshana, Ashvakarna, Vinataka, and Nimindhara—each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the Vinaya scriptures:
+> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara—each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the Vinaya scriptures:
 >  
 >  > Cool, sweet, light, and soft,  
 Clear and odorless,  
@@ -1778,6 +1780,12 @@ A world system has a square Core Mountain (Mount Meru) surrounded by seven conce
 
 [src](https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/time-the-universe/buddhist-cosmology-in-abhidharma-and-kalachakra#description-of-the-universe)
 </details><br>
+
+After seven such destructions by fire, rainclouds will form in the realm of the gods of the second concentration, and a yoke's depth of torrential rain will fall, followed by a plough's depth. Like salt dissolving in water, everything up to and including the realm of the gods of the Clear Light will disintegrate.
+
+After the seventh such devastation by water is over, the crossed vajra of wind at the base of the universe will rise up. Like dust scattered by the wind, everything up to and including the realm of the gods of the third meditative concentration will be blown completely away.
+
+Reflect deeply and sincerely&mdash;if every one of the billion universes which constitute the cosmos, each with its own [Mount Meru](#meru-mount), four continents and heavens, is to be simultaneously destroyed in this way, leaving only space behind, however could these human bodies of ours, which are like flies at the end of the season, have any permanence or stability?
 
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
 ## III. THE IMPERMANENCE OF HOLY BEINGS
