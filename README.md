@@ -606,7 +606,7 @@ Over the centuries these many strands of the Buddha's teaching have been handed 
 
 One of these four, the [Nyingma school](#nyingmapa) (whose name derives from the Tibetan for "old") follows the traditions which were originally introduced in the eighth century by such Indian masters as [Santaraksita](#santaraksita), [Vimalamitra](#vimalamitra), and [Padmasambhava](#padmasambhava-of-oddiyana), whom the Tibetans refer to as [Guru Rinpoche](#guru-rinpoche), "the Precious Master," and handed down through fully realized Tibetan masters such as [Longchenpa](#longchenpa), [Jigme Lingpa](#jigme-lingpa), and Jamyang Khyentse Wangpo. The lineages which have been passed down to the other three main schools&mdash; the [Kagyupa](#kagyupa), [Sakyapa](#sakyapa), and [Gelugpa](#gelugpa)&mdash;were introduced into Tibet after the tenth century following the attempts by an anti-Buddhist king to destroy the Dharma in Tibet. Just as the different forms of Buddhism in other parts of Asia had been adopted and had evolved to meet the needs of different peoples and cultures, each of these four schools had its origins and development in widely diverging situations&mdash;historical, geographical and even political&mdash;which served as a prism to split the light of the Buddha's teaching into a many-coloured spectrum of traditions and lineages. (Sadly, some Buddhists have tended to forget that this light has one source, and, as in the world's other great religions, sectarian divisions have sometimes masked the true message of Buddhism.)
 
-The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the Buddha, and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sutras](#sutra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayana](#vajrayana) teachings), and countless commentaries on all three vehicles ([Sravakayana](#sravakayana), [Mahayana](#mahayana), and [Vajrayana](#vajrayana)) written by Tibetan masters.
+The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the Buddha, and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sutras](#sutra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayana](#vajrayana) teachings), and countless commentaries on all [three vehicles](#three-vehicles) ([Sravakayana](#sravakayana), [Mahayana](#mahayana), and [Vajrayana](#vajrayana)) written by Tibetan masters.
 
 The enormous range of teachings to be found within Tibetan Buddhism can nevertheless be summarized by the Four Noble Truths, which the Buddha expounded shortly after his enlightenment. The first of these points out that our conditioned existence is never free from a state of suffering, never truly satisfactory. Any happiness we have is only temporary and in due course gives way to suffering. The reason for this, as explained by the second truth, is that any action one may do, say or think gives rise to a result which has to be experienced either later in one's life or in a future life. Indeed, rebirth is the result of one's actions, and the conditions into which one is born in one life are directly dependent on the actions one has done in previous lives, and particularly the motives and attitudes involved.  This, the [principle of cause and effect](#principle-of-cause-and-effect), explains why, for example, some people remain poor all their lives despite their efforts to become wealthy, while others have everything they could want even though they do nothing to gain it. The second truth goes on to show that the **driving force behind our actions is the negative emotions such as hatred, attachment, pride, jealousy, and especially ignorance, which is the root of all the others.** This ignorance concerns not only a lack of wisdom in how we act, but the basic ignorance behind how we ordinarily perceive the whole of existence and constantly become caught by our clinging to the idea of our own egos and of the outer world as solid and lasting. Because there is no end to our actions, there can be no end to our continuously taking rebirth in the cycle of conditioned existence. Only when we cease to act through ignorance can this cycle be broken, as shown by the third truth which expounds the cessation of suffering and freedom from conditioned existence.
 
@@ -1825,6 +1825,13 @@ Death cannot be fought off by any warrior, ordered away by the powerful, or paid
 So, reflect sincerely and meditate on how important it is from this very moment onwards never to slip into laziness and procrastination, but to practice the true [Dharma](#dharma), the only thing you can be sure will help at the moment of death.
 
 ## III. THE IMPERMANENCE OF HOLY BEINGS
+
+In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Sravakas](#sravaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Sakyamuni's](#sakyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvana](#nirvana) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
+
+One by one, the numerous great [Sravakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
+
+In India, there once lived the Five Hundred Arhats
+
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
 ## V. OTHER EXAMPLES OF IMPERMANENCE
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
@@ -2532,7 +2539,12 @@ see [negative emotions](#negative-emotions).
 *tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
 
 ## Five crimes which are almost as grave (as the fie crimes with immediate retribution)
-*nye ba'i mtshams med lnga*, i) acting impurely with a female [Arhat](#arhat); ii) killing a [Bodhisattva](#bodhisattva); iii) killing someone training towards the supreme level; iv) stealing the sustenance of the [Sangha](#sangha); v) destroying a [stupa](#stupa).
+*nye ba'i mtshams med lnga*, 
+1. acting impurely with a female [Arhat](#arhat); 
+2. killing a [Bodhisattva](#bodhisattva); 
+3. killing someone training towards the supreme level; 
+4. stealing the sustenance of the [Sangha](#sangha); 
+5. destroying a [stupa](#stupa).
 
 ## Five crimes with immediate retribution
 *mtshams meed lnga*, Skt. *pancanantariya*, i) killing one's father or ii) one's mother or iii) an [Arhat](#arhat); iv) creating a split in the [Sangha](#sangha); v) malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
@@ -2545,6 +2557,11 @@ see [energy](#energy).
 
 ## Five Families
 *rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
+
+## Five Hundred Arhats
+"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rājagṛha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](#https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
+
+See also, [The Five Hundred Arhats](/imgs/the-five-hundred-arhats-wu-bin.png) | by Wu Bin (1591 - 1626) from the [Cleveland Museum of Art](https://www.clevelandart.org/art/1971.16)
 
 ## Five hundred thousand preliminaries
 *'bum lnga*, five traditional preliminary practices: [refuge](#refuge), bodhicitta, [vajrasattva](#vajrasattva), [mandala](#mandala) and [guru yoga](#guru-yoga), performed one hundred thousand times each.
@@ -3338,6 +3355,9 @@ see [six realms](#six-realms-of-existence).
 ## Seven point posture of Vairocana
 *rnam snang chos bdun*, Skt. *saptadharmavairocana*, the seven points of the ideal meditation posture: legs crossed in the vajra posture, back straight, hands in the gesture of meditation, eyes gazing along the nose, chin slightly tucked in, shoulders well apart "like a vulture's wings", and the tip of the tongue touching the palate.
 
+## Sikhin
+See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
+
 ## Shang Rinpoche
 *bla ma zhang rin po che* (*brtson 'grus grags pa*) (1121 - 1193), a great [Kagyupa](#kagyupa) [lama](#lama), founder of the Tsalpa Kagyu branch.
 
@@ -3526,6 +3546,9 @@ see [habitual tendencies](#habitual-tendencies).
 
 ## Three times
 *dus gsum*, Skt. *trikala*, past, present and future.
+
+## Three vehicles
+See [external](https://kagyuoffice.org/buddhism/buddhism-in-india/the-three-vehicles-of-the-teachings-of-the-buddha/).
 
 ## Three vows
 *sdom pa gsum*, Skt. *trisamvara*, the vows of [Pratimoksa](#pratimoksa), the precepts of the [Bodhisattvas](#bodhisattva) and the [samayas](#samaya) of the [Secret Mantrayana](#secret-mantrayana).
