@@ -1830,7 +1830,7 @@ In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhi
 
 One by one, the numerous great [Sravakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
 
-In India, there once lived the Five Hundred Arhats
+In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats)
 
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
 ## V. OTHER EXAMPLES OF IMPERMANENCE
@@ -2569,7 +2569,7 @@ see [energy](#energy).
 *rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
 
 ## Five Hundred Arhats
-"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rājagṛha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](#https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
+"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](#https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
 
 See also, [The Five Hundred Arhats](/imgs/the-five-hundred-arhats-wu-bin.png) | by Wu Bin (1591 - 1626) from the [Cleveland Museum of Art](https://www.clevelandart.org/art/1971.16)
 
