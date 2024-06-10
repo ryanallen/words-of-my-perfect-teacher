@@ -1707,10 +1707,10 @@ Our world, this outer environment fashioned by the collective good [karma](#karm
 
 As the present [great kalpa](#good-kalpa) draws closer to the time of destruction, the beings inhabiting each realm below the god-realm of the first meditative state will, realm by realm, progressively disappear until not a single being is left.
 
-Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents
+Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents,<sup>[37.1](#37-1)</sup> the seven golden mountains,<sup>[37.2](#37-2)</sup> and the circular wall of mountains at the world's very rim<sup>[37.3](#37-3)</sup>.
 
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
-There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size.The four continents and eight subcontinents are:
+There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:
 
 - I. Purvavideha in the East:  
 - - 1. Deha (T. lus) and  
@@ -1729,6 +1729,54 @@ There are two subcontinents for each of the four continents which surround Mount
 - - 8. Kaurava (T. sgra mi snyan gyi zla)  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Eight_subcontinents)
+</details><br>
+
+<details id="37-2"><summary>Note <sup>37.2</sup></summary>
+Seven golden mountain rages (T. gser gyi ri bdun གསེར་གྱི་རི་བདུན་) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.  
+
+The names of these mountain ranges are:
+
+- Yoke (Yugandhara; T. gnya' shing 'dzin)
+- Plough (Īṣādhara; T. gshol mda' 'dzin)
+- Forest of Acacia Trees (Khadiraka; T. seng ldeng can)
+- Pleasing (Sudarsana; T. lta na sdug)
+- Horse Ear (Aśvakarṇa; T. rta rna)
+- Bent (Vinataka; T. rnam 'dud)
+- Rim (Nimindhara; T. mu khyud 'dzin)
+
+The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
+
+Jamgön Kongtrul states:  
+
+> Beyond Mount Meru and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
+>  
+> The spaces between [the mountain ranges] are filled with what are known as seven seas enjoyed [by the nagas], the waters of which have eight qualities: cool, tasty, light, soft, clear, odorless, harmless to the throat if swallowed, and harmless to the stomach.
+
+Dudjom Rinpoche states:  
+
+> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarshana, Ashvakarna, Vinataka, and Nimindhara—each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the Vinaya scriptures:
+>  
+>  > Cool, sweet, light, and soft,  
+Clear and odorless,  
+And not irritant to the throat&mdash;  
+Such is water that has the eight perfect qualities.
+>  
+> They are filled with wish-fulfilling jewels and the other multifarious riches that belong to the nagas.
+>  
+> Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount Meru.  
+
+[src](https://encyclopediaofbuddhism.org/wiki/Seven_golden_mountain_ranges)
+</details><br>
+
+<details id="37-2"><summary>Note <sup>37.2</sup></summary>
+Description of the Universe  
+Abhidharma  
+
+A world system has a square Core Mountain (Mount Meru) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
+
+...As for the eight rings of mountains on the gold base, the seven closest to Mount Meru are actual mountains, while the eighth is an iron fence encircling the perimeter of the entire gold base...
+
+[src](https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/time-the-universe/buddhist-cosmology-in-abhidharma-and-kalachakra#description-of-the-universe)
 </details><br>
 
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
