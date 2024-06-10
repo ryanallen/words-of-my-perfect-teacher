@@ -1857,7 +1857,7 @@ Can fly far and wide in the skies,
 Yet they will never reach a land  
 Where immortality holds sway.
 
-Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with Mahasammata
+Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with [Mahasammata](#mahasammata)
 
 ## V. OTHER EXAMPLES OF IMPERMANENCE
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
