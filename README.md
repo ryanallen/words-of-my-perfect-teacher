@@ -741,9 +741,9 @@ The Mantra Vehicle is sublime.
 
 <details id="4"><summary>Note <sup>4</sup></summary>
 "The object of view (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>chos kyi dbyings</i>, Skt. <i>dharmadhatu</i>). But with regard to the view itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The Vehicle of Characteristics (the sutras) establishes the support, the essence, the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial wisdom (<i>dbyings ye zung 'jug</i>). As for what is supported, the phenomena of relative reality, the Vehicle of Characteristics establishes them as being interdependent and like a magical illusion. But it does not go further than this impure magical display, to establish the <a href="#kaya">kayas</a> and wisdoms. The Vehicle of the Secret Mantras, on the other hand, establishes the higher great <a href="#dharmakaya">dharmakaya</a>, the array of <a href="#kaya">kayas</a> and wisdoms which have always been inseparable, the two absolute truths." NT
-</details><br>
+</details>
 <details id="5"><summary>Note <sup>5</sup></summary>
-"In the Vehicle of Characteristics it is not taught that one can attain Enlightenment without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant Vehicle) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the level of Union, the level of Vajradhara, in one life and one body."</details><br>
+"In the Vehicle of Characteristics it is not taught that one can attain Enlightenment without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant Vehicle) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the level of Union, the level of Vajradhara, in one life and one body."</details>
 <details id="6"><summary>Note <sup>6</sup></summary>
 Beings with sharp faculties are those who are "intelligent enough to be able to realize the profound view of the Adamantine Vehicle of Secret Mantras and who possess sufficient confidence not to be afraid of vast and powerful actions."</details><br>  
 
@@ -1049,7 +1049,7 @@ If you remember incorrectly what has been said, endless wrong ideas will prolife
 
 <details id="18"><summary>Note <sup>18</sup></summary>
 The real meaning expresses the truth from the point of view of realized beings. The expedient meaning refers to teachings intended to lead unrealized beings towards that truth, who would not be able to accept or understand it if it was stated directly. The indirect meaning refers to teachings given to beings to introduce them indirectly to a meaning which is not directly stated.
-</details><br>
+</details>
 
 <details id="19"><summary>Note <sup>19</sup></summary>
 "That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and liberation. To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
@@ -1310,7 +1310,7 @@ Five generations later, in accordance with prophecies that he would understand t
 
 <details id="26"><summary>Note <sup>26</sup></summary>
 Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Kongjo to the Tibetans, was the daughter of the T'ang emperor T'ai-tsung. The statue she brought was of [Sakyamuni Buddha](#sakyamuni) at the age of twelve, and had been presented to the Chinese emperor by a Buddhist king of Bengal; the Ramoche temple was built in 641 to house it but it was later moved to the Rasa Trulnang (Jokhang), where it is now&mdash;the famous Jowo Rinpoche. Queen Tritsun was the daughter of the Nepalese king Amsuvarman; the statue she brought was of [Buddha Sakyamuni](#sakyamuni) at the age of eight is now in the Ramoche Temple.
-</details><br>
+</details>
 
 <details id="27"><summary>Note <sup>27</sup></summary>
 These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details fo the story sites, see HIST, Vol. 1, page 510 and notes.
@@ -1405,11 +1405,11 @@ These days we still have the teachings of the [Buddha Sakyamuni](#sakyamuni). Th
 
 <details id="29"><summary>Note <sup>29</sup></summary>
 Lit. "years," but this does not refer to precise units of time but to periods of growth or decline affected by various causes such as the appearance of a holy being or, conversely, the harmful influence of evil beings. DKR
-</details><br>
+</details>
 
 <details id="30"><summary>Note <sup>30</sup></summary>
 During the period immediately following the promulgation of the teachings, those who practice them attain the fruit almost straight away.
-</details><br>
+</details>
 
 <details id="31"><summary>Note <sup>31</sup></summary>
 "These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
@@ -1462,7 +1462,7 @@ Checking your own life and circumstances for each of the [eight freedoms](#1-ref
 
 <details id="32"><summary>Note <sup>32</sup></summary>
 NT explains that these can crop up suddenly, between one session of practice and the next, or during a session, and destroy one or several of the eighteen freedoms and advantages, like a wolf entering a sheep fold and carrying off one or two of the eighteen sheep within.
-</details><br>
+</details>
 
 <details id="33"><summary>Note <sup>33</sup></summary>
 "These separate one's mind from liberation and omniscience. When one of them occurs, it withers the shoot of enlightenment and cuts one off from the family of liberation." NT
@@ -1579,7 +1579,7 @@ Imagine the whole cosmos of a billion universes as a vast ocean. Floating upon i
 
 <details id="35"><summary>Note <sup>35</sup></summary>
 "The ocean symbolizes the depth and vastness of the three lower realms of rebirth and their infinite sufferings. The blind turtle symbolizes the beings of these three worlds who are without the two eyes of adopting what is beneficial and abandoning what is harmful. The fact that the turtle only rises to the surface once every hundred years symbolizes the difficulty of escaping from those states. The one hole in the yoke symbolizes the rarity of human and celestial existences. The wind which propels it this way and that represents dependence on favorable circumstances."
-</details><br>
+</details>
 
 <details id="36"><summary>Note <sup>36</sup></summary>
 We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom [Nagarjuna](#nagarjuna) wrote this text. In fact, although most accounts agree that he was a close friend and patron of [Nagarjuna](#nagarjuna), the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Guatamiputra Satakarni, who reigned at the beginning of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
