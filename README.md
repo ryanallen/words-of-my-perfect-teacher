@@ -3609,51 +3609,107 @@ see [habitual tendencies](#habitual-tendencies).
 *sku mched gsum*, the three principal disciples of [Drom Tonpa](#drom-tonpa): [Potowa](#potowa-geshe), [Chengawa](#chengawa-geshe), and [Puchungwa](#puchungwa-geshe).
 
 ## Three concepts
-*'khor gsum*, subject, object and action, perceived as having a real and independent existence.
+*'khor gsum*, 
+1. subject, 
+2. object and 
+3. action, 
+
+perceived as having a real and independent existence.
 
 ## Three Jewels
-*dkon mchog gsum*, Skt. *triratna*, the [Buddha](#buddha), the [Dharma](#dharma), and the [Sangha](#sangha).
+*dkon mchog gsum*, Skt. *triratna*, 
+1. the [Buddha](#buddha), 
+2. the [Dharma](#dharma), and 
+3. the [Sangha](#sangha).
 
 ## Three kayas
-*sku gsum*, Skt. *trikaya*, lit. the Three Bodies: the three aspects of Buddhahood: [dharmakaya](#dharmakaya), [sambhogakaya](#sambhogakaya), and [nirmanakaya](#nirmanakaya).
+*sku gsum*, Skt. *trikaya*, lit. the Three Bodies: the three aspects of Buddhahood: 
+1. [dharmakaya](#dharmakaya), 
+2. [sambhogakaya](#sambhogakaya), and 
+3. [nirmanakaya](#nirmanakaya).
 
 ## Three mandalas
-*dkyil 'khor gsum*, the mandalas of body, speech and mind as manifestations of the primordial nature: forms as deity, sounds as [mantra](#mantra) and thoughts as [wisdom](#wisdom).
+*dkyil 'khor gsum*, the mandalas of 
+1. body, 
+2. speech and 
+3. mind 
+
+as manifestations of the primordial nature: 
+1. forms as deity,
+2.  sounds as [mantra](#mantra) and 
+3. thoughts as [wisdom](#wisdom).
 
 ## Three poisons
-*dug gsum*, the three [negative emotions](#negative-emotions) of bewilderment (ignorance), attachment and aversion. See [five poisons](#five-poisons).
+*dug gsum*, the three [negative emotions](#negative-emotions) of 
+1. bewilderment (ignorance), 
+2. attachment and 
+3. aversion. 
+
+See [five poisons](#five-poisons).
 
 ## Three Roots
-*rtsa gsum*, the [lama](#lama), root or source of blessings; the [yidam](#yidam), source of accomplishments; and the [dakini](#dakini) (or [protectors](#protectors)), source of activities.
+*rtsa gsum*, 
+1. the [lama](#lama), root or source of blessings; 
+2. the [yidam](#yidam), source of accomplishments; and 
+3. the [dakini](#dakini) (or [protectors](#protectors)), source of activities.
 
 ## Three supreme methods
 *dam pa gsum*. See [preparation, main part and conclusion](#preparation-main-part-and-conclusion).
 
 ## Three sweet foods
-*mngar gsum*, sugar, molasses and honey.
+*mngar gsum*, 
+1. sugar, 
+2. molasses and 
+3. honey.
 
 ## Three times
-*dus gsum*, Skt. *trikala*, past, present and future.
+*dus gsum*, Skt. *trikala*, 
+1. past, 
+2. present and 
+3. future.
 
 ## Three vehicles
 See [external](https://kagyuoffice.org/buddhism/buddhism-in-india/the-three-vehicles-of-the-teachings-of-the-buddha/).
 
 ## Three vows
-*sdom pa gsum*, Skt. *trisamvara*, the vows of [Pratimoksa](#pratimoksa), the precepts of the [Bodhisattvas](#bodhisattva) and the [samayas](#samaya) of the [Secret Mantrayana](#secret-mantrayana).
+*sdom pa gsum*, Skt. *trisamvara*, 
+1. the vows of [Pratimoksa](#pratimoksa), 
+2. the precepts of the [Bodhisattvas](#bodhisattva) and 
+3. the [samayas](#samaya) of the [Secret Mantrayana](#secret-mantrayana).
 
 ## Three white foods
-*dkar gsum*, milk, butter and curd, which are traditionally considered as very pure foods.
+*dkar gsum*, 
+1. milk, 
+2. butter and 
+3. curd, 
+
+which are traditionally considered as very pure foods.
 
 ## Three worlds
-1. *khams gsum*, the world of desire, the world of form and the world of formlessness. The first contains the beings of the [hell](#hell), [preta](#preta), animal, human, and [demigod](#demigod) realms, and some of the god realms. The second two are god realms with a rarified experience which is the result of certain types of intense concentration (see [worldly concentration](#worldly-concentrations)).
-2. Occasionally used to translate *sa gsum*, Skt. *tribhvana*, lit. the three levels:  
-    I. above the earth (*sa bla*),  
-    II. on the earth (*sa steng*),  
-    III. below the earth (*sa 'og*);  
-    they are called respectively the realms of gods, of humans, and of [nagas](#naga).
+
+**I.** 
+1. *khams gsum*, the world of desire, 
+2. the world of form and 
+3. the world of formlessness. 
+
+The first contains the beings of the [hell](#hell), [preta](#preta), animal, human, and [demigod](#demigod) realms, and some of the god realms. The second two are god realms with a rarified experience which is the result of certain types of intense concentration (see [worldly concentration](#worldly-concentrations)).
+
+**II.**  
+Occasionally used to translate *sa gsum*, Skt. *tribhvana*, lit. the three levels:  
+1. above the earth (*sa bla*),  
+2. on the earth (*sa steng*),  
+3. below the earth (*sa 'og*);
+
+they are called respectively the realms of 
+1. [gods](#gods), of 
+2. humans, and of 
+3. [nagas](#naga).
 
 ## Threefold training
-*bslab pa gsum*, Skt. *trisiksa*, discipline (*tshul khrims*, *sila*), concentration (*ting nges 'dzin*, *citta*) and wisdom (*shes rab*, *prajna*).
+*bslab pa gsum*, Skt. *trisiksa*, 
+1. discipline (*tshul khrims*, *sila*), 
+2. concentration (*ting nges 'dzin*, *citta*) and 
+3. wisdom (*shes rab*, *prajna*).
 
 ## Thusness
 *de bzhin nyid*, Skt. *tathata*, "tha nature of things, emptiness." DKR.
