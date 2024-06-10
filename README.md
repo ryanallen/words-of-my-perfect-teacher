@@ -2547,10 +2547,20 @@ see [negative emotions](#negative-emotions).
 5. destroying a [stupa](#stupa).
 
 ## Five crimes with immediate retribution
-*mtshams meed lnga*, Skt. *pancanantariya*, i) killing one's father or ii) one's mother or iii) an [Arhat](#arhat); iv) creating a split in the [Sangha](#sangha); v) malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
+*mtshams meed lnga*, Skt. *pancanantariya*, 
+1. killing one's father or 
+2. one's mother or 
+3. an [Arhat](#arhat); 
+4. creating a split in the [Sangha](#sangha); 
+5. malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
 
 ## Five degenerations
-*snyigs ma lnga*, they are the degeneration of i) lifespan ii) negative emotions (the five poisons increase) iii) beings (it is difficult to help them) iv) times (wars and famines proliferate) v) views (false beliefs spread).
+*snyigs ma lnga*, they are the degeneration of 
+1. lifespan 
+2. negative emotions (the five poisons increase) 
+3. beings (it is difficult to help them) 
+4. times (wars and famines proliferate) 
+5. views (false beliefs spread).
 
 ## Five energies
 see [energy](#energy).
@@ -2576,22 +2586,47 @@ See also, [The Five Hundred Arhats](/imgs/the-five-hundred-arhats-wu-bin.png) | 
 *phun sum tshogs pa lnga*, the perfect teacher, teaching, place, disciples and time.
 
 ## Five poisons
-*dug lnga*, the five negative emotions: 1) bewilderment, *gti mug*, Skt. *moha* (AT: ignorance, confusion), 2 attachment, *'dod chags, raga* (AT: desire), 3) aversion, *zhe sdang, dvesa* (including hatred, anger, etc.), 4) jealousy, *phra dog, irsya*, and v) pride, *nga rgyal, mana*.
+*dug lnga*, the five negative emotions:
+1. bewilderment, *gti mug*, Skt. *moha* (AT: ignorance, confusion),
+2. attachment, *'dod chags, raga* (AT: desire),
+3. aversion, *zhe sdang, dvesa* (including hatred, anger, etc.),
+4. jealousy, *phra dog, irsya*, and
+5. pride, *nga rgyal, mana*.
 
 ## Five samayas of relishing
 *dang du slang ba'i dam tshig lnga*, five secondary [samayas](#samaya) in the Great Perfection. They are concerned with the enjoyment of the five meats and the five nectars, substances used by tantric practitioners which are ordinarily considered impure or taboo. See note [131](#131).
 
 ## Five sciences
-*rig gnas lnga*, Skt. *pancavidya*, the five branches of learning that a [pandita](#pandita) must master: 1) the making of things (*gzo rig gnas, silpavidya*), 2) the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsavidya*), 3) philology (*sgra' rigs gnas, Sabdavidya*), 4) logic (*gtan tshigs kyi rig gnas, hetuvidya*) and 5) philosophy (*nang don rig gnas, abhyatmavidya*).
+*rig gnas lnga*, Skt. *pancavidya*, the five branches of learning that a [pandita](#pandita) must master:
+1. the making of things (*gzo rig gnas, silpavidya*), 
+2. the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsavidya*),
+3. philology (*sgra' rigs gnas, Sabdavidya*),
+4. logic (*gtan tshigs kyi rig gnas, hetuvidya*) and
+5. philosophy (*nang don rig gnas, abhyatmavidya*).
 
 ## Five wisdoms
-*ye shes lnga*, five aspects of the wisdom of Buddhahood: the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhatujnana*), mirror-like wisdom (*me long gi ye shes, adarsajnana*), the wisdom of equality (*mnyam nyid kyi ye shes, samatajnana*), discriminating wisdom (*so sor rtog pa'i ye shes, prat. See [five families](#five-families).
+*ye shes lnga*, five aspects of the wisdom of Buddhahood: 
+1. the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhatujnana*), 
+2. mirror-like wisdom (*me long gi ye shes, adarsajnana*), 
+3. the wisdom of equality (*mnyam nyid kyi ye shes, samatajnana*), 
+4. discriminating wisdom (*so sor rtog pa'i ye shes, pratyaveksanajnana*),
+5. and all-accomplishing wisdom (*bya ba grub pa'i ye shes, krityanusthanajnana*).
+
+See [five families](#five-families).
 
 ## Four activities
-*phrin las bzhi*, four types of activity performed by realized beings to help others and eliminate unfavorable circumstances: pacifying (*zhi ba*), increasing (*sgyas pa*), controlling (*dbang*) and fierce subduing (*drag po*).
+*phrin las bzhi*, four types of activity performed by realized beings to help others and eliminate unfavorable circumstances: 
+1. pacifying (*zhi ba*), 
+2. increasing (*sgyas pa*), 
+3. controlling (*dbang*) and 
+4. fierce subduing (*drag po*).
 
 ## Four boundless qualities
-*tshad med bzhi*, Skt. *caturaprameya*, unlimited love (*byams pa,* Skt. *maitri*), compassion (*snying rje, karuna*), joy (*dga' ba, mudita*), and equanimity (*btang snyoms, upeksa*).
+*tshad med bzhi*, Skt. *caturaprameya*, 
+1. unlimited love (*byams pa,* Skt. *maitri*), 
+2. compassion (*snying rje, karuna*), 
+3. joy (*dga' ba, mudita*), and
+4. equanimity (*btang snyoms, upeksa*).
 
 ## Four concentrations
 *bsam gtan bzhi*, Skt. *caturdhyana*, four levels of meditative absorption, the fruit of which is to be reborn in four kinds of god realms in the World of Form. However they can also be used on the path of enlightenment.
@@ -2614,19 +2649,44 @@ See also, [The Five Hundred Arhats](/imgs/the-five-hundred-arhats-wu-bin.png) | 
 4. The demon of conceit is the root of the three others: it is the belief in 'I' and 'mine;' this conceit makes us take the five aggregates as 'me' or 'mine:' if one destroys this demon, all external demons are destroyed by themselves, without doing anything to destroy them."
 
 ## Four elements
-*'byung ba bzhi*, Skt. *catur / panca bhuta*, earth water fire and wind or air, as principles of solidity, liquidity, heat and movement.
+*'byung ba bzhi*, Skt. *catur / panca bhuta*, 
+1. earth 
+2. water 
+3. fire and 
+4. wind or air, 
+
+as principles of 
+
+1. solidity, 
+2. liquidity, 
+3. heat and 
+4. movement.
 
 ## Four empowerments
-*dbang bzhi*, the [Vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment).
+*dbang bzhi*, 
+1. the [Vase empowerment](#vase-empowerment), 
+2. the [secret empowerment](#secret-empowerment), 
+3. the [wisdom empowerment](#wisdom-empowerment) and 
+4. the [precious word empowerment](#precious-word-empowerment).
 
 ## Four formless states
-*gzugs med bzhi*, four concentrations called infinite space (*nam mkha' mtha' yas,* Skt. *akasanantya*), infinite consciousness (*nam shes mtha' yas, vinjnanasanantya*), nothing at all (*ci yang med pa, akimcanya*), and neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); four god realms corresponding to these concentrations.
+*gzugs med bzhi*, four concentrations called 
+1. infinite space (*nam mkha' mtha' yas,* Skt. *akasanantya*), 
+2. infinite consciousness (*nam shes mtha' yas, vinjnanasanantya*), 
+3. nothing at all (*ci yang med pa, akimcanya*), and 
+4. neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); 
+
+four god realms corresponding to these concentrations.
 
 ## Four Great Kings
 *rgyal chen rigs bzhi*, Skt. *caturmaharajakayika*, four gods who are traditionally the protectors of the four directions. Their realm is the first of the six god realms in the World of Desire. See [three worlds](#three-worlds).
 
 ## Four great streams of suffering
-*sdug sngal gyi chu bo chen po bzhi*, birth, sickness, old age and death.
+*sdug sngal gyi chu bo chen po bzhi*, 
+1. birth, 
+2. sickness, 
+3. old age and 
+4. death.
 
 ## Four joys
 *dga' ba bzhi*, Skt. *caturananda*, four increasingly subtle experiences of bliss beyond ordinary feelings, connected with the practice of the third, or wisdom, empowerment.
@@ -2638,16 +2698,44 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 *'du shes bzhi*. Thinking of oneself as someone who is sick, of the spiritual friend of the doctor, of the Dharma as the remedy, and of practicing his instructions as the way to recover.
 
 ## Four obscurations
-*sgrib bzhi*, the obscurations of i) negative emotions, ii) karmic obscurations, iii) conceptual obscurations and iv) obscurations of habitual tendencies. See [obscuration](#obscuration).
+*sgrib bzhi*, the obscurations of
+1.  negative emotions, 
+2. karmic obscurations,
+3. conceptual obscurations and 
+4. obscurations of habitual tendencies. 
+
+See [obscuration](#obscuration).
 
 ## Four or six tantra sections
-*rgyud sde bzhi* or *drug*, classification of the [tantras](#tantra) either into four groups: Kriya, Carya (or Upa), Yoga and Anuttaryoga (this classification is usual in the [New Translations schools](#new-translations)); or into six groups: Kriya, Upayoga, Yoga, Mahayoga, [Anuyoga](#anuyoga) and [Atiyoga](#atiyoga) (usual in the [Ancient Tradition](#ancient-tradition)).
+*rgyud sde bzhi* or *drug*, classification of the [tantras](#tantra) either into four groups: 
+1. Kriya, 
+2. Carya (or Upa), 
+3. Yoga and 
+4. Anuttaryoga (this classification is usual in the [New Translations schools](#new-translations)); 
+
+or into six groups: 
+1. Kriya, 
+2. Upayoga, 
+3. Yoga, 
+4. Mahayoga, 
+5. [Anuyoga](#anuyoga) and 
+6. [Atiyoga](#atiyoga) 
+
+(usual in the [Ancient Tradition](#ancient-tradition)).
 
 ## Four Visions
-*snang ba bzhi*, four successive stages in the practice of thogal in the [Great Perfection](#great-perfection): i) dharmata actually appearing (*chos nyid mngon sum*), ii) increase of experiences and appearances (*nyams snang gong 'phel*), iii) the ultimate reach of awareness (*rig pa tshad phebs*), iv) exhaustion of phenomena beyond mind (*chos zad blo 'das*).
+*snang ba bzhi*, four successive stages in the practice of thogal in the [Great Perfection](#great-perfection):
+1. dharmata actually appearing (*chos nyid mngon sum*),
+2. increase of experiences and appearances (*nyams snang gong 'phel*),
+3. the ultimate reach of awareness (*rig pa tshad phebs*),
+4. exhaustion of phenomena beyond mind (*chos zad blo 'das*).
 
 ## Four ways of attracting beings
-*bsdu ba'i ngos po bzhi* Skt. *catuhsamgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples: 1) being generous (*sbyin pa*, Skt. *dana*), 2) speaking in a pleasant manner (*snyan par smra ba, priyavadita*), 3) teaching in accordance with individuals' needs (*don mthun pa, samanarthata*), 4) acting in accordance with what he teaches (*don spyod pa, arthacarya*).
+*bsdu ba'i ngos po bzhi* Skt. *catuhsamgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples:
+1.  being generous (*sbyin pa*, Skt. *dana*),
+2.  speaking in a pleasant manner (*snyan par smra ba, priyavadita*),
+3.  teaching in accordance with individuals' needs (*don mthun pa, samanarthata*),
+4.  acting in accordance with what he teaches (*don spyod pa, arthacarya*).
 
 ## Fruit empowerment
 *'bras bu'i dbang*, the empowerment that takes place at the moment of attaining full enlightenment.
