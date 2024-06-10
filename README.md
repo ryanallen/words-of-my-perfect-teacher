@@ -1845,7 +1845,19 @@ As for us, our [negative actions](#negative-action), carried along by the wind o
 
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
 
+There are magnificent and illustrious [gods](#gods) and [risis](#risi) who can live for as long as a [kalpa](#kalpa), with statures measured in leagues or earshots and a power and resplendence that outshine the sun and moon, are nevertheless not beyond the reach of death. As *The Treasury of Qualities* says:
 
+> Even [Brahma](#brahma), [Indra](#indra), Mahesvara and the universal monarchs  
+Have no way to evade the Demon of Death.
+
+In the end, not even divine or human [risis](#risi) with the [five kinds of clairvoyance](#five-clairvoyances) and the power to fly through the sky can escape death. *The Letter of Consolation* says"
+
+> Great [risis](#risi) with their [five-fold powers](#five-clairvoyances)  
+Can fly far and wide in the skies,  
+Yet they will never reach a land  
+Where immortality holds sway.
+
+Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with Mahasammata
 
 ## V. OTHER EXAMPLES OF IMPERMANENCE
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
@@ -2552,6 +2564,16 @@ see [negative emotions](#negative-emotions).
 ## Field of merit
 *tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
 
+## Five clairvoyances
+1. Divine hearing, 
+2. knowing others' thoughts, 
+3. remembering past lives, 
+4. knowing the various rebirths of sentient beings&mdash;these fall into common [siddhis](#siddhi)&mdash;and 
+5. the knowledge of the exhaustion of contaminations, which only arhats and buddhas can know.  
+
+[src](https://www.lamayeshe.com/glossary/five-forms-clairvoyance)
+
+
 ## Five crimes which are almost as grave (as the fie crimes with immediate retribution)
 *nye ba'i mtshams med lnga*, 
 1. acting impurely with a female [Arhat](#arhat); 
@@ -3035,6 +3057,9 @@ the first of the three higher [yogas](#yoga) according to the classification of 
 
 ## Mahamudra
 *phyag rgya chen po*, lit. Great Seal. The Great Seal means that the seal of the absolute nature is on everything, that all phenomena belong to the wisdom mandala. This term can be used to denote the teaching, meditation practice or supreme accomplishment.
+
+## Mahasammata
+See [external](#https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 
 ## Mahasiddha
 *grub chen*, a [yogi](#yogi-or-yogini) who has reached the [supreme accomplishment](#supreme-accomplishment).
