@@ -1831,9 +1831,22 @@ In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhi
 
 One by one, the numerous great [Sravakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
 
-In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats)
+In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats) who compiled the words of the [Buddha](#sakyamuni). There were the Six Ornaments and Two Supreme Ones, the Eighty Siddhas, and many others, who mastered all attributes of the paths and levels and possessed unlimited clairvoyance and miraculous powers. But all that remains of them today are the stories telling how they lived.
+
+Here too in Tibet, the Land of Snows, when the [Second Buddha](#second-buddha) of Oddiyana<sup>*</sup> turned the [Wheel of Dharma](#wheel-of-dharma) to ripen and liberate beings, there lived all his followers, like the [twenty-five disciples](#twenty-five-disciples) known as the King and Subjects and the Eighty Siddhas of Yerpa. Later came the [Ancient Tradition](#ancient-tradition) masters of the So, Zur and Nub clans; [Marpa](#mara), [Milarepa](#milarepa) and Dagpo of the [New Tradition](#new-tradition); and innumerable other learned and accomplished beings. Most of them achieved high levels of accomplishment and had mastery over the four elements. They could produce all sorts of miraculous transformations. They could make tangible objects appear out of nowhere and disappear into nowhere. They could not be burned by fire, be swept away by water, be crushed by earth or fall from precipices into space&mdash;they were simply free from any harm that the [four elements](#four-elements) could bring about.
+
+<sup>* [Padmasambhava](#padmasambhava-of-oddiyana) is often referred to as the second [Buddha](#buddha) of our era, extending the work of [Sakyamuni](#sakyamuni).</sup><br>
+
+Once, for example, [Jetsun Milarepa](#jetsun-mila) was meditating in silence in Nyeshangkatya cave in Nepal when a band of hunters passed by. Seeing him sitting there, they asked him whether he was a man or a ghost. [Milarepa](#milarepa) remained motionless, his gaze fixed before him, and did not answer. The hunters shot a volley of poisoned arrows at him, but none of their arrows managed to pierce his skin. They threw him into the river, and then over the edge of a cliff&mdash;but each time there he was again, sitting back where he had been before. Finally, they piled firewood around him and set it alight, but the fire would not burn him. There have been many beings who attained such powers. But in the end, they all chose to demonstrate that everything is impermanent,<sup>**</sup> and today all that remains of them is their stories.
+
+<sup>** Such beings are considered to be beyond birth and death. However, like the [Buddha Sakyamuni](#sakyamuni), they choose to die nonetheless to remind beings of impermanence.</sup><br>
+
+As for us, our [negative actions](#negative-action), carried along by the wind of negative conditions in the prevailing direction of our negative tendencies, have driven us here into this filthy contraption made up of the four material elements, in which we are trapped and upon which our sentient existence depends&mdash;and as we can never be sure when or where this scarecrow of an illusory body is going to disintegrate, it is important that from this very moment onwards we inspire ourselves to thoughts, words and deeds which are always positive. With this in mind, [meditate](#meditate-meditation) on impermanence.
 
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
+
+
+
 ## V. OTHER EXAMPLES OF IMPERMANENCE
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
