@@ -1788,6 +1788,42 @@ After the seventh such devastation by water is over, the crossed vajra of wind a
 Reflect deeply and sincerely&mdash;if every one of the billion universes which constitute the cosmos, each with its own [Mount Meru](#meru-mount), four continents and heavens, is to be simultaneously destroyed in this way, leaving only space behind, however could these human bodies of ours, which are like flies at the end of the season, have any permanence or stability?
 
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
+
+From the summit of the highest heavens to the very depths of hell, there is not a single being who can escape death. As the *Letter of Consolation* says:
+
+> Have you ever, on earth or in the heavens,  
+Seen a being born who will not die?  
+Or heard that such a thing had happened?  
+Or even suspected that it might?
+
+Everything that is born is bound to die. Nobody has ever seen anyone or heard of anyone in any realm&mdash;even in the world of the gods&mdash;who was born but never died. In fact, it never even occurs to us to wonder whether a person will die or not. It is a certainty. Especially for us, born as we are at the end of an era<sup>*</sup> in a world where the length of life is unpredictable, death will come soon. It gets closer and closer from the moment we are born. Life can only get shorter, never longer. Inexorably, death closes in, never pausing for an instant, like the shadow of a mountain at sunset.
+
+<sup>* The end of an era is a period of decline in which life is more fragile.</sup>
+
+Do you know for sure when you will die, or where? Might it be tomorrow, or tonight? Can you be sure that you are not going to die right now, between this breath and the next? As it says in *The Collection of Deliberate Sayings*:
+
+> Who's sure they'll live till tomorrow?  
+Today's the time to be ready,  
+For the legions of Death  
+Are not on our side.
+
+And [Nagarjuna](#nagarjuna), too, says:
+
+> Life flickers in the flurries of a thousand ills,  
+More fragile than a bubble in a stream.  
+In sleep, each breath departs and is again drawn in;  
+How wondrous that we wake up living still!
+
+Breathing gently, people enjoy their slumber. But between one breath and the next there is no guarantee that death will not slip in. To wake up in good health is an event which truly deserves to be considered miraculous, yet we take it completely for granted.
+
+Although we know that we are going to die one day, we do not really let our attitudes to life be affected by the ever-present possibility of dying. We still spend all our time hoping and worrying about our future livelihood, as if we were going to live forever. We stay completely involved in our struggle for well-being, happiness and status&mdash;until, suddenly, we are confronted by Death wielding its black noose, gnashing ferociously at its lower lip and baring its fangs.
+
+Then nothing can help us. No soldier's army, no ruler's decrees, no rich man's wealth, no scholar's brilliance, no beauty's charms, no athlete's fleetness&mdash;none is of any use. We might seal ourselves inside an impenetrable, armored metal chest, guarded by hundreds of thousands of strong men bristling with sharp spears and arrows; but even that would not afford so much as a hair's breadth of protection or concealment. Once the Lord of Death secures its black noose around our neck, our face begins to pale, our eyes glaze over with tears, our head and limbs go limp, and we are dragged willy-nilly down the highway to the next life.
+
+Death cannot be fought off by any warrior, ordered away by the powerful, or paid off by the rich. Death leaves nowhere to run to, no place to hide, no refuge, no defender or guide. Death resists any recourse to skill or compassion. Once our life has run out, even if the [Medicine Buddha](#medicine-buddha) themself were to appear in person they would be unable to delay our death.
+
+So, reflect sincerely and meditate on how important it is from this very moment onwards never to slip into laziness and procrastination, but to practice the true [Dharma](#dharma), the only thing you can be sure will help at the moment of death.
+
 ## III. THE IMPERMANENCE OF HOLY BEINGS
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
 ## V. OTHER EXAMPLES OF IMPERMANENCE
@@ -2128,7 +2164,7 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvana](#nirvana), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
 
 ## Arura and kyurura
-*Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the Medicine Buddha.
+*Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the [Medicine Buddha](#medicine-buddha).
 
 ## Aryadeva
 *'phags pa lha* (2nd century), the most famous disciple of [Nagarjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madyamika) philosophy. See [Middle way](#middle-way).
@@ -2931,6 +2967,9 @@ the mantra of [Avalokitesvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ 
 
 ## Means
 *thabs*, see [skilful means](#skilful-means).
+
+## Medicine Buddha
+See [external source](https://en.wikipedia.org/wiki/Bhaisajyaguru).
 
 ## Meditate, meditation
 *sgom pa*, to let the mind rest on an object of contemplation or reflection, or to maintain the flow of the authentic view.
