@@ -1720,7 +1720,7 @@ There are two subcontinents for each of the four continents which surround Mount
 
 - II. Jambudvipa in the South:  
 - - 3. Cāmara (T. rnga yab) and  
---  4. Aparacāmara (T. rnga yab gzhan)  
+- - 4. Aparacāmara (T. rnga yab gzhan)  
 
 - III. Aparagodaniya in the West:  
 - - 5. Shatha (Skt. Satha; T. g.yo ldan) and  
