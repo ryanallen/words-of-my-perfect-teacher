@@ -1729,7 +1729,7 @@ There are two subcontinents for each of the four continents which surround Mount
 - - 8. Kaurava (T. sgra mi snyan gyi zla)  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Eight_subcontinents)
-</details><br>
+</details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
 Seven golden mountain rages (T. gser gyi ri bdun གསེར་གྱི་རི་བདུན་) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.  
@@ -1766,7 +1766,7 @@ Such is water that has the eight perfect qualities.
 > Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount Meru.  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Seven_golden_mountain_ranges)
-</details><br>
+</details>
 
 <details id="37-3"><summary>Note <sup>37.3</sup></summary>
 Description of the Universe  
