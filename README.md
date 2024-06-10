@@ -1702,6 +1702,35 @@ The way to listen to the teaching is as described in [Chapter One](#chapter-onet
 7. and intense awareness of impermanence.
 
 ## I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE
+
+Our world, this outer environment fashioned by the collective good [karma](#karma) of beings, with its firm and solid structure encompassing the four continents<sup>[37.1](#37-1)</sup> and the heavenly realms, lasts for a whole [kalpa](#kalpa). It is nonetheless impermanent and will not escape final destruction by seven stages of fire and one of water.
+
+As the present [great kalpa](#good-kalpa) draws closer to the time of destruction, the beings inhabiting each realm below the god-realm of the first meditative state will, realm by realm, progressively disappear until not a single being is left.
+
+Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents
+
+<details id="37-1"><summary>Note <sup>37.1</sup></summary>
+There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size.The four continents and eight subcontinents are:
+
+- I. Purvavideha in the East:  
+- - 1. Deha (T. lus) and  
+- - 2. Videha (T. lus 'phags)  
+
+- II. Jambudvipa in the South:  
+- - 3. Cāmara (T. rnga yab) and  
+--  4. Aparacāmara (T. rnga yab gzhan)  
+
+- III. Aparagodaniya in the West:  
+- - 5. Shatha (Skt. Satha; T. g.yo ldan) and  
+- - 6. Uttaramantriṇa (T. lam mchog 'gro)  
+
+- IV. Uttarakuru in the North:  
+- - 7. Kurava (T. sgra mi snyan) and  
+- - 8. Kaurava (T. sgra mi snyan gyi zla)  
+
+[src](https://encyclopediaofbuddhism.org/wiki/Eight_subcontinents)
+</details><br>
+
 ## II. THE IMPERMANENCE OF BEINGS LIVING IN THE UNIVERSE
 ## III. THE IMPERMANENCE OF HOLY BEINGS
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
