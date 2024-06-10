@@ -1734,9 +1734,9 @@ There are two subcontinents for each of the four continents which surround Mount
 </details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
-Seven golden mountain rages (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.  
+Seven golden mountain rages (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.<br>
 
-The names of these mountain ranges are:
+The names of these mountain ranges are:<br>
 
 - Yoke (Yugandhara; T. gnya' shing 'dzin)
 - Plough (Iṣadhara; T. gshol mda' 'dzin)
@@ -1771,8 +1771,8 @@ Such is water that has the eight perfect qualities.
 </details>
 
 <details id="37-3"><summary>Note <sup>37.3</sup></summary>
-Description of the Universe  
-Abhidharma  
+Description of the Universe<br>
+Abhidharma<br>
 
 A world system has a square Core Mountain (Mount Meru) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
 
