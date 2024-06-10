@@ -1715,20 +1715,20 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:
 
 - I. Purvavideha in the East:  
-- - 1. Deha (T. lus) and  
-- - 2. Videha (T. lus 'phags)  
+1. Deha (T. lus) and  
+2. Videha (T. lus 'phags)  
 
 - II. Jambudvipa in the South:  
-- - 3. Cāmara (T. rnga yab) and  
-- - 4. Aparacāmara (T. rnga yab gzhan)  
+3. Cāmara (T. rnga yab) and  
+4. Aparacāmara (T. rnga yab gzhan)  
 
 - III. Aparagodaniya in the West:  
-- - 5. Shatha (Skt. Satha; T. g.yo ldan) and  
-- - 6. Uttaramantriṇa (T. lam mchog 'gro)  
+5. Shatha (Skt. Satha; T. g.yo ldan) and  
+6. Uttaramantriṇa (T. lam mchog 'gro)  
 
 - IV. Uttarakuru in the North:  
-- - 7. Kurava (T. sgra mi snyan) and  
-- - 8. Kaurava (T. sgra mi snyan gyi zla)  
+7. Kurava (T. sgra mi snyan) and  
+8. Kaurava (T. sgra mi snyan gyi zla)  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Eight_subcontinents)
 </details>
