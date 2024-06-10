@@ -1714,19 +1714,19 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
 There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
 
-- I. Purvavideha in the East:  
+1. Purvavideha in the East:  
 - 1. Deha (T. lus) and  
 - 2. Videha (T. lus 'phags)  
 
-- II. Jambudvipa in the South:  
+2. Jambudvipa in the South:  
 - 3. Cāmara (T. rnga yab) and  
 - 4. Aparacāmara (T. rnga yab gzhan)  
 
-- III. Aparagodaniya in the West:  
+3. Aparagodaniya in the West:  
 - 5. Shatha (Skt. Satha; T. g.yo ldan) and  
 - 6. Uttaramantriṇa (T. lam mchog 'gro)  
 
-- IV. Uttarakuru in the North:  
+4. Uttarakuru in the North:  
 - 7. Kurava (T. sgra mi snyan) and  
 - 8. Kaurava (T. sgra mi snyan gyi zla)  
 
@@ -1738,12 +1738,12 @@ Seven golden mountain rages (T. gser gyi ri bdun) are a group of mountain ranges
 
 The names of these mountain ranges are:<br>
 
-- Yoke (Yugandhara; T. gnya' shing 'dzin)
-- Plough (Iṣadhara; T. gshol mda' 'dzin)
-- Forest of Acacia Trees (Khadiraka; T. seng ldeng can)
-- Pleasing (Sudarsana; T. lta na sdug)
-- Horse Ear (Asvakarna; T. rta rna)
-- Bent (Vinataka; T. rnam 'dud)
+1. Yoke (Yugandhara; T. gnya' shing 'dzin)
+2. Plough (Iṣadhara; T. gshol mda' 'dzin)
+3. Forest of Acacia Trees (Khadiraka; T. seng ldeng can)
+4. Pleasing (Sudarsana; T. lta na sdug)
+5. Horse Ear (Asvakarna; T. rta rna)
+6. Bent (Vinataka; T. rnam 'dud)
 - Rim (Nimindhara; T. mu khyud 'dzin)
 
 The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
