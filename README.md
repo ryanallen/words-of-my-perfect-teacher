@@ -1906,7 +1906,7 @@ Whatever is stored up is bound to run out. A king might rule the whole world and
 
 <sup>* i.e. a capital of [merit](#merit). This concept is explained in Part Two, [Chapter 4](#chapter-fouroffering-the-mandala-to-accumulate-merit-and-wisdom)</sup><br>
 
-No coming together can last forever. It will always end in separation. We are like inhabitants of different places gathering in thousands and even tens of thousands for a big  market or an important religious festival, only to part again as each returns home. Whatever affectionate relationships we now enjoy&mdash;teachers and disciples, masters and servants, patrons and their proteges, spiritual comrades, brothers and sisters, husbands and wives&mdash;there is no way we can avoid being separated in the end. We cannot even be sure that death or some other terrible event might not sudeenly part us right now. Since spiritual companions, couples and so forth might be split up unexpectedly at any moment, we had better avoid anger and quarrels, harsh words and fighting. We never know how long we might be together, so we should make up our minds to be caring and affectionate for the short while that we have left. As [Padampa Sangye](#padampa-sangye) says:
+No coming together can last forever. It will always end in separation. We are like inhabitants of different places gathering in thousands and even tens of thousands for a big  market or an important religious festival, only to part again as each returns home. Whatever affectionate relationships we now enjoy&mdash;teachers and disciples, masters and servants, patrons and their proteges, spiritual comrades, brothers and sisters, husbands and wives&mdash;there is no way we can avoid being separated in the end. We cannot even be sure that death or some other terrible event might not suddenly part us right now. Since spiritual companions, couples and so forth might be split up unexpectedly at any moment, we had better avoid anger and quarrels, harsh words and fighting. We never know how long we might be together, so we should make up our minds to be caring and affectionate for the short while that we have left. As [Padampa Sangye](#padampa-sangye) says:
 
 > Families are as fleeting as a crowd om market-day;  
 People of Tingri, don't bicker or fight!
@@ -1920,7 +1920,7 @@ People of Tingri, don't bicker or fight!
 
 ---
 
-Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storeyed temple, built by
+Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storeyed temple, built by miraculously emanated workers during the reign of King [Trisong Detsen](#trisong-detsen) and consecrated by the [Second Buddha](#second-buddha) of Oddiyana, was destroyed by fire in a single night. The Red Mountain Palace that existed in King [Songtsen Gampo's](#songtsen-gampo) time rivalled the palace of Indra himself, but now not even the foundation stones are left. In comparison, our own present towns, houses and monasteries are just so many insects' nests. So why do we attach such importance to them?
 
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
