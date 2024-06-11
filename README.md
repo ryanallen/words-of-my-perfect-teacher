@@ -1920,7 +1920,9 @@ People of Tingri, don't bicker or fight!
 
 ---
 
-Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storeyed temple, built by miraculously emanated workers during the reign of King [Trisong Detsen](#trisong-detsen) and consecrated by the [Second Buddha](#second-buddha) of Oddiyana, was destroyed by fire in a single night. The Red Mountain Palace that existed in King [Songtsen Gampo's](#songtsen-gampo) time rivalled the palace of Indra himself, but now not even the foundation stones are left. In comparison, our own present towns, houses and monasteries are just so many insects' nests. So why do we attach such importance to them?
+Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storeyed temple, built by miraculously emanated workers during the reign of King [Trisong Detsen](#trisong-detsen) and consecrated by the [Second Buddha](#second-buddha) of Oddiyana, was destroyed by fire in a single night. The Red Mountain Palace that existed in King [Songtsen Gampo's](#songtsen-gampo) time rivalled the palace of Indra himself, but now not even the foundation stones are left. In comparison, our own present towns, houses and monasteries are just so many insects' nests. So why do we attach such importance to them? It would be better to set our hearts on following to the very end the example of the [Kagyupas](#kagyupa) of old, who left their homeland behind and headed for the wilderness. They dwelt at the foot of rocky cliffs with only wild animals for companions, and, without the least concern about food, clothing or renown, embraced the four basic aims of the [Kadampas](#kadampa):
+
+
 
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
