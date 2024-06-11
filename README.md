@@ -2054,7 +2054,7 @@ Whatever buildings are constructed are bound to collapse. Villages and monasteri
 #### 1.1 CONSIDERING OTHERS AS EQUAL TO ONESELF
 #### 1.2 EXCHANGING ONESELF AND OTHERS
 #### 1.3 CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF
-### **2. Training in the precepts of the bodhicitta of application: the six transcendent perfections
+### **2. Training in the precepts of the bodhicitta of application: the six transcendent perfections**
 #### 2.1 TRANSCENDENT GENEROSITY
 ##### 2.1.1 Material giving
 ##### 2.1.2 Giving Dharma
@@ -2141,7 +2141,7 @@ Whatever buildings are constructed are bound to collapse. Villages and monasteri
 
 # <div align="center">CHAPTER ONE<br><i>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></div>
 ## I. THE FIVE KINDS OF TRANSFERENCE
-### **1. Superior transference to the dharmakaya through the seal of the view
+### **1. Superior transference to the dharmakaya through the seal of the view**
 ### **2. Middling transference to the sambhogakaya through the union of the generation and perfection phases**
 ### **3. Lower transference to the nirmanakaya through immeasurable compassion**
 ### **4. Ordinary transference using three metaphors**
