@@ -2975,6 +2975,9 @@ or into six groups:
 ## Jetsun Mila
 *rje brtsun mi la* (1040 - 1123), Tibet's great yogi and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Marpa](#marpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
 
+## Jigten Sumgon
+"Jigten Sumgon and the Drikung lineage are best known for the set of teachings known as The Five Profound Paths of Mahamudra. Some of Jigten Sumgon's sayings were collected by Sherab Jungne into what is known as the Gongchig (Wylie transliteration: dgongs gcig, "the single intention") a profound philosophical compendium that further developed in commentary works written in following generations. Some of Jigten Sumgon's teachings were collected by another disciple into what is known as The Heart of the Great Vehicle's Teachings (theg chen bstan pa'i snying po)." [src](https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n)
+
 ## Jigme Lingpa
 *'jigs med gling pa* (1729 - 1798), see the [introduction](#introduction) of this book. He is considered to be a combined emanation of [Vimalamitra](#vimalamitra), [King Trisong Detsen](#trisong-detsen) and Gyalse Lharje. Patrul Rinpoche is often considered to be the emanation of Jigme Lingpa's speech.
 
@@ -3435,12 +3438,33 @@ see [six realms](#six-realms-of-existence).
 1. *skyabs yul*, the object in which one takes refuge.
 2. *skyabs 'gro*, the practice of taking refuge.
 
-See external [refuge from afar](https://garchen.net/refuge-from-afar/).
+See external [refuge from afar](https://garchen.net/refuge-from-afar/), and [refuge card](https://garchen.net/wp-content/uploads/2022/10/Refuge-Card.png).
 
-> Compassionate protector  
+> Don't commit any wrong,  
+ perfectly practice virtue,  
+ completely tame/purify one's own mind   
+> 
+> Buddha (inner wisdom)   
+Compassionate protector  
 All-knowing guide  
 Merit field of oceanic qualities  
 Homage to you Tathagata
+>  
+> Dharma (love & compassion(infused by love)(via gratitude))  
+ The virtue of the pure cause  
+ that is free from any attachment  
+ liberates from the evil destinies  
+>
+> Sangha  
+Freed, you show the path to freedom  
+And honor fully in the pure trainings  
+Best of fields, the Field of Virtuous Qualities  
+Homage to the Sangha too  
+[src 1](https://www.youtube.com/live/-x4bg7OZfas), [2](https://www.youtube.com/live/9qkPT6ezaO4)  
+
+> From today onward until attaining enlightenment I will practice virtue with body speech and mind
+> [src](https://youtu.be/9qkPT6ezaO4?t=3413)
+ 
 
 ## Relative truth
 *kun rdzob bden pa*, Skt. *samvriti satya*, the apparent truth perceived and taken as real by the deluded mind.
