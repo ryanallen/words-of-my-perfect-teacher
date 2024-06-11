@@ -2607,7 +2607,7 @@ see [energy](#energy).
 ## Five Hundred Arhats
 "...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](#https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
 
-See also, [The Five Hundred Arhats](/imgs/the-five-hundred-arhats-wu-bin.png) | by Wu Bin (1591 - 1626) from the [Cleveland Museum of Art](https://www.clevelandart.org/art/1971.16)
+See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.org/art/1971.16)
 
 ## Five hundred thousand preliminaries
 *'bum lnga*, five traditional preliminary practices: [refuge](#refuge), bodhicitta, [vajrasattva](#vajrasattva), [mandala](#mandala) and [guru yoga](#guru-yoga), performed one hundred thousand times each.
