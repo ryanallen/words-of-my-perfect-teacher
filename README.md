@@ -1857,9 +1857,22 @@ Can fly far and wide in the skies,
 Yet they will never reach a land  
 Where immortality holds sway.
 
-Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with [Mahasammata](#mahasammata)
+Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with [Mahasammata](#mahasammata), innumerable emperors ruled the entire continent. Later the three Palas, the thirty-seven Candras and many other rich and powerful kings reigned in both eastern and western India.
+
+In Tibet, the Land of Snows, the first king, Nyatri Tsenpo, was of divine descent, an emanation of the Bodhisattva Nivaranaviskambhin. Then reigned the seven heavenly kings called Tri, the six earthly kings called Lek, the eight middle kings called De, the five linking kings called Tsen, the twelve and a half<sup>[38](#38)</sup> kings of the Fortunate Dy nasty including the five of the Extremely Fortunate Dynasty, and others besides. In the reign of the Dharma King [Songtsen Gampo](#songtsen-gampo), a magical army subdued all lands from Nepal to China. King [Trisong Detsen](#trisong-detsen) brought two thirds of [Jambudvipa](#jambudvipa)<sup>*</sup> under his power, and, during the reign of Ralpachen, an iron pillar was erected on the banks of the Ganges, marking the frontier between India and Tibet. Tibet exercised power in many regions of India, China, Gesar, Tajikistan and other countries. At the New Year festival, ambassadors from all those countries were required to spend one day in Lhasa. Such was Tibet's power in the past. But it did not last, and nowadays, apart from the historical accounts, nothing is left.
+
+<sup>* Here this term would seem to refer to South Asia, Mongolia and China.</sup>
+
+<details id="38"><summary>Note <sup>38</sup></summary>
+The "half" refers to the reign of Mune Tsenpo, who died after reigning for only one year and nine months.
+</details><br>
+
+Reflect on those past splendors. Compared to them, our own homes, belongings, servants, status, and whatever else we prize, seem altogether no more significatn than a beehive. [Meditate](#meditate-meditation) deeply, and ask yourself how you could have thought that those things would last forever and never change.
 
 ## V. OTHER EXAMPLES OF IMPERMANENCE
+
+
+
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
 
