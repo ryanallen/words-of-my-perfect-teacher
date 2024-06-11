@@ -1887,7 +1887,40 @@ Whatever rises up is impermanent and is bound to fall down.
 So also, friendship and enmity, fortune and sorrow, good and evil,  
 all the thoughts that run through your mind&mdash;everything is always changing.
 
+You might be as exalted as the heavens, as mighty as a thunderbolt, as rich as a [naga](#naga), as good-looking as a [god](#gods) or as pretty as a rainbow&mdash;but no matter who or what you are, when death suddenly comes there is nothing you can do about it for even a moment. You have no choice but to go, naked and cold, your empty hands clenched stiffly under your armpits. Unbearable though it might be to part with your money, your cherished possessions, your friends, loved ones, attendants, disciples, country, lands, subjects, property, food, drink and wealth, you just have to leave everything behind, like a hair being pulled out of a slab of butter.<sup>*</sup> You might be the head [lama](#lama) over thousands of monks, but you cannot take even one of them with you. You might be governor over tens of thousands of people, but you cannot take a single one as your servant. All the wealth in the world would still not give you the power to take as much as a needle and thread.
 
+<sup>* The butter does not stick to the hair. Only the empty impression of the hair remains.</sup><br>
+
+Your dearly beloved body, too, is going to be left behind. This same body that was wrapped up during life in silk and brocades, that was kept well filled up with tea and beer, and that once looked as handsome adn distinguished as a [god](#gods), is now called a corpse, and is left lying there horribly livid, heavy and distorted. Says [Jetsun Mila](#jetsun-mila):
+
+> This thing we call a corpse, so fearful to behold,  
+Is already right here&mdash;our own body.
+
+Your body is trussed up with a rope and covered with a curtain, held in place with earth and stones. Your bowl is turned upside down on your pillow. No matter how precious and well loved you were, now you arouse horror and nausea. When the living lie down to sleep, even on piles of furs and soft sheepskin rugs, they start to feel uncomfortable after a while and have to keep turning over. But once you are dead, you just lie there with your cheek against a stone or tuft of grass, your hair bespattered with earth.
+
+Some of you who are heads of families or clan chiefs might worry about the people under your care. Once you are no longer there to look after them, might they not easily die of hunger or cold, be murdered by enemies, or drown in the river? Does not all their wealth, comfort and happiness depend on you? in fact, however after your death they will feel nothing but relief at having managed to get rid of y our corpse by cremating it, throwing it into a river, or dumping it in the cemetery.
+
+When you die, you have no choice but to wander all alone in the intermediate state without a single companion. At that time your only refuge will be the [Dharma](#dharma). So tell yourself again and again that from now on you must make the effort to accomplish at least one practice of genuine [Dharma](#dharma).
+
+Whatever is stored up is bound to run out. A king might rule the whole world and still end up as a vagabond. Many start their life surrounded by wealth and end it starving to death, having lost everything. People who had herds of hundreds of animals one year can be reduced to beggary the next by epidemics or heavy snow, and someone who was rich and powerful only the day before might suddenly find themself asking for alms because their enemies have destroyed everything they own. That all these things happen is something you can see for yourself; it is impossible to hang on to your wealth and possessions forever. Never forget that generosity is the most important capital to build up.<sup>*</sup>
+
+<sup>* i.e. a capital of [merit](#merit). This concept is explained in Part Two, [Chapter 4](#chapter-fouroffering-the-mandala-to-accumulate-merit-and-wisdom)</sup><br>
+
+No coming together can last forever. It will always end in separation. We are like inhabitants of different places gathering in thousands and even tens of thousands for a big  market or an important religious festival, only to part again as each returns home. Whatever affectionate relationships we now enjoy&mdash;teachers and disciples, masters and servants, patrons and their proteges, spiritual comrades, brothers and sisters, husbands and wives&mdash;there is no way we can avoid being separated in the end. We cannot even be sure that death or some other terrible event might not sudeenly part us right now. Since spiritual companions, couples and so forth might be split up unexpectedly at any moment, we had better avoid anger and quarrels, harsh words and fighting. We never know how long we might be together, so we should make up our minds to be caring and affectionate for the short while that we have left. As [Padampa Sangye](#padampa-sangye) says:
+
+> Families are as fleeting as a crowd om market-day;  
+People of Tingri, don't bicker or fight!
+
+---
+
+[alt text](image_url)
+
+*<p id="padampa-sangye-il" align="center">Padampa Sangyen (11th - 12th centuries)</p>*
+<p align="center">The famous Indian <a href="#siddha">siddha</a> who spread the teachings throughout India, China and Tibet. He and his disciple <a href="#machik-labdron">Machik Labdron</a> established the lineages of the <a href="#cho">Cho</a> teachings in Tibet.</p>
+
+---
+
+Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storeyed temple, built by
 
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
