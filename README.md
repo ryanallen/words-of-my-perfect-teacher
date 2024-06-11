@@ -2019,7 +2019,7 @@ Whatever buildings are constructed are bound to collapse. Villages and monasteri
 #### 1.1 VIVID FAITH
 #### 1.2 EAGER FAITH
 #### 1.3 CONFIDENT FAITH
-### **2. Motivation
+### **2. Motivation**
 #### 2.1 THE REFUGE OF LESSER BEINGS
 #### 2.2 THE REFUGE OF MIDDLING BEINGS
 #### 2.3 THE REFUGE OF GREAT BEINGS
