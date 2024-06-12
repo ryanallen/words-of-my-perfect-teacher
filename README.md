@@ -1929,7 +1929,9 @@ Base your death on an empty, barren hollow.<sup>*</sup>
 >
 > <sup>* i.e. die alone in a remote place where there are no disturbances.</sup>
 
+High estate and mighty armies never last. [Mandhatri](#mandhatri), the universal king, turned the golden wheel that gave him power over four continents; he reigned over the heavens of the [Gods](#gods) of the [Thirty-three](#thirty-three); he even shared the throne of[Indra](#indra), king of the [gods](#gods), and could defeat the [asuras](#5-the-asuras) in battle. Yet finally he fell to earth and died, his ambitions still unsatisfied. You can see for yourself that of all those who wield power and authority&mdash;whether around kings, [lamas](#lama), lords or governments&mdash; not a single one can keep their position forever; and that many powerful people, who have been imposing the law on others one year, find themselves spending the next languishing in prison. What use could such transitory power be to you? The state of perfect Buddhahood, on the other hand, can never diminish or be spoiled, and is worthy of the offerings of [gods](#gods) and men. That is what you should be determined to attain.
 
+Friendship and enmity, too, are far from everlasting. One day while the [Arhat](#arhat) [Katyayana](#katyayana)
 
 
 
@@ -3133,6 +3135,8 @@ the first of the three higher [yogas](#yoga) according to the classification of 
 
 ## Mahamudra
 *phyag rgya chen po*, lit. Great Seal. The Great Seal means that the seal of the absolute nature is on everything, that all phenomena belong to the wisdom mandala. This term can be used to denote the teaching, meditation practice or supreme accomplishment.
+
+See [external](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction)
 
 ## Mahasammata
 See [external](#https://en.wikipedia.org/wiki/Mah%C4%81sammata).
