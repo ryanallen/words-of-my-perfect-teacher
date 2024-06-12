@@ -1926,9 +1926,10 @@ Whatever buildings are constructed are bound to collapse. Villages and monasteri
 Base your [Dharma](#dharma) on a humble life,  
 Base your humble life on the thought of death,  
 Base your death on an empty, barren hollow.<sup>*</sup>
-<sup>* i.e. die alone in a remote place where there are no disturbances.</sup>
+>
+> <sup>* i.e. die alone in a remote place where there are no disturbances.</sup>
 
-k
+
 
 
 
