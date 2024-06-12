@@ -1972,6 +1972,11 @@ For the moment, thanks to your teacher and your spiritual companions, you might 
 If you reflect on the numerous examples given here, you will have no doubt that nothing, from the highest states of existence down to the lowest [hells](#hell), has even a scrap of permanence or stability. Everything is subject to change, everything waxes and wanes.
 
 ## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
+
+<details id="41"><summary>Note <sup>41</sup></summary>
+<i>rkyen</i>: circumstances. The auxiliary cause which allows the deep cause (*rgyu*) to produce its effect. If someone dies in an accident, for instance, the accident itself, the circumstances of that death, are the *rkyen*, and the *rgyu*, the deep cause, is a <a href="#negative-action">negative action</a> performed in the past, of which death is the karmic result.
+</details><br>
+
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
 
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
