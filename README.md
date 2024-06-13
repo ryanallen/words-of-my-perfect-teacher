@@ -2,7 +2,7 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub>REVISED EDITION</sub></div>
 
-[alt text](image_url)
+![Wheel illustration similar to book cover](.imgs/wheel.svg)
 
 <div align="center">by Patrul Rinpoche</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
