@@ -2150,6 +2150,13 @@ With balls of clay the size of juniper berries.
 
 There is not a single form of life that we have not taken throughout beginningless [samsara](#samsara) until now. Our desires have led us innumerable times to have our head and limbs cut off. Were we to try to pile up in one place all the limbs we have lost when we were ants and other small insects, the pile would be higher than [Mount Meru](#meru-mount). The tears we have wept from cold, hunger and thirst when we were without food and clothing, had they not all dried up, would make an ocean larger than all the great oceans surrounding the world. Even the amount of molten copper we have swallowed in the [hells](#hell) would be vaster than the four great oceans. Yet all beings bound to the realms of [samsara](#samsara) by their desire and attachments, with never an instant's remorse, will have to undergo still more sufferings in this endless circle.
 
+Even were we able, through the fortunate result of some virtuous action, to obtain the long life, perfect body, wealth and glory of [Indra](#indra) or [Brahma](#brahma), in the end we would still not be able to postpone death; and after death we would again have to experience the sufferings of the lower realms. In this present life, what little advantages of power, wealth, good health and other things we enjoy might fool us for a few years, months, or days. But once the effect of whatever good actions caused these happy states is exhausted, whether we want to or not, we will have to undergo poverty and misery or the unbearable sufferings of the lower realms.
+
+What meaning is there in that kind of happiness? It is like a dream that just stops in the middle when you wake up. Those who, as the result of some slight positive action, seem to be happy and comfortable at the moment, will not be able to hold on to that state for an instant longer once the effect of that action runs out. The kinds of the gods, seated high on their thrones of precious jewels spread with divine silks, enjoy all the pleasures of the five senses. But, once their lifespan is exhausted, in the twinkling of an eye they are plunged into suffering and fall headlong down to the scorching metal ground of hell. Even the gods of the sun and moon,<sup>[48](#48)</sup> who light up the four continents, in darkness so deep that they cannot see whether their own limbs are stretched out or bent in.
+
+<details id="48"><summary>Note <sup>48</sup></summary>These celestial bodies are traditionally considered the dwellings of certain celestial beings, invisible to ordinary humans.</details><br>
+
+
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
 ### **1. The eighteen hells**
 #### 1.1 THE EIGHT HOT HELLS
