@@ -2130,9 +2130,25 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
 
+> *Understanding that samsaric activities are empty of meaning,*  
+*With great compassion you strive only for the benefit of others.*  
+*Without attachment to [samsara](#samsara) or [nirvana](#nirvana), you act according to the [Great Vehicle](#great-vehicle).*  
+*Peerless Teacher, at your feet I bow.*  
 
+Listen to this chapter with the same attitude as you did the previous ones. It comprises a general reflection on the sufferings of [samsara](#samsara) and reflections on the particular sufferings of each of the [six realms of being](#six-realms-of-existence).
 
 ## I. THE SUFFERINGS OF SAMSARA IN GENERAL
+
+As I have pointed out already, we may now have a life endowed with the [freedoms and advantages which are so difficult to find](#the-difficulty-of-finding-the-freedoms-and-advantages), but it will not last for long. We will soon fall under the power of impermanence and death. If after that we just disappeared like a fire burning out or water evaporating, everything would be over. But after death we do not vanish into nothing. We are forced to take a new birth&mdash;which means that we will still be in [samsara](#samsara), and nowhere else.
+
+The term [samsara](#samsara), the wheel or round of existence, is used here to mean going round and round from one place to another in a circle, like a potter's wheel, or the wheel of a water mill. When a fly is trapped in a closed jar, no matter where it flies it cannot get out. Likewise, whether we are born in the higher or lower realms, we are never outside [samsara](#samsara). The upper part of the jar is like the higher realms of gods and men, and the lower part like the three unfortunate realms. It is said that [samsara](#samsara) is a circle because we turn round and round, taking rebirth in one after another of the [six realms](#six-realms-of-existence) as a result of our own actions which, whether positive or negative, are tainted by clinging.
+
+We have been wandering since beginningless time in these samsaric worlds in which every being, without exception, has had relations of affection, enmity and indifference with every other being. Everyone has been everyone else's father and mother. In the [sutras](#sutra) it is said that if you wished to count back the generations of mothers in your family, saying, "She was my mother's mother; her mother was so and so..." and so on, using little pellets of earth as big as a juniper berry to count them, the whole earth would be used up before you had counted them all. As [Lord Nagarjuna](#nagarjuna) says:
+
+> We would run out of earth trying to count our mothers  
+With balls of clay the size of juniper berries.  
+
+There is not a single form of life that we have not taken throughout beginningless [samsara](#samsara) until now. Our desires have led us innumerable times to have our head and limbs cut off. Were we to try to pile up in one place all the limbs we have lost when we were ants and other small insects, the pile would be higher than [Mount Meru](#meru-mount). The tears we have wept from cold, hunger and thirst when we were without food and clothing, had they not all dried up, would make an ocean larger than all the great oceans surrounding the world. Even the amount of molten copper we have swallowed in the [hells](#hell) would be vaster than the four great oceans. Yet all beings bound to the realms of [samsara](#samsara) by their desire and attachments, with never an instant's remorse, will have to undergo still more sufferings in this endless circle.
 
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
 ### **1. The eighteen hells**
