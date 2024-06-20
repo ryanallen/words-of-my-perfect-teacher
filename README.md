@@ -2066,12 +2066,74 @@ A lay disciple asked [Geshe Potowa](#potowa-geshe) which [Dharma](#dharma) pract
 >  
 >  At first meditation on impermanence, until you are fully convinced, makes you practice with a diligence which protects you like armor; in the middle it conduces to your practicing with a diligence in action; in the end it helps you practice with a diligence that is insatiable.<sup>[46](#46)</sup>  
 >  
->  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: </details><br>
+>  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: When you have armor-like diligence, nothing can prevent you starting. When you have diligence in action, nothing can interrupt what you are doing. When you have diligence that cannot be stopped, nothing can stop you attaining your goal.</details><br>
 
+And [Padampa Sangye](#padampa-sangye) says:
 
+> At first, to be fully convinced of impermanence makes you take up the [Dharma](#dharma); in the middle it whips up your diligence; and in the end it brings you to the radiant [dharmakaya](#dharmakaya)
+
+Unless you feel this sincere conviction in the principle of impermanence, any teaching you might think you have received and put into practice will just make you more and more impervious<sup>[47](#47)</sup> to the [Dharma](#dharma). 
+
+<details id="47"><summary>Note <sup>47</sup></summary>The Tibetan term is <i>chos dred</i>, lit. "Dharma bear." DICT: "someone who has not been tamed by the <a href="#dharma">Dharma</a>. They know the <a href="#dharma">Dharma</a> but, not having practiced it, their mind has become stiff..." If one approaches <a href="#dharma">Dharma</a> with the wrong attitude, one can acquire a false self-confidence which makes one unreceptive to the teacher and the teachings.</details><br>
+
+[Padampa Sangye](#padampa-sangye) also said:  
+
+> I never see a single Tibetan practitioner who thinks about dying;  
+Nor have I ever seen one live forever!  
+Judging by their relish for amassing wealth once they don the yellow robe, I wonder&ndash;  
+Are they going to pay off Death in food and money?  
+Seeing the way they collect the best of valuables, I wonder&mdash;  
+Are they going to hand out bribes in hell?  
+Ha-ha! To see those Tibetan practitioners make me laugh!  
+The most learned are the proudest,  
+The best meditators pile up provisions and riches,  
+The solitary hermits engross themselves in trivial pursuits,  
+The renunciants of home and country know no shame.  
+Those people are immune to the [Dharma](#dharma)!  
+They revel in wrong-doing.  
+They can see others dying but have not understood that they themselves are also going to die.  
+That is their first mistake.  
+
+Meditation on impermanence is therefore the prelude that opens the way to all practices of [Dharma](#dharma). When he was asked for instructions on how to dispel adverse circumstances, [Geshe Potowa](#potowa-geshe) answered with the following words:
+
+> Think about death and impermanence for a long time. Once you are certain that you are going to die, you will no longer find it hard to put aside harmful actions, nor difficult to do what is right.  
+> After that, meditate for a long time on love and compassion. Once love fills your heart you will no longer find it hard to act for the benefit of others.  
+> Then meditate for a long time on emptiness, the natural state of all phenomena. Once you fully understand emptiness, you will no longer find it hard to dispel all your delusions.  
+
+Once we have such conviction about impermanence, all the ordinary activities of this life come to seem as profoundly abhorrent as a greasy meal does to someone suffering from nausea. My revered Master often used to say:
+
+> Whatever I see of high rank, power, wealth or beauty in this world arouses no desire in me. That is because, seeing how the noble beings of old spent their lives, I have just a little understanding of impermanence. I have no deeper instruction than this to offer you
+
+So, just how deeply have you become permeated with this thought of impermanence? You should be like [Geshe Kharak Gomchung](#kharak-gomchung-geshe), who went to meditate in the mountain solitudes of Jomo Kharak in the province of Tsang. In front of his cave there was a thorn-bush which kept catching on his clothes.
+
+At first he thought, "Maybe I should cut it down," but then he said to himself, "But after all, I may die inside this cave. I really cannot say whether I shall ever come out again alive. Obviously it is more important for me to get on with my practice."
+
+When he came back out, he had the same problem with the thorns. This time he thought, "I am not at all sure that I shall ever go back inside;" and so it went on for many years until he was an accomplished master. When he left, the bush was still uncut.
+
+Rigdzin [Jigme Lingpa](#jigme-lingpa) would always spend the time of the constellation Risi, in autumn, at a certain hot spring. The sides of the pool had no steps, making it very difficult for him to climb down to the water and sit in it. His followers offered to cut some steps, but he replied: "Why take so much trouble when we don't know if we will be around next year?" He would always be speaking of impermanence like that, my master told me.
+
+We too, as long as we have not fully assimilated such an attitude, should meditate on it. Start by generating bodhicitta, and as the main practice train your mind by all these various means until impermanence really permeates your every thought. Finally, conclude by sealing the practice with the dedication of merit. Practicing in this way, strive to the best of your ability to emulate the great beings of the past.
+
+> *Impermanence is everywhere, yet I still think things will last.*  
+*I have reached the gates of old age, yet I still pretend I am young.*  
+*Bless me and misguided beings like me,*  
+*That we may truly understand impermanence.*  
+
+---
+
+[alt text](image_url)
+
+*<p id="jetsun-trakpa-gyaltsen-il" align="center">Jetsun Trakpa Gyaltsen (1147 - 1216)</p>*
+<p align="center">A great scholar and early teacher of the <a href="#sakyapa">Sakya school</a>.</p>
+
+---
 
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
+
+
+
 ## I. THE SUFFERINGS OF SAMSARA IN GENERAL
+
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
 ### **1. The eighteen hells**
 #### 1.1 THE EIGHT HOT HELLS
