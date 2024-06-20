@@ -2048,7 +2048,27 @@ The [Buddha](#sakyamuni) said:
 
 And he said in the *Vinaya*:
 
+>  To remember for an instant the impermanence of all compounded things is greater than giving food and offerings to a hundred of my disciples who are perfect vessels,<sup>*</sup> such as the bhiksus [Sariputra](#sariputra) and [Maudgalyayana](#maudgalyayana).
+
+<sup>* i.e. perfectly capable of receiving the teachings correctly and making use of them.</sup><br>
+
+A lay disciple asked [Geshe Potowa](#potowa-geshe) which [Dharma](#dharma) practice was the most important if one had to choose only one. The [Geshe](#geshe) replied:
+
+> If you want to use a single [Dharma](#dharma) practice, to meditate on impermanence is the most important.  
 >  
+> At first meditation on death and impermanence makes you take up the [Dharma](#dharma); in the middle it conduces to positive practice; in the end it helps you realize the sameness of all phenomena.  
+>  
+> At first meditation first meditation on impermanence makes you cut your ties with the things of this life; in the middle it conduces to your casting off all clinging to [samsara](#samsara); in the end it helps you take up the path of [nirvana](#nirvana).  
+>  
+> At first meditation on impermanence makes you develop faith; in the middle it conduces to diligence in your practice; in the end it helps you give birth to [wisdom](#wisdom).  
+>  
+> At first meditation on impermanence, until you are fully convinced, makes you search for the [Dharma](#dharma); in the middle it conduces to practice; in the end it helps you attain the ultimate goal.  
+>  
+>  At first meditation on impermanence, until you are fully convinced, makes you practice with a diligence which protects you like armor; in the middle it conduces to your practicing with a diligence in action; in the end it helps you practice with a diligence that is insatiable.<sup>[46](#46)</sup>  
+>  
+>  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: </details><br>
+
+
 
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
 ## I. THE SUFFERINGS OF SAMSARA IN GENERAL
