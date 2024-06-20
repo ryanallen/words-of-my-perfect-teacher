@@ -1977,6 +1977,28 @@ If you reflect on the numerous examples given here, you will have no doubt that 
 <i>rkyen</i>: circumstances. The auxiliary cause which allows the deep cause (*rgyu*) to produce its effect. If someone dies in an accident, for instance, the accident itself, the circumstances of that death, are the *rkyen*, and the *rgyu*, the deep cause, is a <a href="#negative-action">negative action</a> performed in the past, of which death is the karmic result.
 </details><br>
 
+Once born, every human in the world is sure to die. But how, why, when and where we are going to die cannot be predicted. None of us can say for sure that our death will come about at a particular time or place, in a certain way, or as a result of this or that cause.
+
+There are a few things in this world that favor life and many that threaten it, as the master [Aryadeva](#aryadeva) points out:
+
+> Causes of death are numerous;  
+Causes of life are few,  
+And even they may become causes of death.  
+
+Fire, water, poisons, precipices, savages, wild beasts&mdash;all manner of mortal dangers abound, but only ver few things can prolong life. Even food, clothing and other things usually considered life sustaining can at times turn into causes of death. Many fatalities occur as a result of eating&mdash; the food might be contaminated; or it may be something eaten for its beneficial properties but becoming toxic under certain circumstances;<sup>[42](#42)</sup> or it might be the wrong food for a particular individual. Especially, nowadays most people crave meat and consume flesh and blood without a second thought, completely oblivious to all the diseases caused by old meat<sup>[43](#43)</sup> or harmful meat spirits.  Unhealthy diets and lifestyles can also give rise to tumors, disorders of phlegm, dropsy/edema and other diseases, causing innumerable deaths. Similarly, the quest for riches, fame and other glories incites people to fight battles, to brave wild beasts, to cross rivers recklessly and to risk countless other situations that may bring about their demise.
+
+<details id="42"><summary>Note <sup>42</sup></summary>
+<i>gyur dug</i>: in Tibetan medicine, this expression refers to foods which are healthy in themselves, but which become toxic or indigestible when eaten in combination with certain other foods.
+</details>
+
+<details id="43"><summary>Note <sup>43</sup></summary>
+<i>sha sgren</i> means meat which is excessively old but not necessarily rotten. Food can be stored for long periods of time in Tibet because of the very particular climatic conditions.
+</details><br>
+
+Furthermore, the moment when any of those numerous different causes of death might intervene is entirely unpredictable. Some die in their mother's womb, some at birth, others before they learn to crawl. Some die young; others die old and decrepit. Some die before they can get medicine or help. Others linger on, glued to their beds by years of disease, watching the living with the eyes of the dead; by the time they die, they are just skeletons wrapped in skin. Many people die suddenly or by accident, while eating, talking or working. Some even take their own lives.
+
+Surrounded by so many causes of death, your life has as little chance of enduring as a candle-flame in the wind. There is no guarantee that death will not suddenly strike right now, and that tomorrow you will not be reborn as an animal with horns on its head or tusks in its mouth. You should be quite sure that when you are going to die is unpredictable and that there is no knowing where you will be born next.
+
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
 
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
