@@ -2001,6 +2001,55 @@ Surrounded by so many causes of death, your life has as little chance of endurin
 
 ## VII. INTENSE AWARENESS OF IMPERMANENCE
 
+Meditate single-mindedly on death, all the time and in every circumstance. While standing up, sitting or lying down, tell yourself: "This is my last act in this world," and meditate on it with utter conviction. On your way to wherever you might be going, say to yourself: "Maybe I will die there. There is no certainty that I will ever come back." When you set out on a journey or pause to rest, ask yourself: "will I die here?" Wherever you are, you should wonder if this might be where you die. At night, when you lie down, ask yourself whether you might die in bed during the night or whether you can be sure that you are going to get up in the morning. When you rise, ask yourself whether you might die sometime during the day, and reflect that there is no certainty at all that you will be going to bed in the evening.
+
+Meditate only on death, earnestly and from the core of your heart. Practice like the [Kadampa](#kadampa) [Geshes](#geshe) of old, who were always thinking about death at every moment. At night they would turn their bowls upside-down;<sup>*</sup> and, thinking how the next day there might be no need to light a fire, they would never cover the embers for the night.
+
+<sup>* Turning someone's bowl over was for Tibetans a symbol that the person had died.</sup><br>
+
+However, just to meditate on death will not suffice. The only thing of any use at the moment of death is the [Dharma](#dharma), so you also need to encourage yourself to practice in an authentic way, never slipping into forgetfulness or loss of vigilance, remembering always that the activities of [samsara](#samsara) are transient and without the slightest meaning. In essence, **this conjunction of body and mind is impermanent, so do not count on it as your own; it is only on loan.**
+
+All roads and paths are impermanent, so whenever you are walking anywhere direct your steps toward the [Dharma](#dharma). As it says in the *Condensed Transcendent Wisdom*:
+
+> If you walk looking mindfully one yoke's-length in front of you, your mind will not be confused.
+
+Wherever you are, all places are impermanent, so keep the pure [Buddhafields](#buddhafield) in mind. Food, drink and whatever you enjoy are impermanent, so feed on profound concentration. Sleep is impermanent, so while you are asleep purify sleep's delusions into clear light.<sup>[44](#44)</sup> Wealth, if you have it, is impermanent, so strive for the [seven noble riche]s. Loved ones, friends and family are impermanent, so in a solitary place arouse the desire for liberation. High rank and celebrity are impermanent, so always take a lowly position. Speech is impermanent, so inspire yourself to recite [mantras](#mantra) and prayers. Faith and desire for liberation are impermanent, so strive to make your commitments unshakeable. Ideas and thoughts are impermanent, so work on developing a good nature. Meditative experiences and realizations are impermanent, so go on until you **reach the point where everything dissolves in the nature of reality.** At that time, the link between death and rebirth<sup>[45](#45)</sup> falls away and you reach such confidence that you are completely ready for death. You have captured the citadel of immortality; you are like the eagle free to soar in the heights of the heavens. After that there is no need for any sorrowful meditation on your approaching death.
+
+<details id="44"><summary>Note <sup>44</sup></summary>
+If in one's sleep one can remain focused on the clear light which is the natural manifestation of primal awareness, all one's mental experiences will mingle with it and will not be perceived in a deluded fashion.
+</details>
+
+<details id="45"><summary>Note <sup>45</sup></summary>
+Death will not be followed by an ordinary automatic rebirth caused by past actions.
+</details><br>
+
+As [Jetsun Mila](#jetsun-mila) sang:
+
+> Fearing death, I went to the mountains.  
+Over and over again I meditated on death's unpredictable coming,  
+And took the stronghold of the deathless unchanging nature.  
+Now I have lost and gone beyond all fear of dying!  
+
+And the peerless [Dagpo Rinpoche](#dago-rinpoche) says:
+
+> at first you should be driven by a fear of birth and death like a stag escaping from a trap. In the middle, you should have nothing to regret even if you die, like a farmer who has carefully worked his fields. In the end, you should feel relieved and happy, like a person who has just completed a formidable task.  
+>  
+> At first, you should know that there is no time to waste, like someone dangerously wounded by an arrow. In the middle, you should meditate on death without thinking of anything else, like a mother whose only child has died. In the end, you should know that there is nothing left to do, like a shepherd whose flocks have been driven off by their enemies.
+
+Meditate single-mindedly on death and impermanence until you reach that stage.
+
+The [Buddha](#sakyamuni) said:
+
+> To meditate persistently on impermanence is to make offerings to all the [Buddhas](#buddha).  
+> To meditate persistently on impermanence is to be rescued from suffering by all the [Buddhas](#buddha).  
+> To meditate persistently on impermanence is to be guided by all the [Buddhas](#buddha).  
+> To meditate persistently on impermanence is to be blessed by all the [Buddhas](#buddha).  
+> Of all footprints, the elephant's are outstanding; just so, of all subjects of meditation for a follower of the [Buddhas](#sakyamuni), the idea of impermanence is unsurpassed.
+
+And he said in the *Vinaya*:
+
+>  
+
 # <div align="center">CHAPTER THREE<br><i>The defects of samsara</i></div>
 ## I. THE SUFFERINGS OF SAMSARA IN GENERAL
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
@@ -3648,7 +3697,7 @@ Homage to the Sangha too
 *yan lag bdun*, Skt. *saptanga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvana, and dedication of merit.
 
 ## Seven noble riche
-*'phags pa'i nor bdun*, Skt. *saptadhanam*, faith discipline, generosity, learning, conscientiousness, modesty, and wisdom.
+*'phags pa'i nor bdun*, Skt. *saptadhanam*, faith, discipline, generosity, learning, conscientiousness, modesty, and wisdom.
 
 ## Seven point posture of Vairocana
 *rnam snang chos bdun*, Skt. *saptadharmavairocana*, the seven points of the ideal meditation posture: legs crossed in the vajra posture, back straight, hands in the gesture of meditation, eyes gazing along the nose, chin slightly tucked in, shoulders well apart "like a vulture's wings", and the tip of the tongue touching the palate.
