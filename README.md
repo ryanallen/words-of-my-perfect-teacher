@@ -2156,11 +2156,20 @@ What meaning is there in that kind of happiness? It is like a dream that just st
 
 <details id="48"><summary>Note <sup>48</sup></summary>These celestial bodies are traditionally considered the dwellings of certain celestial beings, invisible to ordinary humans.</details><br>
 
+So do not put your trust in the apparent joys of [samsara](#samsara). Resolve that, in this very life, you will free yourself from the great ocean of its sufferings and attain the true and constant happiness of perfect Buddhahood. Make this thought your practice, using the proper methods for the beginning, the main part and the conclusion.
 
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
+
 ### **1. The eighteen hells**
+
 #### 1.1 THE EIGHT HOT HELLS
+
+These eight [hells](#hell) lie one above the other like the storys of a building, from the [Reviving Hell](#111-the-reviving-hell) on top, down to [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) at the bottom. In each the ground and perimeter are like the white-hot iron of a smith&mdash;there is nowhere at all where you could safely put your foot. Everything is a searingly hot expanse of blazing, fiery flame.
+
 ##### 1.1.1 The Reviving Hell
+
+
+
 ##### 1.1.2 The Black-Line Hell
 ##### 1.1.3 The Rounding-Up and Crushing Hell
 ##### 1.1.4 The Howling Hell
