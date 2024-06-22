@@ -2168,10 +2168,24 @@ These eight [hells](#hell) lie one above the other like the storys of a building
 
 ##### 1.1.1 The Reviving Hell
 
+Here, amidst the burning embers that cover the incandescent metal ground, beings as numerous as the snowflakes of a blizzard are gathered together by the force of their actions. As the actions which drove them there were motivated by hatred, the effect similar to the cause makes them see each other as mortal enemies, and furiously they fight. Brandishing inconceivable weapons&mdash;a phantom armory created by their [karma](#karma)&mdash;they strike at each other until everyone is slain. At that time, a voice from the sky says, "Revive!" and they immediately come back to life and start fighting all over again. And so they suffer, continually dying and being revived.
 
+How long do they live there? Fifty human years equal one day in the god realm of the [Four Great Kings](#four-great-kings). Thirty of those days make a month, and twelve months make a year; five hundred such years equal one day in the [Reviving Hell](#111-the-reviving-hell), where again, twelve months, each of thirty days, make up a year. They suffer there for five hundred of those years.
 
 ##### 1.1.2 The Black-Line Hell
+
+Here [Yama's](#yama) henchmen lay their victims out on the ground of burning metal like so many firebrands and cross-rule their bodies with black lines&mdash;four, eight, sixteen, thirty-two and so on&mdash;which they use as guidelines to cut them up with burning saws. No sooner have their bodies been cut into pieces than they immediately become whole once more, only to be hacked apart and chopped up over and over again.
+
+As for the length of their life there, a hundred human years correspond to one day for the gods in the Heaven of the Thirty-three, and a thousand years in the Heaven of the Thirty-three is equal to one day in this hell. On that scale, beings live there live for a thousand years.
+
 ##### 1.1.3 The Rounding-Up and Crushing Hell
+
+In this [hell](#hell), beings by the million are thrown into vast mortars of iron the size of whole valleys. The henchmen of [Yama](#yama), the Lord of Death, whirling huge hammers of red-hot metal as big as [Mount Meru](#meru-mount) around their heads, pound their victims with them. These beings are crushed to death, screaming and weeping in unimaginable agony and terror. As the hammers are lifted, they come back to life, only to suffer the same torments over and over again.
+
+Sometimes, the mountains on both sides of the valley turn into the heads of stags, deer, goats, rams and other animals that the hell-beings have killed in their past lives. The beasts butt against each other with their horn-tips spewing fire, and innumerable [hell](#hell) beings, drawn there by the power of their actions, are all crushed to death. Then, once more, as the mountains separate, they revive only to be crushed again.
+
+Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in [The Rounding-UP and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
+
 ##### 1.1.4 The Howling Hell
 ##### 1.1.5 The Great Howling Hell
 ##### 1.1.6 The Heating Hell
