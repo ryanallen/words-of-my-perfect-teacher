@@ -2184,25 +2184,25 @@ In this [hell](#hell), beings by the million are thrown into vast mortars of iro
 
 Sometimes, the mountains on both sides of the valley turn into the heads of stags, deer, goats, rams and other animals that the hell-beings have killed in their past lives. The beasts butt against each other with their horn-tips spewing fire, and innumerable [hell](#hell) beings, drawn there by the power of their actions, are all crushed to death. Then, once more, as the mountains separate, they revive only to be crushed again.
 
-Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in [The Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
+Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in the [Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
 
 ##### 1.1.4 The Howling Hell
 
 Here, beings suffer by being roasted in buildings of red hot metal with no exit. They scream and cry, feeling that they will never escape.
 
-Four hundred human years equal one day in the Joyous Realm. Four thousand years in that heaven are equivalent to one day in [The Howling Hell](#114-the-howling-hell), where life continues for four thousand years.
+Four hundred human years equal one day in the Joyous Realm. Four thousand years in that heaven are equivalent to one day in the [Howling Hell](#114-the-howling-hell), where life continues for four thousand years.
 
 ##### 1.1.5 The Great Howling Hell
 
 A vast host of [Yama's](#yama) henchmen, armed and terrifying, shove victims by the million into metal sheds with double walls blazing with fire, and beat them with hammers and other weapons. Both the inner and outer doors are sealed with molten metal and the hell-beings howl in torment to think that, even if they could get past the first door, they would never be able to get through the second.
 
-Eight hundred human years correspond to one day in teh Paradise of Joyful Magic. Eight thousand years there equal one day in [The Great Howling Hell](#115-the-great-howling-hell). Its beings have a lifespan of eight thousand years.
+Eight hundred human years correspond to one day in teh Paradise of Joyful Magic. Eight thousand years there equal one day in the [Great Howling Hell](#115-the-great-howling-hell). Its beings have a lifespan of eight thousand years.
 
 ##### 1.1.6 The Heating Hell
 
 Here, countless beings suffer by being cooked in huge iron cauldrons the size of the whole cosmos of a billion worlds, where they boil in molten bronze. Whenever they surface, they are grabbed by the workers with metal hooks and beaten about the head with hammers, sometimes losing consciousness; their idea of happiness is these rare moments when they no longer feel pain. Otherwise, they continually experience immense suffering.
 
-Sixteen hundred human years equal one day among the gods Enjoying the Emanations of Others. Sixteen thousand years of these [gods](#gods) correspond to one day in [The Heating Hell](#116-the-heating-hell), and beings stay there sixteen thousand of those years.
+Sixteen hundred human years equal one day among the gods Enjoying the Emanations of Others. Sixteen thousand years of these [gods](#gods) correspond to one day in the [Heating Hell](#116-the-heating-hell), and beings stay there sixteen thousand of those years.
 
 ##### 1.1.7 The Intense Heating Hell
 
@@ -2212,15 +2212,15 @@ The beings in this [hell](#hell) are trapped inside blazing metal houses, and [Y
 
 This is an immense edifice of blazing hot metal, surrounded by the sixteen [Neighboring Hells](#119-the-neighboring-hells). In it [Yama's](#yama) henchmen toss incalculable numbers of beings into the center of a mountain of pieces of red-hot iron, glowing live like coals. They whip up the flames with bellows of tiger and leopard-skin until the bodies of their victims and the fire become indistinguishable. Their suffering is tremendous. Apart from the cries of distress, there is no longer any indication of the presence of actual bodies. They constantly long to escape, but it never happens. Sometimes there is a small gap in the fire and they think they can get out, but the workers hit them with spears, clubs, hammers and other weapons and they are subjected to all the agonies of the seven previous hells, such as having molten bronze poured into their mouths.
 
-Lifespan here is a whole intermediate [kalpa](#kalpa). It is called [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) because there could be no worse torment elsewhere. It is the hell where those who have committed the five crimes with immediate retribution, and practitioners of the [Mantrayana](#secret-mantrayana) who develop adverse views regarding the [Vajra Master](#vajra-master), are reborn. No other actions have the power to cause rebirth here.
+Lifespan here is a whole intermediate [kalpa](#kalpa). It is called the [Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) because there could be no worse torment elsewhere. It is the hell where those who have committed the five crimes with immediate retribution, and practitioners of the [Mantrayana](#secret-mantrayana) who develop adverse views regarding the [Vajra Master](#vajra-master), are reborn. No other actions have the power to cause rebirth here.
 
 ##### 1.1.9 The Neighboring Hells
 
-Around [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment), in each of the four cardinal directions, there is a **ditch of flaming embers**, a **marsh of rotting corpses**, a **plain of bristling weapons** and a **forest of trees with razor-edged leaves**. There is one of each in the north, south, east and west, making sixteen in all. In each of the intermediate directions&mdash;the southeast, southwest, northwest, and northeast&mdash;stands a hill of iron *salmali* trees.
+Around the [Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment), in each of the four cardinal directions, there is a **ditch of flaming embers**, a **marsh of rotting corpses**, a **plain of bristling weapons** and a **forest of trees with razor-edged leaves**. There is one of each in the north, south, east and west, making sixteen in all. In each of the intermediate directions&mdash;the southeast, southwest, northwest, and northeast&mdash;stands a hill of iron *salmali* trees.
 
 **1. The pit of hot embers**
 
-When beings have purged most of the effects of actions connected with [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) and emerge from it, they see, far away in the distance, what looks like a shady trench. They leap into it with delight, only to find themselves sinking down into a pit of blazing embers which burn their flesh and bones.
+When beings have purged most of the effects of actions connected with the [Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) and emerge from it, they see, far away in the distance, what looks like a shady trench. They leap into it with delight, only to find themselves sinking down into a pit of blazing embers which burn their flesh and bones.
 
 **2. The swamp of putrescent corpses**
 
@@ -2237,6 +2237,16 @@ Once again free, they rejoice to see a beautiful forest and rush towards it. But
 **5. The hill of iron salmali trees**
 
 It is here that loose monks and nuns who have broken their vows of chastity and people who give themselves over to sexual misconduct are reborn. The effect of such actions brings them to the foot of the terrifying hill of an iron *salmali* trees. At the top they can see their former lovers calling them. As they climb eagerly up to join them, all the leaves of the iron trees point downwards and pierce their flesh. When they reach the top, they find ravens, vultures, and the like that dig out their eyes to suck up the fat. Again they see their friends calling them, now from the foot of the hill. Down they go, and the leaves turn upward, stabbing them through the chest again and again. Once they get down to the ground, hideous metallic men and women embrace them, biting off their heads and chewing them until the brains trickle out of the corners of their mouths. Such are the torments experienced here.
+
+---
+
+Absorb all the details of the pains of the [eight hot hells](#11-the-eight-hot-hells), the sixteen [neighboring](#119-the-neighboring-hells) and supplementary hells and the hills of iron and *salmali* trees. Withdrawing to a quiet place, close your eyes and imagine that you are really living in the infernal realms. When you feel as much terror and pain as you would if you were really there, arouse the following thought in your mind:
+
+"I feel such intense terror and suffering when I just imagine all that pain, even though I am not actually there. There are countless beings living in those realms right now, and all of them have been my parents in past lives. There is no knowing whether my parents, loved ones and friends of this life will not be reborn there once they die. Rebirth in those realms is caused primarily by actions arising from hatred, and I myself have accumulated an incalculable number of such actions in this present life as well as in all my past lives. I can be certain that I myself will be reborn in those hells sooner or later."
+
+"At present, I have a human life complete with all the freedoms and advantages. I have met an authentic spiritual teacher and received the profound instructions which offer the possibility of attaining the level of the [Buddha](#buddha). So I must do my best to practice the methods that will save me from ever having to be born in those lower realms again."
+
+Over and over again, reflect like this on the suffering of the hells. Confess your past misdeeds with intense remorse and make the unshakeable resolve that, even at the risk of your life, you will never again commit acts which lead to birth in the [hell](#hell) realms. With immense compassion for the beings who are there now, pray that they may all be freed from the lower realms this very instant. Put the teaching into practice, complete with the methods for the beginning, the main part and the conclusion.
 
 #### 1.2 THE EIGHT COLD HELLS
 #### 1.3 THE EPHEMERAL HELLS
