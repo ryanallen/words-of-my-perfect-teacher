@@ -2184,7 +2184,7 @@ In this [hell](#hell), beings by the million are thrown into vast mortars of iro
 
 Sometimes, the mountains on both sides of the valley turn into the heads of stags, deer, goats, rams and other animals that the hell-beings have killed in their past lives. The beasts butt against each other with their horn-tips spewing fire, and innumerable [hell](#hell) beings, drawn there by the power of their actions, are all crushed to death. Then, once more, as the mountains separate, they revive only to be crushed again.
 
-Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in [The Rounding-UP and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
+Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in [The Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
 
 ##### 1.1.4 The Howling Hell
 ##### 1.1.5 The Great Howling Hell
