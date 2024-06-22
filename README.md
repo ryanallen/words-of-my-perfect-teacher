@@ -2249,7 +2249,57 @@ Absorb all the details of the pains of the [eight hot hells](#11-the-eight-hot-h
 Over and over again, reflect like this on the suffering of the hells. Confess your past misdeeds with intense remorse and make the unshakeable resolve that, even at the risk of your life, you will never again commit acts which lead to birth in the [hell](#hell) realms. With immense compassion for the beings who are there now, pray that they may all be freed from the lower realms this very instant. Put the teaching into practice, complete with the methods for the beginning, the main part and the conclusion.
 
 #### 1.2 THE EIGHT COLD HELLS
+
+In all these hells, the environment is entirely composed of snow mountains and glaciers, perpetually enveloped in snowy blizzards.
+
+The beings there, all completely naked, are tormented by the cold.
+
+**1. The hell of blisters**
+
+In the Hell of Blisters, the cold makes blisters erupt on their bodies.
+
+**2. The hell of burst blisters**
+
+In the Hell of Burst Blisters, the blisters burst open.
+
+**3. The hell of clenched teeth**
+
+In the Hell of Clenched Teeth, the biting cold is intolerable and the teeth of the beings there are tightly clenched.
+
+**4. The hell of lamentations**
+
+In the Hell of Lamentations, their lamenting never ends.
+
+**5. The hell of groans**
+
+In the Hell of Groans their voices are cracked and long groans escape from their lips.
+
+**6. The hell of utpala-like cracks**
+
+In the Hell of Utpala-like Cracks, their skin turns blue and splits into four petal-like pieces.
+
+**7. The hell of lotus-like cracks**
+
+In the Hell of Lotus-like Cracks, their red raw flesh becomes visible, and the cold makes it split into eight pieces.
+
+**8. The hell of great lotus-like cracks**
+
+Lastly, in the Hell of Great Lotus-like Cracks, their flesh turns dark red and splits into sixteen, thirty-two and then into innumerable pieces. Worms penetrated the cracked flesh and devour it with their metal beaks.
+
+The names of these hells derive from the different sufferings that beings endure in them.
+
+As for the lifespan in these cold hells, imagine a container that could hold two hundred Kosala measures,<sup>*</sup> filled with sesame seeds. Life in the Blistering Hell lasts as long as it would take to empty that container by removing a single grain every hundred years.
+
+<sup>* An ancient measure named after the Indian city of Kosala (near modern Ayodhya).</sup><br>
+
+For the other cold hells, lifespan and sufferings increase by multiples of twenty for each one. Life thus lasts twenty times longer in the Hell of Burst Blisters than in the Blistering Hell; twenty times longer than that in the Hell of Clenched Teeth; and so on.
+
+Take these sufferings upon yourself mentally, and meditate on them in the same way as for the [hot hells](#11-the-eight-hot-hells). Think how unbearably cold it feels to stand naked in the winter wind even for an instant in this present human world. How could you stand it if you were reborn in those realms? Confess your faults and promise never to commit them again. Then develop compassion for the beings actually living in those worlds. Practice as before, employing each of the methods for the beginning, main practice and conclusion.
+
 #### 1.3 THE EPHEMERAL HELLS
+
+
+
 ### **2. The pretas**
 #### 2.1 PRETAS WHO LIVE COLLECTIVELY
 ##### 2.1.1 Pretas suffering from external obscurations
