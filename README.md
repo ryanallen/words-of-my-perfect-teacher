@@ -2164,7 +2164,7 @@ So do not put your trust in the apparent joys of [samsara](#samsara). Resolve th
 
 #### 1.1 THE EIGHT HOT HELLS
 
-These eight [hells](#hell) lie one above the other like the storys of a building, from the [Reviving Hell](#111-the-reviving-hell) on top, down to [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) at the bottom. In each the ground and perimeter are like the white-hot iron of a smith&mdash;there is nowhere at all where you could safely put your foot. Everything is a searingly hot expanse of blazing, fiery flame.
+These eight [hells](#hell) lie one above the other like the storeys of a building, from the [Reviving Hell](#111-the-reviving-hell) on top, down to [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) at the bottom. In each the ground and perimeter are like the white-hot iron of a smith&mdash;there is nowhere at all where you could safely put your foot. Everything is a searingly hot expanse of blazing, fiery flame.
 
 ##### 1.1.1 The Reviving Hell
 
@@ -2187,11 +2187,57 @@ Sometimes, the mountains on both sides of the valley turn into the heads of stag
 Two hundred human years are equivalent to one day for the gods of the Heaven Without Fighting. Two thousand years in that realm correspond to one day in [The Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that hell live two thousand years.
 
 ##### 1.1.4 The Howling Hell
+
+Here, beings suffer by being roasted in buildings of red hot metal with no exit. They scream and cry, feeling that they will never escape.
+
+Four hundred human years equal one day in the Joyous Realm. Four thousand years in that heaven are equivalent to one day in [The Howling Hell](#114-the-howling-hell), where life continues for four thousand years.
+
 ##### 1.1.5 The Great Howling Hell
+
+A vast host of [Yama's](#yama) henchmen, armed and terrifying, shove victims by the million into metal sheds with double walls blazing with fire, and beat them with hammers and other weapons. Both the inner and outer doors are sealed with molten metal and the hell-beings howl in torment to think that, even if they could get past the first door, they would never be able to get through the second.
+
+Eight hundred human years correspond to one day in teh Paradise of Joyful Magic. Eight thousand years there equal one day in [The Great Howling Hell](#115-the-great-howling-hell). Its beings have a lifespan of eight thousand years.
+
 ##### 1.1.6 The Heating Hell
+
+Here, countless beings suffer by being cooked in huge iron cauldrons the size of the whole cosmos of a billion worlds, where they boil in molten bronze. Whenever they surface, they are grabbed by the workers with metal hooks and beaten about the head with hammers, sometimes losing consciousness; their idea of happiness is these rare moments when they no longer feel pain. Otherwise, they continually experience immense suffering.
+
+Sixteen hundred human years equal one day among the gods Enjoying the Emanations of Others. Sixteen thousand years of these [gods](#gods) correspond to one day in [The Heating Hell](#116-the-heating-hell), and beings stay there sixteen thousand of those years.
+
 ##### 1.1.7 The Intense Heating Hell
+
+The beings in this [hell](#hell) are trapped inside blazing metal houses, and [Yama's](#yama) henchmen impale them through the heels and the anus with tridents of red-hot iron, until the prongs push out through the shoulders and the crown of the head. At the same time their bodies are wrapped in sheets of blazing metal. What pain they suffer! This continues for half an intermediate [kalpa](#kalpa), a period of time immeasurable in terms of human years.
+
 ##### 1.1.8 The Hell of Ultimate Torment
+
+This is an immense edifice of blazing hot metal, surrounded by the sixteen [Neighboring Hells](#119-the-neighboring-hells). In it [Yama's](#yama) henchmen toss incalculable numbers of beings into the center of a mountain of pieces of red-hot iron, glowing live like coals. They whip up the flames with bellows of tiger and leopard-skin until the bodies of their victims and the fire become indistinguishable. Their suffering is tremendous. Apart from the cries of distress, there is no longer any indication of the presence of actual bodies. They constantly long to escape, but it never happens. Sometimes there is a small gap in the fire and they think they can get out, but the workers hit them with spears, clubs, hammers and other weapons and they are subjected to all the agonies of the seven previous hells, such as having molten bronze poured into their mouths.
+
+Lifespan here is a whole intermediate [kalpa](#kalpa). It is called [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) because there could be no worse torment elsewhere. It is the hell where those who have committed the five crimes with immediate retribution, and practitioners of the [Mantrayana](#secret-mantrayana) who develop adverse views regarding the [Vajra Master](#vajra-master), are reborn. No other actions have the power to cause rebirth here.
+
 ##### 1.1.9 The Neighboring Hells
+
+Around [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment), in each of the four cardinal directions, there is a **ditch of flaming embers**, a **marsh of rotting corpses**, a **plain of bristling weapons** and a **forest of trees with razor-edged leaves**. There is one of each in the north, south, east and west, making sixteen in all. In each of the intermediate directions&mdash;the southeast, southwest, northwest, and northeast&mdash;stands a hill of iron *salmali* trees.
+
+**1. The pit of hot embers**
+
+When beings have purged most of the effects of actions connected with [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) and emerge from it, they see, far away in the distance, what looks like a shady trench. They leap into it with delight, only to find themselves sinking down into a pit of blazing embers which burn their flesh and bones.
+
+**2. The swamp of putrescent corpses**
+
+Then they see a river. Having been roasted in a brazier for a whole [kalpa](#kalpa), they are so thirsty that seeing water fills them with joy and they rush towards it to quench their thirst. But of course there is no water. There is nothing but corpses&mdash;corpses of humans, corpses of horses, corpses of dogs&mdash;all decomposing and crawling with insects as they decompose, giving off the foulest of stenches. They sink into this mire until their heads go under, while worms with iron beaks devour them.
+
+**3. The plain of razors**
+
+When they emerge from this swamp, they are thrilled to see a pleasant green plain. But when they get there they find that it is bristling with weapons. The whole ground is covered with slender blades of burning hot metal growing like grass, which pierce their feet with each step. Each foot heals as they lift i&mdash;only to be excruciatingly stabbed again as soon as they put it down.
+
+**4. The forest of swords**
+
+Once again free, they rejoice to see a beautiful forest and rush towards it. But when they get there, there is no beautiful forest. It turns out to be a thicket whose trees have swords growing on their metal branches instead of leaves. As they  stir in the wind, the swords cut those beings' bodies into little pieces. Their bodies reconstitute themselves and are chopped up over and over again.
+
+**5. The hill of iron salmali trees**
+
+It is here that loose monks and nuns who have broken their vows of chastity and people who give themselves over to sexual misconduct are reborn. The effect of such actions brings them to the foot of the terrifying hill of an iron *salmali* trees. At the top they can see their former lovers calling them. As they climb eagerly up to join them, all the leaves of the iron trees point downwards and pierce their flesh. When they reach the top, they find ravens, vultures, and the like that dig out their eyes to suck up the fat. Again they see their friends calling them, now from the foot of the hill. Down they go, and the leaves turn upward, stabbing them through the chest again and again. Once they get down to the ground, hideous metallic men and women embrace them, biting off their heads and chewing them until the brains trickle out of the corners of their mouths. Such are the torments experienced here.
+
 #### 1.2 THE EIGHT COLD HELLS
 #### 1.3 THE EPHEMERAL HELLS
 ### **2. The pretas**
