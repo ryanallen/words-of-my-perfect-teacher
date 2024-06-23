@@ -2302,7 +2302,17 @@ The ephemeral hells exist in all sorts of different locations and the sufferings
 
 Examples of stories about these [hells](#hell) are the accounts of the fish seen by [Lingje Repa](#lingje-repa) in Yamdrok Lake and the frog that the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) found inside a stone.
 
-Yutso Ngonmo, the Blue Turquoise Lake, appeared while the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal) was medditating in Yamdrok, when a piece of pure gold thrown by a [Bonpo](#bonpo) was transformed into water. It is one of the four famous lakes of Tibet.
+Yutso Ngonmo, the Blue Turquoise Lake, appeared while the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal) was meditating in Yamdrok, when a piece of pure gold thrown by a [Bonpo](#bonpo) was transformed into water. It is one of the four famous lakes of Tibet, and is so long that to get from its head at Lung Kangchen to where it ends at Zemaguru is a walk of several days. One day the great [siddha](#siddha) [Lingje Repa](#lingje-repa) was looking into this lake, when he started to weep, exclaiming, "Poor thing! Don't misuse offerings! Don't misuse offerings!"<sup>[49](#49)</sup>
+
+<details id="49"><summary>Note <sup>49</sup></summary><i>Dkor za ba</i> usually means using funds donated by the faithful, with the particular sense of using them improperly. Sometimes it refers to the abuse of collective possessions, such as the wealth of a nation, by those in a position of power.</details><br>
+
+When the people who were with him asked him to explain, he said, "The consciousness of a [lama](#lama) who misused offerings has been reborn in an ephemeral hell in this lake, and is suffering terribly."
+
+They wanted to see, so the [siddha](#siddha) miraculously dried up the lake in an instant, revealing a huge fish so big that its body spanned the lake's entire length and breadth. It was squirming in agony because it was completely covered with small creatures that were eating it alive. [Lingje Repa's](#lingje-repa) attendants asked him who it was that had such evil [karma](#karma), and he replied that it was Tsangla Tanakchen, the Black Horse Lama from Tsang. He was a [lama](#lama) whose speech had had great power and blessing.<sup>[50](#50)</sup> A mere glance from him was enough to cure someone troubled by spirits. For this reason he was highly venerated in the four provinces of U and Tsang. But when he performed the transference of consciousness at funeral ceremonies, for each "*P'et!*"<sup>*</sup> he uttered he would take as payment a large number of the horses and cattle belonging to the deceased.
+
+<sup>* One use of the syllable <i>P'et</i> is to project the consciousness in the practice of transference (discussed in <a href="#part-three">Part Three</a>).</sup>
+
+<details id="50"><summary>Note <sup>50</sup></summary>These celestial bodies are traditionally considered the dwellings of certain celestial beings, invisible to ordinary humans.</details><br>
 
 ### **2. The pretas**
 #### 2.1 PRETAS WHO LIVE COLLECTIVELY
