@@ -2298,7 +2298,11 @@ Take these sufferings upon yourself mentally, and meditate on them in the same w
 
 #### 1.3 THE EPHEMERAL HELLS
 
+The ephemeral hells exist in all sorts of different locations and the sufferings experienced in them also vary considerably. Beings may be crushed between rocks, or trapped inside a stone, frozen in ice, cooked in boiling water or burnt in fires. Some feel that, when someone is cutting a tree, they are the tree having their limbs chopped off. Some suffer through identifying their bodies with objects that are constantly put to use, such as mortars, brooms, pans, doors, pillars, hobs and ropes.
 
+Examples of stories about these [hells](#hell) are the accounts of the fish seen by [Lingje Repa](#lingje-repa) in Yamdrok Lake and the frog that the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) found inside a stone.
+
+Yutso Ngonmo, the Blue Turquoise Lake, appeared while the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal) was medditating in Yamdrok, when a piece of pure gold thrown by a [Bonpo](#bonpo) was transformed into water. It is one of the four famous lakes of Tibet.
 
 ### **2. The pretas**
 #### 2.1 PRETAS WHO LIVE COLLECTIVELY
