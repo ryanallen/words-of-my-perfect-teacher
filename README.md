@@ -2312,7 +2312,9 @@ They wanted to see, so the [siddha](#siddha) miraculously dried up the lake in a
 
 <sup>* One use of the syllable <i>P'et</i> is to project the consciousness in the practice of transference (discussed in <a href="#part-three">Part Three</a>).</sup>
 
-<details id="50"><summary>Note <sup>50</sup></summary>These celestial bodies are traditionally considered the dwellings of certain celestial beings, invisible to ordinary humans.</details><br>
+<details id="50"><summary>Note <sup>50</sup></summary>Here speech (<i>ngag</i>) refers to the subtle power of speech. It is the vehicle for the sound of mantras and can have a power to heal, pacify, subjugate, etc., when employed by one who has a certain spiritual training or a particular kind of karma.</details><br>
+
+One day the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) was practicing the [yoga](#yoga)
 
 ### **2. The pretas**
 #### 2.1 PRETAS WHO LIVE COLLECTIVELY
