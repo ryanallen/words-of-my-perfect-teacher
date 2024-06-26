@@ -2510,11 +2510,32 @@ Listen to this chapter with the same attitude as before.
 
 ## I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION
 
-The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are [negative actions](#negative-action), [obscurations](#obscurations) and [habitual tendencies](#habitual-tendencies). (See also: [obscurations of habitual tendencies](#obscurations-of-habitual-tendencies).<sup>**</sup>) Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is
+The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are [negative actions](#negative-action), [obscurations](#obscurations) and [habitual tendencies](#habitual-tendencies). (See also: [obscurations of habitual tendencies](#obscurations-of-habitual-tendencies).<sup>*</sup>) Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is important to eliminate our obscurations so that realization can appear like a reflection in the mirror of the [Ground of All](#ground-of-all). <sup>**</sup> The Conqueror taught countless methods of purification for this purpose, but the best of them all is meditation and recitation related to the teacher as [Vajrasattva](#vajrasattva).<sup>[173](#173)</sup>
 
-<sup></sup>
+<sup>* Habitual patterns created by past actions.</sup>
 
+<sup>** Skt. <i>alaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.</sup>
 
+<details id="173"><summary>Note <sup>173</sup></summary>In the practices of the Vajrayana one considers the visualized deity as one's own root teacher who represents all the Buddhas of the past, present and future. Vajrasattva (Tib. <i>rdo rje sems dpa'</i> is the particular Buddha who, as a Bodhisattva, pledged that whoever recited his mantra would be purified of all their negative actions and obscurations. His name refers to the indestructible purity of the nature of mind.</details><br>
+
+There is no harmful act that cannot be purified by confession. As the great teachers of ancient times affirmed:
+
+> There is nothing good about [negative actions](#negative-action)&mdash;except that they can be purified through confession.
+
+Of all negative actions&mdash;be they external breaches of the [pratimoksa](#pratimoksa) vows, inner transgressions of the bodhicitta training, or secret violations of the [tantric](#tantric) [samayas](#samaya)&mdash;there is not one, however serious, that cannot be purified by confession.
+
+In the [sutras](#sutra), the [Buddha](#sakyamuni) tells several stories illustrating this point. For instance, there is the tale of the [brahmin](#brahmin) Atapa, who was known as [Angulimala](#angulimala), "Garland of Fingers." Angulimala killed nine hundred and ninety-nine people,<sup>[174](#174)</sup> but then cleansed himself of those actions through confession and attained the state of [Arhat](#arhat) in that very lifetime. There is also the case of [King Ajatasatru](#darsaka), who killed his father, but later repaired his crime through confession and attained liberation, having experienced the sufferings of hell only for the time it take s a ball to bounce once. 
+
+<details id="174"><summary>Note <sup>174</sup></summary>Angulimala, who had been given a false teaching that he would gain liberation by killing one thousand people and collecting a finger from each, had already killed nine hundred and ninety-nine, and was on his way to complete the thousand by killing his mother when he met the Buddha, whom he tried to kill instead. Because of the Buddha's powers, he was unable to attack him. Then the Buddha spoke to him and turned his mind to the Dharma.</details><br>
+
+The protector [Nagarjuna](#nagarjuna) says:
+
+> Someone who has acted carelessly  
+But later becomes careful and attentive  
+Ias as beautiful as the bright moon emerging from the clouds,  
+Like [Nanda](#nanda), [Angulimala](#angulimala), [Darsaka](#darsaka) and [Sankara](#sankara)<sup>[175](#175)</sup>  
+>  
+> <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining liberation; <a href="#angulimala">Angulimala</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. Nanda and Angulimala became Arhats, Darsaka became a Bodhisattva, and Sankara was reborn in a god realm and subsequently attained the path of seeing.</details><br>
 
 ## II. THE FOUR POWERS
 ### **1. The power of support**
