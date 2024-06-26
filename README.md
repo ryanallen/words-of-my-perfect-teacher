@@ -2314,7 +2314,39 @@ They wanted to see, so the [siddha](#siddha) miraculously dried up the lake in a
 
 <details id="50"><summary>Note <sup>50</sup></summary>Here speech (<i>ngag</i>) refers to the subtle power of speech. It is the vehicle for the sound of mantras and can have a power to heal, pacify, subjugate, etc., when employed by one who has a certain spiritual training or a particular kind of karma.</details><br>
 
-One day the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) was practicing the [yoga](#yoga)
+One day the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) was practicing the [yoga](#yoga) exercises of the channels and energies on a big rock. The rock split in two. Inside there was a huge frog. Innumerable small creatures had attached themselves to it and were eating it alive, making it open and close its black mouth in unbearable pain. When his companions asked why this had come about, [Tangtong Gyalpo](#tangtong-gyalpo) explained that the being who had been reborn in that form had been a priest who sacrificed animals.
+
+Look at the [lamas](#lama) of today! Each time a patron kills a nice fat sheep and cooks up the gullet, kidneys and other organs along with the meat and blood, serving it piled up with the still quivering ribs of a yak, our [lamas](#lama) pull the shawl of their robes over their heads and suck away at the entrails like babies at their mother's breast. Then they cut themselves slices of the outer meat with their knives and munch them in a leisurely fashion. Once they have finished, their heads emerge again, hot and steaming. Their mouths gleam with grease and their whiskers have acquired a reddish tinge. But they will have a big problem in their next life, in one of the ephemeral hells, when they have to pay back with their own bodies all that they have eaten so many times in this life.
+
+Once Palden Chokyong, High Abbot of Ngor, was at Derge. He posted many monks along the banks of the river Ngulda, commanding them to let nothing pass by. Towards evening, they saw a big tree-trunk floating on the water, so they hauled it in to the bank and took it to the Abbot, telling him that they had seen nothing else.
+
+"That must be it," he said. "Split it open."
+
+Inside they found a big frog being eaten alive by a mass of insects. After doing a purification ritual, the Abbot said that the frog had been a treasurer of Derge named Pogye. Today they might seem all-powerful, but all those chiefs and high dignitaries who dip into the public purse should think about the ephemeral hells and be careful.
+
+At the time of the [Buddha](#sakyamuni), there was a village butcher who made a vow never to kill animals at night. He was reborn in an ephemeral hell. At night his pleasure knew no bounds. He lived in a beautiful mansion, with four lovely women plying him with food and drink and other pleasures. During the day, however, the walls of the house would transform into blazing hot metal and the four women into terrifying brown dogs who fed on his body.
+
+Long ago, [Srona](#srona-sronajat) saw an adulterer who had vowed to keep from infidelity during the day. In contrast to the butcher, he suffered only during the night.
+
+There was once a delightful monastery, housing about five hundred monks. When the bell rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of Buddha Kasyapa, many monks had argued at the time of the midday meal, and this was the fully ripened effect.<sup>*</sup>
+
+<sup>* This is explained in the chapter that follows.</sup><br>
+
+---
+
+These [eight hot hells](#11-the-eight-hot-hells), [eight cold hells](#12-the-eight-cold-hells), [the neighboring hells](#119-the-neighboring-hells) and [the ephemeral hells](#13-the-ephemeral-hells) are together called the [eighteen hell realms](#1-the-eighteen-hells). Carefully study their number, the length of time spent in them, their sufferings and the causes of being reborn there, and meditate with compassion on the beings born in them. Strive to ensure that no one, neither yourself nor anyone else, is ever reborn in those realms.
+
+If you are content just to listen and know all this intellectually, without making it a living experience, you will just become one of those obdurate and arrogant practitioners criticized by sublime beings and condemned by the wise.
+
+There was once a monk whose conduct was exemplary but whose pride was enormous. He came to visit [Shang Rinpoche](#shang-rinpoche), who asked him what [Dharma](#dharma) he knew.
+
+"I have listened to many teachings," replied the monk.
+
+"Then tell me the names of the eighteen hells," said shang Rinpoche.
+
+"The eight hot hells and the eight cold hells... that makes sixteen... and eighteen if you add the Black and Red Hat Karmapas."
+
+It was not lack of respect that caused him to count the [Karmapa](#karmapa) Lamas with the [hells](#hells). He had simply forgotten the names of the [ephemeral hells](#13-the-ephemeral-hells) and [the neighboring hells](#119-the-neighboring-hells), and since the Red and Black Hat Karmapas were very well known at the time, impulsively he put them in. Now, whether or not you have practiced the teachings you have received is one thing, but not to know at least the words and terms involved is truly shameful.
 
 ### **2. The pretas**
 #### 2.1 PRETAS WHO LIVE COLLECTIVELY
