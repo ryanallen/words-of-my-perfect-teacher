@@ -2496,7 +2496,26 @@ It was not lack of respect that caused him to count the [Karmapa](#karmapa) Lama
 ---
 
 # <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations<sup>[172](#172)</sup></i></div>
+
+<details id="172"><summary>Note <sup>172</sup></summary>Before embarking on this practice one should have received the empowerment of Vajrasattva from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (Ryan Allen's empowerment through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma" target="_blank">empty.guru</a> for reference.)</details><br>
+
+> *Beyond being defiled by the [two obscurations](#two-obscurations),*<sup>*</sup> *you purport to still be purifying them.*  
+*Having certainly reached the sublime path's very end, you profess to still be learning.*  
+*Beyond the extremes of [samsara](#samsara) and [nirvana](#nirvana), you manifest still in [samsara](#samsara)*  
+*Peerless Teacher, at your feet I bow.*  
+>  
+><sup>* The obscurations of [negative emotions](#negative-emotions) and [conceptual obscurations](#concept-obscurations). "Obscurations" means factors that cover and obscure our [Buddha nature](#buddha-nature).</sup>
+
+Listen to this chapter with the same attitude as before.
+
 ## I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION
+
+The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are [negative actions](#negative-action), [obscurations](#obscurations) and [habitual tendencies](#habitual-tendencies). (See also: [obscurations of habitual tendencies](#obscurations-of-habitual-tendencies).<sup>**</sup>) Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is
+
+<sup></sup>
+
+
+
 ## II. THE FOUR POWERS
 ### **1. The power of support**
 ### **2. The power of regretting having done wrong**
