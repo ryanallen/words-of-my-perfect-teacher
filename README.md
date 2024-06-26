@@ -2486,6 +2486,15 @@ It was not lack of respect that caused him to count the [Karmapa](#karmapa) Lama
 ##### 2.6.2 Wisdom through reflection
 ##### 2.6.3 Wisdom through meditation
 
+---
+
+[alt text](image_url)
+
+*<p id="vajrasattva-il" align="center">Vajrasattva</p>*
+<p align="center">Vajrasattva</p>
+
+---
+
 # <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations<sup>[172](#172)</sup></i></div>
 ## I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION
 ## II. THE FOUR POWERS
