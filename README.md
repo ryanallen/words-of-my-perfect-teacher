@@ -2537,11 +2537,52 @@ Like [Nanda](#nanda), [Angulimala](#angulimala), [Darsaka](#darsaka) and [Sankar
 >  
 > <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining liberation; <a href="#angulimala">Angulimala</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. Nanda and Angulimala became Arhats, Darsaka became a Bodhisattva, and Sankara was reborn in a god realm and subsequently attained the path of seeing.</details><br>
 
-However, purification only takes place when you confess sincerely in the right way, using the [four powers](#four-empowerments)
+However, purification only takes place when you confess sincerely in the right way, using the [four powers](#ii-the-four-powers) as antidotes. The purification process will never work if your eyes and mouth are otherwise occupied, or if you are just mouthing the words, "I admit... I confess..." while your mind is busy pursuing other thoughts. And to think, "In future, even if I do wrong it won't matter because I can just confess afterwards," will stop the purification from working at all, even if you do confess.
+
+[Jetsun Mila](#jetsun-mila) says:
+
+> You may doubt that confession can really purify [negative actions](#negative-action),  
+But if your thoughts have become positive, you are purified.
+
+It is absolutely fundamental that any confession should include as antidotes all of the [four powers](#ii-the-four-powers).
 
 ## II. THE FOUR POWERS
+
+The four powers are the [power of support](#1-the-power-of-support), the [power of regretting having done wrong](#2-the-power-of-regretting-having-done-wrong), the [power of resolution](#3-the-power-of-resolution) and the [power of action as an antidote](#4-the-power-of-action-as-an-antidote).
+
 ### **1. The power of support**
+
+In this context, the support is provided by taking refuge in [Vajrasattva](#vajrasattva) and cultivating the intention and application aspects of bodhicitta. In other cases, the support would be the particular object to which you address your confession. When you recite the confession of the *Sutra in Three Parts*, for example, the power of support is provided by the [Thirty-five Buddhas](#thirty-five-buddhas). It could also be a teacher, or a representation of the body, speech or mind of the [Buddhas](#buddha)&mdash;in short, anyone or anything in whose presence you confess.<sup>[176](#176)</sup>
+
+<details id="176"><summary>Note <sup>176</sup></summary>NT describes this as the external support.</details><br>
+
+Before any confession, arousing the bodhicitta of intention and application is indispensable. The [Buddha](#sakyamuni) taught that confession your evil deeds and downfalls without arousing bodhicitta, even though you might apply the four powers, will reduce your faults but not purify them altogether. Sincerely giving rise to bodhicitta, however, will of itself purify all past misdeeds, whatever they might be.<sup>[177](#177)</sup>
+
+<details id="177"><summary>Note <sup>177</sup></summary>NT describes taking refuge, generating bodhicitta, and especially compassion as the *inner* support.</details><br>
+
+In *The Way of the Bodhisattva*, [Santideva](#santideva) says of bodhicitta:
+
+> As though they pass through perils guarded by a hero,  
+Even those weighed down with dreadful wickedness  
+Will instantly be freed through having bodhicitta.  
+Who then would not place their trust in it?  
+Just as by the fires at the end of time  
+Great sins are utterly consumed by bodhicitta.  
+
 ### **2. The power of regretting having done wrong**
+
+The power of regretting having done wrong comes from a feeling of remorse for all the [negative actions](#negative-action) you have done in the past. There can be no purification if you do not see your misdeeds as something wrong and confess them with fierce regret, without concealing anything.<sup>[178](#178)</sup>
+
+<details id="178"><summary>Note <sup>178</sup></summary>NT speaks of six things to be contemplated for the practice of regret:  
+1. Time: regretting all the negative actions that one has done from time without beginning until now, during this life, in a particular month, or day, or moment, and so on.  
+2. Motivation: regretting all acts committed under the sway of desire, aversion and confusion.  
+3. Accumulation: regretting whatever negativity one has accumulated physically, verbally, or mentally.  
+4. The nature of the action: regretting both acts which are negative in themselves (such as the ten negative actions, the five acts with immediate retribution, etc.) and particular faults, transgressions of one's vows and so on.  
+5. Object: regretting all wrong actions, whether directed towards samsara or nirvana.  
+6. Karma: regretting all harmful acts and downfalls which have earned one a short life, many illnesses, poverty, fear of enemies and endless wandering in the lower realms.</details><br>
+
+We recite in the *Sutra in Three Parts:*
+
 ### **3. The power of resolution**
 ### **4. The power of action as an antidote**
 ## III. THE ACTUAL MEDITATION ON VAJRASATTVA
