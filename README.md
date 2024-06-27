@@ -6,7 +6,7 @@
 
 <div align="center">by Patrul Rinpoche</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-digital edition <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for study, scholarship, research, and teaching to help end the suffering of all sentient beings.</div>  
+digital edition <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for study, scholarship, research, [merit](#179), and teaching to help end the suffering of all sentient beings.</div>  
 
 ---
 
@@ -2611,9 +2611,33 @@ One day a meditator, a disciple of the peerless [Dagpo Rinpoche](#dago-rinpoche)
 
 "Print books, then," the Master told him.<sup>[179](#179)</sup>
 
-<details id="179"><summary>Note <sup>179</sup></summary></details><br>
+<details id="179"><summary>Note <sup>179</sup></summary>The printing and distribution of sacred books is considered a powerful practice for accumulating merit and purifying obscurations, provided that it is done purely as an offering without any profit.</details><br>
+
+So he set to work, but found that this work got him involved in many distractions. Disillusioned, he went back to see his teacher.
+
+"Printing these texts brings up too many distractions," he said. "Is it not true that no method of confession is more profound than remaining in the essential nature?"<sup>*</sup>
+
+<sup>* Remaining in a state of recognition of the nature of the mind.</sup><br>
+
+Dagpo Rinpoche was delighted and told him that he was perfectly right.
+
+"Even if you have committed negative actions as colossal as Mount Meru itself," he said, "they are purified in one instant of seeing that nature."
+
+There is indeed no deeper way to cleanse oneself of past misdeeds than to meditate on bodhicitta and to maintain the flow of the unaltered natural state. Keep these two things in mind as you go through the details of the meditation on [Vajrasattva](#vajrasattva)&mdash;purification by the stream of nectar, recitation of the hundred syllable mantra, and so on.
+
+To practice the actual meditation and recitation, proceed as follows, remembering all the time the specific pure meaning<sup>[180](#180)</sup> of each element in the context of the four powers as antidotes.
+
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally means "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to the four powers is explained a few paragraphs later. Although here we are only dealing with the preliminary practice, many points mentioned in this chapter are useful for the main practice of the generation and perfection phases.</details><br>
 
 ## III. THE ACTUAL MEDITATION ON VAJRASATTVA
+
+For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup> In other traditions the syllable emanates and reabsorbs rays of light, but that is not the case here.
+
+<details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form</details>
+
+<sup>* The </sup>
+
+
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
