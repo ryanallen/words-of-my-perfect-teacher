@@ -2583,8 +2583,36 @@ The power of regretting having done wrong comes from a feeling of remorse for al
 
 We recite in the *Sutra in Three Parts:*
 
+> I confess them all, without hiding or holding back anything.
+
+The learned and accomplished [Karma Chagme](#karma-chagme) said:
+
+> Confessing them without regret cannot purify them,  
+For past misdeeds are like a poison within;  
+So confess them with shame, trepidation and great remorse.
+
 ### **3. The power of resolution**
+
+The power of resolution means to remember the faults you have committed and to resolve never to commit them again from this very day on, even at the cost of your dear life. In the *Sutra in Three Parts* we recite:  
+
+> I vow to stop from now on.
+
+And the *Prayer of Sukhavati* says:
+
+> Without a vow for the future from now on, there is no purification,  
+So I make the vow for the future from now on  
+That even at the cost of my life I will do no negative action.
+
 ### **4. The power of action as an antidote**
+
+This power involves accomplishing as many positive actions as you can, as an antidote to your past [negative actions](#negative-action). It refers particularly to activities such as prostrating to the [Buddhas](#buddha) and [Bodhisattvas](#bodhisattva), rejoicing in the [merit](#merit) of others, dedicating your sources of future good to enlightenment, cultivating the bodhicitta of intention and application and staying in the essence of the [unaltered](#unaltered) [natural state](#natural-state).
+
+One day a meditator, a disciple of the peerless [Dagpo Rinpoche](#dago-rinpoche), told his teacher that he felt regret when he remembered that he had once made his living from the sale of sacred books.
+
+"Print books, then," the Master told him.<sup>[179](#179)</sup>
+
+<details id="179"><summary>Note <sup>179</sup></summary></details><br>
+
 ## III. THE ACTUAL MEDITATION ON VAJRASATTVA
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
