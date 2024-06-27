@@ -2635,9 +2635,9 @@ For the visualization that follows, see yourself as staying in your ordinary for
 
 <details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form</details>
 
-<sup>* The </sup>
-
-
+<sup>*</sup><br>
+![hum and its parts](.imgs/hum-and-its-parts.svg)<br>  
+  
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
