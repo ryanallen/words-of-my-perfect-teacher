@@ -2537,6 +2537,8 @@ Like [Nanda](#nanda), [Angulimala](#angulimala), [Darsaka](#darsaka) and [Sankar
 >  
 > <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining liberation; <a href="#angulimala">Angulimala</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. Nanda and Angulimala became Arhats, Darsaka became a Bodhisattva, and Sankara was reborn in a god realm and subsequently attained the path of seeing.</details><br>
 
+However, purification only takes place when you confess sincerely in the right way, using the [four powers](#four-empowerments)
+
 ## II. THE FOUR POWERS
 ### **1. The power of support**
 ### **2. The power of regretting having done wrong**
