@@ -2638,6 +2638,11 @@ For the visualization that follows, see yourself as staying in your ordinary for
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>  
   
+In an instant the *hum* is transformed into your glorious root teacher, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+
+He has one face and two arms. With his right hand, he holds before his heart the five-pronged [vajra](#vajra) of [awareness](#awareness) and [emptiness](#emptiness). With his left, he rests the bell of [awareness](#awareness) and [emptiness](#emptiness) at his left him.<sup>[183](#183)</sup> His two legs are crossed in the vajra posture and he is adorned with the thirteen ornaments of the [sambhogakaya](#sambhogakaya)&mdash;the **five silken garments** and **eight jewels**.
+
+
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
