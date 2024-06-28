@@ -2633,16 +2633,37 @@ To practice the actual meditation and recitation, proceed as follows, rememberin
 
 For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup> In other traditions the syllable emanates and reabsorbs rays of light, but that is not the case here.
 
-<details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form</details>
+<details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>  
   
 In an instant the *hum* is transformed into your glorious root teacher, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
 
+<details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the Buddha literally means "revealer," and signifies the teacher who taught the Dharma for the first time in our kalpa and world. Vajrasattva is the first teacher of many traditions of the Vajrayana in the same way as the Buddha Sakyamuni is the originator of the vehicle of characteristics.</details><br>
+
 He has one face and two arms. With his right hand, he holds before his heart the five-pronged [vajra](#vajra) of [awareness](#awareness) and [emptiness](#emptiness). With his left, he rests the bell of [awareness](#awareness) and [emptiness](#emptiness) at his left him.<sup>[183](#183)</sup> His two legs are crossed in the vajra posture and he is adorned with the thirteen ornaments of the [sambhogakaya](#sambhogakaya)&mdash;the **five silken garments** and **eight jewels**.
 
+<details id="183"><summary>Note <sup>183</sup></summary>Here the vajra and bell symbolize skilful means and wisdom.</details><br>
 
+**The five silken garments are:**  
+1. a headband,
+2. an upper garment, 
+3. a long scarf, 
+4. a belt and
+5. a lower garment.
+
+**The eight jewels are:**  
+1. a crown,  
+2. earrings,  
+3. a short necklace,  
+4. armlets on each arm,  
+5. two long necklaces, one longer than the other,<sup>[184](#184)</sup>  
+6. a bracelet on each wrist,  
+7. a ring on each hand and  
+8. an anklet on each foot.
+
+<details id="184"><summary>Note <sup>184</sup></summary>The shorter of these necklaces comes down to the breast, the longer down to the navel.</details><br>
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
