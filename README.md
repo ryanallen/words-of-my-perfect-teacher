@@ -2633,12 +2633,12 @@ To practice the actual meditation and recitation, proceed as follows, rememberin
 
 For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus (lotus represents Vajrasattva remaining in samsara to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure) with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup> In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the buddhas of the ten directions, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the *hum* syllable. This repeats sending light to the beings of the 6 directions, purifying their negative qualities which again disolves into the *hum* syllable; but that is not the case in this tradition.
 
-<details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
+<details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction</a>) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>  
   
-In an instant the *hum* is transformed into your glorious root teacher, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+In an instant the *hum* is transformed into your glorious root teacher ([Vajradhara](#vajradhara) for the [Drikung Kagyu](https://www.drikung.org)), that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
 
 <details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the Buddha literally means "revealer," and signifies the teacher who taught the Dharma for the first time in our kalpa and world. Vajrasattva is the first teacher of many traditions of the Vajrayana in the same way as the Buddha Sakyamuni is the originator of the vehicle of characteristics.</details><br>
 
@@ -2660,7 +2660,7 @@ He has one face and two arms. With his right hand, he holds before his heart the
 4. armlets on each arm,  
 5. two long necklaces, one longer than the other,<sup>[184](#184)</sup>  
 6. a bracelet on each wrist,  
-7. a ring on each hand and  
+7. a ring on each hand (or foot) and  
 8. an anklet on each foot.
 
 <details id="184"><summary>Note <sup>184</sup></summary>The shorter of these necklaces comes down to the breast, the longer down to the navel.</details><br>
