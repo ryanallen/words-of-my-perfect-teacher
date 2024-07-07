@@ -451,7 +451,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. New notes to clarify things (like explaining what the four continents are in [ Note 37.1](#37-1)) with links to their sources. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. New notes that are formatted with a dot and a new number, to clarify things (like explaining what the four continents are in [ Note 37.1](#37-1)) with links to their sources. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
 
 May all beings be free from suffering.
 
@@ -2646,7 +2646,11 @@ For the visualization that follows, see yourself as staying in your ordinary for
 
 In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the buddhas of the ten directions, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the *hum* syllable. This repeats sending light to the beings of the 6 directions, purifying their negative qualities which again dissolves into the hum syllable; but that is not the case in this tradition.
   
-In an instant the *hum* is transformed into your glorious root teacher ([Vajradhara](#vajradhara) for the [Drikung Kagyu](https://www.drikung.org)), that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+In an instant the *hum* is transformed into your glorious root teacher<sup>[181.2](#181-2)</sup>, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+
+<details id="181-2"><summary>Note <sup>181.2</sup></summary><a href="#vajradhara">Vajradhara</a> for the <a href="https://www.drikung.org">Drikung Kagyu</a>.</details>
+
+
 
 <details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the Buddha literally means "revealer," and signifies the teacher who taught the Dharma for the first time in our kalpa and world. Vajrasattva is the first teacher of many traditions of the Vajrayana in the same way as the Buddha Sakyamuni is the originator of the vehicle of characteristics.</details><br>
 
