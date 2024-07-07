@@ -2635,9 +2635,11 @@ To practice the actual meditation and recitation, proceed as follows, rememberin
 All appearances are forms of Yidam deities.  
 All thoughts are the dharmakaya.  
 
-For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus (lotus represents Vajrasattva remaining in samsara to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure) with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup>
+For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus<sup>[181.1](#181-1)</sup> with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup>
 
 <details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction</a>) one often visualizes oneself in the form of a deity. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
+
+<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents Vajrasattva remaining in samsara to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~Ven. Khenpo Tenzin</details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
