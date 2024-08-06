@@ -2644,11 +2644,13 @@ For the visualization that follows, see yourself as staying in your ordinary for
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
 
-In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the buddhas of the ten directions, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the *hum* syllable. This repeats sending light to the beings of the 6 directions, purifying their negative qualities which again dissolves into the hum syllable; but that is not the case in this tradition.
-  
-In an instant the *hum* is transformed into your glorious root teacher<sup>[181.2](#181-2)</sup>, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+In other traditions the syllable emanates and reabsorbs rays of light,<sup>[181.2](#181-2)</sup> but that is not the case here.
 
-<details id="181-2"><summary>Note <sup>181.2</sup></summary><a href="#vajradhara">Vajradhara</a> for the <a href="https://www.drikung.org">Drikung Kagyu</a>.</details>
+<details id="181-2"><summary>Note <sup>181.2</sup></summary>In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the buddhas of the ten directions, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the <i>hum</i> syllable. This repeats sending light to the beings of the 6 directions, purifying their negative qualities which again dissolves into the hum syllable;</details><br>
+  
+In an instant the *hum* is transformed into your glorious root teacher<sup>[181.3](#181-3)</sup>, that incomparable mine of compassion who in essence is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) Buddha,<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+
+<details id="181-3"><summary>Note <sup>181.3</sup></summary><a href="#vajradhara">Vajradhara</a> for the <a href="https://www.drikung.org">Drikung Kagyu</a>.</details>
 
 <details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the Buddha literally means "revealer," and signifies the teacher who taught the Dharma for the first time in our kalpa and world. Vajrasattva is the first teacher of many traditions of the Vajrayana in the same way as the Buddha Sakyamuni is the originator of the vehicle of characteristics.</details><br>
 
@@ -2690,6 +2692,86 @@ His two legs are crossed in the vajra posture and he is adorned with the thirtee
 8. an anklet on each foot.
 
 <details id="184"><summary>Note <sup>184</sup></summary>The shorter of these necklaces comes down to the breast, the longer down to the navel.</details><br>
+
+[Vajrasattva](#vajrasattva) is seated above your head, facing in the same direction as you. He embraces in inseparable union<sup>[185](#185)</sup> his consort, Vajratopa, who is also white. Their bodies are empty appearance, vividly present but without any substance of their own, like reflections of the moon in water or forms reflected in a mirror.
+
+<details id="185"><summary>Note <sup>185</sup></summary>The female figure symbolizes <a href="#wisdom">wisdom</a>, and the male figure skilful means; at another level the female symbolizes <a href="#emptiness">emptiness</a> and the male appearance, or again they can symbolize <a href="#absolute-space">absolute space</a> and <a href="#primal-wisdom">primal wisdom</a>. Their sexual union symbolizes that in the state of <a href="#enlightenment">enlightenment</a> all these are experienced as inseparably one.</details><br>
+
+This visualization provides [the power of support](#1-the-power-of-support). It is not a flat image like a [tangka](#tangka) or a fresco. Nor is it inert and inanimate like a clay or gold statue, which is solid and material. It appears: every detail appears clearly and distinctly, even the pupils and whites of the eyes. Yet it is empty: there is not one atom of solid substance to it, no flesh, no blood, no internal organs. It is like a rainbow appearing in space or an immaculate crystal vase. And it is imbued with wisdom: Lord [Vajrasattva](#vajrasattva) is identical in nature with your own compassionate root teacher, and his mind reaches out to you and to all beings with great love.
+
+As [the power of regret](#2-the-power-of-regretting-having-done-wrong), in his presence call to mind all the negative actions you think of that you have accumulated until now, in one samsaric existence after another since time without beginning: 
+- the ten negative actions of body, speech and mind  
+- the five crimes with immediate retribution  
+- the four serious faults  
+- the eight perverse acts  
+- all transgressions of the external vows of [pratimoksa](#pratimoksa)  
+- the inner [Bodhisattva](#bodhisattva) precepts or the secret tantric [samayas](#samaya) of the [vidyadharas](#vidyadhara)  
+- all the ordinary promises that you have not kept  
+- all the lies you have told and  
+- everything you have done that is shameful or dishonorable.
+
+Feel that you are confessing them all in the teacher [Vajrasattva's](#vajrasattva) presence, your whole body breaking out in gooseflesh with shame, fear and remorse. You can be sure that during all those infinite lives in [samsara](#samsara) you have done many negative actions that you cannot remember, so confess them all too, saying:
+
+"I am keeping nothing secret. I am hiding nothing. I confess openly and ask for forgiveness. Have compassion on me! Right away, at this very moment and in this very place, cleanse and purify me of all my negative actions and obscurations, so that not a single one remains!"
+
+As [the power of resolve](#3-the-power-of-resolution), think, "Until now I have accumulated those harmful [negative actions](#negative-action) because of my ignorance and confusion. But now, thanks to the compassion of my kind teacher, I know what is beneficial and what is harmful, and I will never commit them again, even if it costs me my life."
+
+Keeping in mind the pure meaning of the visualization,<sup>[180](#180)</sup> recite the root text, starting from:
+
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally means "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to the four powers is explained a few paragraphs later. Although here we are only dealing with the preliminary practice, many points mentioned in this chapter are useful for the main practice of the generation and perfection phases.</details><br>
+
+> Ah! I am in my ordinary form, and above my head...
+
+down as far as the words:  
+
+> ... Purify me until not a single one remails!  
+
+Then, in the heart of [Vajrasattva](#vajrasattva), who is indivisibly united with his consort, visualize a lunar disc no bigger than a flattened mustard seed, and upon it a white *hum*, as fine as if it had been drawn with a single hair. As you recite the hundred syllable mantra once, "Om Vajrasattva Samaya..."<sup>[185.1](#185-1)</sup> and so on,
+
+<details id="185-1"><summary>Note <sup>185.1</sup></summary>
+The Hundred Syllable Mantra<br>  
+(Using · between syllables for easier recitation)  
+<br><br>
+
+oṃ  
+<sup>Om is the supreme expression of praise.</sup>  
+va·jra·satt·va sa·ma·ya ma·nu·pā·la·ya va·jra·satt·va  
+<sup>Vajrasattva, ensure your samaya remains intact.</sup>  
+tven·o·pa·tiṣ·ṭha dṛḍ·ho me bha·va  
+<sup>Be steadfast in your care of me.</sup>  
+su·to·ṣyo me bha·va  
+<sup>Grant me unqualified contentment.</sup>  
+su·po·ṣyo me bha·va  
+<sup>Enhance everything that is noble within me.</sup>  
+anur·ak·to me bha·va  
+<sup>Look after me.</sup>  
+sar·va·sidd·hiṃ me pray·acch·a  
+<sup>Grant me all accomplishments,</sup>  
+sar·va·kar·ma·su ca me  
+<sup>And in everything I do</sup>  
+citt·aṃ śrey·aḥ ku·ru  
+<sup>Ensure my mind is virtuous.</sup>  
+hūṃ  
+<sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
+ha ha ha ha  
+<sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
+hoḥ  
+<sup>What joy!</sup>  
+bha·ga·van sar·va·tath·ā·ga·ta·va·jra  
+<sup>Blessed One, who embodies all the tathāgatas, Vajra(sattva),</sup>  
+mā me muñ·ca  
+<sup>Never abandon me!</sup>  
+va·jrī bha·va  
+<sup>Grant me the realization of vajra nature!</sup>  
+ma·hā·sa·ma·ya·satt·va  
+<sup>Great samayasattva,</sup>  
+āḥ  
+<src>I am one with you.</src>  
+english <a href="https://www.bodhicittasangha.org/100-syllable-mantra/">src</a>  
+
+</details><br>
+
+
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
