@@ -2726,7 +2726,9 @@ down as far as the words:
 
 > ... Purify me until not a single one remails!  
 
-Then, in the heart of [Vajrasattva](#vajrasattva), who is indivisibly united with his consort, visualize a lunar disc no bigger than a flattened mustard seed, and upon it a white *hum*, as fine as if it had been drawn with a single hair. As you recite the hundred syllable mantra once, "Om Vajrasattva Samaya..."<sup>[185.1](#185-1)</sup> and so on,
+Then, in the heart of [Vajrasattva](#vajrasattva), who is indivisibly united with his consort, visualize a lunar disc no bigger than a flattened mustard seed, and upon it a white *hum*, as fine as if it had been drawn with a single hair. As you recite the hundred syllable mantra once, "Om Vajrasattva Samaya..."<sup>[185.1](#185-1)</sup> and so on, visualize its syllables arranged around the *hum* in a circle. None of them touch each other, like the horns of cattle when they stand close together.<sup>*</sup> Then recite the hundred syllables as a prayer, imagining at the same time that a nectar of compassion and wisdom drips down from each of the syllables, one glistening drop after another, like water dripping down from ice as it melts near a fire. Pouring down through the body of [Vajrasattva](#vajrasattva), the nectar emerges from the point of union of the deity and consort, and, passing through the crown of your head, flows into you, and into all other sentient beings too.
+
+<sup>* That is, close together without becoming entangled..</sup><br>
 
 <details id="185-1"><summary>Note <sup>185.1</sup></summary>
 The Hundred Syllable Mantra<br>  
@@ -2771,7 +2773,11 @@ english <a href="https://www.bodhicittasangha.org/100-syllable-mantra/">src</a>
 
 </details><br>
 
+Like particles of earth being washed away by a powerful stream, all your physical illnesses are flushed out in the form of rotten blood and pus. All negative forces are expelled in the form of spiders, scorpions, toads, fish, snakes, tadpoles, lice and the like, and all harmful actions and obscurations as black liquid, dust, smoke, clouds and vapors. All this is carried away by the irresistible flood of nectar and pours out of your body as a black shower through the lower orifices, the soles of your feet and all the pores of your skin. The earth beneath you opens up and in the depths appears Death, personification of your past actions, surrounded by all the male and female beings to whom you owe karmic debts and all those who seek to venge themselves on your flesh. While you recite the hundred syllable mantra, visualize all those impurities pouring down into their open mouths and into the hands and arms they raise expectantly toward you.
 
+If you can, visualize the whole process simultaneously. Otherwise, you can alternate. As you recite the mantra, sometimes concentrate on the body of [Vajrasattva](#vajrasattva), his face, hands and so on; sometimes on his ornaments and clothing; sometimes on the flow of [nectar](#nectar) purifying illnesses, negative forces, [evil actions](#negative-action) and [obscurations](#obscurations); and sometimes on your regret for what you have done and your resolve never to repeat it.
+
+At the end, imagine that Death, the embodiment of past actions, and all the others below the earth&mdash;every kind of karmic creditor and all those who seek vengeance on your flesh&mdash;are appeased and satisfied. Past scores have been settled, debts have been repaid and vengeance has been appeased. You are cleansed of all past [negative actions](#negative-action) and [obscurations](#obscurations). Death closes his mouth and hands and lowers his arms. The earth closes again.
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
