@@ -451,7 +451,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and study. May it help end all sufferings.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. New notes (all notes in the Vajrasattva practice from a 3 month ngondro retreat by Ven. Khenpo Tenzin with non-public notes at http://empty.guru) that are formatted with a dot and a new number, to clarify things (like explaining what the four continents are in [ Note 37.1](#37-1)) with links to their sources. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
+Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. New notes (all notes in the Vajrasattva practice from a 3 month ngondro retreat by Ven. Khenpo Tenzin with non-public notes at https://github.com/ryanallen/dharma/blob/main/docs/v.md) that are formatted with a dot and a new number, to clarify things (like explaining what the four continents are in [ Note 37.1](#37-1)) with links to their sources. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to american spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of transference into headings.
 
 May all beings be free from suffering.
 
@@ -2497,7 +2497,7 @@ It was not lack of respect that caused him to count the [Karmapa](#karmapa) Lama
 
 # <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations<sup>[172](#172)</sup></i></div>
 
-<details id="172"><summary>Note <sup>172</sup></summary>Before embarking on this practice one should have received the empowerment of Vajrasattva from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (Ryan Allen's empowerment through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma" target="_blank">empty.guru</a> for reference.)</details><br>
+<details id="172"><summary>Note <sup>172</sup></summary>Before embarking on this practice one should have received the empowerment of Vajrasattva from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (Ryan Allen's empowerment through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma/blob/main/docs/v.md" target="_blank">this repo</a> for reference.)</details><br>
 
 > *Beyond being defiled by the [two obscurations](#two-obscurations),*<sup>*</sup> *you purport to still be purifying them.*  
 *Having certainly reached the sublime path's very end, you profess to still be learning.*  
@@ -2779,13 +2779,33 @@ If you can, visualize the whole process simultaneously. Otherwise, you can alter
 
 At the end, imagine that Death, the embodiment of past actions, and all the others below the earth&mdash;every kind of karmic creditor and all those who seek vengeance on your flesh&mdash;are appeased and satisfied. Past scores have been settled, debts have been repaid and vengeance has been appeased. You are cleansed of all past [negative actions](#negative-action) and [obscurations](#obscurations). Death closes his mouth and hands and lowers his arms. The earth closes again.
 
-Imagine that your body has now become transparent inside and out, a body of light. Running vertically down inside it, visualize the central channel, at four points along whose length are the four wheels (Skt. *cakra*) where channels<sup>[186](#186)</sup> branch out radially like the spokes of an umbrella. At the level of your navel is the wheel of manifestation, with sixty-four radial channels turning upwards. At the level of your heart is the wheel of Dharma, with eight radial channels turning downwards. In your throat is the wheel of enjoyment, with sixteen radial channels turning upwards. In the crown of your head is the wheel of great bliss, with thirty-two radial channels turning downwards.
+Imagine that your body has now become transparent inside and out, a body of light. Running vertically down inside it, visualize the [central channel](#central-channel), at four points along whose length are the four wheels (Skt. *cakra*) where channels<sup>[186](#186)</sup> branch out radially like the spokes of an umbrella. At the level of your navel is the wheel of manifestation, with sixty-four radial channels turning upwards. At the level of your heart is the wheel of Dharma, with eight radial channels turning downwards. In your throat is the wheel of enjoyment, with sixteen radial channels turning upwards. In the crown of your head is the wheel of great bliss, with thirty-two radial channels turning downwards.
 
 <details id="186"><summary>Note <sup>186</sup></summary>These are not material channels but the subtle pathways in which the subtle energies of the body flow. The significance of these channels becomes clear when one practices the yogic exercises of the perfection phase of the main practice.</details><br>
 
-The nectar then starts to flow down again as before. Beginning with the wheel of great bliss at the crown of your head, it completely fills the central channel and each of the four wheels and then spreads outward, filling your entire body to the tips of your fingers and toes. Brimming with white nectar, you are like a crystal vase filled with milk.
+The [nectar](#nectar) then starts to flow down again as before. Beginning with the wheel of great bliss at the crown of your head, it completely fills the central channel and each of the four wheels and then spreads outward, filling your entire body to the tips of your fingers and toes. Brimming with white nectar, you are like a crystal vase filled with milk.
 
-Think that you are receiving the [four empowerments](#four-empowerments):<sup>[187](#1867)</sup> the [vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment).
+Think that you are receiving the [four empowerments](#four-empowerments):<sup>[187](#187)</sup> the [vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment). You are also purified of the [four types of obscurations](#four-obscurations): karmic obscurations, obscurations of negative emotions, conceptual obscurations and obscurations of habitual tendencies. The wisdom of the [four joys](#four-joys) arises in you: joy, supreme joy, extraordinary joy and innate joy. The levels of the [four kayas](#four-kayas) are established in you: the [nirmanakaya](#nirmanakaya), the [sambhogakaya](#sambhogakaya), the [dharmakaya](#dharmakaya) and the [svabhavikaya](#svabhavikakaya).
+
+Then recite the prayer beginning:
+
+> *O Protector, in ignorance and confusion...*
+
+and ending:
+
+> *... I beg you, cleanse and purify me!*<sup>[187.1](#187-1)</sup>
+
+<details id="187-1"><summary>Note <sup>187.1</sup></summary><i>In the darkness of ignorance, I have gone astray and breached samaya. Guru, protector, please give me refuge! Chief vajra holder, nature of great compassion, lord of all beings, I take refuge in you!</i></details><br>
+
+Imagine that the moment you recite these lines the teacher [Vajrasattva](#vajrasattva) is delighted, and smilingly grants your prayer with these words:
+
+> Fortunate one, all your negative actions, obscurations, violations and breaches are purified.[187.2](#187-2)</sup>
+
+<details id="187-2"><summary>Note <sup>187.2</sup></summary>To this supplication, Vajrasattva responds, “O child of noble family, all your negativities, obscurations, faults, and downfalls are cleansed.” Giving pardon, he [melts into light and] dissolves into me indivisibly.
+<br><br>
+Having contemplated thus, even the notion of a deity dissolves into a state of luminous, natural awareness. Rest briefly in this state of beholding Vajrasattva’s actual face: the empty awareness, in which all concepts of something to be purified and someone who purifies lack inherent existence.</details><br>
+
+He then melts into light and dissolves into you, so that you yourself are now transformed into [Vajrasattva](#vajrasattva), just as you visualized him before.
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
