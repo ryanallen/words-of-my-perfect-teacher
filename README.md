@@ -2756,7 +2756,7 @@ citt·aṃ śrey·aḥ ku·ru
 hūṃ  
 <sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
 ha ha ha ha  
-<sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
+<sup>These represent the four immeasurable, the four empowerments, the four joys, and the four kāyās.</sup>  
 hoḥ  
 <sup>What joy!</sup>  
 bha·ga·van sar·va·tath·ā·ga·ta·va·jra  
@@ -2778,6 +2778,14 @@ Like particles of earth being washed away by a powerful stream, all your physica
 If you can, visualize the whole process simultaneously. Otherwise, you can alternate. As you recite the mantra, sometimes concentrate on the body of [Vajrasattva](#vajrasattva), his face, hands and so on; sometimes on his ornaments and clothing; sometimes on the flow of [nectar](#nectar) purifying illnesses, negative forces, [evil actions](#negative-action) and [obscurations](#obscurations); and sometimes on your regret for what you have done and your resolve never to repeat it.
 
 At the end, imagine that Death, the embodiment of past actions, and all the others below the earth&mdash;every kind of karmic creditor and all those who seek vengeance on your flesh&mdash;are appeased and satisfied. Past scores have been settled, debts have been repaid and vengeance has been appeased. You are cleansed of all past [negative actions](#negative-action) and [obscurations](#obscurations). Death closes his mouth and hands and lowers his arms. The earth closes again.
+
+Imagine that your body has now become transparent inside and out, a body of light. Running vertically down inside it, visualize the central channel, at four points along whose length are the four wheels (Skt. *cakra*) where channels<sup>[186](#186)</sup> branch out radially like the spokes of an umbrella. At the level of your navel is the wheel of manifestation, with sixty-four radial channels turning upwards. At the level of your heart is the wheel of Dharma, with eight radial channels turning downwards. In your throat is the wheel of enjoyment, with sixteen radial channels turning upwards. In the crown of your head is the wheel of great bliss, with thirty-two radial channels turning downwards.
+
+<details id="186"><summary>Note <sup>186</sup></summary>These are not material channels but the subtle pathways in which the subtle energies of the body flow. The significance of these channels becomes clear when one practices the yogic exercises of the perfection phase of the main practice.</details><br>
+
+The nectar then starts to flow down again as before. Beginning with the wheel of great bliss at the crown of your head, it completely fills the central channel and each of the four wheels and then spreads outward, filling your entire body to the tips of your fingers and toes. Brimming with white nectar, you are like a crystal vase filled with milk.
+
+Think that you are receiving the [four empowerments](#four-empowerments):<sup>[187](#1867)</sup> the [vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment).
 
 # <div align="center">CHAPTER FOUR<br><i>Offering the mandala to accumulate merit and wisdom</i></div>
 ## I. THE NEED FOR THE THE TWO ACCUMULATIONS
