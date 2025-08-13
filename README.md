@@ -1757,7 +1757,7 @@ Jamgon Kongtrul states:
 
 Dudjom Rinpoche states:  
 
-> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara—each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the Vinaya scriptures:
+> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara&mdash;each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the Vinaya scriptures:
 >  
 >  > Cool, sweet, light, and soft,  
 Clear and odorless,  
@@ -2348,10 +2348,36 @@ There was once a monk whose conduct was exemplary but whose pride was enormous. 
 
 It was not lack of respect that caused him to count the [Karmapa](#karmapa) Lamas with the [hells](#hells). He had simply forgotten the names of the [ephemeral hells](#13-the-ephemeral-hells) and [the neighboring hells](#119-the-neighboring-hells), and since the Red and Black Hat Karmapas were very well known at the time, impulsively he put them in. Now, whether or not you have practiced the teachings you have received is one thing, but not to know at least the words and terms involved is truly shameful.
 
-### **2. The pretas**
-#### 2.1 PRETAS WHO LIVE COLLECTIVELY
-##### 2.1.1 Pretas suffering from external obscurations
-##### 2.1.2 Pretas suffering from internal obscurations
+### **2. The pretas**  
+
+There are two sorts of [preta](#preta): those who live collectively and those who move through space.  
+
+#### 2.1 PRETAS WHO LIVE COLLECTIVELY  
+
+These [pretas](#preta) suffer from external, internal or specific obscurations.
+
+##### 2.1.1 Pretas suffering from external obscurations  
+
+These [pretas](#preta) are tormented by extreme hunger and thirst. Centuries pass without their even hearing any mention of water. Constantly obsessed with food and drink, they search for them endlessly, without ever finding even the tiniest trace. From time to time, far away, they catch sight of a stream of clear, pure water. But their joints are too fragile to take the weight of their bellies. They get there only with great pain and arrive utterly exhausted&mdash;only to suffer even more when they find that the water has completely dried up, leaving nothing but the stony river bed.  
+
+Sometimes they see an orchard of fruit trees in the distance. As before, they approach, but when they arrive they find that the huge trees are all dried up and withered. Sometimes they see an abundance of food and drink and other pleasant things, but when they get near they find that it is guarded by a large number of armed men who chase and beat them with their weapons, causing them great pain.  
+
+In summer, even the moonlight feels hot and burns them; in winter, even the sun feels icy cold. These sensations torture them terribly.  
+
+Once, when [Srona](#srona-sronajat) was in the land of the [pretas](#preta), he found their avarice so poisonous that it gave him a fever and his mouth became completely dry. He came across an iron castle at whose door stood a terrifying sombre figure with red eyes.
+
+"Where is there some water?" [Srona](#srona-sronajat) asked.
+
+At these words, a crowd of [pretas](#preta), all looking like lumps of burnt wood, came milling around him, begging, "Great perfect being, give us water!"
+
+"I have found none myself," answered he. "It is for you to give me some."
+
+"What do you mean?" replied the [pretas](#preta). "We were born in this land twelve years ago and until today we have never even heard as much as a mention of water."
+
+##### 2.1.2 Pretas suffering from internal obscurations  
+
+These [pretas](#preta) have mouths no bigger than the eye of a needle. Even were they to drink all the water in the great oceans, by the time it had passed down their throats, which are as narrow as a horse-hair, the heat of their breath would have evaporated it. Even were they somehow to swallow a little, their stomachs, which are the size of a whole country, could never be filled. Even if&mdash;finally&mdash;enough to satisfy them were ever to get into their stomach, it would burst into flames during the night and burn their lungs, their heart, and all their entrails. When they want to move, they cannot lift their gigantic bellies with their grass-like limbs, and this causes them immense suffering.
+
 ##### 2.1.3 Pretas suffering from specific obscurations
 #### 2.2 PRETAS WHO MOVE THROUGH SPACE
 ### **3. The animals**
