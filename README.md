@@ -2378,7 +2378,36 @@ At these words, a crowd of [pretas](#preta), all looking like lumps of burnt woo
 
 These [pretas](#preta) have mouths no bigger than the eye of a needle. Even were they to drink all the water in the great oceans, by the time it had passed down their throats, which are as narrow as a horse-hair, the heat of their breath would have evaporated it. Even were they somehow to swallow a little, their stomachs, which are the size of a whole country, could never be filled. Even if&mdash;finally&mdash;enough to satisfy them were ever to get into their stomach, it would burst into flames during the night and burn their lungs, their heart, and all their entrails. When they want to move, they cannot lift their gigantic bellies with their grass-like limbs, and this causes them immense suffering.
 
-##### 2.1.3 Pretas suffering from specific obscurations
+##### 2.1.3 Pretas suffering from specific obscurations  
+
+These [pretas](#preta) have all sorts of different experiences that vary from one to another and are of varying intensity. For example, some have many creatures living on their bodies and devouring them.
+
+Once when he was travelling in the land of the [pretas](#preta), [Srona](#srona-sronajat) came to a palace where he met a beautiful woman. Exquisitely formed and bedecked with precious jewels, she was ravishing to behold. To each of the four legs of her throne a [preta](#preta) was tied. She offered [Srona](#srona-sronajat) something to eat, warning him not to give the smallest scrap to the other pretas even if they begged for it. When [Srona](#srona-sronajat) started to eat they began to beg. He gave some food to one of them and it turned into chaff; what he gave to the second turned into a lump of iron; the third started to eat his own flesh, and what he gave to the fourth became pus and blood.
+
+When the woman cambe back, she cried, "Didn't I tell you not to give them anything! Do you think that you are more compassionate than I am?"
+
+"What is the connection between you and these four?" [Srona](#srona-sronajat) asked her.
+
+"This was my husband; that one was my son, that was my daughter-in-law, and the fourth was my servant."
+
+"What past actions have brought you here?"
+
+"The people of [Jambudvipa](#jambudvipa) are too sceptical," the woman replied. "You will never believe me."
+
+"How could I not believe you, when I am seeing this with my very own eyes?"
+
+So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmin) woman in a village. One evening, I had prepared some delicious food because it was an auspicious day. The great and sublime [Katyayana](#katyayana) happened to come by on his alms round. I felt faith in him and gave him an offering of food. Then I thought to myself that perhaps my husband would like to share the [merit](#merit). 'Rejoice with me that I have given alms to the great and [sublime](#sublime-being) [Katyayana](#katyayana), the [Buddha's](#buddha) heir,' I said to him. But he flew into a rage. 'You have not yet offered food to the [brahmins](#brahmin), nor even presented your respects to your family and friends, and there you are giving the first part of the food to this shaven-skulled monk! Why can't he stuff his mouth with chaff?'
+
+"I made that same proposition to my son, who also got angry: 'Why doesn't your bald-head eat lumps of iron?' he yelled.
+
+"That night, my parents sent me over some delicous food, but my daughter-in-law ate it, leaving me the worst bits. When I asked her, 'Did you eat the good food and just leave me the worst bits?' she told me a lie: 'I would rather eat my own flesh,' said she, 'than touch a dish which was meant for you!'
+
+"Similarly, when my servant ate the meal that she was supposed to take over to my family, she told me that she would rather drink blood and pus than steal food from me.
+
+"I myself became a powerful [preta](#preta) because I made the wish to be reborn where I could see what happened to them as a result of their actions. Had I not made such a wish I would have been born amongst the [gods](#gods) of the [Heaven of the Thirty-three](#thirty-three), having given alms to a [sublime being](#sublime-being).
+
+"If you ever go to our village, tell my daughter, who is a prostitute, that you ahve seen her parents and that you have been entrusted to tell her that what she is doing will have negative effects, that it is the wrong way to live and she should give up those evil ways.
+
 #### 2.2 PRETAS WHO MOVE THROUGH SPACE
 ### **3. The animals**
 #### 3.1 ANIMALS LIVING IN THE DEPTHS
