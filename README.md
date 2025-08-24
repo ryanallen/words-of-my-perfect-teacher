@@ -2408,6 +2408,18 @@ So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmi
 
 "If you ever go to our village, tell my daughter, who is a prostitute, that you ahve seen her parents and that you have been entrusted to tell her that what she is doing will have negative effects, that it is the wrong way to live and she should give up those evil ways.
 
+"If she doesn't believe you, tell her that in her father's old house there are four iron pots filled with gold, a golden stick and an ablution jar for monks. Tell her to take them and make offerings to the great and sublime [Katyayana](#katyayana) from time to tome, and to dedicate the merit in our name. This will reduce our [karma](#karma) till it is finally exhausted."
+
+Once, as the Master Jetari was travelling, he met a female [preta](#preta) with a repulsive body, who was the mother of five hundred children.
+
+"My husband went to Bodh Gaya twelve years ago, looking for food. He still isn't back. If you go there, tell him that if he doesn't come back soon, our children will all have died of hunger."
+
+"What does your husband look like?" asked the Master. "All [pretas](#preta) look alike; how will I recognize him?"
+
+"You can't miss him," said she. "he's got a huge mouth, a squashed nose, he's blind in one eye and has all nine marks of ugliness."
+
+
+
 #### 2.2 PRETAS WHO MOVE THROUGH SPACE
 ### **3. The animals**
 #### 3.1 ANIMALS LIVING IN THE DEPTHS
