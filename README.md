@@ -2418,6 +2418,14 @@ Once, as the Master Jetari was travelling, he met a female [preta](#preta) with 
 
 "You can't miss him," said she. "he's got a huge mouth, a squashed nose, he's blind in one eye and has all nine marks of ugliness."
 
+When Jetari came to Bodh Gaya, he saw a novice monk throwing many food and water [torma](#torma) offerings outside. When the novice had gone, a horde of [pretas](#preta) was jostling to get them. Among them was the one he was looking for, so he gave him his wife's message.
+
+The [preta](#preta) replied, "I've wandered around for twelve years but I never got a thing&mdash;except once, when a pure monk let fall some snot, but I didn't even get much of that because there were lots of us fighting for it." And during that battle for a bit of snot, the Master added as he related the story, the [preta](#preta) had been terribly wounded by the others.
+
+Mentally take upon yourself the different torments that afflict the [pretas](#preta) wherever they are reborn, especially their hunger and thirst. Think how much you suffer when you do not eat or drink just for a monring. How would you feel if you were reborn in a place where for years you do not even hear any mention of water?
+
+Reflect that the principal causes of rebirth as a [preta](#preta) are stinginess and opposing the generosity of others. We too have committed such acts innumerable times, so we must do whatever we can to avoid being born there. [Meditate](#meditate-meditation) in this way from the core of your heart with the [three methods](#three-supreme-methods) for the [beginning, main part and conclusion](#preparation-main-part-and-conclusion).
+
 
 
 #### 2.2 PRETAS WHO MOVE THROUGH SPACE
