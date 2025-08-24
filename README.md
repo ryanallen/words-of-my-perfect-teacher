@@ -2426,9 +2426,14 @@ Mentally take upon yourself the different torments that afflict the [pretas](#pr
 
 Reflect that the principal causes of rebirth as a [preta](#preta) are stinginess and opposing the generosity of others. We too have committed such acts innumerable times, so we must do whatever we can to avoid being born there. [Meditate](#meditate-meditation) in this way from the core of your heart with the [three methods](#three-supreme-methods) for the [beginning, main part and conclusion](#preparation-main-part-and-conclusion).
 
-
-
 #### 2.2 PRETAS WHO MOVE THROUGH SPACE
+
+These are the *tsen*, *gyalpo*, *shindre*, *junpgo*, *mamo*, *theurang* * and so on, all of whom live out their lives in constant terror and hallucination. Thinking of nothing but evil, they always do whatever they can to bring harm to others, and many of them fall into even lower realms such as the [hells](#hell) as soon as they die. In particular, every week they relive all the pain of their preceding death from sickness, weapons, evil forces, or whatever it was. What they want to do is to offload their pain on others, so wherever they go they do nothing but harm. But they still fail to do themselves any good by it. Even when they happily visit their former friends and loved ones, they only bring them sickness, insanity and other unwelcome sufferings.
+
+<sup>* Different categories of spirits with no equivalent terms in English.</sup>
+
+These [pretas](#preta) 
+
 ### **3. The animals**
 #### 3.1 ANIMALS LIVING IN THE DEPTHS
 #### 3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES
