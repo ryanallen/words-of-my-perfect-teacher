@@ -2432,11 +2432,31 @@ These are the *tsen*, *gyalpo*, *shindre*, *junpgo*, *mamo*, *theurang* * and so
 
 <sup>* Different categories of spirits with no equivalent terms in English.</sup>
 
-These [pretas](#preta) 
+These [pretas](#preta) undergo continual torture. Powerful magicians bury them, burn them and perform rituals in which they cast all sorts of imaginary weapons at them.<sup>[51](#51)</sup> They lock them under the earth in darkness for [kalpas](#kalpa), burn them up in offering fires, pound them with mustard seeds, powdered stones and the like. They split their heads into a hundred pieces and their bodies into a thousand fragments.
+
+<details id="51"><summary>Note <sup>51</sup></summary>The magicians hurl various symbolic projectiles at them, such as tormas, mustard seeds or powders, which the pretas perceive as weapons destroying their bodies.</details><br>
+
+Like all [pretas](#preta), these too have distorted perceptions: in winter, the sun feels cold to them; in summer the moon burns. Some take the form of a bird, a dog or other animal, hideous to look upon. In short, the [pretas'](#preta) sufferings are inconceivable.
+
+Practice as before, meditating with the methods for the beginning, main practice and conclusion. Mentally take on the sufferings of these beings and cultivate love and compassion for them.
 
 ### **3. The animals**
+
+There are two categories of animals: those living in the depths and those scattered in different places.
+
 #### 3.1 ANIMALS LIVING IN THE DEPTHS
+
+The great outer oceans teem with fish, reptiles, turtles, shellfish, worms and other creatures, as numerous as the grains of malt in the bottom of a beer-barrel. There are serpents and monsters so big that their bodies can wind many times around [Mount Meru](#meru-mount). Other creatures are as small as particles of dust or the tip of a needle.
+
+They all undergo immense sufferings. The bigger ones swallow up the smaller ones. The small ones burrow into the big ones and eat them alive in their turn. The big animals all have many tiny ones living inside them, feeding on their flesh. Some of these creatures are born between the continents, where the sun does not shine and where they cannot even see whether their limbs are bent in or stretched out. Stupid and ignorant, they have no comprehension of what to do and what not to do. They are reborn in places where suffering knows no bounds.
+
 #### 3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES
+
+The animals that live in the realms of gods and humans suffer continually from their stupidity and from being exploited, while the [nagas](#naga)<sup>[52](#52)</sup> 
+
+<details id="52"><summary>Note <sup>52</sup></summary>Nagas are a category of beings living under the earth and having miraculous powers. Although they are simiilar to spirits, they are classed with the animals on account of their serpent-like form. See garuda.
+</details><br>
+
 ### **4. The human realm**
 #### 4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING
 ##### 4.1.1 The suffering of change
