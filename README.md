@@ -2294,7 +2294,7 @@ As for the lifespan in these cold hells, imagine a container that could hold two
 
 For the other cold hells, lifespan and sufferings increase by multiples of twenty for each one. Life thus lasts twenty times longer in the Hell of Burst Blisters than in the Blistering Hell; twenty times longer than that in the Hell of Clenched Teeth; and so on.
 
-Take these sufferings upon yourself mentally, and meditate on them in the same way as for the [hot hells](#11-the-eight-hot-hells). Think how unbearably cold it feels to stand naked in the winter wind even for an instant in this present human world. How could you stand it if you were reborn in those realms? Confess your faults and promise never to commit them again. Then develop compassion for the beings actually living in those worlds. Practice as before, employing each of the methods for the beginning, main practice and conclusion.
+Take these sufferings upon yourself mentally, and meditate on them in the same way as for the [hot hells](#11-the-eight-hot-hells). Think how unbearably cold it feels to stand naked in the winter wind even for an instant in this present human world. How could you stand it if you were reborn in those realms? Confess your faults and promise never to commit them again. Then develop compassion for the beings actually living in those worlds. Practice as before, employing each of the methods for the [beginning, main practice and conclusion](#preparation-main-part-and-conclusion).
 
 #### 1.3 THE EPHEMERAL HELLS
 
@@ -2438,7 +2438,7 @@ These [pretas](#preta) undergo continual torture. Powerful magicians bury them, 
 
 Like all [pretas](#preta), these too have distorted perceptions: in winter, the sun feels cold to them; in summer the moon burns. Some take the form of a bird, a dog or other animal, hideous to look upon. In short, the [pretas'](#preta) sufferings are inconceivable.
 
-Practice as before, meditating with the methods for the beginning, main practice and conclusion. Mentally take on the sufferings of these beings and cultivate love and compassion for them.
+Practice as before, meditating with the methods for the [beginning, main practice and conclusion](#preparation-main-part-and-conclusion). Mentally take on the sufferings of these beings and cultivate love and compassion for them.
 
 ### **3. The animals**
 
@@ -2452,10 +2452,20 @@ They all undergo immense sufferings. The bigger ones swallow up the smaller ones
 
 #### 3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES
 
-The animals that live in the realms of gods and humans suffer continually from their stupidity and from being exploited, while the [nagas](#naga)<sup>[52](#52)</sup> 
+The animals that live in the realms of gods and humans suffer continually from their stupidity and from being exploited, while the [nagas](#naga)<sup>[52](#52)</sup> pass their lives in misery being tormented by [garudas](#garuda) and rains of burning sand. In addition they are stupid, aggressive and poisonous.
 
-<details id="52"><summary>Note <sup>52</sup></summary>Nagas are a category of beings living under the earth and having miraculous powers. Although they are simiilar to spirits, they are classed with the animals on account of their serpent-like form. See garuda.
+<details id="52"><summary>Note <sup>52</sup></summary>Nagas are a category of beings living under the earth and having miraculous powers. Although they are simiilar to spirits, they are classed with the animals on account of their serpent-like form. See <a href="#garuda">garuda</a>.
 </details><br>
+
+The wild animals that share our human world, in particular, live in constant fear. They cannot eat a single mouthful of food without being on their guard. They have many mortal enemies, for all animals prey on each other and there are always hunters, beasts of prey and other threats to life. Hawks kill small birds, small birds kill insects, and so on, continually amassing evil actions in an endless round of killing and being killed.
+
+Hunters are expert in all methods of torturing and killign these animals. They threaten their lives with all sorts of vicious devices&mdash;nets, snares, traps and guns. Some animals are killed for their horns, fur, skins and other products of their body. Oysters are killed for their pearls; elephants for their tusks and bones; tigers, leopards, otters and foxes for their fur; musk-oxen for their musk; wild asses and yaks for their flesh and blood. It is a terrible affliction that the very body with which they are born is the reason for their being killed.
+
+As for those animals domesticated by man, they are so stupid that when their executioner approaches, knife in hand, they can only stare wide-eyed, not even thinking of escape. They are milked, loaded down, castrated, pierced through the nose and yoked to the plough. Not one of them escapes this continual round of slavery. Horses and yaks continue to be loaded and ridden even when their backs are nothing but one big sore. When they can go no further, they are whipped and pelted with stones. The fact that they could be in distress or ill never seems to cross their owners' minds.
+
+Cattle and sheep are exploited until they die. Once they are too old, they are sold off or killed by the owners themselves. Whatever the case, they are destined for the butcher and a natural death is unknown to them.
+
+Animals, then, experience inconceivable torments. Whenever you see animals tortured in this way, put yourself in their place and imagine in detail all they have to undergo. meditate with fierce compassion upon all those reborn as animals. In particular, if you have animals of your own, treat them with kindess and love. Since all animals, right down to the smallest insect, have feelings of pleasure and pain, and since they have all been our fathers and mothers, develop love and compassion towards them, combining your practice with the methods for the [beginning, main part and conclusion](#preparation-main-part-and-conclusion).
 
 ### **4. The human realm**
 #### 4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING
