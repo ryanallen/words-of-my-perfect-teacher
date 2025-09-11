@@ -2467,6 +2467,12 @@ Cattle and sheep are exploited until they die. Once they are too old, they are s
 
 Animals, then, experience inconceivable torments. Whenever you see animals tortured in this way, put yourself in their place and imagine in detail all they have to undergo. meditate with fierce compassion upon all those reborn as animals. In particular, if you have animals of your own, treat them with kindess and love. Since all animals, right down to the smallest insect, have feelings of pleasure and pain, and since they have all been our fathers and mothers, develop love and compassion towards them, combining your practice with the methods for the [beginning, main part and conclusion](#preparation-main-part-and-conclusion).
 
+---
+
+No matter where in these three [lower realms](#lower-realms) beings may be reborn, they experience all manner of intense and long-lasting sufferings. Beings born there are stupid, ignorant and without and idea of [Dharma](#dharma), and can only create further causes for yet more lives in the lower reealms. So once reborn there, it is difficult to get out. In this present life of ourse, and in other past lives, we have accumulated numerous actions that are certain to lead us to rebirth in those states. So we should apply ourselves with great sincerity to regretting our wrong actions in the past, confession them and vowing to avoid them from now on.
+
+Thinking with great compassion of the beings who live in those worlds, dedicate to them the effects of all the positive actions you ahve accumulated throughout the [three times](#three-times). Pray that they may be liberated from those evil realms: "Now that I have met with the [Dharma](#dharma) of the [Great Vehicle](#great-vehicle), and have the chance to practice the path that brings true benefit both to myself and to others, I shall practice that [Dharma](#dharma) with courage, scorning all difficulties, and lead all those beings of the three [lower realms](#lower-realms) to the [Buddhafields](#buddhafield)."
+
 ### **4. The human realm**
 #### 4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING
 ##### 4.1.1 The suffering of change
