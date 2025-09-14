@@ -6,7 +6,7 @@
 
 <div align="center">by Patrul Rinpoche</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-digital edition <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for study, scholarship, research, [merit](#merit), and teaching to help end the suffering of all sentient beings.</div>  
+digital edition <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a> for study, scholarship, research, <a href="#merit">merit</a>, and teaching to help end the suffering of all sentient beings.</div>  
 
 ---
 
