@@ -2511,13 +2511,22 @@ All the factors we now see as constituting happiness&mdash;food to eat, clothes 
 #### 4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE AND DEATH
 ##### 4.2.1 The suffering of birth
 
-For human beings here in this world, birth is from the womb.<sup>[54](#54)</sup> The consciousness of a being in the [intermediate state](#intermediate-state) first has to interpose itself into the union of the father's semen and mother's blood. it then passes through the painful experiences of the various embryonic stages: the round jelly, viscous ellipse, thick oblong, firm oval, hard round lump<sup>,[55](#55)</sup> and so on. Once the limbs, appendages and sense-organs have formed, the fetus, trapped inside the dark, rank and suffocating uterus, suffers like someone thrown into a prison. When the mother eats hot food, the fetus suffers pain as if being burned by fire. When she eats something cold, it feels as if it is being thrown into freezing water; when she lies down, as if buried under the weight of a hill; when her stomach is full, as if trapped between rocks; when she is hungry, as if falling from a precipice; when she walks about or sits down, as if buffeted about by the [wind](#wind).
+For human beings here in this world, birth is from the womb.<sup>[54](#54)</sup> The consciousness of a being in the [intermediate state](#intermediate-state) first has to interpose itself into the union of the father's semen and mother's blood. It then passes through the painful experiences of the various embryonic stages: the round jelly, viscous ellipse, thick oblong, firm oval, hard round lump<sup>,[55](#55)</sup> and so on. Once the limbs, appendages and sense-organs have formed, the fetus, trapped inside the dark, rank and suffocating uterus, suffers like someone thrown into a prison. When the mother eats hot food, the fetus suffers pain as if being burned by fire. When she eats something cold, it feels as if it is being thrown into freezing water; when she lies down, as if buried under the weight of a hill; when her stomach is full, as if trapped between rocks; when she is hungry, as if falling from a precipice; when she walks about or sits down, as if buffeted about by the [wind](#wind).
 
-As
+<details id="54"><summary>Note <sup>54</sup></summary>The other principal types of birth that occur variously in the six realms are birth from an egg, birth from heat and moisture, and miraculous birth.
+</details><br>
+<details id="55"><summary>Note <sup>55</sup></summary>These are approximate translations of the technical terms used in Tibetan medicine for the first five weekly stages of embryonic development.
+</details><br>
 
-<details id="54"><summary>Note <sup>54</sup></summary>The other principal types of birth that occur variously in the six realms are birth from an egg, birth from heat and moisture, and miraculous birth.</details><br>
+As the pregnancy reaches term, the energy of [karmic](#karma) existence<sup>[56](#56)</sup> turns the baby's head downwards ready to be born. As the baby is pushed down towards the cervix, it suffers as though a strong giant were holding it by the legs and banging it against a wall. As it is forced through the bony structure of the pelvis, the baby feels as though it were being pulled through the hole in a draw-plate.<sup>[57](#57)</sup> Should the opening be too narrow, it cannot be delivered and dies. Indeed, both mother and baby may die during labor, and even if they survive they experience all the pain of dying. As the [Great Master of Oddiyana](#padmasambhava-of-oddiyana) said:
 
-<details id="55"><summary>Note <sup>55</sup></summary>These are approximate translations of the technical terms used in Tibetan medicine for the first five weekly stages of embryonic development.</details><br>
+> Both mother and child go halfway to the land of Death,
+> And all the mother's joints, except her jaws, are wrenched apart.
+
+<details id="56"><summary>Note <sup>56</sup></summary><i>las kyi rlung</i>: the force of previous actions which propels the whole process of <a href="#samsara">samsāra</a>.
+</details><br>
+<details id="57"><summary>Note <sup>57</sup></summary>A plate pierced with a hole through which metal is drawn to make wire.
+</details><br>
 
 ##### 4.2.2 The suffering of old age
 ##### 4.2.3 The suffering of sickness
