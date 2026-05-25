@@ -449,9 +449,18 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you great teachers. In response to the need for an enhanced mobile friendly and durable version of this text, <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition for research and [study](#study). May it help end all sufferings.
+Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition so the text is easier to read and [study](#study). Hand-copying the [Dharma](#dharma) is itself a traditional practice: the [sutras](#sutra) describe writing them out by hand as a way to accumulate [merit](#merit) and help the teachings last. May this copy help end all suffering.
 
-Enhancements include a linked and clickable table of contents, linked sections, linked glossary terms and collapsible notes. New notes (all notes in the [Vajrasattva](#vajrasattva) practice from a 3 month ngondro retreat by Ven. Khenpo Tenzin with non-public notes at https://github.com/ryanallen/[dharma](#dharma)/blob/main/docs/v.md) that are formatted with a dot and a new number, to clarify things (like explaining what the four continents are in [ Note 37.1](#37-1)) with links to their sources. Sections identified by numbers (example: *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now feature corresponding numbers and, where applicable, section titles for clarity. British spellings have been changed to American spellings (Ex: armour --> armor). Footnotes are at the bottom of paragraphs in the absence of page numbers. In the interest of inclusivity, gendered pronouns have been replaced with gender-neutral equivalents where appropriate. Added missing chapters to Part Three's introduction section. Changed numbered list of the five kinds of [transference](#transference) into headings.
+Changes in this edition:
+
+- Clickable table of contents, section links, and glossary links.
+- Footnotes collapse under the paragraph that calls them, since there are no page numbers to point to.
+- New numbered notes (dotted, like [Note 37.1](#37-1)) add extra context with links to their sources. The [Vajrasattva](#vajrasattva) notes come from a three-month ngondro retreat with Ven. Khenpo Tenzin.
+- Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now show their number and title.
+- British spellings changed to American (e.g. armour → armor).
+- Gendered pronouns swapped for gender-neutral ones where it fits.
+- Missing chapters added to the Part Three intro.
+- The five kinds of [transference](#transference) are now headings instead of a numbered list.
 
 May all beings be free from suffering.
 
