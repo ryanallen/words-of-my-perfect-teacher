@@ -455,7 +455,7 @@ Changes in this edition:
 
 - Clickable table of contents, section links, and glossary links.
 - Footnotes collapse under the paragraph that calls them, since there are no page numbers to point to.
-- New numbered notes (dotted, like [Note 37.1](#37-1)) add extra context with links to their sources. The [Vajrasattva](#vajrasattva) notes come from a three-month ngondro retreat with Ven. Khenpo Tenzin.
+- New numbered notes (dotted, like [Note 37.1](#37-1)) add extra context with links to their sources. The [Vajrasattva](#vajrasattva) notes come from a three-month ngondro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
 - Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now show their number and title.
 - British spellings changed to American (e.g. armour → armor).
 - Gendered pronouns swapped for gender-neutral ones where it fits.
@@ -2819,7 +2819,7 @@ For the visualization that follows, see yourself as staying in your ordinary for
 
 <details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction</a>) one often visualizes oneself in the form of a <a href="#deity">deity</a>. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
 
-<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#samsara">samsara</a> to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~Ven. Khenpo Tenzin</details>
+<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#samsara">samsara</a> to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
