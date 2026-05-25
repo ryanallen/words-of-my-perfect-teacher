@@ -2520,13 +2520,15 @@ For human beings here in this world, birth is from the womb.<sup>[54](#54)</sup>
 
 As the pregnancy reaches term, the energy of [karmic](#karma) existence<sup>[56](#56)</sup> turns the baby's head downwards ready to be born. As the baby is pushed down towards the cervix, it suffers as though a strong giant were holding it by the legs and banging it against a wall. As it is forced through the bony structure of the pelvis, the baby feels as though it were being pulled through the hole in a draw-plate.<sup>[57](#57)</sup> Should the opening be too narrow, it cannot be delivered and dies. Indeed, both mother and baby may die during labor, and even if they survive they experience all the pain of dying. As the [Great Master of Oddiyana](#padmasambhava-of-oddiyana) said:
 
-> Both mother and child go halfway to the land of Death,
-> And all the mother's joints, except her jaws, are wrenched apart.
-
 <details id="56"><summary>Note <sup>56</sup></summary><i>las kyi rlung</i>: the force of previous actions which propels the whole process of <a href="#samsara">samsāra</a>.
 </details><br>
 <details id="57"><summary>Note <sup>57</sup></summary>A plate pierced with a hole through which metal is drawn to make wire.
 </details><br>
+
+> Both mother and child go halfway to the land of Death,
+> And all the mother's joints, except her jaws, are wrenched apart.
+
+Everything the baby experiences is painful. Dropping down on the mattress as it is born feels like falling into a pit full of thorns. Having the encrusted slime wiped off its back feels like being flayed alive.
 
 ##### 4.2.2 The suffering of old age
 ##### 4.2.3 The suffering of sickness
