@@ -2528,7 +2528,7 @@ As the pregnancy reaches term, the energy of [karmic](#karma) existence<sup>[56]
 > Both mother and child go halfway to the land of Death,
 > And all the mother's joints, except her jaws, are wrenched apart.
 
-Everything the baby experiences is painful. Dropping down on the mattress as it is born feels like falling into a pit full of thorns. Having the encrusted slime wiped off its back feels like being flayed alive. Being washed clean feels like being beaten with thorns. Being taken on to its mother's lap feels like being a little bird carried off by a hawk. Having butter rubbed on the corwn of its head <sup>[58](#58)</sup>
+Everything the baby experiences is painful. Dropping down on the mattress as it is born feels like falling into a pit full of thorns. Having the encrusted slime wiped off its back feels like being flayed alive. Being washed clean feels like being beaten with thorns. Being taken on to its mother's lap feels like being a little bird carried off by a hawk. Having butter rubbed on the corwn of its head <sup>[58](#58)</sup> feels like being tied up and thrown down a hole. Being put in the cradle is like being put into dirty mud. Whenever the infant suffers from hunger, thirst, sickness and so on, all it can do is cry.
 
 ##### 4.2.2 The suffering of old age
 ##### 4.2.3 The suffering of sickness
