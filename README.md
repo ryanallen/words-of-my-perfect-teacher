@@ -2546,7 +2546,28 @@ From birth onwards, as we mature in our youth, we have the impression of growth 
 
 ##### 4.2.2 The suffering of old age
 
-As we busy ourselves with these inconsequential and ever-unfinished worldly tasks, the suffering of old age creeps up on us unnoticed. Little by little the body loses its vigor. We can no longer digest the food that we like. Our eyesight dims, and we can no longer make out small or distant objects clearly.
+As we busy ourselves with these inconsequential and ever-unfinished worldly tasks, the suffering of old age creeps up on us unnoticed. Little by little the body loses its vigor. We can no longer digest the food that we like. Our eyesight dims, and we can no longer make out small or distant objects clearly. Our hearing starts to fail and we can no longer distinguish sounds and speech correctly. Our tongue can no longer taste what we eat or drink, nor articulate properly what we want to say. As our mental faculties weaken, our memory fails us and we lapse into confusion and forgetfulness. Our teeth fall out, so we can no longer chew solid food, and whatever we say becomes an unintelligible mumble. Our body loses its heat and we no longer feel warm in light clothing. Our strength declines and we can no longer carry anything heavy. Although we still have a taste for pleasure and enjoyment we no longer have the energy. As our [channels and energies](#channels-and-energies-exercises-of) degenerate we become irritable and impatient. Scorned by all, we become depressed and sad. The body's elements get out of balance, bringing a host of illnesses and problems. We have to struggle with all our movements, like walking and sitting, which have become almost impossible tasks. [Jetsun Mila](#jetsun-mila) sings:
+
+> One, you stand yourself up as if pulling a peg from the ground;  
+> Two, you creep along as though you were stalking a bird;  
+> Three, you sit down like a sack being dropped.  
+> When these three things come together, granny,  
+> You're a sad old woman whose illusory body's wasting away.  
+>  
+> One, from the outside your skin hangs in wrinkles;  
+> Two, from the inside protrude bones where flesh and blood have shrunk;  
+> Three, in between you're stupid, deaf, blind and dazed.  
+> When these three things come together, granny,  
+> Your face frowns with ugly wrinkles.  
+>  
+> One, your clothes are so ragged and heavy;  
+> Two, your food and drink is insipid and cold;  
+> Three, you sit on your mat propped up with skins on four sides.  
+> When these three things come together, granny,  
+> You're like a realized [yogi](#yogi-or-yogini) being trampled by men and dogs. 
+
+In old age, when we want to stand up we cannot do it normally all in one movement. We have to put both hands on the floor, as though we were trying to pull a peg out of hard earth.
+
 ##### 4.2.3 The suffering of sickness
 ##### 4.2.4 The suffering of death
 #### 4.3 OTHER HUMAN SUFFERINGS
