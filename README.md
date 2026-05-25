@@ -2545,6 +2545,8 @@ Everything the baby experiences is painful. Dropping down on the mattress as it 
 From birth onwards, as we mature in our youth, we have the impression of growth and increase. But what is really happening is that our life is getting shorter, day by day, as we approach closer to death. We get caught up in this life's ordinary undertakings, one after another, none of them ever coming to a conclusion, following each other like ripples on water. As all of them are based only on negative actions, their outcome is sure to be lower rebirths and endless suffering.
 
 ##### 4.2.2 The suffering of old age
+
+As we busy ourselves with these inconsequential and ever-unfinished worldly tasks, the suffering of old age creeps up on us unnoticed. Little by little the body loses its vigor. We can no longer digest the food that we like. Our eyesight dims, and we can no longer make out small or distant objects clearly.
 ##### 4.2.3 The suffering of sickness
 ##### 4.2.4 The suffering of death
 #### 4.3 OTHER HUMAN SUFFERINGS
