@@ -449,7 +449,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition so the text is easier to read and [study](#study). Hand-copying the [Dharma](#dharma) is itself a traditional practice: the [sutras](#sutra) describe writing them out by hand as a way to accumulate [merit](#merit) and help the teachings last. May this copy help end all suffering.
+Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free of self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sutra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
 
 Changes in this edition:
 
