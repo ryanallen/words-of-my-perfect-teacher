@@ -123,7 +123,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [I. THE PROPER WAY TO LISTEN TO SPIRITUAL TEACHING](#i-the-proper-way-to-listen-to-spiritual-teaching)  
     * **[1. Attitude](#1-attitude)**  
         * [1.1 THE VAST ATTITUDE OF THE BODHICITTA](#11-the-vast-attitude-of-the-bodhicitta)  
-        * [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYANA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
+        * [1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYĀNA](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana)  
     * **[2. Conduct](#2-conduct)**  
         * [2.1 WHAT TO AVOID](#21-what-to-avoid)  
             * [2.1.1 The Three Defects of the Pot](#211-the-three-defects-of-the-pot)  
@@ -154,8 +154,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [VII. INTENSE AWARENESS OF IMPERMANENCE](#vii-intense-awareness-of-impermanence)  
 
 ◈  
-***[Chapter Three<br>The defects of samsara](#chapter-threethe-defects-of-samsara)***
-* [I. THE SUFFERINGS OF SAMSARA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
+***[Chapter Three<br>The defects of saṃsāra](#chapter-threethe-defects-of-samsara)***
+* [I. THE SUFFERINGS OF SAṂSĀRA IN GENERAL](#i-the-sufferings-of-samsara-in-general)  
 * [II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS](#ii-the-particular-sufferings-experienced-by-the-beings-of-the-six-realms)  
     * **[1. The eighteen hells](#1-the-eighteen-hells)**  
         * [1.1 THE EIGHT HOT HELLS](#11-the-eight-hot-hells)  
@@ -321,9 +321,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 * [III. THE OFFERING MANDALA](#iii-the-offering-mandala)
     * **[1. The thirty-seven element mandala offering](#1-the-thirty-seven-element-mandala-offering)**
     * **[2. The mandala offering of the three kayas according to this text](#2-the-mandala-offering-of-the-three-kayas-according-to-this-text)**
-        * [2.1 THE ORDINARY MANDALA OF THE NIRMANAKAYA](#21-the-ordinary-mandala209-of-the-nirmanakaya)
-        * [2.2 THE EXTRAORDINARY MANDALA OF THE SAMBHOGAKAYA](#22-the-extraordinary-mandala-of-the-sambhogakaya)
-        * [2.3 THE SPECIAL MANDALA OF THE DHARMAKAYA](#23-the-special-mandala-of-the-dharmakaya)
+        * [2.1 THE ORDINARY MANDALA OF THE NIRMĀṆAKĀYA](#21-the-ordinary-mandala209-of-the-nirmanakaya)
+        * [2.2 THE EXTRAORDINARY MANDALA OF THE SAṂBHOGAKĀYA](#22-the-extraordinary-mandala-of-the-sambhogakaya)
+        * [2.3 THE SPECIAL MANDALA OF THE DHARMAKĀYA](#23-the-special-mandala-of-the-dharmakaya)
 
 ◈  
 ***[Chapter Five<br>The kusali's accumulation: destroying the four demons at a single stroke](#chapter-fivethe-kusalis-accumulation-destroying-the-four-demons-at-a-single-stroke)***
@@ -346,14 +346,14 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.3 CONFESSION OF HARMFUL ACTIONS](#23-confession-of-harmful-actions257)
         * [2.4 REJOICING, THE ANTIDOTE TO JEALOUSY](#24-rejoicing-the-antidote-to-jealousy)
         * [2.5 EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA](#25-exhorting-the-buddhas-to-turn-the-wheel-of-dharma260)
-        * [2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVANA](#26-requesting-the-buddhas-not-to-enter-nirvana261)
+        * [2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVĀṆA](#26-requesting-the-buddhas-not-to-enter-nirvana261)
         * [2.7 DEDICATION](#27-dedication263)
     * **[3. Praying with resolute trust](#3-praying266-with-resolute-trust)**
     * **[4. Taking the four empowerments](#4-taking-the-four-empowerments)**
 * [III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE](#iii-the-history-of-the-advent-of-the-early-translation-doctrine)
     * **[1. The mind lineage of the Conquerors](#1-the-mind-lineage-of-the-conquerors)**
-    * **[2. The symbol lineage of the Vidyadharas](#2-the-symbol-lineage-of-the-vidyadharas)**
-        * [2.1 THE MAHAYOGA TANTRAS](#21-the-mahayoga-tantras)
+    * **[2. The symbol lineage of the Vidyādharas](#2-the-symbol-lineage-of-the-vidyadharas)**
+        * [2.1 THE MAHĀYOGA TANTRAS](#21-the-mahayoga-tantras)
         * [2.2 THE TRANSMISSION OF ANUYOGA](#22-the-transmission-of-anuyoga)
         * [2.3 THE PITH-INSTRUCTIONS OF ATIYOGA](#23-the-pith-instructions-of-atiyoga)
         * [2.4 THE COMING OF ATIYOGA TO THE HUMAN REALM](#24-the-coming-of-atiyoga-to-the-human-realm)
@@ -367,9 +367,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 ◈  
 ***[Chapter One<br>Transference of consciousness, the instructions for the dying: Buddhahood without meditation](#chapter-onetransference-of-consciousness-the-instructions-for-the-dying-buddhahood-without-meditation)***
 * [I. THE FIVE KINDS OF TRANSFERENCE](#i-the-five-kinds-of-transference)
-    * **[1. Superior transference to the dharmakaya through the seal of the view](#1-superior-transference-to-the-dharmakaya-through-the-seal-of-the-view)**
-    * **[2. Middling transference to the sambhogakaya through the union of the generation and perfection phases](#2-middling-transference-to-the-sambhogakaya-through-the-union-of-the-generation-and-perfection-phases)**
-    * **[3. Lower transference to the nirmanakaya through immeasurable compassion](#3-lower-transference-to-the-nirmanakaya-through-immeasurable-compassion)**
+    * **[1. Superior transference to the dharmakāya through the seal of the view](#1-superior-transference-to-the-dharmakaya-through-the-seal-of-the-view)**
+    * **[2. Middling transference to the saṃbhogakāya through the union of the generation and perfection phases](#2-middling-transference-to-the-sambhogakaya-through-the-union-of-the-generation-and-perfection-phases)**
+    * **[3. Lower transference to the nirmāṇakāya through immeasurable compassion](#3-lower-transference-to-the-nirmanakaya-through-immeasurable-compassion)**
     * **[4. Ordinary transference using three metaphors](#4-ordinary-transference-using-three-metaphors)**
     * **[5. Transference performed for the dead with the hook of compassion](#5-transference-performed-for-the-dead-with-the-hook-of-compassion)**
 * [II. ORDINARY TRANSFERENCE USING THREE METAPHORS](#ii-ordinary-transference-using-three-metaphors)
@@ -425,7 +425,7 @@ The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjam
 
 *The Words of My Perfect Teacher, a Guide to the [Preliminaries](#preliminaries) for the Heart-essence of the Vast Expanse from the [Great Perfection](#great-perfection)*, sets out the paths of the four main schools of Tibetan Buddhism without any conflict between them.
 
-It contains all the teachings, including the Steps of the Path for those of the three [levels](#levels) of understanding, along with the Three Main Themes of the Path; the Three [Perceptions](#perceptions), [preliminaries](#preliminaries) for the Path and Fruit; the [Buddha Nature](#buddha-nature) as the cause, precious human life as the support, the [spiritual friend](#spiritual-friend) as the impetus, his instructions as the method, and the [kayas](#kaya) and wisdoms as the result, these representing the confluence of the [Kadampa](#kadampa) and [Mahamudra](#mahamudra) traditions; and the [Nyingma](#nyingmapa) path in terms of [determination to be free](#determination-to-be-free) through disgust for [samsara](#samsara), faith through confidence in the effect of actions, bodhicitta through striving to help others, and [pure perception](#pure-perception) of the utter purity of everything there is.
+It contains all the teachings, including the Steps of the Path for those of the three [levels](#levels) of understanding, along with the Three Main Themes of the Path; the Three [Perceptions](#perceptions), [preliminaries](#preliminaries) for the Path and Fruit; the [Buddha Nature](#buddha-nature) as the cause, precious human life as the support, the [spiritual friend](#spiritual-friend) as the impetus, his instructions as the method, and the [kayas](#kaya) and wisdoms as the result, these representing the confluence of the [Kadampa](#kadampa) and [Mahāmudrā](#mahamudra) traditions; and the [Nyingma](#nyingmapa) path in terms of [determination to be free](#determination-to-be-free) through disgust for [saṃsāra](#samsara), faith through confidence in the effect of actions, bodhicitta through striving to help others, and [pure perception](#pure-perception) of the utter purity of everything there is.
 
 For all teachings on all practices, whether [preliminaries](#preliminaries) or main, this text is indispensable. That is why, at this fortunate time in which the [Buddha's](#buddha) precious doctrine is [beginning](#beginning) to shine its light throughout the world, this book has been translated in the profound hope that&mdash;being of enormous worth and little danger, and covering as it does all the essential points of the path&mdash;all contact with it may be fruitful, and that it may become the object of [study](#study), reflection and meditation. That followers of [Dharma](#dharma) teach or listen to this text is of great importance.
 
@@ -437,7 +437,7 @@ In accordance with Tibetan tradition, the translators would like to thank the te
 
 The Padmakara Translation Group is made up of students of Tibetan Buddhism from several countries and disciplines, working under the direction of Pema Wangyal Rinpoche and Jigme Khyentse Rinpoche, at the centre d'Etudes de Chanteloube in Dordogne, Southwest France.
 
-The history of this particular project runs parallel to the evolution of the group, many of whose members began their [study](#study) of Patrul Rinpoche's *Kunzang Lamai Shelung* in the mid seventies, both in India and in Europe. They were then taught in detail from it, as the basis for their own practice of the [Vajrayana](#vajrayana) path during the traditional meditation retreats which started in 1980 at Chanteloube. The text was translated into French by members of the group guided by their Tibetan teachers, and published as *Le Chemin de La Grande Perfection* by the newly-formed Editions Padmakara in 1987.
+The history of this particular project runs parallel to the evolution of the group, many of whose members began their [study](#study) of Patrul Rinpoche's *Kunzang Lamai Shelung* in the mid seventies, both in India and in Europe. They were then taught in detail from it, as the basis for their own practice of the [Vajrayāna](#vajrayana) path during the traditional meditation retreats which started in 1980 at Chanteloube. The text was translated into French by members of the group guided by their Tibetan teachers, and published as *Le Chemin de La Grande Perfection* by the newly-formed Editions Padmakara in 1987.
 
 The first stage of the English version was a draft translation from the French by Michael Dickman. This was the starting point for a new translation from the original Tibetan. It was prepared, with many revisions, by Christian Bruyat, Charles Hastings and John Canti. Stephen Gethin provided editorial help and prepared the index.
 
@@ -449,7 +449,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sutra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
+Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
 
 Changes in this edition:
 
@@ -459,7 +459,7 @@ Changes in this edition:
 - Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now show their number and title.
 - British spellings changed to American (e.g. armour → armor).
 - Gendered pronouns swapped for gender-neutral ones where it fits.
-- Sanskrit and Tibetan terms in the body are written in their anglicized forms (e.g. *yogi*, *samsara*, *dharma*) for easier reading. Proper diacritics (e.g. *yogī*, *saṃsāra*) appear only inside italic transliterations, mantras, and the Pratītyasamutpāda verse, following the scholarly convention.
+- Sanskrit and Tibetan terms in the body are written with proper IAST diacritics (e.g. *yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*) instead of the anglicized forms used in earlier editions, so readers can pronounce them correctly and recognize the standard scholarly spellings.
 - Missing chapters added to the Part Three intro.
 - The five kinds of [transference](#transference) are now headings instead of a numbered list.
 
@@ -490,19 +490,19 @@ Once again, we are grateful for the continuing interest and support of the Sacre
 
 *<h1 id="introduction" align="center">Translators' Introduction</h1>*
 
-*The Words of My Perfect Teacher* is one of the best-loved introductions to the foundations of Tibetan Buddhism, constantly recommended by His Holiness the Dalai [Lama](#lama) and other eminent teachers. It provides a detailed guide to the methods by which an ordinary person can transform his or her consciousness and set off on the path to Buddhahood, the state of awakening and freedom. The first half of the book contains a series of contemplations on the frustration and deep suffering of [samsara](#samsara), the round of existence based on ignorance and deluded [emotions](#emotions), and the enormous value of our human life, which provides a unique opportunity to attain Buddhahood. The second half explains the first steps of the [Vajrayana](#vajrayana), the "Diamond [Vehicle](#vehicle)" whose powerful methods of transformation provide the distinctive character of the Tibetan tradition of Buddhism.
+*The Words of My Perfect Teacher* is one of the best-loved introductions to the foundations of Tibetan Buddhism, constantly recommended by His Holiness the Dalai [Lama](#lama) and other eminent teachers. It provides a detailed guide to the methods by which an ordinary person can transform his or her consciousness and set off on the path to Buddhahood, the state of awakening and freedom. The first half of the book contains a series of contemplations on the frustration and deep suffering of [saṃsāra](#samsara), the round of existence based on ignorance and deluded [emotions](#emotions), and the enormous value of our human life, which provides a unique opportunity to attain Buddhahood. The second half explains the first steps of the [Vajrayāna](#vajrayana), the "Diamond [Vehicle](#vehicle)" whose powerful methods of transformation provide the distinctive character of the Tibetan tradition of Buddhism.
 
 Patrul Rinpoche's work is not a treatise for experts but a manual of practical advice for anyone sincerely wishing to practice the [Dharma](#dharma). He wrote it in a style that could speak as easily to rough nomads and villagers as to lamas and monks. In fact he claimed that it was not really a literary composition at all, but that he had simply set down the oral instructions of his own teacher as he himself had heard them. The particular magic of the book is that we feel that we are Patrul Rinpoche's own students, listening to his heartfelt advice, based on the oral tradition that he received from his own teacher and the deep experience of years of practice.
 
 He explains everything we need to know to practice the teachings&mdash;and also, often with devastating irony, the many mistakes that can be made on the spiritual journey. The language veers from high poetry to broad vernacular. Each point is illustrated by numerous quotations, down-to-earth examples from daily life, and a wealth of stories. Some of these stories go back to the very origins of Buddhism in the 6th century BC and beyond; some are drawn from the extraordinary lives of the great masters of India and Tibet; some concern the doings of the ordinary folk of Patrul Rinpoche's native Kham.
 
-Patrul Rinpoche was famous for the direct way he probed the depths of his students' minds. He was a firm believer in [Atisa's](#atisa) dictum, **"The best [spiritual friend](#spiritual-friend) is the one who attacks your hidden faults."** Although his work is clearly adapted to his particular audience, with a little effort of transposition we can see that human nature remains remarkably the same regardless of time and culture. We feel that the recesses of our own character are exposed and we are forced to question our own habits of [thought](#thought) and open our minds to new possibilities.
+Patrul Rinpoche was famous for the direct way he probed the depths of his students' minds. He was a firm believer in [Atīśa's](#atisa) dictum, **"The best [spiritual friend](#spiritual-friend) is the one who attacks your hidden faults."** Although his work is clearly adapted to his particular audience, with a little effort of transposition we can see that human nature remains remarkably the same regardless of time and culture. We feel that the recesses of our own character are exposed and we are forced to question our own habits of [thought](#thought) and open our minds to new possibilities.
 
 In his concluding chapter the author describes his work as follows:
 
 > In writing down these instructions I have not been guided primarily by aesthetic or literary considerations. My main aim has simply been to record faithfully the oral instructions of my revered teacher in a way that is easy to understand and useful for the mind. I have done my best not to spoil them by mixing in my own words or ideas. On separate occasions my teacher also used to give numerous special instructions for exposing hidden faults, and I have added whatever I have been able to remember of these in the most appropriate places. Do not take them as a window through which to observe others' faults, but rather as a mirror for examining your own. Look carefully within yourself to see whether or not you have those hidden faults. If you do, recognize them and take them out of their hiding place. Correct your mind and set it at ease on the right path...
 
-For [Vajrayana](#vajrayana) Buddhism, [enlightenment](#enlightenment) is not a remote ideal but something which, with the appropriate methods and a supreme effort, can be achieved here and now, in this very life. In Tibet's living [wisdom](#wisdom) tradition, every scripture, every meditation practice and training for the mind, is passed on from teacher to student, and then internalized till it becomes an integral part of that person's experience. One of the words for spiritual practice in Tibetan is *nyamlen*, literally "taking into experience." Someone who can be considered a lineage holder, a truly qualified spiritual teacher, must have actually attained realization. Patrul Rinpoche held a continuous line of transmission coming down from the [Buddha](#buddha) himself. This lineage has been passed on unbroken, from one realized teacher to the next, until the present day.
+For [Vajrayāna](#vajrayana) Buddhism, [enlightenment](#enlightenment) is not a remote ideal but something which, with the appropriate methods and a supreme effort, can be achieved here and now, in this very life. In Tibet's living [wisdom](#wisdom) tradition, every scripture, every meditation practice and training for the mind, is passed on from teacher to student, and then internalized till it becomes an integral part of that person's experience. One of the words for spiritual practice in Tibetan is *nyamlen*, literally "taking into experience." Someone who can be considered a lineage holder, a truly qualified spiritual teacher, must have actually attained realization. Patrul Rinpoche held a continuous line of transmission coming down from the [Buddha](#buddha) himself. This lineage has been passed on unbroken, from one realized teacher to the next, until the present day.
 
 *<p id="Nyugu-il" align="center">Jigme Gyalwai Nyugu</p>*
 Patrul Rinpoche's perfect teacher. Patrul Rinpoche heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
@@ -530,29 +530,29 @@ To his students he was immensely kind, but also immensely tough. He treated begg
 
 *The Words of My Perfect Teacher* belongs to a category of literature known as "written guides" (*khrid yig*), which emulate and supplement the oral explanations needed to elucidate a meditation text. In this case the text in question is the preliminary practice of the *Heart-essence of the Vast Expanse*.
 
-The *Heart-essence of the Vast Expanse* cycle of teachings that [Longchenpa](#longchenpa) passed on to [Jigme Lingpa](#jigme-lingpa) has become one of the most widely practiced in the [Nyingmapa](#nyingmapa) school. It contains a complete [Vajrayana](#vajrayana) path, starting at the beginner stage with the preliminary practices (*sngon 'gro*). Then comes the main practice (*dngos gzhi*), which has three principal parts, the [generation phase](#generation-phase) (*bskyed rim*) the [perfection phase](#perfection-phase) (*rdzogs rim*), and the [Great Perfection](#great-perfection) (*rdzogs pa chen po*).
+The *Heart-essence of the Vast Expanse* cycle of teachings that [Longchenpa](#longchenpa) passed on to [Jigme Lingpa](#jigme-lingpa) has become one of the most widely practiced in the [Nyingmapa](#nyingmapa) school. It contains a complete [Vajrayāna](#vajrayana) path, starting at the beginner stage with the preliminary practices (*sngon 'gro*). Then comes the main practice (*dngos gzhi*), which has three principal parts, the [generation phase](#generation-phase) (*bskyed rim*) the [perfection phase](#perfection-phase) (*rdzogs rim*), and the [Great Perfection](#great-perfection) (*rdzogs pa chen po*).
 
 The preliminary practices have an outer and an inner section, and our text is accordingly divided into two. The  first part, the ordinary or external [preliminaries](#preliminaries), deals with:  
 1. the freedoms and advantages offered by human life
 2. impermanence
-3. the sufferings of [samsara](#samsara)
+3. the sufferings of [saṃsāra](#samsara)
 4. how [karma](#karma), the [principle of cause and effect](#principle-of-cause-and-effect), applies to all our actions
 5. the benefits of [liberation](#liberation) and
 6. how to follow a spiritual teacher.
 
 These elements are fundamental for a proper understanding of Buddhist values. They are general because they are the fundamentals of Buddhism in general. The contemplations in this section can be practiced by anyone, Buddhist or not.
 
-The second part, the inner [preliminaries](#preliminaries), starts with taking [refuge](#refuge)&mdash;learning to rely on the [Buddha](#buddha), the [Dharma](#dharma) (his teaching) and the [Sangha](#sangha) (the Buddhist community). This is the basis of Buddhist commitment common to all traditions. Next comes the development of bodhicitta, the "mind of [enlightenment](#enlightenment)." This attitude of unconditional love and compassion, that seeks to bring all beings to perfect freedom, is the basis of the [Mahayana](#mahayana). It is followed by practices to purify the effects of one's past [negative action](#negative-action)s and accumulate the positive [energy](#energy) necessary to progress on the path. These practices use more fully the techniques of visualization and [mantra](#mantra) specific to the [Vajrayana](#vajrayana) approach.
+The second part, the inner [preliminaries](#preliminaries), starts with taking [refuge](#refuge)&mdash;learning to rely on the [Buddha](#buddha), the [Dharma](#dharma) (his teaching) and the [Saṃgha](#sangha) (the Buddhist community). This is the basis of Buddhist commitment common to all traditions. Next comes the development of bodhicitta, the "mind of [enlightenment](#enlightenment)." This attitude of unconditional love and compassion, that seeks to bring all beings to perfect freedom, is the basis of the [Mahāyāna](#mahayana). It is followed by practices to purify the effects of one's past [negative action](#negative-action)s and accumulate the positive [energy](#energy) necessary to progress on the path. These practices use more fully the techniques of visualization and [mantra](#mantra) specific to the [Vajrayāna](#vajrayana) approach.
 
-Finally comes the [Guru Yoga](#guru-yoga), uniting one's mind with the mind of the teacher. [Guru Yoga](#guru-yoga) is the very root of the [Vajrayana](#vajrayana), where the purity of the link between teacher and disciple is of paramount importance. Also included here is the practice of *phowa*, or [transference](#transference) of consciousness, a shortcut method to enable those who are unable to pursue the path to the end to be liberated nonetheless at the time of death.
+Finally comes the [Guru Yoga](#guru-yoga), uniting one's mind with the mind of the teacher. [Guru Yoga](#guru-yoga) is the very root of the [Vajrayāna](#vajrayana), where the purity of the link between teacher and disciple is of paramount importance. Also included here is the practice of *phowa*, or [transference](#transference) of consciousness, a shortcut method to enable those who are unable to pursue the path to the end to be liberated nonetheless at the time of death.
 
 For the practices in Part Two, it is necessary to have the guidance of a qualified teacher. Indeed this is advisable for any spiritual practice. In pre-communist Tibet almost all Tibetans considered themselves Buddhists, and they would try to follow Buddhist ethics, make offerings and recite some prayers and [mantras](#mantra). This remains largely true even in occupied Tibet today. A smaller number of those who are Buddhists in this general sense then take the decision to pursue the spiritual journey actively, and it is such people who would undertake these practices, usually repeating each element one hundred thousand times.
 
-Next comes the practices of the generation and [perfection phase](#perfection-phase)s, culminating in the [Great Perfection](#great-perfection). In the Tibetan tradition the inner journey is mapped with astonishing precision. For each stage of the practice there are oral explanations and explanatory texts. [Vajrayana](#vajrayana) is a science of the mind, in which an expert teacher fully understands the significance of each experience, and the solution for each error. Our present text does not go into the details of the rest of the path, but we shall give a brief overview here, to give an idea of the progression that follows on from the [preliminaries](#preliminaries).
+Next comes the practices of the generation and [perfection phase](#perfection-phase)s, culminating in the [Great Perfection](#great-perfection). In the Tibetan tradition the inner journey is mapped with astonishing precision. For each stage of the practice there are oral explanations and explanatory texts. [Vajrayāna](#vajrayana) is a science of the mind, in which an expert teacher fully understands the significance of each experience, and the solution for each error. Our present text does not go into the details of the rest of the path, but we shall give a brief overview here, to give an idea of the progression that follows on from the [preliminaries](#preliminaries).
 
 ### The preliminary practice
 
-*The outer [preliminaries](#preliminaries)* comprise the four contemplations which turn away from [samsara](#samsara).
+*The outer [preliminaries](#preliminaries)* comprise the four contemplations which turn away from [saṃsāra](#samsara).
 *The inner [preliminaries](#preliminaries)* are:
 1. taking [refuge](#refuge)
 2. bodhicitta
@@ -586,7 +586,7 @@ Kunzang [means](#means) "everywhere perfect" or "always perfect." It is the abbr
 
 ## The origins of this translation
 
-The Tibetans have preserved all aspects of Indian Buddhism intact from the eighth century to the twentieth. This has not been, however, a mere static preservation of sacred treasures. The [Buddha](#buddha) [Dharma](#dharma) was the main preoccupation of Tibet's best minds for centuries, giving rise to an extraordinary range of philosophical, poetic, academic and inspirational literature, as well as a distinctive and magnificent artistic and architectural heritage. But above all, the Tibetans used the Buddhist teachings for their true purpose, as a tool for transforming the human mind, and thousands of practitioners, some of them famous teachers, others unknown yogis, accomplished their final goal.
+The Tibetans have preserved all aspects of Indian Buddhism intact from the eighth century to the twentieth. This has not been, however, a mere static preservation of sacred treasures. The [Buddha](#buddha) [Dharma](#dharma) was the main preoccupation of Tibet's best minds for centuries, giving rise to an extraordinary range of philosophical, poetic, academic and inspirational literature, as well as a distinctive and magnificent artistic and architectural heritage. But above all, the Tibetans used the Buddhist teachings for their true purpose, as a tool for transforming the human mind, and thousands of practitioners, some of them famous teachers, others unknown yogīs, accomplished their final goal.
 
 One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no [means](#means) the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. Patrul Rinpoche was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgon Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai [Lama](#lama), and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
 
@@ -606,29 +606,29 @@ Gautama the [Buddha](#buddha) was born in Northern India in the fifth century BC
 
 Before long, however, he began to doubt the validity of his worldly life. Fleeing his father's palace, he sought a more meaningful life, studying under a number of highly regarded masters of philosophy and meditation. Such was the sincerity of his quest that he rapidly achieved the highest meditational accomplishments that these masters could teach him, but he was still not satisfied. Despite years of strenuous ascetic practice, he found that none of these systems could take him beyond the limits of [conditioned](#conditioned) existence. He decided to continue his search alone, and through his own efforts finally attained [enlightenment](#enlightenment) at present-day Bodh Gaya. What he discovered was so profound and vast that at first he was reluctant to reveal it to anyone else, fearing that none would understand it. Later however he began teaching, and quickly attracted a large following of disciples, many of whom became highly accomplished in meditation.
 
-The diversity of people who came to the [Buddha](#buddha) to receive his teaching and practice his path called for a corresponding diversity in the way in which he taught, and different individuals or groups received different instructions appropriate to their respective temperaments and intellectual abilities. The teachings that the [Buddha](#buddha) taught during his lifetime can therefore be broadly divided into three categories&mdash;those that were eventually collected together in the Pali Canon and form the basis for what is now known as the Theravada School, emphasizing moral discipline and ethics; the teachings of the [Mahayana](#mahayana), or [Great [Vehicle](#vehicle)](#great-vehicle), which stress compassion and concern for others; and the [tantric](#tantric) teachings of the [Vajrayana](#vajrayana) or [Secret Mantrayana](#secret-mantrayana), which use an enormous variety of skillful methods to bring about profound realization in a relatively short time. The latter were given by the [Buddha](#buddha) himself only on a limited scale, but he predicted that they would be spread in this world by other enlightened beings, who would appear later. This is why the [Vajrayana](#vajrayana) is no less a Buddhist teaching than the other two schools, even though it was not widely taught in the [Buddha](#buddha)'s lifetime.
+The diversity of people who came to the [Buddha](#buddha) to receive his teaching and practice his path called for a corresponding diversity in the way in which he taught, and different individuals or groups received different instructions appropriate to their respective temperaments and intellectual abilities. The teachings that the [Buddha](#buddha) taught during his lifetime can therefore be broadly divided into three categories&mdash;those that were eventually collected together in the Pali Canon and form the basis for what is now known as the Theravada School, emphasizing moral discipline and ethics; the teachings of the [Mahāyāna](#mahayana), or [Great [Vehicle](#vehicle)](#great-vehicle), which stress compassion and concern for others; and the [tantric](#tantric) teachings of the [Vajrayāna](#vajrayana) or [Secret Mantrayāna](#secret-mantrayana), which use an enormous variety of skillful methods to bring about profound realization in a relatively short time. The latter were given by the [Buddha](#buddha) himself only on a limited scale, but he predicted that they would be spread in this world by other enlightened beings, who would appear later. This is why the [Vajrayāna](#vajrayana) is no less a Buddhist teaching than the other two schools, even though it was not widely taught in the [Buddha](#buddha)'s lifetime.
 
-After his death the differences between the various teachings that he had given became more rigidly apparent as different schools and traditions took shape. The present Theravada tradition, for example, has its beginnings in a group of the [Buddha](#buddha)'s disciples which later divided into eighteen schools. The [Mahayana](#mahayana) similarly diversified into a number of traditions, each with their own subtly individual philosophical differences. The same is true for the [Vajrayana](#vajrayana), in which there is an immense variety of practices, many of which were originally taught only to a single individual.
+After his death the differences between the various teachings that he had given became more rigidly apparent as different schools and traditions took shape. The present Theravada tradition, for example, has its beginnings in a group of the [Buddha](#buddha)'s disciples which later divided into eighteen schools. The [Mahāyāna](#mahayana) similarly diversified into a number of traditions, each with their own subtly individual philosophical differences. The same is true for the [Vajrayāna](#vajrayana), in which there is an immense variety of practices, many of which were originally taught only to a single individual.
 
-During the centuries that followed, these different traditions were gradually propagated all over India and further afield, until Buddhism had extended its influence through much of Central, Eastern and Southern Asia, even as far as Indonesia. Some traditions were lost entirely, others merged into newer forms of Buddhism. By the thirteenth century AD, the arrival of Islam and political changes in Indian society had driven the Buddha-dharma from its land of origin, and it was in other countries that the teachings were preserved&mdash;the Theravada in Sri Lanka, Burma, Thailand and Cambodia, the [Mahayana](#mahayana) in China, Japan, Korea and Indochina, and the [Vajrayana](#vajrayana) mainly in Tibet. Tibet was doubly fortunate. Not only was it one of the few countries in which the [Vajrayana](#vajrayana) continued to be practiced, it was also the only one in which the full range of teachings, from all three traditions, was transmitted and preserved.
+During the centuries that followed, these different traditions were gradually propagated all over India and further afield, until Buddhism had extended its influence through much of Central, Eastern and Southern Asia, even as far as Indonesia. Some traditions were lost entirely, others merged into newer forms of Buddhism. By the thirteenth century AD, the arrival of Islam and political changes in Indian society had driven the Buddha-dharma from its land of origin, and it was in other countries that the teachings were preserved&mdash;the Theravada in Sri Lanka, Burma, Thailand and Cambodia, the [Mahāyāna](#mahayana) in China, Japan, Korea and Indochina, and the [Vajrayāna](#vajrayana) mainly in Tibet. Tibet was doubly fortunate. Not only was it one of the few countries in which the [Vajrayāna](#vajrayana) continued to be practiced, it was also the only one in which the full range of teachings, from all three traditions, was transmitted and preserved.
 
 Over the centuries these many strands of the [Buddha](#buddha)'s teaching have been handed down from master to student in the numerous lineages which comprise the four main schools of Tibetan Buddhism we know today. The members of these lineages were not simply learned scholars who studied the teachings they received, but fully realized individuals who had practiced and mastered what had been transmitted to them, and were thus fully qualified to pass on the teachings to their students.
 
-One of these four, the [Nyingma school](#nyingmapa) (whose name derives from the Tibetan for "old") follows the traditions which were originally introduced in the eighth century by such Indian masters as [Santaraksita](#santaraksita), [Vimalamitra](#vimalamitra), and [Padmasambhava](#padmasambhava-of-oddiyana), whom the Tibetans refer to as [Guru Rinpoche](#guru-rinpoche), "the Precious Master," and handed down through fully realized Tibetan masters such as [Longchenpa](#longchenpa), [Jigme Lingpa](#jigme-lingpa), and Jamyang Khyentse Wangpo. The lineages which have been passed down to the other three main schools&mdash; the [Kagyupa](#kagyupa), [Sakyapa](#sakyapa), and [Gelugpa](#gelugpa)&mdash;were introduced into Tibet after the tenth century following the attempts by an anti-Buddhist king to destroy the [Dharma](#dharma) in Tibet. Just as the different forms of Buddhism in other parts of Asia had been adopted and had evolved to meet the needs of different peoples and cultures, each of these four schools had its origins and development in widely diverging situations&mdash;historical, geographical and even political&mdash;which served as a prism to split the light of the [Buddha](#buddha)'s teaching into a many-colored spectrum of traditions and lineages. (Sadly, some Buddhists have tended to forget that this light has one source, and, as in the world's other great religions, sectarian divisions have sometimes masked the true message of Buddhism.)
+One of these four, the [Nyingma school](#nyingmapa) (whose name derives from the Tibetan for "old") follows the traditions which were originally introduced in the eighth century by such Indian masters as [Śāntarakṣita](#santaraksita), [Vimalamitra](#vimalamitra), and [Padmasambhava](#padmasambhava-of-oddiyana), whom the Tibetans refer to as [Guru Rinpoche](#guru-rinpoche), "the Precious Master," and handed down through fully realized Tibetan masters such as [Longchenpa](#longchenpa), [Jigme Lingpa](#jigme-lingpa), and Jamyang Khyentse Wangpo. The lineages which have been passed down to the other three main schools&mdash; the [Kagyupa](#kagyupa), [Sakyapa](#sakyapa), and [Gelugpa](#gelugpa)&mdash;were introduced into Tibet after the tenth century following the attempts by an anti-Buddhist king to destroy the [Dharma](#dharma) in Tibet. Just as the different forms of Buddhism in other parts of Asia had been adopted and had evolved to meet the needs of different peoples and cultures, each of these four schools had its origins and development in widely diverging situations&mdash;historical, geographical and even political&mdash;which served as a prism to split the light of the [Buddha](#buddha)'s teaching into a many-colored spectrum of traditions and lineages. (Sadly, some Buddhists have tended to forget that this light has one source, and, as in the world's other great religions, sectarian divisions have sometimes masked the true message of Buddhism.)
 
-The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the [Buddha](#buddha), and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sutras](#sutra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayana](#vajrayana) teachings), and countless commentaries on all [three vehicles](#three-vehicles) ([Sravakayana](#sravakayana), [Mahayana](#mahayana), and [Vajrayana](#vajrayana)) written by Tibetan masters.
+The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the [Buddha](#buddha), and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sūtras](#sutra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayāna](#vajrayana) teachings), and countless commentaries on all [three vehicles](#three-vehicles) ([Sravakayana](#sravakayana), [Mahāyāna](#mahayana), and [Vajrayāna](#vajrayana)) written by Tibetan masters.
 
 The enormous range of teachings to be found within Tibetan Buddhism can nevertheless be summarized by the Four Noble Truths, which the [Buddha](#buddha) expounded shortly after his [enlightenment](#enlightenment). The first of these points out that our [conditioned](#conditioned) existence is never free from a state of suffering, never truly satisfactory. Any happiness we have is only temporary and in due course gives way to suffering. The reason for this, as explained by the second truth, is that any action one may do, say or think gives rise to a result which has to be experienced either later in one's life or in a future life. Indeed, rebirth is the result of one's actions, and the conditions into which one is born in one life are directly dependent on the actions one has done in previous lives, and particularly the motives and attitudes involved.  This, the [principle of cause and effect](#principle-of-cause-and-effect), explains why, for example, some people remain poor all their lives despite their efforts to become wealthy, while others have everything they could want even though they do nothing to gain it. The second truth goes on to show that the **driving force behind our actions is the [negative [emotions](#emotions)](#negative-emotions) such as hatred, attachment, pride, jealousy, and especially ignorance, which is the root of all the others.** This ignorance concerns not only a lack of [wisdom](#wisdom) in how we act, but the basic ignorance behind how we ordinarily perceive the whole of existence and constantly become caught by our [clinging](#clinging) to the idea of our own egos and of the outer world as solid and lasting. Because there is no end to our actions, there can be no end to our continuously taking rebirth in the cycle of [conditioned](#conditioned) existence. Only when we cease to act through ignorance can this cycle be broken, as shown by the third truth which expounds the cessation of suffering and freedom from [conditioned](#conditioned) existence.
 
-The fourth truth explains the way through which this can be achieved. This essentially [means](#means), on the one hand, the accumulation of [positive action](#positive-action)s, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Sangha](#sangha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own [liberation](#liberation) in mind can attain a high degree of realization and become an [Arhat](#arhat) (one who has overcome the [negative [emotions](#emotions)](#negative-emotions)). But this is not full [enlightenment](#enlightenment). Only those who have as their motivation the good and ultimate [enlightenment](#enlightenment) of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayana](#vajrayana) is able to become fully enlightened in a very short time.
+The fourth truth explains the way through which this can be achieved. This essentially [means](#means), on the one hand, the accumulation of [positive action](#positive-action)s, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Saṃgha](#sangha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own [liberation](#liberation) in mind can attain a high degree of realization and become an [Arhat](#arhat) (one who has overcome the [negative [emotions](#emotions)](#negative-emotions)). But this is not full [enlightenment](#enlightenment). Only those who have as their motivation the good and ultimate [enlightenment](#enlightenment) of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayāna](#vajrayana) is able to become fully enlightened in a very short time.
 
-During his lifetime the [Buddha](#buddha) created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogis](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.<sup>*</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no [means](#means) the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
+During his lifetime the [Buddha](#buddha) created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogīs](#yogi-or-yogini) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.<sup>*</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no [means](#means) the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
 
 <sup>*The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).</sup>
 
 Albert Einstein once pointed out that Buddhism was the tradition that he felt fulfilled the criteria he [thought](#thought) necessary for a spiritual path adapted to the twentieth century. Today modern physicists are drawing conclusions which approach the doctrines the [Buddha](#buddha) expounded two thousand five hundred years ago. While the attractions of materialism have had an adverse effect on traditional spiritual life throughout Asia, there are increasing numbers of people in the West who are showing an interest in the possibilities offered by the [study](#study) and practice of Buddhism.
 
-When the continuity of the Buddhist lineages was threatened by the political changes in Tibet in the nineteen fifties, numerous qualified [lamas](#lama), who had not only received the proper lineage transmissions from their teachers, but also, through [study](#study) and meditation, gained full understanding and realization of the teachings, sought to preserve them by bringing them to India. At the same time, some Western visitors to India began to show an interest in these [lamas](#lama) and their spiritual heritage. Since it had been said by [Guru Rinpoche](#guru-rinpoche) that, of the [Buddha](#buddha)'s teachings, the [Vajrayana](#vajrayana) would prove especially powerful and effective for individuals living in a time when [emotions](#emotions) are stronger than ever, many teachers felt that it would be appropriate to introduce these teachings to the West. The [Vajrayana](#vajrayana) is particularly flexible and adaptable to the sorts of situations in which modern people find themselves, and, without losing its traditional form, has now been taught to a wide range of people all over the world.
+When the continuity of the Buddhist lineages was threatened by the political changes in Tibet in the nineteen fifties, numerous qualified [lamas](#lama), who had not only received the proper lineage transmissions from their teachers, but also, through [study](#study) and meditation, gained full understanding and realization of the teachings, sought to preserve them by bringing them to India. At the same time, some Western visitors to India began to show an interest in these [lamas](#lama) and their spiritual heritage. Since it had been said by [Guru Rinpoche](#guru-rinpoche) that, of the [Buddha](#buddha)'s teachings, the [Vajrayāna](#vajrayana) would prove especially powerful and effective for individuals living in a time when [emotions](#emotions) are stronger than ever, many teachers felt that it would be appropriate to introduce these teachings to the West. The [Vajrayāna](#vajrayana) is particularly flexible and adaptable to the sorts of situations in which modern people find themselves, and, without losing its traditional form, has now been taught to a wide range of people all over the world.
 
 ---
 
@@ -645,14 +645,14 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 >*Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
 >
->*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyadharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
+>*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyādharas](#vidyadhara) of the [symbol lineage](#symbol-lineage-of-the-vidyadharas);  
 Most fortunate of ordinary beings who,  
 Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&mdash;  
 Teachers of the three lineages, I [prostrate](#prostration) myself before you.*
 >
->*In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakaya](#dharmakaya);  
-In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [sambhogakaya](#sambhogakaya) [Buddhafields](#buddhafield) appear;  
-To work for beings' benefit you appeared to them in [nirmanakaya](#nirmanakaya) form.*  
+>*In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakāya](#dharmakaya);  
+In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [saṃbhogakāya](#sambhogakaya) [Buddhafields](#buddhafield) appear;  
+To work for beings' benefit you appeared to them in [nirmāṇakāya](#nirmanakaya) form.*  
 *Omniscient Sovereign of [Dharma](#dharma)*<sup>*</sup>,  *I [prostrate](#prostration) myself before you.*    
 ><sup> *[Longchenpa](#longchenpa)</sup>
 >
@@ -661,7 +661,7 @@ The light of your love beamed benefit upon all beings;
 You elucidated the teachings of the profound path, summit of all [vehicles](#vehicle).  
 [Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.*
 >
->*You were Lord [Avalokitesvara](#avalokitesvara) himself in the form of a [spiritual friend](#spiritual-friend);  
+>*You were Lord [Avalokiteśvara](#avalokitesvara) himself in the form of a [spiritual friend](#spiritual-friend);  
 Whoever heard you speak was established on the path to freedom;  
 To fulfill all beings' needs your activity was infinite;  
 Gracious [root teacher](#root-teacher), I [prostrate](#prostration) myself before you.*
@@ -711,10 +711,10 @@ The proper way to listen to the teachings has two aspects: the right [attitude](
 
 ### **1. Attitude**
 
-The right attitude combines [the vast attitude of the *bodhicitta*](#11-the-vast-attitude-of-the-bodhicitta), the mind of [enlightenment](#enlightenment), and [the vast skill in means of the Secret Mantrayana](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana).
+The right attitude combines [the vast attitude of the *bodhicitta*](#11-the-vast-attitude-of-the-bodhicitta), the mind of [enlightenment](#enlightenment), and [the vast skill in means of the Secret Mantrayāna](#12-vast-skill-in-means-the-attitude-of-the-secret-mantrayana).
 
 #### 1.1 THE VAST ATTITUDE OF THE BODHICITTA
-There is not a single being in [samsara](#samsara), this immense ocean of suffering, who in the course of time without [beginning](#beginning) has never been our father or mother. When they were our parents, these beings' only [thought](#thought) was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
+There is not a single being in [saṃsāra](#samsara), this immense ocean of suffering, who in the course of time without [beginning](#beginning) has never been our father or mother. When they were our parents, these beings' only [thought](#thought) was to raise us with the greatest possible kindness, protecting us with great love and giving us the very best of their own food and clothing.
 
 All of these beings, who have been so kind to us, want to be happy, and yet they have no idea how to put into practice what brings about happiness, the **ten [positive action](#positive-action)s**. None of them want to suffer, but they do not know how to give up the **ten [negative action](#negative-action)s** at the root of all suffering. Their deepest wishes and what they actually do thus contradict each other. Poor beings, lost and confused, like a blind man abandoned in the middle of an empty plain!
 
@@ -742,7 +742,7 @@ No matter how many teachings you have heard, to be motivated by ordinary concern
 
 #### 1.2 VAST SKILL IN [MEANS](#means): THE ATTITUDE OF THE [SECRET MANTRAYANA](#secret-mantrayana)
 
-The *Torch of the Three Methods* says of the [Secret Mantrayana](#secret-mantrayana):
+The *Torch of the Three Methods* says of the [Secret Mantrayāna](#secret-mantrayana):
 
 >It has the same goal but is free from all confusion,<sup>[4](#4)</sup>  
 It is rich in methods and without difficulties.<sup>[5](#5)</sup>  
@@ -750,35 +750,35 @@ It is for those with sharp faculties.<sup>[6](#6)</sup>
 The [Mantra](#mantra) [Vehicle](#vehicle) is sublime.
 
 <details id="4"><summary>Note <sup>4</sup></summary>
-"The object of [view](#view) (<i>lta yul</i>) of both the <a href="#sutra">sutras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>chos kyi dbyings</i>, Skt. <i><a href="#absolute-space">dharmadhatu</a></i>). But with regard to the [view](#view) itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The [Vehicle](#vehicle) of Characteristics (the sutras) establishes the support, the [essence](#essence), the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial [wisdom](#wisdom) (<i>dbyings ye zung 'jug</i>). As for what is supported, the phenomena of relative reality, the [Vehicle](#vehicle) of Characteristics establishes them as being interdependent and like a magical illusion. But it does not go further than this impure magical display, to establish the <a href="#kaya">kayas</a> and wisdoms. The [Vehicle](#vehicle) of the Secret Mantras, on the other hand, establishes the higher great <a href="#dharmakaya">dharmakaya</a>, the array of <a href="#kaya">kayas</a> and wisdoms which have always been inseparable, the two [absolute truth](#absolute-truth)s." NT
+"The object of [view](#view) (<i>lta yul</i>) of both the <a href="#sutra">sūtras</a> and the tantras is the same, i.e. <a href="#absolute-space">absolute space</a> (<i>chos kyi dbyings</i>, Skt. <i><a href="#absolute-space">dharmadhātu</a></i>). But with regard to the [view](#view) itself, a distinction may be made, as when one speaks of seeing a form 'clearly' or of seeing it 'indistinctly.' The [Vehicle](#vehicle) of Characteristics (the sūtras) establishes the support, the [essence](#essence), the <a href="#absolute-truth">absolute truth</a>, great <a href="#emptiness">emptiness</a> beyond the eight conceptual extremes (<i>spros mtha'</i>), but it is not able to realize that its nature is the inseparable union of space and primordial [wisdom](#wisdom) (<i>dbyings ye zung 'jug</i>). As for what is supported, the phenomena of relative reality, the [Vehicle](#vehicle) of Characteristics establishes them as being interdependent and like a magical illusion. But it does not go further than this impure magical display, to establish the <a href="#kaya">kayas</a> and wisdoms. The [Vehicle](#vehicle) of the Secret Mantras, on the other hand, establishes the higher great <a href="#dharmakaya">dharmakāya</a>, the array of <a href="#kaya">kayas</a> and wisdoms which have always been inseparable, the two [absolute truth](#absolute-truth)s." NT
 </details>
 <details id="5"><summary>Note <sup>5</sup></summary>
 "In the [Vehicle](#vehicle) of Characteristics it is not taught that one can attain [Enlightenment](#enlightenment) without abandoning the five objects of desire (<i>'dod pai yon tan lnga</i>). But here (in the Resultant [Vehicle](#vehicle)) one deals with the mind quickly and easily, taking it on the paths in which one does not abandon these five objects, and one can attain the [level of Union](#level-of-union), the level of [Vajradhara](#vajradhara), in one life and one body."</details>
 <details id="6"><summary>Note <sup>6</sup></summary>
 Beings with sharp faculties are those who are "intelligent enough to be able to realize the profound [view](#view) of the [Adamantine](#adamantine) [Vehicle](#vehicle) of Secret Mantras and who possess sufficient confidence not to be afraid of vast and powerful actions."</details><br>  
 
-The [Mantrayana](#secret-mantrayana) can be entered by many routes. It contains many methods for accumulating [merit](#merit) and [wisdom](#wisdom), and profound [skillful means](#skilful-means) to make the potential within us manifest<sup>[7](#7)</sup> without our having to undergo great hardships. The basis for these methods is the way we direct our aspirations:
+The [Mantrayāna](#secret-mantrayana) can be entered by many routes. It contains many methods for accumulating [merit](#merit) and [wisdom](#wisdom), and profound [skillful means](#skilful-means) to make the potential within us manifest<sup>[7](#7)</sup> without our having to undergo great hardships. The basis for these methods is the way we direct our aspirations:
 
 > Everything is circumstantial  
 And depends entirely on one's aspiration.  
 
 <details id="7"><summary>Note <sup>7</sup></summary>
-According to the <a href="#secret-mantrayana">Secret Mantrayana</a> one does not create or develop anything by following the path. One is simply making visible something which is already present&mdash;one's own Buddha-nature.
+According to the <a href="#secret-mantrayana">Secret Mantrayāna</a> one does not create or develop anything by following the path. One is simply making visible something which is already present&mdash;one's own Buddha-nature.
 </details><br>
 
 Do not consider the place where the [Dharma](#dharma) is being taught, the teacher, the teachings and so on as ordinary and impure. As you listen, keep the [five perfections](#five-perfections) clearly in mind:
 
-The perfect *place* is the citadel of the absolute expanse, called [Akanistha](#akanistha), "the Unexcelled." The perfect *teacher* is [Samantabhadra](#samantabhadra), the [dharmakaya](#dharmakaya). The perfect *assembly* consists of the male and female [Bodhisattvas](#bodhisattva) and [deities](#deity)<sup>[8](#8)</sup> of the [mind lineage of the Conquerors](#mind-lineage-of-the-conquerors) and of the [symbol lineage of the Vidyadharas](#symbol-lineage-of-the-vidyadharas).
+The perfect *place* is the citadel of the absolute expanse, called [Akaniṣṭha](#akanistha), "the Unexcelled." The perfect *teacher* is [Samantabhadra](#samantabhadra), the [dharmakāya](#dharmakaya). The perfect *assembly* consists of the male and female [Bodhisattvas](#bodhisattva) and [deities](#deity)<sup>[8](#8)</sup> of the [mind lineage of the Conquerors](#mind-lineage-of-the-conquerors) and of the [symbol lineage of the Vidyādharas](#symbol-lineage-of-the-vidyadharas).
 
 <details id="8"><summary>Note <sup>8</sup></summary>
-One should not see them as ordinary (<i>rags pa</i>) but as subtle (<i>phra ba</i>) or extremely subtle (<i>shin tu phra ba</i>) beings." DKR "All in the assembly, whether they realize it or not, are pervaded by the <a href="#buddha-nature">Buddha nature</a> just as sesame seeds are pervaded by oil... So all sentient beings are <a href="#buddha">Buddhas</a>, visualized as <a href="#daka">dakas</a> and <a href="#dakini">dakinis</a> of the appropriate family. If both teacher and retinue are Buddhas, their <a href="#buddhafield">Buddhafield</a> is also pure and should be visualized as <a href="#akanistha">Akanistha</a> or another <a href="#pure-land">pure land</a>." NT
+One should not see them as ordinary (<i>rags pa</i>) but as subtle (<i>phra ba</i>) or extremely subtle (<i>shin tu phra ba</i>) beings." DKR "All in the assembly, whether they realize it or not, are pervaded by the <a href="#buddha-nature">Buddha nature</a> just as sesame seeds are pervaded by oil... So all sentient beings are <a href="#buddha">Buddhas</a>, visualized as <a href="#daka">ḍākas</a> and <a href="#dakini">ḍākinīs</a> of the appropriate family. If both teacher and retinue are Buddhas, their <a href="#buddhafield">Buddhafield</a> is also pure and should be visualized as <a href="#akanistha">Akaniṣṭha</a> or another <a href="#pure-land">pure land</a>." NT
 </details><br>
 
-Or you can think that the place where the [Dharma](#dharma) is being taught is the Lotus-Light Palace of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain), the teacher who teaches is [Padmasambhava of Oddiyana](#padmasambhava-of-oddiyana), and we, the audience, are the Eight [Vidyadharas](#vidyadhara), the [Twenty-five Disciples](#twenty-five-disciples), and the [dakas](#daka) and [dakinis](#dakini).
+Or you can think that the place where the [Dharma](#dharma) is being taught is the Lotus-Light Palace of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain), the teacher who teaches is [Padmasambhava of Oḍḍiyāna](#padmasambhava-of-oddiyana), and we, the audience, are the Eight [Vidyādharas](#vidyadhara), the [Twenty-five Disciples](#twenty-five-disciples), and the [ḍākas](#daka) and [ḍākinīs](#dakini).
 
-Or consider that this perfect place is the Eastern [Buddhafield](#buddhafield), [Manifest Joy](#manifest-joy), where the perfect teacher [Vajrasattva](#vajrasattva), the perfect [sambhogakaya](#sambhogakaya), is teaching the assembly of the divinities of the [Vajra](#vajra) Family and male and female [Bodhisattvas](#bodhisattva).
+Or consider that this perfect place is the Eastern [Buddhafield](#buddhafield), [Manifest Joy](#manifest-joy), where the perfect teacher [Vajrasattva](#vajrasattva), the perfect [saṃbhogakāya](#sambhogakaya), is teaching the assembly of the divinities of the [Vajra](#vajra) Family and male and female [Bodhisattvas](#bodhisattva).
 
-Equally well, the perfect place where the [Dharma](#dharma) is being taught can be the Western [Buddhafield](#buddhafield), the Blissful, the perfect teacher the [Buddha](#buddha) [Amitabha](#amitabha), and the assembly the male and female [Bodhisattvas](#bodhisattva) and [deities](#deity) of the Lotus family.
+Equally well, the perfect place where the [Dharma](#dharma) is being taught can be the Western [Buddhafield](#buddhafield), the Blissful, the perfect teacher the [Buddha](#buddha) [Amitābha](#amitabha), and the assembly the male and female [Bodhisattvas](#bodhisattva) and [deities](#deity) of the Lotus family.
 
 Whatever the case, the *teaching* is that of the [Great Vehicle](#great-vehicle) and the *time* is the ever-revolving [wheel](#wheel) of eternity.
 
@@ -788,14 +788,14 @@ These visualizations<sup>[9](#9)</sup> are to help us understand how things are 
 <i>gsal btab pa</i> [means](#means) visualize but also to bring to mind, to have clearly in one's mind, to refresh one's memory. "Visualizing in this way does not mean telling oneself that a donkey is a horse or that a piece of coal is gold; it [means](#means) having vividly in one's mind what has always been so from the [beginning](#beginning), that [appearances](#appearances) and beings spring from the primal ground, which is the state of Buddhahood." NT
 </details><br>
 
-The teacher embodies the [essence](#essence) of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Sangha](#sangha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [dakini](#dakini). He is the union of the [three kayas](#three-kayas): his body is the [nirmanakaya](#nirmanakaya), his speech the [sambhogakaya](#sambhogakaya), his mind the [dharmakaya](#dharmakaya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand Buddhas of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
+The teacher embodies the [essence](#essence) of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Saṃgha](#sangha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [ḍākinī](#dakini). He is the union of the [three kayas](#three-kayas): his body is the [nirmāṇakāya](#nirmanakaya), his speech the [saṃbhogakāya](#sambhogakaya), his mind the [dharmakāya](#dharmakaya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand Buddhas of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
 
 <details id="10"><summary>Note <sup>10</sup></summary>
 "In this <a href="#kalpa">kalpa</a> a thousand <a href="#buddha">Buddhas</a> are to appear. However, we have not met those <a href="#buddha">Buddhas</a> who have already come&mdash;or if we did meet them they did not succeed in bringing us to [liberation](#liberation). As for the <a href="#buddha">Buddhas</a> of the future, it is still too soon for us to meet them. So without our spiritual teachers we would have no one to help us." DKR
 </details><br>
 
 >The teacher is the [Buddha](#buddha), the teacher is the [Dharma](#dharma),  
-The teacher is also the [Sangha](#sangha).  
+The teacher is also the [Saṃgha](#sangha).  
 The teacher is the one who accomplishes everything.  
 The teacher is Glorious [Vajradhara](#vajradhara).
 
@@ -952,7 +952,7 @@ Listen to the teachings, therefore, with great effort, ignoring heat, cold and a
 
 **4. Outward distraction**
 
-The tendency of consciousness to get engrossed in the objects of the six senses<sup>[14](#14)</sup> is the root of all [samsara's](#samsara) hallucinations and the source of all suffering. This is how the moth dies in the lamp-flame, because its visual consciousness is attracted to forms; how the stag is killed by the hunter, because its hearing draws it to sounds; how bees are swallowed by carnivorous plants, seduced by their smell; how fish are caught with bait, their sense of taste lured by its flavor; how elephants drown in the swamp because they love the physical feeling of mud. In the same way, whenever you are listening to the [Dharma](#dharma), teaching, meditating or practicing, it is important not to follow [tendencies](#tendencies) from the past, not to entertain [emotions](#emotions) about the future and not to let your present thoughts get distracted by anything around you. As [Gyalse Rinpoche](#gyalse-rinpoche) says:
+The tendency of consciousness to get engrossed in the objects of the six senses<sup>[14](#14)</sup> is the root of all [saṃsāra's](#samsara) hallucinations and the source of all suffering. This is how the moth dies in the lamp-flame, because its visual consciousness is attracted to forms; how the stag is killed by the hunter, because its hearing draws it to sounds; how bees are swallowed by carnivorous plants, seduced by their smell; how fish are caught with bait, their sense of taste lured by its flavor; how elephants drown in the swamp because they love the physical feeling of mud. In the same way, whenever you are listening to the [Dharma](#dharma), teaching, meditating or practicing, it is important not to follow [tendencies](#tendencies) from the past, not to entertain [emotions](#emotions) about the future and not to let your present thoughts get distracted by anything around you. As [Gyalse Rinpoche](#gyalse-rinpoche) says:
 
 <details id="14"><summary>Note <sup>14</sup></summary>
 The sixth sense is mind, since the same psychological reactions are produced by objects which simply arise in [thought](#thought) as by objects perceived by the five physical sense.
@@ -976,7 +976,7 @@ Consider even your honest earnings without any attachment.
 Activities are without [essence](#essence), mani-reciters!
 > 
 > Between meditation sessions, learn to control in this way all thoughts arising from the [three poisons](#three-poisons);  
-Until all thoughts and [perceptions](#perceptions) arise as the [dharmakaya](#dharmakaya),  
+Until all thoughts and [perceptions](#perceptions) arise as the [dharmakāya](#dharmakaya),  
 This is indispensable&mdash;remembering it whenever you need it,  
 Do not give rein to deluded thoughts, mani-reciters!
 
@@ -995,7 +995,7 @@ Such dreams about the past and future will never come to fruition and are only a
 
 Do not focus too intently, picking out individual words and points, like a *dremo* bear digging up marmots&mdash;each time you seize one item, you forget the one before, and will never get to understand the whole. **Too much [concentration](#concentration) also makes you sleepy. Instead keep a balance between tight and loose.**
 
-Once, in the past, [Ananda](#ananda) was teaching [Srona](#srona-sronajat) to meditate. Srona had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Srona went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vina](#vina)*-player, weren't you?"
+Once, in the past, [Ānanda](#ananda) was teaching [Srona](#srona-sronajat) to meditate. Srona had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Srona went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vina](#vina)*-player, weren't you?"
 
 "Yes, I played very well."
 
@@ -1062,7 +1062,7 @@ The [real meaning](#real-meaning) expresses the truth from the point of [view](#
 </details>
 
 <details id="19"><summary>Note <sup>19</sup></summary>
-"That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayana</a> one can enjoy sex and alcohol, and perform the practices of union and [liberation](#liberation). To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
+"That is misunderstanding the meaning, imagining, for instance, that from the moment when one has received the teaching of the <a href="#secret-mantrayana">Secret Mantrayāna</a> one can enjoy sex and alcohol, and perform the practices of union and [liberation](#liberation). To avoid this mistake, one's conduct should be appropriate to the moment (i.e. to the level of spiritual evolution that we have actually reached at the present moment)."
 </details><br>
 
 However long and difficult the teaching may be, do not feel disheartened and wonder if it will ever end; persevere. And however short and simple it may be, do not undervalue it as just elementary.
@@ -1075,7 +1075,7 @@ The conduct to be adopted while listening to teachings is explained as the [four
 
 ##### 2.2.1 The [Four Metaphors](#four-metaphors)
 
-*The [Sutra](#sutra) Arranged like a Tree says:*
+*The [Sūtra](#sutra) Arranged like a Tree says:*
 
 > Noble one, you should think of yourself as someone who is sick,  
 Of the [Dharma](#dharma) as the remedy,  
@@ -1084,7 +1084,7 @@ And of diligent practice as the way to recovery.
 
 **1. We are sick**
 
-From beginningless time, in this immense ocean of suffering that is [samsara](#samsara), we have been tormented by the illness of the [three poisons](#three-poisons) and their fruit, the three kinds of suffering.
+From beginningless time, in this immense ocean of suffering that is [saṃsāra](#samsara), we have been tormented by the illness of the [three poisons](#three-poisons) and their fruit, the three kinds of suffering.
 
 **2. [Dharma](#dharma) is the medicine**
 
@@ -1098,13 +1098,13 @@ Following a teacher without doing what they say is like disobeying your doctor, 
 
 These days, people say full of optimism, "[Lama](#lama), look on me with compassion!" thinking that even if they have done many terrible things, they will never have to endure the consequences. They reckon that the teacher, in their compassion, will toss them up into the heavenly realms as if they were throwing a pebble. But when we speak of the teacher holding us with their compassion, what this really [means](#means) is that they have lovingly accepted us as disciples, and that they give us their profound instructions, open our eyes to what to do and what not to do and show us the way to [liberation](#liberation) taught by the [Conqueror](#conqueror). What greater compassion could there be? It is up to us whether or not we take advantage of this compassion and actually pursue the path of [liberation](#liberation).
 
-Now that we have this free and well-endowed human birth, now that we know what we should and should not do, our decision at this juncture, when we have the freedom to choose, marks the turning-point which will determine our fate, for better or worse, far into the future.<sup>[20](#20)</sup> It is crucial that we choose between [samsara](#samsara) and [nirvana](#nirvana) once and for all and put the instructions of our teacher into practice.
+Now that we have this free and well-endowed human birth, now that we know what we should and should not do, our decision at this juncture, when we have the freedom to choose, marks the turning-point which will determine our fate, for better or worse, far into the future.<sup>[20](#20)</sup> It is crucial that we choose between [saṃsāra](#samsara) and [nirvāṇa](#nirvana) once and for all and put the instructions of our teacher into practice.
 
 <details id="20"><summary>Note <sup>20</sup></summary>
 AT "an inspiration which is good or bad forever." Here we have followed the explanation of DKR.
 </details><br>
 
-Those who conduct village ceremonies will have you believe that on your death-bed you can still go up or down, as if you were steering a horse by the reins. But by that time, unless you have already mastered the path, the fierce [wind](#wind) of your past actions will be chasing after you, while in front a terrifying black darkness rushes toward you as you are driven helplessly down the long and perilous path of the [intermediate state](#intermediate-state). The [Lord of Death](#lord-of-death)'s countless henchmen will be pursuing you, crying, "Kill! Kill! Strike! Strike!" How could such a moment&mdash;when there is no place to run to and nowhere to hide, no [refuge](#refuge) and no hope, when you are desperate and have no idea what to do&mdash;how could such a moment be the turning point at which you control whether you go up or down? As the Great One of [Oddiyana](#oddiyana) says:
+Those who conduct village ceremonies will have you believe that on your death-bed you can still go up or down, as if you were steering a horse by the reins. But by that time, unless you have already mastered the path, the fierce [wind](#wind) of your past actions will be chasing after you, while in front a terrifying black darkness rushes toward you as you are driven helplessly down the long and perilous path of the [intermediate state](#intermediate-state). The [Lord of Death](#lord-of-death)'s countless henchmen will be pursuing you, crying, "Kill! Kill! Strike! Strike!" How could such a moment&mdash;when there is no place to run to and nowhere to hide, no [refuge](#refuge) and no hope, when you are desperate and have no idea what to do&mdash;how could such a moment be the turning point at which you control whether you go up or down? As the Great One of [Oḍḍiyāna](#oddiyana) says:
 
 > By the time [empowerment](#empowerment) is being given to the card marked with your name,<sup>[21](#21)</sup> it's too late! Your consciousness, already wandering in the [intermediate state](#intermediate-state) like a dazed dog, will find it very hard to even think of higher realms.
 >
@@ -1221,7 +1221,7 @@ The long-lived [gods](#gods) have no opportunity to practice the [Dharma](#dharm
 **6. [Wrong [view](#view)](#wrong-view)s**  
 **7. No [Buddha](#buddha)**
 
-Those born as *[tirthikas](#tirthika)* or with similar [wrong [view](#view)](#wrong-view)s have no opportunity to practice the [Dharma](#dharma) because they never even hear of the [Three Jewels](#three-jewels), and cannot distinguish good from bad.
+Those born as *[tīrthikas](#tirthika)* or with similar [wrong [view](#view)](#wrong-view)s have no opportunity to practice the [Dharma](#dharma) because they never even hear of the [Three Jewels](#three-jewels), and cannot distinguish good from bad.
 
 **8. Mentally deficient**
 
@@ -1249,7 +1249,7 @@ The long-lived [gods](#gods) are those [gods](#gods) who are absorbed in a state
 
 **6. [Wrong [view](#view)](#wrong-view)s**
 
-The term "[wrong views](#wrong-view)" includes, in general, eternalist and nihilist beliefs, which are views contrary to, and outside, the teaching of the [Buddha](#buddha). Such views spoil our minds and prevent us from aspiring to the authentic [Dharma](#dharma), to the extent that we no longer have the opportunity to practice it. Here in Tibet, because the [second [Buddha](#buddha)](#second-buddha), [Padmasambhava of Oddiyana](#padmasambhava-of-oddiyana), entrusted the protection of the land to the twelve [Tenma](#tenma), the [tirthikas](#tirthika) themselves have not really been able to penetrate. However, anyone whose understanding is like that of the [tirthikas](#tirthika), and contrary to that of the authentic [Dharma](#dharma) and authentic masters, will thereby be deprived of the opportunity to practice according to those true teachings. The monk [Sunaksatra](#sunaksatra) spent twenty-five years as Lord [Buddha](#buddha)'s attendant, and yet, because he did not have the slightest faith and held only [wrong [view](#view)](#wrong-view)s, ended up being reborn as a [preta](#preta) in a flower-garden.
+The term "[wrong views](#wrong-view)" includes, in general, eternalist and nihilist beliefs, which are views contrary to, and outside, the teaching of the [Buddha](#buddha). Such views spoil our minds and prevent us from aspiring to the authentic [Dharma](#dharma), to the extent that we no longer have the opportunity to practice it. Here in Tibet, because the [second [Buddha](#buddha)](#second-buddha), [Padmasambhava of Oḍḍiyāna](#padmasambhava-of-oddiyana), entrusted the protection of the land to the twelve [Tenma](#tenma), the [tīrthikas](#tirthika) themselves have not really been able to penetrate. However, anyone whose understanding is like that of the [tīrthikas](#tirthika), and contrary to that of the authentic [Dharma](#dharma) and authentic masters, will thereby be deprived of the opportunity to practice according to those true teachings. The monk [Sunakṣatra](#sunaksatra) spent twenty-five years as Lord [Buddha](#buddha)'s attendant, and yet, because he did not have the slightest faith and held only [wrong [view](#view)](#wrong-view)s, ended up being reborn as a [preta](#preta) in a flower-garden.
 
 **7. No [Buddha](#buddha)**
 
@@ -1265,7 +1265,7 @@ Under this heading are included [five individual advantages](#21-the-five-indivi
 
 #### 2.1 THE FIVE INDIVIDUAL ADVANTAGES
 
-[Nagarjuna](#nagarjuna) lists them as follows:
+[Nāgārjuna](#nagarjuna) lists them as follows:
 
 > Born a human, in a central place, with all one's faculties,  
 Without a conflicting lifestyle and with faith in the [Dharma](#dharma).
@@ -1296,13 +1296,13 @@ Because these five advantages need to be complete with regard to one's own make-
 
 To practice the real, authentic [Dharma](#dharma), it is absolutely necessary to be a human being. Now suppose that you did not have the support of a human form, but had the highest form of life in the three [lower realms](#lower-realms), that of an animal&mdash;even the most beautiful and highly prized animal known to man. If someone said to you, "Say *Om [mani](#mani) padme hum* once, and you will become a [Buddha](#buddha)," you would be quite incapable of understanding his words or grasping their meaning, nor would you be able to utter a word. In fact, even if you were dying of cold, you would be unable to think of anything to do but lie in a heap&mdash;whereas a man, no matter how weak, would know how to shelter in a cave or under a tree, and would gather wood and make a fire to warm his face and hands. If animals are incapable of even such simple things, how could they ever conceive of practicing [Dharma](#dharma)?
 
-[Gods](#gods) and other beings of the kind, however superior their physical form, do not meet the requirements laid down for taking the [pratimoksa](#pratimoksa) vows, and therefore cannot assimilate the [Dharma](#dharma) in its totality.
+[Gods](#gods) and other beings of the kind, however superior their physical form, do not meet the requirements laid down for taking the [prātimokṣa](#pratimoksa) vows, and therefore cannot assimilate the [Dharma](#dharma) in its totality.
 
 **2. In a central place**
 
 As to what is meant by a "central region," one should distinguish between a geographically central region and a place that is central in terms of the [Dharma](#dharma).
 
-Geographically speaking, the central region is generally said to be the [Vajra Seat](#vajra-seat) at Bodh Gaya<sup>[25](#25)</sup> in India, at the center of [Jambudvipa](#jambudvipa), the Southern Continent. The thousand Buddhas of the [Good Kalpa](#good-kalpa) all attain [enlightenment](#enlightenment) there. Even in the universal destruction at the end of the [kalpa](#kalpa), the [four elements](#four-elements) cannot harm it, and it remains there as if suspended in space. At its center grows the Tree of [Enlightenment](#enlightenment). This place, with all the towns of India around it, is therefore considered the central region in terms of geography.
+Geographically speaking, the central region is generally said to be the [Vajra Seat](#vajra-seat) at Bodh Gaya<sup>[25](#25)</sup> in India, at the center of [Jambudvīpa](#jambudvipa), the Southern Continent. The thousand Buddhas of the [Good Kalpa](#good-kalpa) all attain [enlightenment](#enlightenment) there. Even in the universal destruction at the end of the [kalpa](#kalpa), the [four elements](#four-elements) cannot harm it, and it remains there as if suspended in space. At its center grows the Tree of [Enlightenment](#enlightenment). This place, with all the towns of India around it, is therefore considered the central region in terms of geography.
 
 <details id="25"><summary>Note <sup>25</sup></summary>
 Tibetans habitually call Bodh Gaya <i>rdo rje ldan</i>, the [[Vajra](#vajra) Seat](#vajra-seat), referring to the spot on which the [Buddha](#buddha) sat when he attained [enlightenment](#enlightenment). It is considered to be the center of the world.
@@ -1310,13 +1310,13 @@ Tibetans habitually call Bodh Gaya <i>rdo rje ldan</i>, the [[Vajra](#vajra) Sea
 
 In [Dharma](#dharma) terms, a central place is wherever the [Dharma](#dharma)&mdash;the teaching of Lord [Buddha](#buddha)&mdash;exists. All other regions are said to be peripheral.
 
-In the distant past, from the time Lord [Buddha](#buddha) came into this world and as long as his doctrine still existed in India, that land was central in terms of both geography and [Dharma](#dharma). However, now that it has fallen into the hands of the [tirthikas](#tirthika) and the doctrine of the [Conqueror](#conqueror) has disappeared in that region, as far as [Dharma](#dharma) is concerned even Bodh Gaya is a peripheral place.
+In the distant past, from the time Lord [Buddha](#buddha) came into this world and as long as his doctrine still existed in India, that land was central in terms of both geography and [Dharma](#dharma). However, now that it has fallen into the hands of the [tīrthikas](#tirthika) and the doctrine of the [Conqueror](#conqueror) has disappeared in that region, as far as [Dharma](#dharma) is concerned even Bodh Gaya is a peripheral place.
 
-In the days of the [Buddha](#buddha), Tibet, the Land of Snows, was called "the [border country](#border-country) of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the Buddhas. The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *[Sutra](#sutra) of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mould and other objects fell on the palace roof.
+In the days of the [Buddha](#buddha), Tibet, the Land of Snows, was called "the [border country](#border-country) of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the Buddhas. The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *[Sūtra](#sutra) of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mould and other objects fell on the palace roof.
 
-Five generations later, in accordance with prophecies that he would understand the meaning of the [sutra](#sutra), there appeared the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), an emanation of the [Sublime Compassionate One](#sublime-compassionate-one).<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to [study](#study) its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sutras](#sutra) and [tantras](#tantra) of [Avalokitesvara](#avalokitesvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous [means](#means) to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the [Buddha](#buddha)'s body, speech and mind including the statues called the [Jowo](#jowo) Mikyo Dorje and the [Jowo](#jowo) [Sakyamuni](#sakyamuni), the actual representatives of the [Buddha](#buddha).<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
+Five generations later, in accordance with prophecies that he would understand the meaning of the [sūtra](#sutra), there appeared the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), an emanation of the [Sublime Compassionate One](#sublime-compassionate-one).<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to [study](#study) its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sūtras](#sutra) and [tantras](#tantra) of [Avalokiteśvara](#avalokitesvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous [means](#means) to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the [Buddha](#buddha)'s body, speech and mind including the statues called the [Jowo](#jowo) Mikyo Dorje and the [Jowo](#jowo) [Sakyamuni](#sakyamuni), the actual representatives of the [Buddha](#buddha).<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
 
-<sup>* [Avalokitesvara](#avalokitesvara), the [Bodhisattva](#bodhisattva) of Compassion.</sup>
+<sup>* [Avalokiteśvara](#avalokitesvara), the [Bodhisattva](#bodhisattva) of Compassion.</sup>
 
 <details id="26"><summary>Note <sup>26</sup></summary>
 Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Kongjo to the Tibetans, was the daughter of the T'ang emperor T'ai-tsung. The statue she brought was of [Sakyamuni Buddha](#sakyamuni) at the age of twelve, and had been presented to the Chinese emperor by a Buddhist king of Bengal; the Ramoche temple was built in 641 to house it but it was later moved to the Rasa Trulnang (Jokhang), where it is now&mdash;the famous [[Jowo](#jowo) Rinpoche](#jowo-rinpoche). Queen Tritsun was the daughter of the Nepalese king Amsuvarman; the statue she brought was of [Buddha Sakyamuni](#sakyamuni) at the age of eight is now in the Ramoche Temple.
@@ -1326,7 +1326,7 @@ Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Ko
 These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details of the story sites, see HIST, Vol. 1, page 510 and notes.
 </details><br>
 
-His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oddiyana), the Preceptor of [Oddiyana](#oddiyana), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotsana](#vairotsana), learned the art of translation and translated all the main [sutras](#sutra), [tantras](#tantra) and [sastras](#sastra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Sangha](#sangha), to uphold the [Buddha](#buddha)'s mind.
+His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oddiyana), the Preceptor of [Oḍḍiyāna](#oddiyana), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotsana](#vairotsana), learned the art of translation and translated all the main [sūtras](#sutra), [tantras](#tantra) and [śāstras](#sastra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Saṃgha](#sangha), to uphold the [Buddha](#buddha)'s mind.
 
 From that time onwards up to the present day, the teachings of the [Buddha](#buddha) have shone like the sun in Tibet and, despite ups and downs, the doctrine of the [Conqueror](#conqueror) has never been lost in either of its aspects, transmission or realization. Thus Tibet, as far as the [Dharma](#dharma) is concerned, is a central country.
 
@@ -1340,7 +1340,7 @@ A person lacking any of the five sense faculties does not meet the requirements 
 
 **5. With faith in the [Dharma](#dharma)**
 
-If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nagas](#naga) and so forth, or in other doctrines such as those of the [tirthikas](#tirthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [samsara](#samsara) or from rebirth in [lower realms](#lower-realms). But if you have acquired a properly reasoned faith in the [Conqueror](#conqueror)'s doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
+If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nāgas](#naga) and so forth, or in other doctrines such as those of the [tīrthikas](#tirthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [saṃsāra](#samsara) or from rebirth in [lower realms](#lower-realms). But if you have acquired a properly reasoned faith in the [Conqueror](#conqueror)'s doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
 
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 
@@ -1376,16 +1376,16 @@ The time it takes for the universe to form, to stay in existence, to be destroye
 
 Before our [kalpa](#kalpa) arose, this [cosmos of a billion universes](#cosmos-of-a-billion-universes) was an immense ocean on whose surface appeared a thousand thousand-petalled lotuses. The [gods](#gods) of the [Brahma-world](#brahma-world), wondering how this could be, through clairvoyance understood it to signify that during this [kalpa](#kalpa) one thousand [Buddhas](#buddha) would appear. "This will be a good [kalpa](#kalpa)," they said, and "Good" became its name.
 
-From the time when beings' lifespan was eighty thousand years and the [Buddha](#buddha) [Destroyer-of-Samsara](#destroyer-of-samsara) appeared, and up to the time when beings will live incalculably long and the [Buddha](#buddha) Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of [Jambudvipa](#jambudvipa). Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
+From the time when beings' lifespan was eighty thousand years and the [Buddha](#buddha) [Destroyer-of-Samsara](#destroyer-of-samsara) appeared, and up to the time when beings will live incalculably long and the [Buddha](#buddha) Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of [Jambudvīpa](#jambudvipa). Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
 
 It will be followed by sixty peripheral, bad kalpas, and after that, in the [Kalpa](#kalpa) of Vast Numbers, ten thousand Buddhas will appear. Then another ten thousand bad kalpas will ensue. In this alternation of bright and dark kalpas, should we happen to be born during a dark [kalpa](#kalpa), we would never even hear that there was such a thing as the [Three Jewels](#three-jewels).
 
-Moreover, as the Great One of [Oddiyana](#oddiyana) points out, the [Secret Mantra](#secret-mantrayana) [Vajrayana](#vajrayana) in particular is taught only rarely:
+Moreover, as the Great One of [Oḍḍiyāna](#oddiyana) points out, the [Secret Mantra](#secret-mantrayana) [Vajrayāna](#vajrayana) in particular is taught only rarely:
 
-> Long ago, during the very first [kalpa](#kalpa), the [Kalpa](#kalpa) of the Complete Array, the teachings of the [Secret Mantrayana](#secret-mantrayana) were promulgated by the [Buddha](#buddha) known as [Once-Come-King](#once-come-king) and achieved great renown. The teachings we have now, those of the present [Buddha Sakyamuni](#sakyamuni), also include the [Secret Mantrayana](#secret-mantrayana). In ten million [kalpas'](#kalpa) time, during the [Kalpa](#kalpa) of the Array of Flowers, the [Buddha](#buddha) Manjusri will come, as I have come now, to reveal the [Secret Mantra](#secret-mantrayana) teachings on a vast scale. This is so because beings in these three kalpas are suitable recipients for the Secret Mantras, and the reason why the Mantrayana teachings do not appear at other times is because the beings of those times are not capable of making use of them.<sup>[28](#28)</sup>
+> Long ago, during the very first [kalpa](#kalpa), the [Kalpa](#kalpa) of the Complete Array, the teachings of the [Secret Mantrayāna](#secret-mantrayana) were promulgated by the [Buddha](#buddha) known as [Once-Come-King](#once-come-king) and achieved great renown. The teachings we have now, those of the present [Buddha Sakyamuni](#sakyamuni), also include the [Secret Mantrayāna](#secret-mantrayana). In ten million [kalpas'](#kalpa) time, during the [Kalpa](#kalpa) of the Array of Flowers, the [Buddha](#buddha) Manjusri will come, as I have come now, to reveal the [Secret Mantra](#secret-mantrayana) teachings on a vast scale. This is so because beings in these three kalpas are suitable recipients for the Secret Mantras, and the reason why the Mantrayāna teachings do not appear at other times is because the beings of those times are not capable of making use of them.<sup>[28](#28)</sup>
 
 <details id="28"><summary>Note <sup>28</sup></summary>
-According to NT Padmasambhava [means](#means) that only in these three periods is the Secret [Mantra](#mantra) [Vajrayana](#vajrayana) revealed on a large scale.
+According to NT Padmasambhava [means](#means) that only in these three periods is the Secret [Mantra](#mantra) [Vajrayāna](#vajrayana) revealed on a large scale.
 </details><br>
 
 In this [Good Kalpa](#good-kalpa), at the present time when the span of human life is a hundred years, the perfect [Buddha Sakyamuni](#sakyamuni) has come to the world, and so it is a [bright kalpa](#good-kalpa).
@@ -1401,9 +1401,9 @@ Deep, peaceful, simple, uncompounded, radiant.
 If I explain it no-one will understand,  
 So I shall stay here silent in the forest.
 
-Accordingly, for seven weeks he did not teach, until [Brahma](#brahma) and [Indra](#indra) begged him to turn the [Wheel of Dharma](#wheel-of-dharma).
+Accordingly, for seven weeks he did not teach, until [Brahmā](#brahma) and [Indra](#indra) begged him to turn the [Wheel of Dharma](#wheel-of-dharma).
 
-Furthermore, if those who hold the authentic teaching do not explain it, it is difficult for the [Dharma](#dharma) to be of any real benefit to beings. An example is the great [Smrtijnana](#smrtijnana) of India, who came to Tibet because his mother had been reborn there in one of the ephemeral [hells](#hell). His interpreter died on the journey, and [Smrtijnana](#smrtijnana), who was wandering around the province of Kham unable to speak a word of the language, became a shepherd and died there without having been of very much benefit to anyone. When [Jowo Atisa](#atisa) later arrived in Tibet and learned what had happened, he cried out: "How sad! Tibetans, your [merit](#merit) is weak! Nowhere in India, East or West, was there a [pandita](#pandita) better than [Smrtijnana](#smrtijnana)," and, placing his hands together, he wept.
+Furthermore, if those who hold the authentic teaching do not explain it, it is difficult for the [Dharma](#dharma) to be of any real benefit to beings. An example is the great [Smrtijnana](#smrtijnana) of India, who came to Tibet because his mother had been reborn there in one of the ephemeral [hells](#hell). His interpreter died on the journey, and [Smrtijnana](#smrtijnana), who was wandering around the province of Kham unable to speak a word of the language, became a shepherd and died there without having been of very much benefit to anyone. When [Jowo Atīśa](#atisa) later arrived in Tibet and learned what had happened, he cried out: "How sad! Tibetans, your [merit](#merit) is weak! Nowhere in India, East or West, was there a [paṇḍita](#pandita) better than [Smrtijnana](#smrtijnana)," and, placing his hands together, he wept.
 
 For us, the [Buddha Sakyamuni](#sakyamuni) has turned the [Wheel of the Dharma](#wheel-of-dharma) on three [levels](#levels) and, manifesting an inconceivable number of forms according to the needs and capacities of those to be helped, leads disciples through the nine vehicles of his teaching to maturity and [liberation](#liberation).
 
@@ -1433,7 +1433,7 @@ To enter the [Dharma](#dharma) just to protect yourself from sickness and negati
 
 To enter the [Dharma](#dharma) merely to have food, clothing and so on in this life, or to obtain the pleasant reward of a divine or human rebirth in the next, is called "[Dharma](#dharma) as quest for excellence."
 
-To enter the [Dharma](#dharma) understanding that the whole of [samsara](#samsara) has no meaning, striving to find a way to be free from it, is called "taking up the teaching by arriving at the starting point of the path."
+To enter the [Dharma](#dharma) understanding that the whole of [saṃsāra](#samsara) has no meaning, striving to find a way to be free from it, is called "taking up the teaching by arriving at the starting point of the path."
 
 **5. There are [spiritual friend](#spiritual-friend)s who can teach us**
 
@@ -1444,25 +1444,25 @@ Thus said the [Conqueror](#conqueror), supreme embodiment of all good qualities.
 
 The [Buddha](#buddha)'s teaching is immense, its transmissions are numerous, and it covers an inexhaustible range of topics. Without relying on the pith instructions of a teacher we would never know how to condense the essential points of all those teachings and put them into practice.
 
-Once, when [Jowo Atisa](#atisa) was in Tibet, [Khu, Ngok and Drom](#khu-ngok-and-drom)<sup>*</sup> asked him:
+Once, when [Jowo Atīśa](#atisa) was in Tibet, [Khu, Ngok and Drom](#khu-ngok-and-drom)<sup>*</sup> asked him:
 
-<sup>* [Atisa's](#atisa) three main disciples ([see glossary](#khu-ngok-and-drom))</sup>
+<sup>* [Atīśa's](#atisa) three main disciples ([see glossary](#khu-ngok-and-drom))</sup>
 
 "For someone to achieve [liberation](#liberation) and complete omniscience, which is more important&mdash;the canonical scriptures and their commentaries, or the oral instructions of the teacher?"
 
-"The teacher's instructions," [Atisa](#atisa) replied.
+"The teacher's instructions," [Atīśa](#atisa) replied.
 
 "Why?"
 
-"Because when it comes to doing the practice&mdash;even if you can explain the whole *[Tripitaka](#tripitaka)* from memory and are very skilled in metaphysics&mdash;without the teacher's practical guidance you and the [Dharma](#dharma) will part company."
+"Because when it comes to doing the practice&mdash;even if you can explain the whole *[Tripiṭaka](#tripitaka)* from memory and are very skilled in metaphysics&mdash;without the teacher's practical guidance you and the [Dharma](#dharma) will part company."
 
 "So," they continued, "is the main point of the teacher's instructions to keep the [three vows](#three-vows) and to strive to do good with body, speech and mind?"
 
-"That is not the slightest bit of use," [Atisa](#atisa) replied.
+"That is not the slightest bit of use," [Atīśa](#atisa) replied.
 
 "How can that be?" they exclaimed.
 
-"You may be able to keep the [three vows](#three-vows) perfectly, but unless you are determined to free yourself from the [three worlds](#three-worlds) of [samsara](#samsara) it just creates further causes of [samsara](#samsara). You may be able to strive day and night to do good with body, speech, and mind, but unless you know how to dedicate the [merit](#merit) to perfect [enlightenment](#enlightenment), two or three wrong thoughts are enough to destroy it entirely. You may be teachers and meditators, full of piety and learning, but unless your minds are turned away from the [eight ordinary concerns](#eight-ordinary-concerns), whatever you do will only be for this present life, and you will not encounter the path that helps for future lives."
+"You may be able to keep the [three vows](#three-vows) perfectly, but unless you are determined to free yourself from the [three worlds](#three-worlds) of [saṃsāra](#samsara) it just creates further causes of [saṃsāra](#samsara). You may be able to strive day and night to do good with body, speech, and mind, but unless you know how to dedicate the [merit](#merit) to perfect [enlightenment](#enlightenment), two or three wrong thoughts are enough to destroy it entirely. You may be teachers and meditators, full of piety and learning, but unless your minds are turned away from the [eight ordinary concerns](#eight-ordinary-concerns), whatever you do will only be for this present life, and you will not encounter the path that helps for future lives."
 
 This illustrates how important it is to be taken under the care of a teacher, a [spiritual friend](#spiritual-friend)
 
@@ -1484,7 +1484,7 @@ Enslavement to others, seeking protection from dangers, and hypocritical practic
 These are [the eight intrusive circumstances that leave no freedom](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma).  
 >  
 > Being bound by one's ties, flagrant depravity,  
-Lack of dissatisfaction with [samsara](#samsara), complete absence of faith,  
+Lack of dissatisfaction with [saṃsāra](#samsara), complete absence of faith,  
 Taking pleasure in bad actions, lack of interest in the [Dharma](#dharma),  
 Heedlessness of the vows and of the samayas:  
 These are [the eight incompatible propensities that leave no freedom](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma). 
@@ -1535,9 +1535,9 @@ People who are tightly bound to their worldly commitments, wealth, pleasures, ch
 
 Some people lack any scrap of humanity, and their nature is so depraved that they are unable to improve their behavior. Even a genuine spiritual teacher would find it very difficult to set them on the noble path. As the [sublime being](#sublime-being)s of the past said, "The abilities of a disciple can be shaped, but not his basic character."
 
-**3. Uninterested in [liberation](#liberation) from [samsara](#samsara) or life's sufferings**
+**3. Uninterested in [liberation](#liberation) from [saṃsāra](#samsara) or life's sufferings**
 
-A person who feels not the slightest consternation either on hearing of lower rebirths and the ills of [samsara](#samsara), or in the face of this present life's sufferings, has no determination whatsoever to liberate himself from [samsara](#samsara), and therefore no reason to engage in [Dharma](#dharma) practice.
+A person who feels not the slightest consternation either on hearing of lower rebirths and the ills of [saṃsāra](#samsara), or in the face of this present life's sufferings, has no determination whatsoever to liberate himself from [saṃsāra](#samsara), and therefore no reason to engage in [Dharma](#dharma) practice.
 
 **4. No trust in the teacher or teachings**
 
@@ -1577,7 +1577,7 @@ If you check your own mind carefully, you will see that even the basic eight fre
 
 Someone born as a human, with all their faculties intact and in a central region, but who becomes involved in a lifestyle conflicting with the [Dharma](#dharma) and who has no faith in the [Conqueror](#conqueror)'s teaching, only has three of the advantages. Were he to obtain either of the two others, he would still only have four. Now, to have a lifestyle which does not conflict at all with the [Dharma](#dharma) is extremely hard. If any of a person's thoughts, words and deeds are negative and his motives are for this life, then in fact, even if they have the reputation of a good and learned person, their lifestyle is in conflict with the [Dharma](#dharma).
 
-The same applies to the five circumstantial advantages. If a [Buddha](#buddha) has come, has taught the [Dharma](#dharma) and the teachings still exist, yet a person has not entered the [Dharma](#dharma), that person has only three of those advantages. Here again, "entering the [Dharma](#dharma)" does not simply mean asking for some teaching and being given. The starting point of the path of [liberation](#liberation) is the conviction that the whole of [samsara](#samsara) is meaningless and the genuine [determination to be free](#determination-to-be-free) from it. To travel the path of the [great-vehicle](#great-vehicle), the essential is to have genuinely aroused bodhicitta. The minimum is to have such unshakeable faith in the [Three Precious Jewels](#three-jewels) that you would never renounce them, even to save your life. Without that, simply reciting prayers and wearing yellow robes is no proof that you have entered the [Dharma](#dharma).
+The same applies to the five circumstantial advantages. If a [Buddha](#buddha) has come, has taught the [Dharma](#dharma) and the teachings still exist, yet a person has not entered the [Dharma](#dharma), that person has only three of those advantages. Here again, "entering the [Dharma](#dharma)" does not simply mean asking for some teaching and being given. The starting point of the path of [liberation](#liberation) is the conviction that the whole of [saṃsāra](#samsara) is meaningless and the genuine [determination to be free](#determination-to-be-free) from it. To travel the path of the [great-vehicle](#great-vehicle), the essential is to have genuinely aroused bodhicitta. The minimum is to have such unshakeable faith in the [Three Precious Jewels](#three-jewels) that you would never renounce them, even to save your life. Without that, simply reciting prayers and wearing yellow robes is no proof that you have entered the [Dharma](#dharma).
 
 Make sure that you know how to identify each of these freedoms and advantages, and to check whether you have them yourself. This is of crucial importance.
 
@@ -1585,14 +1585,14 @@ Make sure that you know how to identify each of these freedoms and advantages, a
 
 The [Buddha](#sakyamuni) said that it is more difficult for a being to obtain human birth than it would be for a turtle coming up from the depths of the ocean to put its head by chance through the opening of a wooden yoke tossed around by huge waves on the surface.
 
-Imagine the whole [cosmos of a billion universes](#cosmos-of-a-billion-universes) as a vast ocean. Floating upon it is a yoke, a piece of wood with a hole in it that can be fixed around the horns of draught oxen. This yoke, tossed hither and thither by the waves, sometimes eastward, sometimes westward, never stays in the same place even for an instant. Deep down in the depths of the ocean lives a blind turtle who rises up to the surface only once every hundred years.<sup>[35](#35)</sup> That the yoke and the turtle might meet is extremely unlikely. The yoke itself is inanimate; the turtle is not intentionally seeking it out. The turtle, being blind, has no eyes with which to spot the yoke. If the yoke were to stay in one place, there might be a chance of their meeting; but it is continually on the move. If the turtle were to spend its entire time swimming around the surface, it might, perhaps, cross paths with the yoke; but it surfaces only once every hundred years. The chances of the yoke and the turtle coming together are therefore extremely small. Nevertheless, by sheer chance the turtle might still just slip its neck into the yoke. But it is even more difficult than that, the [sutras](#sutra) say, to obtain a human existence with the freedoms and advantages. [Nagarjuna](#nagarjuna) expresses this in his *Advice to King Surabhibhadra*:<sup>[36](#36)</sup>
+Imagine the whole [cosmos of a billion universes](#cosmos-of-a-billion-universes) as a vast ocean. Floating upon it is a yoke, a piece of wood with a hole in it that can be fixed around the horns of draught oxen. This yoke, tossed hither and thither by the waves, sometimes eastward, sometimes westward, never stays in the same place even for an instant. Deep down in the depths of the ocean lives a blind turtle who rises up to the surface only once every hundred years.<sup>[35](#35)</sup> That the yoke and the turtle might meet is extremely unlikely. The yoke itself is inanimate; the turtle is not intentionally seeking it out. The turtle, being blind, has no eyes with which to spot the yoke. If the yoke were to stay in one place, there might be a chance of their meeting; but it is continually on the move. If the turtle were to spend its entire time swimming around the surface, it might, perhaps, cross paths with the yoke; but it surfaces only once every hundred years. The chances of the yoke and the turtle coming together are therefore extremely small. Nevertheless, by sheer chance the turtle might still just slip its neck into the yoke. But it is even more difficult than that, the [sūtras](#sutra) say, to obtain a human existence with the freedoms and advantages. [Nāgārjuna](#nagarjuna) expresses this in his *Advice to King Surabhibhadra*:<sup>[36](#36)</sup>
 
 <details id="35"><summary>Note <sup>35</sup></summary>
 "The ocean symbolizes the depth and vastness of the three [lower realms](#lower-realms) of rebirth and their infinite sufferings. The blind turtle symbolizes the beings of these [three worlds](#three-worlds) who are without the two eyes of adopting what is beneficial and abandoning what is harmful. The fact that the turtle only rises to the surface once every hundred years symbolizes the difficulty of escaping from those states. The one hole in the yoke symbolizes the rarity of human and celestial existences. The [wind](#wind) which propels it this way and that represents dependence on favorable circumstances."
 </details>
 
 <details id="36"><summary>Note <sup>36</sup></summary>
-We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom [Nagarjuna](#nagarjuna) wrote this text. In fact, although most accounts agree that he was a close friend and patron of [Nagarjuna](#nagarjuna), the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Gautamiputra Satakarni, who reigned at the [beginning](#beginning) of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
+We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom [Nāgārjuna](#nagarjuna) wrote this text. In fact, although most accounts agree that he was a close friend and patron of [Nāgārjuna](#nagarjuna), the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Gautamiputra Satakarni, who reigned at the [beginning](#beginning) of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
 </details><br>
 
 > It is highly unlikely that a turtle might, by chance, arise through a yoke tossed about on a mighty sea;  
@@ -1600,13 +1600,13 @@ And yet, compared to animal birth there is far less chance than even that
 Of obtaining a human life. Accordingly, O Lord of Men,  
 Practice the authentic [Dharma](#dharma) to make your fortune fruitful!
 
-And [Santideva](#santideva) says:
+And [Śāntideva](#santideva) says:
 
 > The [Buddha](#sakyamuni) declared that like a turtle that perchance can place  
 Its head within a yoke adrift upon a shoreless sea,  
 This human birth is difficult to find.
 
-The difficulty of obtaining human birth is also compared to that of getting dried peas thrown at a smooth wall to stick to it, or to that of balancing a pile of peas on the tip of an upright needle&mdash;which is hard enough with even one single pea! It is important to know these comparisons, which are from the *[Nirvana](#nirvana) [Sutra](#sutra)*, and similar ones in other texts.
+The difficulty of obtaining human birth is also compared to that of getting dried peas thrown at a smooth wall to stick to it, or to that of balancing a pile of peas on the tip of an upright needle&mdash;which is hard enough with even one single pea! It is important to know these comparisons, which are from the *[Nirvāṇa](#nirvana) [Sūtra](#sutra)*, and similar ones in other texts.
 
 ### **4. Reflecting on numerical comparisons**
 
@@ -1628,7 +1628,7 @@ A human life can be called a "***precious human life***" only when it is complet
 
 > To come across a precious jewel  
 Is nothing compared to finding this precious human life.  
-Look how those who are not saddened by [samsara](#samsara)  
+Look how those who are not saddened by [saṃsāra](#samsara)  
 Fritter life away!  
 >  
 > To win a whole kingdom  
@@ -1665,7 +1665,7 @@ But when I see someone like you it doesn't seem precious at all.
 Nothing has as much power to drag you down to the [lower realms](#lower-realms) as human life. What you do with it, right now, is up to you alone:
 
 > Used well, this body is our raft to freedom.  
-Used badly, this body anchors us to [samsara](#samsara).  
+Used badly, this body anchors us to [saṃsāra](#samsara).  
 This body does the bidding of both [good](#positive-action) and [evil](#negative-action).
 
 It is through the power of all the [merit](#merit) you have accumulated in the past that you have now obtained this human life complete with its eighteen freedoms and advantages. To neglect the one essential thing&mdash;the supreme [Dharma](#dharma)&mdash;and instead just spend your life acquiring food and clothes and indulging the [eight ordinary concerns](#eight-ordinary-concerns) would be a useless waste of those freedoms and advantages. How ineffectual to wait until death is upon you and then beat your breast with remorse! For you will have made the wrong choice, as it says in *The Way of the [Bodhisattva](#bodhisattva)*:
@@ -1691,7 +1691,7 @@ That we may attain the very [essence](#essence) of the freedoms and advantages.*
 [alt text](image_url)
 
 *<p id="king-trisong-detsen-il" align="center">King <a href="#trisong-detsen">Trisong Detsen</a> (790 - 844)</p>*
-<p align="center">The king who invited the scholar <a href="#santaraksita">Santaraksita</a> and the <a href="#tantric">Tantric</a> master <a href="#padmasambhava-of-oddiyana">Padmasambhava</a> to Tibet. He built <a href="#samye">Samye</a>, Tibet's first monastery, and was responsible for establishing the Buddhist teachings on a firm basis.</p>
+<p align="center">The king who invited the scholar <a href="#santaraksita">Śāntarakṣita</a> and the <a href="#tantric">Tantric</a> master <a href="#padmasambhava-of-oddiyana">Padmasambhava</a> to Tibet. He built <a href="#samye">Samye</a>, Tibet's first monastery, and was responsible for establishing the Buddhist teachings on a firm basis.</p>
 
 ---
 
@@ -1717,7 +1717,7 @@ Our world, this outer environment fashioned by the collective good [karma](#karm
 
 As the present [great kalpa](#good-kalpa) draws closer to the time of destruction, the beings inhabiting each [realm](#realm) below the god-realm of the first meditative state will, [realm](#realm) by [realm](#realm), progressively disappear until not a single being is left.
 
-Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents,<sup>[37.1](#37-1)</sup> the seven golden mountains,<sup>[37.2](#37-2)</sup> and the circular wall of mountains at the world's very rim<sup>[37.3](#37-3)</sup>. Everything will fuse into one vast mass of fire. As it blazes downwards, it will consume all the infernal realms. As it flares upwards, it will engulf the celestial palace of [Brahma](#brahma), already long abandoned. Above, the younger [gods](#gods) of the [realm](#realm) of [Clear Light](#clear-light) will cry out in fear, "What an immense conflagration!" But the older [gods](#gods) will reassure them, saying "Have no fear! Once it reaches the world of [Brahma](#brahma), it will recede. This has happened before."<sup>*</sup>
+Then, one after the other, seven suns will rise in the sky. The first sun will burn up all fruit-bearing trees and forests. The second will evaporate all streams, creeks and ponds; the third will dry up all the rivers; and the fourth all the great lakes, even Manasarovar. As the fifth sun appears, the great oceans, too, will progressively evaporate at first to a depth of one hundred leagues, then of two hundred, seven hundred, one thousand, ten thousand, and finally eighty thousand leagues. The sea-water that is left will shrink from a league down to an ear-shot, until not even enough remains to fill a footprint. By the time there are six suns all blazing together, the entire earth and its snow-covered mountains will have burst into flames. And when the seventh appears, [Mount Meru](#meru-mount) itself will burn up, together with the four continents<sup>[37.1](#37-1)</sup>, the eight sub-continents,<sup>[37.1](#37-1)</sup> the seven golden mountains,<sup>[37.2](#37-2)</sup> and the circular wall of mountains at the world's very rim<sup>[37.3](#37-3)</sup>. Everything will fuse into one vast mass of fire. As it blazes downwards, it will consume all the infernal realms. As it flares upwards, it will engulf the celestial palace of [Brahmā](#brahma), already long abandoned. Above, the younger [gods](#gods) of the [realm](#realm) of [Clear Light](#clear-light) will cry out in fear, "What an immense conflagration!" But the older [gods](#gods) will reassure them, saying "Have no fear! Once it reaches the world of [Brahmā](#brahma), it will recede. This has happened before."<sup>*</sup>
 
 <sup>* These stages of destruction all take place within one [kalpa](#kalpa), but even these long-lived [gods](#gods) can grow old between the first destruction by fire and the seventh, after which their [realm](#realm)&mdash;part of that of the second [concentration](#concentration)&mdash;will be destroyed by water.</sup>
 
@@ -1725,15 +1725,15 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
 <br>
 
-1. Purvavideha in the East:  
+1. Pūrvavideha in the East:  
 - 1. Deha (T. lus) and  
 - 2. Videha (T. lus 'phags)  
 
-2. [Jambudvipa](#jambudvipa) in the South:  
+2. [Jambudvīpa](#jambudvipa) in the South:  
 - 3. Cāmara (T. rnga yab) and  
 - 4. Aparacāmara (T. rnga yab gzhan)  
 
-3. Aparagodaniya in the West:  
+3. Aparagodānīya in the West:  
 - 5. Shatha (Skt. Satha; T. g.yo ldan) and  
 - 6. Uttaramantriṇa (T. lam mchog 'gro)  
 
@@ -1763,7 +1763,7 @@ Jamgon Kongtrul states:
 
 > Beyond Mount Meru and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
 >  
-> The spaces between [the mountain ranges] are filled with what are known as seven seas enjoyed [by the nagas], the waters of which have eight qualities: cool, tasty, light, soft, clear, odorless, harmless to the throat if swallowed, and harmless to the stomach.
+> The spaces between [the mountain ranges] are filled with what are known as seven seas enjoyed [by the nāgas], the waters of which have eight qualities: cool, tasty, light, soft, clear, odorless, harmless to the throat if swallowed, and harmless to the stomach.
 
 Dudjom Rinpoche states:  
 
@@ -1774,7 +1774,7 @@ Clear and odorless,
 And not irritant to the throat&mdash;  
 Such is water that has the eight perfect qualities.
 >  
-> They are filled with [wish-fulfilling jewel](#wish-fulfilling-jewel)s and the other multifarious riches that belong to the nagas.
+> They are filled with [wish-fulfilling jewel](#wish-fulfilling-jewel)s and the other multifarious riches that belong to the nāgas.
 >  
 > Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount Meru.  
 
@@ -1818,7 +1818,7 @@ Today's the time to be ready,
 For the legions of Death  
 Are not on our side.
 
-And [Nagarjuna](#nagarjuna), too, says:
+And [Nāgārjuna](#nagarjuna), too, says:
 
 > Life flickers in the flurries of a thousand ills,  
 More fragile than a bubble in a stream.  
@@ -1837,13 +1837,13 @@ So, reflect sincerely and meditate on how important it is from this very moment 
 
 ## III. THE IMPERMANENCE OF HOLY BEINGS
 
-In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Sravakas](#sravaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Sakyamuni's](#sakyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvana](#nirvana) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
+In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Sravakas](#sravaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Sakyamuni's](#sakyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvāṇa](#nirvana) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
 
 One by one, the numerous great [Sravakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
 
 In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats) who compiled the words of the [Buddha](#sakyamuni). There were the [Six Ornaments](#six-ornaments) and [Two Supreme Ones](#two-supreme-ones), the [Eighty Siddhas](#eighty-siddhas), and many others, who mastered all attributes of the paths and [levels](#levels) and possessed unlimited clairvoyance and miraculous powers. But all that remains of them today are the stories telling how they lived.
 
-Here too in Tibet, the Land of Snows, when the [Second Buddha](#second-buddha) of [Oddiyana](#oddiyana)<sup>*</sup> turned the [Wheel of Dharma](#wheel-of-dharma) to ripen and liberate beings, there lived all his followers, like the [twenty-five disciples](#twenty-five-disciples) known as the King and Subjects and the [Eighty Siddhas](#eighty-siddhas) of Yerpa. Later came the [Ancient Tradition](#ancient-tradition) masters of the [So, Zur and Nub](#so-zur-and-nub) clans; [Marpa](#marpa), [Milarepa](#milarepa) and Dagpo of the [New Tradition](#new-tradition); and innumerable other learned and accomplished beings. Most of them achieved high [levels](#levels) of [accomplishment](#accomplishment) and had mastery over the [four elements](#four-elements). They could produce all sorts of miraculous transformations. They could make tangible objects appear out of nowhere and disappear into nowhere. They could not be burned by fire, be swept away by water, be crushed by earth or fall from precipices into space&mdash;they were simply free from any harm that the [four elements](#four-elements) could bring about.
+Here too in Tibet, the Land of Snows, when the [Second Buddha](#second-buddha) of [Oḍḍiyāna](#oddiyana)<sup>*</sup> turned the [Wheel of Dharma](#wheel-of-dharma) to ripen and liberate beings, there lived all his followers, like the [twenty-five disciples](#twenty-five-disciples) known as the King and Subjects and the [Eighty Siddhas](#eighty-siddhas) of Yerpa. Later came the [Ancient Tradition](#ancient-tradition) masters of the [So, Zur and Nub](#so-zur-and-nub) clans; [Marpa](#marpa), [Milarepa](#milarepa) and Dagpo of the [New Tradition](#new-tradition); and innumerable other learned and accomplished beings. Most of them achieved high [levels](#levels) of [accomplishment](#accomplishment) and had mastery over the [four elements](#four-elements). They could produce all sorts of miraculous transformations. They could make tangible objects appear out of nowhere and disappear into nowhere. They could not be burned by fire, be swept away by water, be crushed by earth or fall from precipices into space&mdash;they were simply free from any harm that the [four elements](#four-elements) could bring about.
 
 <sup>* [Padmasambhava](#padmasambhava-of-oddiyana) is often referred to as the second [Buddha](#buddha) of our era, extending the work of [Sakyamuni](#sakyamuni).</sup><br>
 
@@ -1857,7 +1857,7 @@ As for us, our [negative actions](#negative-action), carried along by the [wind]
 
 There are magnificent and illustrious [gods](#gods) and [risis](#risi) who can live for as long as a [kalpa](#kalpa), with statures measured in leagues or earshots and a power and resplendence that outshine the sun and moon, are nevertheless not beyond the reach of death. As *The Treasury of Qualities* says:
 
-> Even [Brahma](#brahma), [Indra](#indra), Mahesvara and the [universal monarch](#universal-monarch)s  
+> Even [Brahmā](#brahma), [Indra](#indra), Maheśvara and the [universal monarch](#universal-monarch)s  
 Have no way to evade the [Demon](#demon) of Death.
 
 In the end, not even divine or human [risis](#risi) with the [five kinds of clairvoyance](#five-clairvoyances) and the power to fly through the sky can escape death. *The Letter of Consolation* says"
@@ -1867,9 +1867,9 @@ Can fly far and wide in the skies,
 Yet they will never reach a land  
 Where immortality holds sway.
 
-Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with [Mahasammata](#mahasammata), innumerable emperors ruled the entire continent. Later the three Palas, the thirty-seven Candras and many other rich and powerful kings reigned in both eastern and western India.
+Here in our human world there have been universal emperors who have reached the very pinnacle of power and material wealth. In the holy land of India, starting with [Mahāsammata](#mahasammata), innumerable emperors ruled the entire continent. Later the three Palas, the thirty-seven Candras and many other rich and powerful kings reigned in both eastern and western India.
 
-In Tibet, the Land of Snows, the first king, Nyatri Tsenpo, was of divine descent, an emanation of the [Bodhisattva](#bodhisattva) Nivaranaviskambhin. Then reigned the seven heavenly kings called Tri, the six earthly kings called Lek, the eight middle kings called De, the five linking kings called Tsen, the twelve and a half<sup>[38](#38)</sup> kings of the Fortunate Dynasty including the five of the Extremely Fortunate Dynasty, and others besides. In the reign of the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), a magical army subdued all lands from Nepal to China. King [Trisong Detsen](#trisong-detsen) brought two thirds of [Jambudvipa](#jambudvipa)<sup>*</sup> under his power, and, during the reign of Ralpachen, an iron pillar was erected on the banks of the Ganges, marking the frontier between India and Tibet. Tibet exercised power in many regions of India, China, Gesar, Tajikistan and other countries. At the New Year festival, ambassadors from all those countries were required to spend one day in Lhasa. Such was Tibet's power in the past. But it did not last, and nowadays, apart from the historical accounts, nothing is left.
+In Tibet, the Land of Snows, the first king, Nyatri Tsenpo, was of divine descent, an emanation of the [Bodhisattva](#bodhisattva) Nivaranaviskambhin. Then reigned the seven heavenly kings called Tri, the six earthly kings called Lek, the eight middle kings called De, the five linking kings called Tsen, the twelve and a half<sup>[38](#38)</sup> kings of the Fortunate Dynasty including the five of the Extremely Fortunate Dynasty, and others besides. In the reign of the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), a magical army subdued all lands from Nepal to China. King [Trisong Detsen](#trisong-detsen) brought two thirds of [Jambudvīpa](#jambudvipa)<sup>*</sup> under his power, and, during the reign of Ralpachen, an iron pillar was erected on the banks of the Ganges, marking the frontier between India and Tibet. Tibet exercised power in many regions of India, China, Gesar, Tajikistan and other countries. At the New Year festival, ambassadors from all those countries were required to spend one day in Lhasa. Such was Tibet's power in the past. But it did not last, and nowadays, apart from the historical accounts, nothing is left.
 
 <sup>* Here this term would seem to refer to South Asia, Mongolia and China.</sup>
 
@@ -1897,7 +1897,7 @@ Whatever rises up is impermanent and is bound to fall down.
 So also, friendship and enmity, fortune and sorrow, good and evil,  
 all the thoughts that run through your mind&mdash;everything is always changing.
 
-You might be as exalted as the heavens, as mighty as a thunderbolt, as rich as a [naga](#naga), as good-looking as a [god](#gods) or as pretty as a rainbow&mdash;but no matter who or what you are, when death suddenly comes there is nothing you can do about it for even a moment. You have no choice but to go, naked and cold, your empty hands clenched stiffly under your armpits. Unbearable though it might be to part with your money, your cherished possessions, your friends, loved ones, attendants, disciples, country, lands, subjects, property, food, drink and wealth, you just have to leave everything behind, like a hair being pulled out of a slab of butter.<sup>*</sup> You might be the head [lama](#lama) over thousands of monks, but you cannot take even one of them with you. You might be governor over tens of thousands of people, but you cannot take a single one as your servant. All the wealth in the world would still not give you the power to take as much as a needle and thread.
+You might be as exalted as the heavens, as mighty as a thunderbolt, as rich as a [nāga](#naga), as good-looking as a [god](#gods) or as pretty as a rainbow&mdash;but no matter who or what you are, when death suddenly comes there is nothing you can do about it for even a moment. You have no choice but to go, naked and cold, your empty hands clenched stiffly under your armpits. Unbearable though it might be to part with your money, your cherished possessions, your friends, loved ones, attendants, disciples, country, lands, subjects, property, food, drink and wealth, you just have to leave everything behind, like a hair being pulled out of a slab of butter.<sup>*</sup> You might be the head [lama](#lama) over thousands of monks, but you cannot take even one of them with you. You might be governor over tens of thousands of people, but you cannot take a single one as your servant. All the wealth in the world would still not give you the power to take as much as a needle and thread.
 
 <sup>* The butter does not stick to the hair. Only the empty impression of the hair remains.</sup><br>
 
@@ -1930,7 +1930,7 @@ People of Tingri, don't bicker or fight!
 
 ---
 
-Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storied temple, built by miraculously emanated workers during the reign of King [Trisong Detsen](#trisong-detsen) and consecrated by the [Second Buddha](#second-buddha) of [Oddiyana](#oddiyana), was destroyed by fire in a single night. The Red Mountain Palace that existed in King [Songtsen Gampo's](#songtsen-gampo) time rivaled the palace of [Indra](#indra) himself, but now not even the foundation stones are left. In comparison, our own present towns, houses and monasteries are just so many insects' nests. So why do we attach such importance to them? It would be better to set our hearts on following to the very end the example of the [Kagyupas](#kagyupa) of old, who left their homeland behind and headed for the wilderness. They dwelt at the foot of rocky cliffs with only wild animals for companions, and, without the least concern about food, clothing or renown, embraced the four basic aims of the [Kadampas](#kadampa): 
+Whatever buildings are constructed are bound to collapse. Villages and monasteries that were once successful and prosperous now lie empty and abandoned, and where once their careful owners lived, now only birds make their nests. Even [Samye's](#samye) central three-storied temple, built by miraculously emanated workers during the reign of King [Trisong Detsen](#trisong-detsen) and consecrated by the [Second Buddha](#second-buddha) of [Oḍḍiyāna](#oddiyana), was destroyed by fire in a single night. The Red Mountain Palace that existed in King [Songtsen Gampo's](#songtsen-gampo) time rivaled the palace of [Indra](#indra) himself, but now not even the foundation stones are left. In comparison, our own present towns, houses and monasteries are just so many insects' nests. So why do we attach such importance to them? It would be better to set our hearts on following to the very end the example of the [Kagyupas](#kagyupa) of old, who left their homeland behind and headed for the wilderness. They dwelt at the foot of rocky cliffs with only wild animals for companions, and, without the least concern about food, clothing or renown, embraced the four basic aims of the [Kadampas](#kadampa): 
 
 > Base your mind on the [Dharma](#dharma)  
 Base your [Dharma](#dharma) on a humble life,  
@@ -1939,14 +1939,14 @@ Base your death on an empty, barren hollow.<sup>*</sup>
 >
 > <sup>* i.e. die alone in a remote place where there are no disturbances.</sup>
 
-High estate and mighty armies never last. [Mandhatri](#mandhatri), the universal king, turned the golden [wheel](#wheel) that gave him power over four continents; he reigned over the heavens of the [Gods](#gods) of the [Thirty-three](#thirty-three); he even shared the throne of [Indra](#indra), king of the [gods](#gods), and could defeat the [asuras](#5-the-asuras) in battle. Yet finally he fell to earth and died, his ambitions still unsatisfied. You can see for yourself that of all those who wield power and authority&mdash;whether around kings, [lamas](#lama), lords or governments&mdash; not a single one can keep their position forever; and that many powerful people, who have been imposing the law on others one year, find themselves spending the next languishing in prison. What use could such transitory power be to you? The state of perfect Buddhahood, on the other hand, can never diminish or be spoiled, and is worthy of the offerings of [gods](#gods) and men. That is what you should be determined to attain.
+High estate and mighty armies never last. [Māndhātṛ](#mandhatri), the universal king, turned the golden [wheel](#wheel) that gave him power over four continents; he reigned over the heavens of the [Gods](#gods) of the [Thirty-three](#thirty-three); he even shared the throne of [Indra](#indra), king of the [gods](#gods), and could defeat the [asuras](#5-the-asuras) in battle. Yet finally he fell to earth and died, his ambitions still unsatisfied. You can see for yourself that of all those who wield power and authority&mdash;whether around kings, [lamas](#lama), lords or governments&mdash; not a single one can keep their position forever; and that many powerful people, who have been imposing the law on others one year, find themselves spending the next languishing in prison. What use could such transitory power be to you? The state of perfect Buddhahood, on the other hand, can never diminish or be spoiled, and is worthy of the offerings of [gods](#gods) and men. That is what you should be determined to attain.
 
-Friendship and enmity, too, are far from everlasting. One day while the [Arhat](#arhat) [Katyayana](#katyayana) was out on his alms-round he came across a man with a child on his lap. The man was eating a fish with great relish, and throwing stones at a bitch that was trying to get at the bones. What the master saw with his clairvoyance, however, was this. The fish had been the man's own father in that very lifetime, and the bitch had been his mother. An enemy he had killed in a past existence had been reborn as his son, as the karmic repayment for the life the man had taken. [Katyayana](#katyayana) cried out:
+Friendship and enmity, too, are far from everlasting. One day while the [Arhat](#arhat) [Kātyāyana](#katyayana) was out on his alms-round he came across a man with a child on his lap. The man was eating a fish with great relish, and throwing stones at a bitch that was trying to get at the bones. What the master saw with his clairvoyance, however, was this. The fish had been the man's own father in that very lifetime, and the bitch had been his mother. An enemy he had killed in a past existence had been reborn as his son, as the karmic repayment for the life the man had taken. [Kātyāyana](#katyayana) cried out:
 
 > He eats his father's flesh, he beats his mother off,  
 He dandles on his lap the enemy that he killed;  
 The wife is gnawing at her husband's bones.  
-I laugh to see what happens in [samsara's](#samsara) show!
+I laugh to see what happens in [saṃsāra's](#samsara) show!
 
 Even within one lifetime, it often happens that sworn enemies are later reconciled and make friends. They may even become part of each other's families, and end up closer than anyone else. On the other hand, people intimately linked by blood or marriage often argue and do each other as much harm as they can for the sake of some trivial possession or paltry inheritance. Couples or dear friends can break up for the most insignificant reasons, ending sometimes even in murder. Seeing that all friendship and enmity is so ephemeral, remind yourself over and over again to treat everyone with love and compassion.
 
@@ -1958,7 +1958,7 @@ Excellence and mediocrity are impermanent, too. In worldly life, however authori
 
 In religious life, too, as the saying goes, "In old age, sages become pupils, renunciants amass wealth, preceptors become heads of families." People who early in life renounced all worldly activities may be found busily piling up riches and provisions at the end. Others start out teaching and explaining the [Dharma](#dharma) but end up as hunters, thieves or robbers. Learned monastic preceptors who in their youth kept all the [Vinaya](#vinaya) vows may in their old age beget many children. On the other hand, there are also many people who spend all their earlier years doing only wrong but who, in the end, devote themselves entirely to practicing the holy [Dharma](#dharma) and either attain [accomplishment](#accomplishment) or, if not, at least by being on the path when they die go on to higher and higher rebirths.
 
-Whether someone appears to be good or bad just at present, therefore, is but a momentary impression that has no permanence or stability whatsoever. You might feel slightly disenchanted with [samsara](#samsara), develop a vague [determination to be free](#determination-to-be-free) of it, and take on the semblance of a serious student of [Dharma](#dharma) to the point that ordinary folk are quite impressed, and want to be your patrons and disciples. But at that point, unless you take a very rigorous look at yourself, you could easily start thinking you really are as other people see you. Puffed up with pride, you get completely carried away by [appearances](#appearances) and start to think that you can do whatever you want. You have been completely tricked by negative forces. So, banish all self-centered beliefs and arouse the [wisdom](#wisdom) of [egolessness](#egolessness).<sup>*</sup> Until you attain the sublime [[Bodhisattva](#bodhisattva) [levels](#levels)](#bodhisattva-levels), no appearance, whether good or bad, can ever last. [Meditate](#meditate-meditation) constantly on death and impermanence. Analyze your own faults and always take the lowest place. Cultivate dissatisfaction with [samsara](#samsara) and desire for [liberation](#liberation). Train yourself to become peaceful, disciplined and conscientious. Constantly develop a sense of poignant and deep sadness at the [thought](#thought) of the transitoriness of all compounded things and the sufferings of [samsara](#samsara), like [Jetsun Milarepa](#milarepa):
+Whether someone appears to be good or bad just at present, therefore, is but a momentary impression that has no permanence or stability whatsoever. You might feel slightly disenchanted with [saṃsāra](#samsara), develop a vague [determination to be free](#determination-to-be-free) of it, and take on the semblance of a serious student of [Dharma](#dharma) to the point that ordinary folk are quite impressed, and want to be your patrons and disciples. But at that point, unless you take a very rigorous look at yourself, you could easily start thinking you really are as other people see you. Puffed up with pride, you get completely carried away by [appearances](#appearances) and start to think that you can do whatever you want. You have been completely tricked by negative forces. So, banish all self-centered beliefs and arouse the [wisdom](#wisdom) of [egolessness](#egolessness).<sup>*</sup> Until you attain the sublime [[Bodhisattva](#bodhisattva) [levels](#levels)](#bodhisattva-levels), no appearance, whether good or bad, can ever last. [Meditate](#meditate-meditation) constantly on death and impermanence. Analyze your own faults and always take the lowest place. Cultivate dissatisfaction with [saṃsāra](#samsara) and desire for [liberation](#liberation). Train yourself to become peaceful, disciplined and conscientious. Constantly develop a sense of poignant and deep sadness at the [thought](#thought) of the transitoriness of all compounded things and the sufferings of [saṃsāra](#samsara), like [Jetsun Milarepa](#milarepa):
 
 <sup>* The [wisdom](#wisdom) that sees the [emptiness](#emptiness) of self and phenomena.</sup><br>
 
@@ -1989,7 +1989,7 @@ If you reflect on the numerous examples given here, you will have no doubt that 
 
 Once born, every human in the world is sure to die. But how, why, when and where we are going to die cannot be predicted. None of us can say for sure that our death will come about at a particular time or place, in a certain way, or as a result of this or that cause.
 
-There are a few things in this world that favor life and many that threaten it, as the master [Aryadeva](#aryadeva) points out:
+There are a few things in this world that favor life and many that threaten it, as the master [Āryadeva](#aryadeva) points out:
 
 > Causes of death are numerous;  
 Causes of life are few,  
@@ -2017,7 +2017,7 @@ Meditate only on death, earnestly and from the core of your heart. Practice like
 
 <sup>* Turning someone's bowl over was for Tibetans a symbol that the person had died.</sup><br>
 
-However, just to meditate on death will not suffice. The only thing of any use at the moment of death is the [Dharma](#dharma), so you also need to encourage yourself to practice in an authentic way, never slipping into forgetfulness or loss of vigilance, remembering always that the activities of [samsara](#samsara) are transient and without the slightest meaning. In [essence](#essence), **this conjunction of body and mind is impermanent, so do not count on it as your own; it is only on loan.**
+However, just to meditate on death will not suffice. The only thing of any use at the moment of death is the [Dharma](#dharma), so you also need to encourage yourself to practice in an authentic way, never slipping into forgetfulness or loss of vigilance, remembering always that the activities of [saṃsāra](#samsara) are transient and without the slightest meaning. In [essence](#essence), **this conjunction of body and mind is impermanent, so do not count on it as your own; it is only on loan.**
 
 All roads and paths are impermanent, so whenever you are walking anywhere direct your steps toward the [Dharma](#dharma). As it says in the *Condensed Transcendent [Wisdom](#wisdom)*:
 
@@ -2058,7 +2058,7 @@ The [Buddha](#sakyamuni) said:
 
 And he said in the *[Vinaya](#vinaya)*:
 
->  To remember for an instant the impermanence of all compounded things is greater than giving food and offerings to a hundred of my disciples who are perfect vessels,<sup>*</sup> such as the bhiksus [Sariputra](#sariputra) and [Maudgalyayana](#maudgalyayana).
+>  To remember for an instant the impermanence of all compounded things is greater than giving food and offerings to a hundred of my disciples who are perfect vessels,<sup>*</sup> such as the bhikṣus [Sariputra](#sariputra) and [Maudgalyāyana](#maudgalyayana).
 
 <sup>* i.e. perfectly capable of receiving the teachings correctly and making use of them.</sup><br>
 
@@ -2068,7 +2068,7 @@ A [lay disciple](#lay-disciple) asked [Geshe Potowa](#potowa-geshe) which [Dharm
 >  
 > At first meditation on death and impermanence makes you take up the [Dharma](#dharma); in the middle it conduces to positive practice; in the end it helps you realize the sameness of all phenomena.  
 >  
-> At first meditation on impermanence makes you cut your ties with the things of this life; in the middle it conduces to your casting off all [clinging](#clinging) to [samsara](#samsara); in the end it helps you take up the path of [nirvana](#nirvana).  
+> At first meditation on impermanence makes you cut your ties with the things of this life; in the middle it conduces to your casting off all [clinging](#clinging) to [saṃsāra](#samsara); in the end it helps you take up the path of [nirvāṇa](#nirvana).  
 >  
 > At first meditation on impermanence makes you develop faith; in the middle it conduces to diligence in your practice; in the end it helps you give birth to [wisdom](#wisdom).  
 >  
@@ -2080,7 +2080,7 @@ A [lay disciple](#lay-disciple) asked [Geshe Potowa](#potowa-geshe) which [Dharm
 
 And [Padampa Sangye](#padampa-sangye) says:
 
-> At first, to be fully convinced of impermanence makes you take up the [Dharma](#dharma); in the middle it whips up your diligence; and in the end it brings you to the radiant [dharmakaya](#dharmakaya)
+> At first, to be fully convinced of impermanence makes you take up the [Dharma](#dharma); in the middle it whips up your diligence; and in the end it brings you to the radiant [dharmakāya](#dharmakaya)
 
 Unless you feel this sincere conviction in the principle of impermanence, any teaching you might think you have received and put into practice will just make you more and more impervious<sup>[47](#47)</sup> to the [Dharma](#dharma). 
 
@@ -2142,31 +2142,31 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 
 > *Understanding that samsaric activities are empty of meaning,*  
 *With great compassion you strive only for the benefit of others.*  
-*Without attachment to [samsara](#samsara) or [nirvana](#nirvana), you act according to the [Great Vehicle](#great-vehicle).*  
+*Without attachment to [saṃsāra](#samsara) or [nirvāṇa](#nirvana), you act according to the [Great Vehicle](#great-vehicle).*  
 *Peerless Teacher, at your feet I bow.*  
 
-Listen to this chapter with the same attitude as you did the previous ones. It comprises a general reflection on the sufferings of [samsara](#samsara) and reflections on the particular sufferings of each of the [six realms of being](#six-realms-of-existence).
+Listen to this chapter with the same attitude as you did the previous ones. It comprises a general reflection on the sufferings of [saṃsāra](#samsara) and reflections on the particular sufferings of each of the [six realms of being](#six-realms-of-existence).
 
 ## I. THE SUFFERINGS OF [SAMSARA](#samsara) IN GENERAL
 
-As I have pointed out already, we may now have a life endowed with the [freedoms and advantages which are so difficult to find](#the-difficulty-of-finding-the-freedoms-and-advantages), but it will not last for long. We will soon fall under the power of impermanence and death. If after that we just disappeared like a fire burning out or water evaporating, everything would be over. But after death we do not vanish into nothing. We are forced to take a new birth&mdash;which [means](#means) that we will still be in [samsara](#samsara), and nowhere else.
+As I have pointed out already, we may now have a life endowed with the [freedoms and advantages which are so difficult to find](#the-difficulty-of-finding-the-freedoms-and-advantages), but it will not last for long. We will soon fall under the power of impermanence and death. If after that we just disappeared like a fire burning out or water evaporating, everything would be over. But after death we do not vanish into nothing. We are forced to take a new birth&mdash;which [means](#means) that we will still be in [saṃsāra](#samsara), and nowhere else.
 
-The term [samsara](#samsara), the [wheel](#wheel) or round of existence, is used here to mean going round and round from one place to another in a circle, like a potter's [wheel](#wheel), or the [wheel](#wheel) of a water mill. When a fly is trapped in a closed jar, no matter where it flies it cannot get out. Likewise, whether we are born in the higher or [lower realms](#lower-realms), we are never outside [samsara](#samsara). The upper part of the jar is like the higher realms of [gods](#gods) and men, and the lower part like the three unfortunate realms. It is said that [samsara](#samsara) is a circle because we turn round and round, taking rebirth in one after another of the [six realms](#six-realms-of-existence) as a result of our own actions which, whether positive or negative, are tainted by [clinging](#clinging).
+The term [saṃsāra](#samsara), the [wheel](#wheel) or round of existence, is used here to mean going round and round from one place to another in a circle, like a potter's [wheel](#wheel), or the [wheel](#wheel) of a water mill. When a fly is trapped in a closed jar, no matter where it flies it cannot get out. Likewise, whether we are born in the higher or [lower realms](#lower-realms), we are never outside [saṃsāra](#samsara). The upper part of the jar is like the higher realms of [gods](#gods) and men, and the lower part like the three unfortunate realms. It is said that [saṃsāra](#samsara) is a circle because we turn round and round, taking rebirth in one after another of the [six realms](#six-realms-of-existence) as a result of our own actions which, whether positive or negative, are tainted by [clinging](#clinging).
 
-We have been wandering since beginningless time in these samsaric worlds in which every being, without exception, has had relations of affection, enmity and indifference with every other being. Everyone has been everyone else's father and mother. In the [sutras](#sutra) it is said that if you wished to count back the generations of mothers in your family, saying, "She was my mother's mother; her mother was so and so..." and so on, using little pellets of earth as big as a juniper berry to count them, the whole earth would be used up before you had counted them all. As [Lord Nagarjuna](#nagarjuna) says:
+We have been wandering since beginningless time in these samsaric worlds in which every being, without exception, has had relations of affection, enmity and indifference with every other being. Everyone has been everyone else's father and mother. In the [sūtras](#sutra) it is said that if you wished to count back the generations of mothers in your family, saying, "She was my mother's mother; her mother was so and so..." and so on, using little pellets of earth as big as a juniper berry to count them, the whole earth would be used up before you had counted them all. As [Lord Nāgārjuna](#nagarjuna) says:
 
 > We would run out of earth trying to count our mothers  
 With balls of clay the size of juniper berries.  
 
-There is not a single form of life that we have not taken throughout beginningless [samsara](#samsara) until now. Our desires have led us innumerable times to have our head and limbs cut off. Were we to try to pile up in one place all the limbs we have lost when we were ants and other small insects, the pile would be higher than [Mount Meru](#meru-mount). The tears we have wept from cold, hunger and thirst when we were without food and clothing, had they not all dried up, would make an ocean larger than all the great oceans surrounding the world. Even the amount of molten copper we have swallowed in the [hells](#hell) would be vaster than the four great oceans. Yet all beings bound to the realms of [samsara](#samsara) by their desire and attachments, with never an instant's remorse, will have to undergo still more sufferings in this endless circle.
+There is not a single form of life that we have not taken throughout beginningless [saṃsāra](#samsara) until now. Our desires have led us innumerable times to have our head and limbs cut off. Were we to try to pile up in one place all the limbs we have lost when we were ants and other small insects, the pile would be higher than [Mount Meru](#meru-mount). The tears we have wept from cold, hunger and thirst when we were without food and clothing, had they not all dried up, would make an ocean larger than all the great oceans surrounding the world. Even the amount of molten copper we have swallowed in the [hells](#hell) would be vaster than the four great oceans. Yet all beings bound to the realms of [saṃsāra](#samsara) by their desire and attachments, with never an instant's remorse, will have to undergo still more sufferings in this endless circle.
 
-Even were we able, through the fortunate result of some virtuous action, to obtain the long life, perfect body, wealth and glory of [Indra](#indra) or [Brahma](#brahma), in the end we would still not be able to postpone death; and after death we would again have to experience the sufferings of the [lower realms](#lower-realms). In this present life, what little advantages of power, wealth, good health and other things we enjoy might fool us for a few years, months, or days. But once the effect of whatever good actions caused these happy states is exhausted, whether we want to or not, we will have to undergo poverty and misery or the unbearable sufferings of the [lower realms](#lower-realms).
+Even were we able, through the fortunate result of some virtuous action, to obtain the long life, perfect body, wealth and glory of [Indra](#indra) or [Brahmā](#brahma), in the end we would still not be able to postpone death; and after death we would again have to experience the sufferings of the [lower realms](#lower-realms). In this present life, what little advantages of power, wealth, good health and other things we enjoy might fool us for a few years, months, or days. But once the effect of whatever good actions caused these happy states is exhausted, whether we want to or not, we will have to undergo poverty and misery or the unbearable sufferings of the [lower realms](#lower-realms).
 
 What meaning is there in that kind of happiness? It is like a dream that just stops in the middle when you wake up. Those who, as the result of some slight [positive action](#positive-action), seem to be happy and comfortable at the moment, will not be able to hold on to that state for an instant longer once the effect of that action runs out. The kings of the [gods](#gods), seated high on their thrones of precious jewels spread with divine silks, enjoy all the pleasures of the five senses. But, once their lifespan is exhausted, in the twinkling of an eye they are plunged into suffering and fall headlong down to the scorching metal ground of [hell](#hell). Even the [gods](#gods) of the sun and moon,<sup>[48](#48)</sup> who light up the four continents, are in darkness so deep that they cannot see whether their own limbs are stretched out or bent in.
 
 <details id="48"><summary>Note <sup>48</sup></summary>These celestial bodies are traditionally considered the dwellings of certain celestial beings, invisible to ordinary humans.</details><br>
 
-So do not put your trust in the apparent joys of [samsara](#samsara). Resolve that, in this very life, you will free yourself from the great ocean of its sufferings and attain the true and constant happiness of perfect Buddhahood. Make this [thought](#thought) your practice, using the proper methods for the [beginning](#beginning), the main part and the conclusion.
+So do not put your trust in the apparent joys of [saṃsāra](#samsara). Resolve that, in this very life, you will free yourself from the great ocean of its sufferings and attain the true and constant happiness of perfect Buddhahood. Make this [thought](#thought) your practice, using the proper methods for the [beginning](#beginning), the main part and the conclusion.
 
 ## II. THE PARTICULAR SUFFERINGS EXPERIENCED BY THE BEINGS OF THE SIX REALMS
 
@@ -2222,7 +2222,7 @@ The beings in this [hell](#hell) are trapped inside blazing metal houses, and [Y
 
 This is an immense edifice of blazing hot metal, surrounded by the sixteen [Neighboring Hells](#119-the-neighboring-hells). In it [Yama's](#yama) henchmen toss incalculable numbers of beings into the center of a mountain of pieces of red-hot iron, glowing live like coals. They whip up the flames with bellows of tiger and leopard-skin until the bodies of their victims and the fire become indistinguishable. Their suffering is tremendous. Apart from the cries of distress, there is no longer any indication of the presence of actual bodies. They constantly long to escape, but it never happens. Sometimes there is a small gap in the fire and they think they can get out, but the workers hit them with spears, clubs, hammers and other weapons and they are subjected to all the agonies of the seven previous hells, such as having molten bronze poured into their mouths.
 
-Lifespan here is a whole intermediate [kalpa](#kalpa). It is called the [Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) because there could be no worse torment elsewhere. It is the [hell](#hell) where those who have committed the [five crimes with immediate retribution](#five-crimes-with-immediate-retribution), and practitioners of the [Mantrayana](#secret-mantrayana) who develop adverse views regarding the [Vajra Master](#vajra-master), are reborn. No other actions have the power to cause rebirth here.
+Lifespan here is a whole intermediate [kalpa](#kalpa). It is called the [Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) because there could be no worse torment elsewhere. It is the [hell](#hell) where those who have committed the [five crimes with immediate retribution](#five-crimes-with-immediate-retribution), and practitioners of the [Mantrayāna](#secret-mantrayana) who develop adverse views regarding the [Vajra Master](#vajra-master), are reborn. No other actions have the power to cause rebirth here.
 
 ##### 1.1.9 The Neighboring Hells
 
@@ -2312,7 +2312,7 @@ The ephemeral hells exist in all sorts of different locations and the sufferings
 
 Examples of stories about these [hells](#hell) are the accounts of the fish seen by [Lingje Repa](#lingje-repa) in Yamdrok Lake and the frog that the [siddha](#siddha) [Tangtong Gyalpo](#tangtong-gyalpo) found inside a stone.
 
-Yutso Ngonmo, the Blue Turquoise Lake, appeared while the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal) was meditating in Yamdrok, when a piece of pure gold thrown by a [Bonpo](#bonpo) was transformed into water. It is one of the four famous lakes of Tibet, and is so long that to get from its head at Lung Kangchen to where it ends at Zemaguru is a walk of several days. One day the great [siddha](#siddha) [Lingje Repa](#lingje-repa) was looking into this lake, when he started to weep, exclaiming, "Poor thing! Don't misuse offerings! Don't misuse offerings!"<sup>[49](#49)</sup>
+Yutso Ngonmo, the Blue Turquoise Lake, appeared while the [ḍākinī](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal) was meditating in Yamdrok, when a piece of pure gold thrown by a [Bonpo](#bonpo) was transformed into water. It is one of the four famous lakes of Tibet, and is so long that to get from its head at Lung Kangchen to where it ends at Zemaguru is a walk of several days. One day the great [siddha](#siddha) [Lingje Repa](#lingje-repa) was looking into this lake, when he started to weep, exclaiming, "Poor thing! Don't misuse offerings! Don't misuse offerings!"<sup>[49](#49)</sup>
 
 <details id="49"><summary>Note <sup>49</sup></summary><i>Dkor za ba</i> usually <a href="#means">means</a> using funds donated by the faithful, with the particular sense of using them improperly. Sometimes it refers to the abuse of collective possessions, such as the wealth of a nation, by those in a position of power.</details><br>
 
@@ -2338,7 +2338,7 @@ At the time of the [Buddha](#sakyamuni), there was a village butcher who made a 
 
 Long ago, [Srona](#srona-sronajat) saw an adulterer who had vowed to keep from infidelity during the day. In contrast to the butcher, he suffered only during the night.
 
-There was once a delightful monastery, housing about five hundred monks. When the [bell](#bell) rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of [Buddha](#buddha) [Kasyapa](#kasyapa), many monks had argued at the time of the midday meal, and this was the fully ripened effect.<sup>*</sup>
+There was once a delightful monastery, housing about five hundred monks. When the [bell](#bell) rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of [Buddha](#buddha) [Kāśyapa](#kasyapa), many monks had argued at the time of the midday meal, and this was the fully ripened effect.<sup>*</sup>
 
 <sup>* This is explained in the chapter that follows.</sup><br>
 
@@ -2402,11 +2402,11 @@ When the woman came back, she cried, "Didn't I tell you not to give them anythin
 
 "What past actions have brought you here?"
 
-"The people of [Jambudvipa](#jambudvipa) are too sceptical," the woman replied. "You will never believe me."
+"The people of [Jambudvīpa](#jambudvipa) are too sceptical," the woman replied. "You will never believe me."
 
 "How could I not believe you, when I am seeing this with my very own eyes?"
 
-So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmin) woman in a village. One evening, I had prepared some delicious food because it was an auspicious day. The great and sublime [Katyayana](#katyayana) happened to come by on his alms round. I felt faith in him and gave him an offering of food. Then I [thought](#thought) to myself that perhaps my husband would like to share the [merit](#merit). 'Rejoice with me that I have given alms to the great and [sublime](#sublime-being) [Katyayana](#katyayana), the [Buddha's](#buddha) heir,' I said to him. But he flew into a rage. 'You have not yet offered food to the [brahmins](#brahmin), nor even presented your respects to your family and friends, and there you are giving the first part of the food to this shaven-skulled monk! Why can't he stuff his mouth with chaff?'
+So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmin) woman in a village. One evening, I had prepared some delicious food because it was an auspicious day. The great and sublime [Kātyāyana](#katyayana) happened to come by on his alms round. I felt faith in him and gave him an offering of food. Then I [thought](#thought) to myself that perhaps my husband would like to share the [merit](#merit). 'Rejoice with me that I have given alms to the great and [sublime](#sublime-being) [Kātyāyana](#katyayana), the [Buddha's](#buddha) heir,' I said to him. But he flew into a rage. 'You have not yet offered food to the [brahmins](#brahmin), nor even presented your respects to your family and friends, and there you are giving the first part of the food to this shaven-skulled monk! Why can't he stuff his mouth with chaff?'
 
 "I made that same proposition to my son, who also got angry: 'Why doesn't your bald-head eat lumps of iron?' he yelled.
 
@@ -2418,7 +2418,7 @@ So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmi
 
 "If you ever go to our village, tell my daughter, who is a prostitute, that you have seen her parents and that you have been entrusted to tell her that what she is doing will have negative effects, that it is the wrong way to live and she should give up those evil ways.
 
-"If she doesn't believe you, tell her that in her father's old house there are four iron pots filled with gold, a golden stick and an ablution jar for monks. Tell her to take them and make offerings to the great and sublime [Katyayana](#katyayana) from time to time, and to dedicate the [merit](#merit) in our name. This will reduce our [karma](#karma) till it is finally exhausted."
+"If she doesn't believe you, tell her that in her father's old house there are four iron pots filled with gold, a golden stick and an ablution jar for monks. Tell her to take them and make offerings to the great and sublime [Kātyāyana](#katyayana) from time to time, and to dedicate the [merit](#merit) in our name. This will reduce our [karma](#karma) till it is finally exhausted."
 
 Once, as the Master Jetari was travelling, he met a female [preta](#preta) with a repulsive body, who was the mother of five hundred children.
 
@@ -2462,9 +2462,9 @@ They all undergo immense sufferings. The bigger ones swallow up the smaller ones
 
 #### 3.2 ANIMALS THAT LIVE SCATTERED IN DIFFERENT PLACES
 
-The animals that live in the realms of [gods](#gods) and humans suffer continually from their stupidity and from being exploited, while the [nagas](#naga)<sup>[52](#52)</sup> pass their lives in misery being tormented by [garudas](#garuda) and rains of burning sand. In addition they are stupid, aggressive and poisonous.
+The animals that live in the realms of [gods](#gods) and humans suffer continually from their stupidity and from being exploited, while the [nāgas](#naga)<sup>[52](#52)</sup> pass their lives in misery being tormented by [garuḍas](#garuda) and rains of burning sand. In addition they are stupid, aggressive and poisonous.
 
-<details id="52"><summary>Note <sup>52</sup></summary>Nagas are a category of beings living under the earth and having miraculous powers. Although they are similar to spirits, they are classed with the animals on account of their serpent-like form. See <a href="#garuda">garuda</a>.
+<details id="52"><summary>Note <sup>52</sup></summary>Nāgas are a category of beings living under the earth and having miraculous powers. Although they are similar to spirits, they are classed with the animals on account of their serpent-like form. See <a href="#garuda">garuḍa</a>.
 </details><br>
 
 The wild animals that share our human world, in particular, live in constant fear. They cannot eat a single mouthful of food without being on their guard. They have many mortal enemies, for all animals prey on each other and there are always hunters, beasts of prey and other threats to life. Hawks kill small birds, small birds kill insects, and so on, continually amassing evil actions in an endless round of killing and being killed.
@@ -2495,15 +2495,15 @@ Humans suffer from the [three fundamental types of suffering](#41-the-three-fund
 
 The suffering of change is the suffering that we feel when a state of happiness suddenly changes into suffering. One moment we feel fine, satisfied and full after a good meal, and then suddenly we are wracked by violent spasms because of parasites in our stomach. One moment we are happy, and the next moment an enemy plunders our wealth or our livestock; or a fire burns down our home; or we are suddenly stricken by sickness or evil influences; or we receive some terrible news&mdash;and immediately we are plunged into suffering.
 
-For indeed, whatever apparent comfort, happiness or prestige is to be found here in [samsara](#samsara), it lacks the tiniest scrap of constancy or stability, and in the long run can never resist the round of suffering. Therefore, cultivate disenchantment with it all.
+For indeed, whatever apparent comfort, happiness or prestige is to be found here in [saṃsāra](#samsara), it lacks the tiniest scrap of constancy or stability, and in the long run can never resist the round of suffering. Therefore, cultivate disenchantment with it all.
 
 ##### 4.1.2 Suffering upon suffering
 
-We experience suffering upon suffering when, before one suffering is over, we are subjected to another. We get leprosy, and then we break out in boils, too; and then as well as breaking out in boils we get injured. Our father dies and then our mother dies soon afterwards. We are pursued by enemies and, on top of that, a loved one dies; and so forth. No matter where we are reborn in [samsara](#samsara), all our time is spent in one suffering on top of another, without any chance of a moment's happiness. 
+We experience suffering upon suffering when, before one suffering is over, we are subjected to another. We get leprosy, and then we break out in boils, too; and then as well as breaking out in boils we get injured. Our father dies and then our mother dies soon afterwards. We are pursued by enemies and, on top of that, a loved one dies; and so forth. No matter where we are reborn in [saṃsāra](#samsara), all our time is spent in one suffering on top of another, without any chance of a moment's happiness. 
 
 ##### 4.1.3 The suffering of everything composite<sup>[53](#53)</sup>
 
-<details id="53"><summary>Note <sup>53</sup></summary>The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#samsara">samsara</a>.
+<details id="53"><summary>Note <sup>53</sup></summary>The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#samsara">saṃsāra</a>.
 </details><br>
 
 Now, some of us might think that things are going quite well for us at the moment, and we do not seem to be suffering much. In fact, we are totally immersed in the causes of suffering. For our very food and clothing, our homes, the adornments and celebrations that give us pleasure, are all produced with harmful actions. As everything we do is just a concoction of [negative actions](#negative-action), it can only lead to suffering. As examples, consider tea and [tsampa](#tsampa)*
@@ -2528,7 +2528,7 @@ For human beings here in this world, birth is from the womb.<sup>[54](#54)</sup>
 <details id="55"><summary>Note <sup>55</sup></summary>These are approximate translations of the technical terms used in Tibetan medicine for the first five weekly stages of embryonic development.
 </details><br>
 
-As the pregnancy reaches term, the energy of [karmic](#karma) existence<sup>[56](#56)</sup> turns the baby's head downwards ready to be born. As the baby is pushed down towards the cervix, it suffers as though a strong giant were holding it by the legs and banging it against a wall. As it is forced through the bony structure of the pelvis, the baby feels as though it were being pulled through the hole in a draw-plate.<sup>[57](#57)</sup> Should the opening be too narrow, it cannot be delivered and dies. Indeed, both mother and baby may die during labor, and even if they survive they experience all the pain of dying. As the [Great Master of Oddiyana](#padmasambhava-of-oddiyana) said:
+As the pregnancy reaches term, the energy of [karmic](#karma) existence<sup>[56](#56)</sup> turns the baby's head downwards ready to be born. As the baby is pushed down towards the cervix, it suffers as though a strong giant were holding it by the legs and banging it against a wall. As it is forced through the bony structure of the pelvis, the baby feels as though it were being pulled through the hole in a draw-plate.<sup>[57](#57)</sup> Should the opening be too narrow, it cannot be delivered and dies. Indeed, both mother and baby may die during labor, and even if they survive they experience all the pain of dying. As the [Great Master of Oḍḍiyāna](#padmasambhava-of-oddiyana) said:
 
 <details id="56"><summary>Note <sup>56</sup></summary><i>las kyi rlung</i>: the force of previous actions which propels the whole process of <a href="#samsara">samsāra</a>.
 </details><br>
@@ -2565,13 +2565,13 @@ As we busy ourselves with these inconsequential and ever-unfinished worldly task
 > Two, your food and drink is insipid and cold;  
 > Three, you sit on your mat propped up with skins on four sides.  
 > When these three things come together, granny,  
-> You're like a realized [yogi](#yogi-or-yogini) being trampled by men and dogs. 
+> You're like a realized [yogī](#yogi-or-yogini) being trampled by men and dogs. 
 
 In old age, when we want to stand up we cannot do it normally all in one movement. We have to put both hands on the floor, as though we were trying to pull a peg out of hard earth. When we walk we stay bent over at the waist and cannot raise our heads; and being unable to pick up and put down our feet very quickly, we creep along gingerly like a child stalking a bird. All the joints in our arms and legs are so arthritic that we cannot sit down gradually. Instead, we let our whole weight crash down at once like a gunny-sack as its sling breaks.
 
-As our flesh wastes away, our skin becomes lax and our bodies and faces are covered in wrinkles. With less flesh and blood around them, all our joints become more prominent. Our cheek-bones and all our other bony protuberances stick out under the skin. Our memory declines, and we become dull-witted, deaf and blind. We cannot think clearly and we feel giddy. With the decline of our physical vigor there is little reason for us to want to look our best, so the clothes we wear are always heavy and ragged. We eat left-overs and have no sense of taste; all the food we eat is cold and insipid. We feel so heavy that it is difficult to do anything. We prop ourselves up in bed on all four sides and cannot get up. By that point, our physical deterioration has brought on depression and terrible mental suffering. All the beauty and brightness of our faces has faded, our skin is covered in wrinkles, and our foreheads are lined with ugly frowns of ill humor. Everyone scorns us, and even if people are stepping over our head, we cannot get up. We no longer react. It is as if we were realized [yogi](#yogi-or-yogini)s for whom clean and unclean no longer exist.<sup>[59](#59)</sup> Unable to bear the suffering of old age, we want to die, but in fact the closer we come to death the more terrified we are of it.
+As our flesh wastes away, our skin becomes lax and our bodies and faces are covered in wrinkles. With less flesh and blood around them, all our joints become more prominent. Our cheek-bones and all our other bony protuberances stick out under the skin. Our memory declines, and we become dull-witted, deaf and blind. We cannot think clearly and we feel giddy. With the decline of our physical vigor there is little reason for us to want to look our best, so the clothes we wear are always heavy and ragged. We eat left-overs and have no sense of taste; all the food we eat is cold and insipid. We feel so heavy that it is difficult to do anything. We prop ourselves up in bed on all four sides and cannot get up. By that point, our physical deterioration has brought on depression and terrible mental suffering. All the beauty and brightness of our faces has faded, our skin is covered in wrinkles, and our foreheads are lined with ugly frowns of ill humor. Everyone scorns us, and even if people are stepping over our head, we cannot get up. We no longer react. It is as if we were realized [yogī](#yogi-or-yogini)s for whom clean and unclean no longer exist.<sup>[59](#59)</sup> Unable to bear the suffering of old age, we want to die, but in fact the closer we come to death the more terrified we are of it.
 
-<details id="59"><summary>Note <sup>59</sup></summary>For Tibetans, as in many oriental cultures, to step over someone's head (and body, too) is extremely insulting and a source of defilement. For the practitioner of <a href="#tantra">tantra</a> it is a lack of respect for the <a href="#mandala">mandala</a> of the body, which is sacred. However, for a <a href="#yogi-or-yogini">yogi</a> who has realized the ultimate purity of all phenomena in the absolute, all categories of experience have the same taste of <a href="#emptiness">emptiness</a>.
+<details id="59"><summary>Note <sup>59</sup></summary>For Tibetans, as in many oriental cultures, to step over someone's head (and body, too) is extremely insulting and a source of defilement. For the practitioner of <a href="#tantra">tantra</a> it is a lack of respect for the <a href="#mandala">mandala</a> of the body, which is sacred. However, for a <a href="#yogi-or-yogini">yogī</a> who has realized the ultimate purity of all phenomena in the absolute, all categories of experience have the same taste of <a href="#emptiness">emptiness</a>.
 </details><br>
 
 All this makes the suffering that we have to undergo in old age not very different from the torments of beings in the [lower realms](#lower-realms).
@@ -2715,7 +2715,7 @@ When the [four elements](#four-elements) that make up our body become imbalanced
 
 > *Beyond being defiled by the [two obscurations](#two-obscurations),*<sup>*</sup> *you purport to still be purifying them.*  
 *Having certainly reached the sublime path's very end, you profess to still be learning.*  
-*Beyond the extremes of [samsara](#samsara) and [nirvana](#nirvana), you manifest still in [samsara](#samsara)*  
+*Beyond the extremes of [saṃsāra](#samsara) and [nirvāṇa](#nirvana), you manifest still in [saṃsāra](#samsara)*  
 *Peerless Teacher, at your feet I bow.*  
 >  
 ><sup>* The [obscurations](#obscurations) of [negative emotions](#negative-emotions) and [conceptual obscurations](#concept-obscurations). "[Obscurations](#obscurations)" [means](#means) factors that cover and obscure our [Buddha nature](#buddha-nature).</sup>
@@ -2730,26 +2730,26 @@ The main obstacles that prevent all the extraordinary experiences and realizatio
 
 <sup>** Skt. <i>alaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.</sup>
 
-<details id="173"><summary>Note <sup>173</sup></summary>In the practices of the <a href="#vajrayana">Vajrayana</a> one considers the visualized <a href="#deity">deity</a> as one's own <a href="#root-teacher">root teacher</a> who represents all the Buddhas of the past, present and future. <a href="#vajrasattva">Vajrasattva</a> (Tib. <i>rdo rje sems dpa'</i>) is the particular <a href="#buddha">Buddha</a> who, as a <a href="#bodhisattva">Bodhisattva</a>, pledged that whoever recited his <a href="#mantra">mantra</a> would be purified of all their <a href="#negative-action">negative action</a>s and <a href="#obscurations">obscurations</a>. His name refers to the indestructible purity of the nature of mind.</details><br>
+<details id="173"><summary>Note <sup>173</sup></summary>In the practices of the <a href="#vajrayana">Vajrayāna</a> one considers the visualized <a href="#deity">deity</a> as one's own <a href="#root-teacher">root teacher</a> who represents all the Buddhas of the past, present and future. <a href="#vajrasattva">Vajrasattva</a> (Tib. <i>rdo rje sems dpa'</i>) is the particular <a href="#buddha">Buddha</a> who, as a <a href="#bodhisattva">Bodhisattva</a>, pledged that whoever recited his <a href="#mantra">mantra</a> would be purified of all their <a href="#negative-action">negative action</a>s and <a href="#obscurations">obscurations</a>. His name refers to the indestructible purity of the nature of mind.</details><br>
 
 There is no harmful act that cannot be purified by confession. As the great teachers of ancient times affirmed:
 
 > There is nothing good about [negative actions](#negative-action)&mdash;except that they can be purified through confession.
 
-Of all [negative action](#negative-action)s&mdash;be they external breaches of the [pratimoksa](#pratimoksa) vows, inner transgressions of the bodhicitta training, or secret violations of the [tantric](#tantric) [samayas](#samaya)&mdash;there is not one, however serious, that cannot be purified by confession.
+Of all [negative action](#negative-action)s&mdash;be they external breaches of the [prātimokṣa](#pratimoksa) vows, inner transgressions of the bodhicitta training, or secret violations of the [tantric](#tantric) [samayas](#samaya)&mdash;there is not one, however serious, that cannot be purified by confession.
 
-In the [sutras](#sutra), the [Buddha](#sakyamuni) tells several stories illustrating this point. For instance, there is the tale of the [brahmin](#brahmin) Atapa, who was known as [Angulimala](#angulimala), "Garland of Fingers." [Angulimala](#angulimala) killed nine hundred and ninety-nine people,<sup>[174](#174)</sup> but then cleansed himself of those actions through confession and attained the state of [Arhat](#arhat) in that very lifetime. There is also the case of [King Ajatasatru](#darsaka), who killed his father, but later repaired his crime through confession and attained [liberation](#liberation), having experienced the sufferings of [hell](#hell) only for the time it takes a ball to bounce once. 
+In the [sūtras](#sutra), the [Buddha](#sakyamuni) tells several stories illustrating this point. For instance, there is the tale of the [brahmin](#brahmin) Atapa, who was known as [Aṅgulimāla](#angulimala), "Garland of Fingers." [Aṅgulimāla](#angulimala) killed nine hundred and ninety-nine people,<sup>[174](#174)</sup> but then cleansed himself of those actions through confession and attained the state of [Arhat](#arhat) in that very lifetime. There is also the case of [King Ajatasatru](#darsaka), who killed his father, but later repaired his crime through confession and attained [liberation](#liberation), having experienced the sufferings of [hell](#hell) only for the time it takes a ball to bounce once. 
 
-<details id="174"><summary>Note <sup>174</sup></summary><a href="#angulimala">Angulimala</a>, who had been given a false teaching that he would gain <a href="#liberation">liberation</a> by killing one thousand people and collecting a finger from each, had already killed nine hundred and ninety-nine, and was on his way to complete the thousand by killing his mother when he met the <a href="#buddha">Buddha</a>, whom he tried to kill instead. Because of the <a href="#buddha">Buddha</a>'s powers, he was unable to attack him. Then the <a href="#buddha">Buddha</a> spoke to him and turned his mind to the <a href="#dharma">Dharma</a>.</details><br>
+<details id="174"><summary>Note <sup>174</sup></summary><a href="#angulimala">Aṅgulimāla</a>, who had been given a false teaching that he would gain <a href="#liberation">liberation</a> by killing one thousand people and collecting a finger from each, had already killed nine hundred and ninety-nine, and was on his way to complete the thousand by killing his mother when he met the <a href="#buddha">Buddha</a>, whom he tried to kill instead. Because of the <a href="#buddha">Buddha</a>'s powers, he was unable to attack him. Then the <a href="#buddha">Buddha</a> spoke to him and turned his mind to the <a href="#dharma">Dharma</a>.</details><br>
 
-The protector [Nagarjuna](#nagarjuna) says:
+The protector [Nāgārjuna](#nagarjuna) says:
 
 > Someone who has acted carelessly  
 But later becomes careful and attentive  
 Is as beautiful as the bright moon emerging from the clouds,  
-Like [Nanda](#nanda), [Angulimala](#angulimala), [Darsaka](#darsaka) and [Sankara](#sankara)<sup>[175](#175)</sup>  
+Like [Nanda](#nanda), [Aṅgulimāla](#angulimala), [Darsaka](#darsaka) and [Sankara](#sankara)<sup>[175](#175)</sup>  
 >  
-> <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining <a href="#liberation">liberation</a>; <a href="#angulimala">Angulimala</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. <a href="#nanda">Nanda</a> and <a href="#angulimala">Angulimala</a> became Arhats, <a href="#darsaka">Darsaka</a> became a <a href="#bodhisattva">Bodhisattva</a>, and <a href="#sankara">Sankara</a> was reborn in a god <a href="#realm">realm</a> and subsequently attained the <a href="#path-of-seeing">path of seeing</a>.</details><br>
+> <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining <a href="#liberation">liberation</a>; <a href="#angulimala">Aṅgulimāla</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. <a href="#nanda">Nanda</a> and <a href="#angulimala">Aṅgulimāla</a> became Arhats, <a href="#darsaka">Darsaka</a> became a <a href="#bodhisattva">Bodhisattva</a>, and <a href="#sankara">Sankara</a> was reborn in a god <a href="#realm">realm</a> and subsequently attained the <a href="#path-of-seeing">path of seeing</a>.</details><br>
 
 However, purification only takes place when you confess sincerely in the right way, using the [four powers](#ii-the-four-powers) as antidotes. The purification process will never work if your eyes and mouth are otherwise occupied, or if you are just mouthing the words, "I admit... I confess..." while your mind is busy pursuing other thoughts. And to think, "In future, even if I do wrong it won't matter because I can just confess afterwards," will stop the purification from working at all, even if you do confess.
 
@@ -2766,7 +2766,7 @@ The four powers are the [power of support](#1-the-power-of-support), the [power 
 
 ### **1. The power of support**
 
-In this context, the support is provided by taking [refuge](#refuge) in [Vajrasattva](#vajrasattva) and cultivating the intention and application aspects of bodhicitta. In other cases, the support would be the particular object to which you address your confession. When you recite the confession of the *[Sutra](#sutra) in Three Parts*, for example, the power of support is provided by the [Thirty-five Buddhas](#thirty-five-buddhas). It could also be a teacher, or a representation of the body, speech or mind of the [Buddhas](#buddha)&mdash;in short, anyone or anything in whose presence you confess.<sup>[176](#176)</sup>
+In this context, the support is provided by taking [refuge](#refuge) in [Vajrasattva](#vajrasattva) and cultivating the intention and application aspects of bodhicitta. In other cases, the support would be the particular object to which you address your confession. When you recite the confession of the *[Sūtra](#sutra) in Three Parts*, for example, the power of support is provided by the [Thirty-five Buddhas](#thirty-five-buddhas). It could also be a teacher, or a representation of the body, speech or mind of the [Buddhas](#buddha)&mdash;in short, anyone or anything in whose presence you confess.<sup>[176](#176)</sup>
 
 <details id="176"><summary>Note <sup>176</sup></summary>NT describes this as the external support.</details><br>
 
@@ -2774,7 +2774,7 @@ Before any confession, arousing the bodhicitta of intention and application is i
 
 <details id="177"><summary>Note <sup>177</sup></summary>NT describes taking <a href="#refuge">refuge</a>, generating bodhicitta, and especially compassion as the *inner* support.</details><br>
 
-In *The Way of the [Bodhisattva](#bodhisattva)*, [Santideva](#santideva) says of bodhicitta:
+In *The Way of the [Bodhisattva](#bodhisattva)*, [Śāntideva](#santideva) says of bodhicitta:
 
 > As though they pass through perils guarded by a hero,  
 Even those weighed down with dreadful wickedness  
@@ -2792,10 +2792,10 @@ The power of regretting having done wrong comes from a feeling of remorse for al
 2. Motivation: regretting all acts committed under the sway of desire, aversion and confusion.  
 3. Accumulation: regretting whatever negativity one has accumulated physically, verbally, or mentally.  
 4. The nature of the action: regretting both acts which are negative in themselves (such as the ten [negative action](#negative-action)s, the five acts with immediate retribution, etc.) and particular faults, transgressions of one's vows and so on.  
-5. Object: regretting all wrong actions, whether directed towards [samsara](#samsara) or [nirvana](#nirvana).  
+5. Object: regretting all wrong actions, whether directed towards [saṃsāra](#samsara) or [nirvāṇa](#nirvana).  
 6. [Karma](#karma): regretting all harmful acts and downfalls which have earned one a short life, many illnesses, poverty, fear of enemies and endless wandering in the [lower realms](#lower-realms).</details><br>
 
-We recite in the *[Sutra](#sutra) in Three Parts:*
+We recite in the *[Sūtra](#sutra) in Three Parts:*
 
 > I confess them all, without hiding or holding back anything.
 
@@ -2807,7 +2807,7 @@ So confess them with shame, trepidation and great remorse.
 
 ### **3. The power of resolution**
 
-The power of resolution [means](#means) to remember the faults you have committed and to resolve never to commit them again from this very day on, even at the cost of your dear life. In the *[Sutra](#sutra) in Three Parts* we recite:  
+The power of resolution [means](#means) to remember the faults you have committed and to resolve never to commit them again from this very day on, even at the cost of your dear life. In the *[Sūtra](#sutra) in Three Parts* we recite:  
 
 > I vow to stop from now on.
 
@@ -2847,13 +2847,13 @@ To practice the actual meditation and recitation, proceed as follows, rememberin
 
 > All sounds are [mantra](#mantra).  
 All [appearances](#appearances) are forms of [Yidam](#yidam) deities.  
-All thoughts are the [dharmakaya](#dharmakaya).  
+All thoughts are the [dharmakāya](#dharmakaya).  
 
 For the visualization that follows, see yourself as staying in your ordinary form.<sup>[181](#181)</sup> Suspended in space an arrow's length above your head, visualize an open white lotus<sup>[181.1](#181-1)</sup> with a thousand petals, and upon it the disc of a full moon. We say "a full moon" here not to indicate how big the disc should be, but to signify that it is perfectly round and regular and looks like the completely full moon on the fifteenth day of the lunar month. Upon this lunar disc, visualize a brilliant white syllable *hum*.<sup>*</sup>
 
 <details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction</a>) one often visualizes oneself in the form of a <a href="#deity">deity</a>. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
 
-<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#samsara">samsara</a> to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
+<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#samsara">saṃsāra</a> to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
@@ -2862,15 +2862,15 @@ In other traditions the syllable emanates and reabsorbs rays of light,<sup>[181.
 
 <details id="181-2"><summary>Note <sup>181.2</sup></summary>In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the buddhas of the <a href="#ten-directions">ten <a href="#directions">directions</a></a>, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the <i>hum</i> syllable. This repeats sending light to the beings of the 6 <a href="#directions">directions</a>, purifying their negative qualities which again dissolves into the hum syllable;</details><br>
   
-In an instant the *hum* is transformed into your glorious [root teacher](#root-teacher)<sup>[181.3](#181-3)</sup>, that incomparable mine of compassion who in [essence](#essence) is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [sambhogakaya](#sambhogakaya) [Buddha](#buddha),<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
+In an instant the *hum* is transformed into your glorious [root teacher](#root-teacher)<sup>[181.3](#181-3)</sup>, that incomparable mine of compassion who in [essence](#essence) is the nature of all the [Buddhas](#buddha) of past, present and future in one. He appears in the form of the [saṃbhogakāya](#sambhogakaya) [Buddha](#buddha),<sup>[182](#182)</sup> [Vajrasattva](#vajrasattva), white in color, like a snow peak lit up by a hundred thousand suns.
 
 <details id="181-3"><summary>Note <sup>181.3</sup></summary><a href="#vajradhara">Vajradhara</a> for the <a href="https://www.drikung.org">Drikung Kagyu</a>.</details>
 
-<details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the <a href="#buddha">Buddha</a> literally <a href="#means">means</a> "revealer," and signifies the teacher who taught the <a href="#dharma">Dharma</a> for the first time in our <a href="#kalpa">kalpa</a> and world. <a href="#vajrasattva">Vajrasattva</a> is the first teacher of many traditions of the <a href="#vajrayana">Vajrayana</a> in the same way as the <a href="#buddha">Buddha</a> <a href="#sakyamuni">Sakyamuni</a> is the originator of the <a href="#vehicle">vehicle</a> of characteristics.</details><br>
+<details id="182"><summary>Note <sup>182</sup></summary><i>ston pa</i>: This common epithet of the <a href="#buddha">Buddha</a> literally <a href="#means">means</a> "revealer," and signifies the teacher who taught the <a href="#dharma">Dharma</a> for the first time in our <a href="#kalpa">kalpa</a> and world. <a href="#vajrasattva">Vajrasattva</a> is the first teacher of many traditions of the <a href="#vajrayana">Vajrayāna</a> in the same way as the <a href="#buddha">Buddha</a> <a href="#sakyamuni">Sakyamuni</a> is the originator of the <a href="#vehicle">vehicle</a> of characteristics.</details><br>
 
 He has one face and two arms. With his right hand, between the palm and ring finger, he holds before his heart center the five-pronged [vajra](#vajra) of [awareness](#awareness) and [emptiness](#emptiness).<sup>[182.1](#182-1)</sup>
 
-<details id="182-1"><summary>Note <sup>182.1</sup></summary>The <a href="#vajra">vajra</a> in his right hand represents the ultimate internal <a href="#vajra">vajra</a>. The upper five prongs are the five male Buddhas of the five durations. The lower five prongs are the five female Buddhas of the five durations. The upper and lower lotus petals symbolize the bodhisattvas. The rings correspond to the peaceful deities, and central hub is the unsurpassed <a href="#absolute-space">dharmadhatu</a> free from conceptual fabrication. At the hub of the <a href="#vajra">vajra</a> is a lotus and moon disc on top of which is a white hum syllable standing upright and facing out. The 100 syllable <a href="#mantra">mantra</a> circles the hum symbol <a href="#three-times">three times</a>. The first syllable of the 100 syllable <a href="#mantra">mantra</a>, om, directly faces the central hum syllable, and is located in front of it. The last syllable, ah, also directly faces the hum. It is located in front of the om syllable. So the hum, om, and ah are all situated in a line or row. Here you can visualize the <a href="#mantra">mantra</a> garland moving, or just stable and not moving. If you visualize the <a href="#mantra">mantra</a> garland, then om faces the out hum because the <a href="#mantra">mantra</a> garland wraps around the hum clockwise. If you don't visualize the <a href="#mantra">mantra</a> garland, the om can face inwards.</details><br>
+<details id="182-1"><summary>Note <sup>182.1</sup></summary>The <a href="#vajra">vajra</a> in his right hand represents the ultimate internal <a href="#vajra">vajra</a>. The upper five prongs are the five male Buddhas of the five durations. The lower five prongs are the five female Buddhas of the five durations. The upper and lower lotus petals symbolize the bodhisattvas. The rings correspond to the peaceful deities, and central hub is the unsurpassed <a href="#absolute-space">dharmadhātu</a> free from conceptual fabrication. At the hub of the <a href="#vajra">vajra</a> is a lotus and moon disc on top of which is a white hum syllable standing upright and facing out. The 100 syllable <a href="#mantra">mantra</a> circles the hum symbol <a href="#three-times">three times</a>. The first syllable of the 100 syllable <a href="#mantra">mantra</a>, om, directly faces the central hum syllable, and is located in front of it. The last syllable, ah, also directly faces the hum. It is located in front of the om syllable. So the hum, om, and ah are all situated in a line or row. Here you can visualize the <a href="#mantra">mantra</a> garland moving, or just stable and not moving. If you visualize the <a href="#mantra">mantra</a> garland, then om faces the out hum because the <a href="#mantra">mantra</a> garland wraps around the hum clockwise. If you don't visualize the <a href="#mantra">mantra</a> garland, the om can face inwards.</details><br>
 
 ![alt text](.imgs/hum-om-ah.svg)
 
@@ -2878,15 +2878,15 @@ With his left, he rests the [bell](#bell) (representing supreme [wisdom](#wisdom
 
 <details id="183"><summary>Note <sup>183</sup></summary>Here the <a href="#vajra">vajra</a> and <a href="#bell">bell</a> symbolize <a href="#skilful-means">skilful <a href="#means">means</a></a> and <a href="#wisdom">wisdom</a>.</details>
 
-<details id="183-1"><summary>Note <sup>183.1</sup></summary>The upper part of the <a href="#bell">bell</a> has the face of the female <a href="#buddha">Buddha</a>. It is [Prajnaparamita](https://en.wikipedia.org/wiki/Prajnaparamita). The half <a href="#vajra">vajra</a> on the top signifies the union of <a href="#bliss-and-emptiness">bliss and <a href="#emptiness">emptiness</a></a>. The eight lotuses on the <a href="#bell">bell</a> have eight seed syllables which all represent the female Buddhas (except the female <a href="#buddha">buddha</a> of the prajnaparamita) and female bodhisattvas. The half necklace and the two cycles of vertically and horizontally arranged vajras represent using the supremely skillful <a href="#means">means</a> to ornament that supreme <a href="#wisdom">wisdom</a>. Some bells have the symbols "om ah hum" on the inner surface to represent the body, speech and mind of the <a href="#buddha">Buddha</a>. The <a href="#bell">bell</a> clapper is said to be the source of great bliss or the obtainable <a href="#wisdom">wisdom</a>. The round space inside the <a href="#bell">bell</a> stands for the <a href="#emptiness">emptiness</a> of the <a href="#absolute-space">dharmadhatu</a> which is free from all conceptual fabrication.</details><br>
+<details id="183-1"><summary>Note <sup>183.1</sup></summary>The upper part of the <a href="#bell">bell</a> has the face of the female <a href="#buddha">Buddha</a>. It is [Prajñāpāramitā](https://en.wikipedia.org/wiki/Prajnaparamita). The half <a href="#vajra">vajra</a> on the top signifies the union of <a href="#bliss-and-emptiness">bliss and <a href="#emptiness">emptiness</a></a>. The eight lotuses on the <a href="#bell">bell</a> have eight seed syllables which all represent the female Buddhas (except the female <a href="#buddha">buddha</a> of the prajñāpāramitā) and female bodhisattvas. The half necklace and the two cycles of vertically and horizontally arranged vajras represent using the supremely skillful <a href="#means">means</a> to ornament that supreme <a href="#wisdom">wisdom</a>. Some bells have the symbols "om ah hum" on the inner surface to represent the body, speech and mind of the <a href="#buddha">Buddha</a>. The <a href="#bell">bell</a> clapper is said to be the source of great bliss or the obtainable <a href="#wisdom">wisdom</a>. The round space inside the <a href="#bell">bell</a> stands for the <a href="#emptiness">emptiness</a> of the <a href="#absolute-space">dharmadhātu</a> which is free from all conceptual fabrication.</details><br>
 
-His two legs are crossed in the [[vajra](#vajra) posture](#vajra-posture) and he is adorned with the thirteen ornaments of the [sambhogakaya](#sambhogakaya)&mdash;the **five silken garments**<sup>[183.2](#183-2)</sup> and **eight jewels**<sup>[183.3](#183-3)</sup> <sup>[183.4](#183-4)</sup>.
+His two legs are crossed in the [[vajra](#vajra) posture](#vajra-posture) and he is adorned with the thirteen ornaments of the [saṃbhogakāya](#sambhogakaya)&mdash;the **five silken garments**<sup>[183.2](#183-2)</sup> and **eight jewels**<sup>[183.3](#183-3)</sup> <sup>[183.4](#183-4)</sup>.
 
 <details id="183-2"><summary>Note <sup>183.2</sup></summary>Related to 5 desires and correspond to the conquest of the 5 afflictive <a href="#emotions">emotions</a> - anger, attachment, jealousy, pride, and ignorance.</details>
 
 <details id="182-3"><summary>Note <sup>183.3</sup></summary>Denote the elements of the 8 fold noble path - right <a href="#view">view</a>, right path, right speech, right conduct, right livelihood, right effort, right mindfulness, right meditative <a href="#concentration">concentration</a>.</details>
 
-<details id="183-4"><summary>Note <sup>183.4</sup></summary>Features on top of his head symbolize that he has never been confused and his mental continuum has always been full of great <a href="#wisdom">wisdom</a>. His single face represents the sole heart drop of ultimate <a href="#dharmakaya">dharmakaya</a>. Heart drops can fall into two categories. Ultimate and conventional. The ultimate refers to <a href="#dharmakaya">dharmakaya</a>. His two eyes represent <a href="#wisdom">wisdom</a> of suchness and omniscience. The <a href="#wisdom">wisdom</a> of suchness is to realize the nature of all phenomena as <a href="#emptiness">emptiness</a>. The <a href="#wisdom">wisdom</a> of omniscience is to understand all phenomena. His two ears are the union of the <a href="#two-truths">two truths</a>. Conventional truth and ultimate truth. His two nostrils represent benefiting self and others effortlessly. <a href="#vajrasattva">Vajrasattva</a>'s lips symbolize the universal great happiness. His teeth represent the perfect <a href="#mandala">mandala</a> of the 42 peaceful deities. (It is said <a href="#buddha">Buddha</a> has 42 teeth and we have only 30. <a href="#buddha">Buddha</a> is the embodiment of 42 peaceful deities. The cause was because the <a href="#buddha">Buddha</a> didn't eat dinner during his life. <a href="#milarepa">Milarepa</a> has 4 more sessions in the night where he has no time to sleep, and if we don't eat dinner then we will not fall asleep and our mind is fresh. Different practitioners have different <a href="#karma">karma</a>, and some may need to eat dinner for the sake of other beings.) His tongue signifies the union of <a href="#samsara">samsara</a> and <a href="#nirvana">nirvana</a>. His two arms show the <a href="#equality">equality</a> of <a href="#wisdom">wisdom</a> and compassion. His 10 fingers represent the five <a href="#buddha">buddha</a> bodies and the <a href="#five-wisdoms">five wisdoms</a>. His two feet symbolize not abiding in <a href="#samsara">samsara</a> or <a href="#nirvana">nirvana</a>. The twelve zones of his body represent purification of the transmigration of the 12 links of dependent origination (cyclic <a href="#samsara">samsara</a>). His ten toes represent the five perfect male Buddhas and the five perfect female Buddhas of the five <a href="#directions">directions</a>. Sitting in the <a href="#vajra-posture"><a href="#vajra">vajra</a> posture</a> signifies being free from the changing nature of the <a href="#three-times">three times</a>. His complete body represents the enlightened body with all the good qualities. The <a href="#wisdom">wisdom</a> rays radiating from his pores denote the 84,000 teachings. <a href="#vajrasattva">Vajrasattva</a> is white in color like a snowy mountain peak lit by 100,000 suns. His body is clear like the reflection of the moon on water, or like an image reflected in a mirror.</details><br>
+<details id="183-4"><summary>Note <sup>183.4</sup></summary>Features on top of his head symbolize that he has never been confused and his mental continuum has always been full of great <a href="#wisdom">wisdom</a>. His single face represents the sole heart drop of ultimate <a href="#dharmakaya">dharmakāya</a>. Heart drops can fall into two categories. Ultimate and conventional. The ultimate refers to <a href="#dharmakaya">dharmakāya</a>. His two eyes represent <a href="#wisdom">wisdom</a> of suchness and omniscience. The <a href="#wisdom">wisdom</a> of suchness is to realize the nature of all phenomena as <a href="#emptiness">emptiness</a>. The <a href="#wisdom">wisdom</a> of omniscience is to understand all phenomena. His two ears are the union of the <a href="#two-truths">two truths</a>. Conventional truth and ultimate truth. His two nostrils represent benefiting self and others effortlessly. <a href="#vajrasattva">Vajrasattva</a>'s lips symbolize the universal great happiness. His teeth represent the perfect <a href="#mandala">mandala</a> of the 42 peaceful deities. (It is said <a href="#buddha">Buddha</a> has 42 teeth and we have only 30. <a href="#buddha">Buddha</a> is the embodiment of 42 peaceful deities. The cause was because the <a href="#buddha">Buddha</a> didn't eat dinner during his life. <a href="#milarepa">Milarepa</a> has 4 more sessions in the night where he has no time to sleep, and if we don't eat dinner then we will not fall asleep and our mind is fresh. Different practitioners have different <a href="#karma">karma</a>, and some may need to eat dinner for the sake of other beings.) His tongue signifies the union of <a href="#samsara">saṃsāra</a> and <a href="#nirvana">nirvāṇa</a>. His two arms show the <a href="#equality">equality</a> of <a href="#wisdom">wisdom</a> and compassion. His 10 fingers represent the five <a href="#buddha">buddha</a> bodies and the <a href="#five-wisdoms">five wisdoms</a>. His two feet symbolize not abiding in <a href="#samsara">saṃsāra</a> or <a href="#nirvana">nirvāṇa</a>. The twelve zones of his body represent purification of the transmigration of the 12 links of dependent origination (cyclic <a href="#samsara">saṃsāra</a>). His ten toes represent the five perfect male Buddhas and the five perfect female Buddhas of the five <a href="#directions">directions</a>. Sitting in the <a href="#vajra-posture"><a href="#vajra">vajra</a> posture</a> signifies being free from the changing nature of the <a href="#three-times">three times</a>. His complete body represents the enlightened body with all the good qualities. The <a href="#wisdom">wisdom</a> rays radiating from his pores denote the 84,000 teachings. <a href="#vajrasattva">Vajrasattva</a> is white in color like a snowy mountain peak lit by 100,000 suns. His body is clear like the reflection of the moon on water, or like an image reflected in a mirror.</details><br>
 
 **The five silken garments are:**  
 1. a headband,
@@ -2918,13 +2918,13 @@ As [the power of regret](#2-the-power-of-regretting-having-done-wrong), in his p
 - the [five crimes with immediate retribution](#five-crimes-with-immediate-retribution)  
 - the four serious faults  
 - the [eight perverse acts](#eight-perverse-acts)  
-- all transgressions of the external vows of [pratimoksa](#pratimoksa)  
-- the inner [Bodhisattva](#bodhisattva) precepts or the secret [tantric](#tantric) [samayas](#samaya) of the [vidyadharas](#vidyadhara)  
+- all transgressions of the external vows of [prātimokṣa](#pratimoksa)  
+- the inner [Bodhisattva](#bodhisattva) precepts or the secret [tantric](#tantric) [samayas](#samaya) of the [vidyādharas](#vidyadhara)  
 - all the ordinary promises that you have not kept  
 - all the lies you have told and  
 - everything you have done that is shameful or dishonorable.
 
-Feel that you are confessing them all in the teacher [Vajrasattva's](#vajrasattva) presence, your whole body breaking out in gooseflesh with shame, fear and remorse. You can be sure that during all those infinite lives in [samsara](#samsara) you have done many [negative action](#negative-action)s that you cannot remember, so confess them all too, saying:
+Feel that you are confessing them all in the teacher [Vajrasattva's](#vajrasattva) presence, your whole body breaking out in gooseflesh with shame, fear and remorse. You can be sure that during all those infinite lives in [saṃsāra](#samsara) you have done many [negative action](#negative-action)s that you cannot remember, so confess them all too, saying:
 
 "I am keeping nothing secret. I am hiding nothing. I confess openly and ask for forgiveness. Have compassion on me! Right away, at this very moment and in this very place, cleanse and purify me of all my [negative action](#negative-action)s and [obscurations](#obscurations), so that not a single one remains!"
 
@@ -2999,7 +2999,7 @@ Imagine that your body has now become transparent inside and out, a body of ligh
 
 The [nectar](#nectar) then starts to flow down again as before. [Beginning](#beginning) with the [wheel](#wheel) of great bliss at the crown of your head, it completely fills the [central [channel](#channel)](#central-channel) and each of the four wheels and then spreads outward, filling your entire body to the tips of your fingers and toes. Brimming with white [nectar](#nectar), you are like a crystal vase filled with milk.
 
-Think that you are receiving the [four empowerments](#four-empowerments):<sup>[187](#187)</sup> the [vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment). You are also purified of the [four types of obscurations](#four-obscurations): karmic [obscurations](#obscurations), [[obscurations](#obscurations) of [negative [emotions](#emotions)](#negative-emotions)](#obscurations-of-negative-emotions), conceptual [obscurations](#obscurations) and [[obscurations](#obscurations) of [habitual [tendencies](#tendencies)](#habitual-tendencies)](#obscurations-of-habitual-tendencies). The [wisdom](#wisdom) of the [four joys](#four-joys) arises in you: joy, supreme joy, extraordinary joy and innate joy. The [levels](#levels) of the [four kayas](#four-kayas) are established in you: the [nirmanakaya](#nirmanakaya), the [sambhogakaya](#sambhogakaya), the [dharmakaya](#dharmakaya) and the [svabhavikakaya](#svabhavikakaya).
+Think that you are receiving the [four empowerments](#four-empowerments):<sup>[187](#187)</sup> the [vase empowerment](#vase-empowerment), the [secret empowerment](#secret-empowerment), the [wisdom empowerment](#wisdom-empowerment) and the [precious word empowerment](#precious-word-empowerment). You are also purified of the [four types of obscurations](#four-obscurations): karmic [obscurations](#obscurations), [[obscurations](#obscurations) of [negative [emotions](#emotions)](#negative-emotions)](#obscurations-of-negative-emotions), conceptual [obscurations](#obscurations) and [[obscurations](#obscurations) of [habitual [tendencies](#tendencies)](#habitual-tendencies)](#obscurations-of-habitual-tendencies). The [wisdom](#wisdom) of the [four joys](#four-joys) arises in you: joy, supreme joy, extraordinary joy and innate joy. The [levels](#levels) of the [four kayas](#four-kayas) are established in you: the [nirmāṇakāya](#nirmanakaya), the [saṃbhogakāya](#sambhogakaya), the [dharmakāya](#dharmakaya) and the [svābhāvikakāya](#svabhavikakaya).
 
 Then recite the prayer [beginning](#beginning):
 
@@ -3114,7 +3114,7 @@ Abbreviations:
 *mkhan po*, in general means someone who gives monastic vows. This title is also given to a person who has attained a high degree of knowledge of the [Dharma](#dharma) and is in charge of teaching it. It can also simple be the title given to the eldest monk during a traditional summer retreat.
 
 ## Abhidarma
-*mngon pa*, one of the three [pitakas](#pitaka). The foundation of Buddhist psychology and logic. It describes the universe, the different kinds of beings, the steps on the path to enlightenment, refutes mistaken beliefs, etc.
+*mngon pa*, one of the three [piṭakas](#pitaka). The foundation of Buddhist psychology and logic. It describes the universe, the different kinds of beings, the steps on the path to enlightenment, refutes mistaken beliefs, etc.
 
 ## Absolute Space
 *chos dbyings*, Skt. *dharmadhatu*, AT: the expanse of reality. From the point of view of realization, all phenomena appear as the expanse of [emptiness](#emptiness).
@@ -3189,19 +3189,19 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *bsnyen sgrub*, two steps in practices involving the recitation of a [mantra](#mantra). In the first, practitioners *approach* the deity that they are visualizing by reciting the [deity's](#deity) mantra. In the second they are familiar enough to identify themselves with the deity.
 
 ## Arhat
-*dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvana](#nirvana), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
+*dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvāṇa](#nirvana), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
 
 ## Arura and kyurura
 *Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the [Medicine Buddha](#medicine-buddha).
 
 ## Aryadeva
-*'phags pa lha* (2nd century), the most famous disciple of [Nagarjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madhyamika) philosophy. See [Middle way](#middle-way).
+*'phags pa lha* (2nd century), the most famous disciple of [Nāgārjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madhyamika) philosophy. See [Middle way](#middle-way).
 
 ## Asanga
-*thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [sastras](#sastra), in particular the five teachings he received from [Maitreya](#maitreya).
+*thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [śāstras](#sastra), in particular the five teachings he received from [Maitreya](#maitreya).
 
 ## Atisa
-(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
+(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atīśa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramaśīla](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
 
 ## Atiyoga
 the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
@@ -3213,7 +3213,7 @@ the highest of the three inner yogas, the summit of the Nine Vehicles according 
 *rig pa*, Skt. *vidya*, the original state of the mind, fresh, vast, luminous, and beyond thought.
 
 ## Becoming
-*srid pa*, the process of samsaric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [samsara](#samsara) as opposed to *zhi ba*, the peace of [nirvana](#nirvana).
+*srid pa*, the process of samsaric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [saṃsāra](#samsara) as opposed to *zhi ba*, the peace of [nirvāṇa](#nirvana).
 
 ## Beginning
 We have used this word to translate *ye* in expressions like *ye nas*, "from the very beginning" or *ye dag* "pure from the beginning." However it should be understood that this does not refer to a first moment of origin or creation in the distant past, but rather to the fact that the pure nature has always been intrinsically present. 
@@ -3222,10 +3222,10 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 *dril bu*, Skt. *ghanta*. See [vajra](#vajra).
 
 ## Bhagavan
-*bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [samsara](#samsara) and [nirvana](#nirvana).
+*bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [saṃsāra](#samsara) and [nirvāṇa](#nirvana).
 
 ## Bhrikuti
-*jo mo khro gnyer can*, one of the forms of [Tara](#tara) the female [Bodhisattva](#bodhisattva) of compassion. The name means literally "She who has a wrathful frown."
+*jo mo khro gnyer can*, one of the forms of [Tārā](#tara) the female [Bodhisattva](#bodhisattva) of compassion. The name means literally "She who has a wrathful frown."
 
 ## Bile
 *mkhris pa*, one of the three humours of the body, whose imbalance creates the different kinds of illness. See also [wind](#wind), [phlegm](#phlegm).
@@ -3240,19 +3240,19 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 *bde stong*, bliss experienced without attachment, as being empty.
 
 ## Blissful (pure land)
-*bde ba can*, Skt. *Sukhavati*, the Buddhafield of the West, that of Buddha [Amitabha](#amitabha).
+*bde ba can*, Skt. *Sukhavati*, the Buddhafield of the West, that of Buddha [Amitābha](#amitabha).
 
 ## Bodhisattva
 *byang chub kyi sems*, lit. the mind of enlightenment. On the relative level, it is the wish to attain Buddhahood for the sake of all beings, as well as the practice of the path of love, compassion, the [six transcendent perfections](#six-transcendent-perfections), etc., necessary for achieving that goal. On the absolute level, it is the direct insight into the ultimate nature.
 
 ## Bodhisattva Abbot
-the title by which [Santaraksita](#santaraksita) is sometimes known.
+the title by which [Śāntarakṣita](#santaraksita) is sometimes known.
 
 ## Bodhisattva levels
 *phags pa'i sa*, lit. sublime levels, Skt. *bhumi*. The ten levels of realization reached by [Bodhisattvas](#bodhisattva) on the paths of seeing, meditation and beyond learning. In some classifications additional levels are added. "These levels are sublime because they are far beyond ordinary beings." DICT.
 
 ## Bodhnath (stupa)
-*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stupas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stupa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stupa*, berkeley, Dharma Publishing, 1973).
+*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stūpas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stupa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stupa*, berkeley, Dharma Publishing, 1973).
 
 ## Body, speech, mind, qualities and activity
 *sku, gsung, thugs, yon tan, phrin las*, five aspects of Buddhahood. Sometimes referred to as the [five kayas](#five-kayas). See also [five families](#five-families).
@@ -3264,7 +3264,7 @@ the title by which [Santaraksita](#santaraksita) is sometimes known.
 *mtha' 'khob*, a region in which the teachings are unknown.
 
 ## Brahma
-*tshangs pa* In Buddhism Brahma is not considered as an eternal deity but as the ruler of the gods of the World of Form.
+*tshangs pa* In Buddhism Brahmā is not considered as an eternal deity but as the ruler of the gods of the World of Form.
 
 ## Brahma-world
 *tshang pa'i 'jig rten*, Skt. *brahmaloka*, in general, all the form and formless worlds.
@@ -3288,7 +3288,7 @@ See [Pure Land](#pure-land).
 *bla ma rgyang 'bod*, a type of prayer of yearning to one's spiritual teacher.
 
 ## Camaradvipa
-*Rnga yab gling*, one of the eight sub-continents in ancient Indian cosmology, to the west of [Jambudvipa](#jambudvipa). This is the south-western continent referred to as the Buddhafield of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain).
+*Rnga yab gling*, one of the eight sub-continents in ancient Indian cosmology, to the west of [Jambudvīpa](#jambudvipa). This is the south-western continent referred to as the Buddhafield of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain).
 
 ## Central channel
 *rtsa dbu ma*, Skt. *avadhuti*, the central axis of the subtle body. Its exact description varies according to the particular practice. It represents non-dual [wisdom](#wisdom).
@@ -3312,7 +3312,7 @@ see [Karma Chagme](#karma-chagme).
 *spyan snga ba*(1038 - 1103), disciple of [Drom Tonpa](#drom-tonpa), started the transmission lineage of the [Kadampa](#kadampa) oral instructions.
 
 ## Chenrenzi
-*spyan ras gzigs*, the Tibetan name for [Avalokitesvara](#avalokitesvara)
+*spyan ras gzigs*, the Tibetan name for [Avalokiteśvara](#avalokitesvara)
 
 ## Cho
 *gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdron](#machik-labdron) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyoton Sonam Lama, and propagated them in Tibet.
@@ -3321,7 +3321,7 @@ see [Karma Chagme](#karma-chagme).
 *chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Sakya](#sakyapa) school known as the Sakya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
 
 ## Circumambulation
-*skor ba*, act of veneration consisting in walking clockwise, concentratedly and with awareness, around a sacred object, e.g. a temple, [stupa](#stupa), holy mountain, or the house, and even the person, of a spiritual master.
+*skor ba*, act of veneration consisting in walking clockwise, concentratedly and with awareness, around a sacred object, e.g. a temple, [stūpa](#stupa), holy mountain, or the house, and even the person, of a spiritual master.
 
 ## Clarity (experience)
 *gsal nyams*, one of the three types of experience in meditation. See [experiences](#experiences-meditative).
@@ -3378,10 +3378,10 @@ see [Karma Chagme](#karma-chagme).
 *dwags po rin po che* (1079 - 1153), also known as Gampopa, the most famous disciple of [Milarepa](#milarepa) and founder of the [Kagyupa](#kagyupa) monastic order.
 
 ## Daka
-*mkha 'gro*, lit. moving through space, or *dpa' bo*, hero. [Tantric](#tantric) equivalent of [Bodhisattva](#bodhisattva). Male equivalent of [dakini](dakini).
+*mkha 'gro*, lit. moving through space, or *dpa' bo*, hero. [Tantric](#tantric) equivalent of [Bodhisattva](#bodhisattva). Male equivalent of [ḍākinī](dakini).
 
 ## Dakini
-*mkha' 'gro ma*, lit. moving through space. The feminine principle associated with [wisdom](#wisdom). This term has several levels of meaning. There are or ordinary dakinis who are beings with a certain degree of spiritual power, and wisdom dakinis who are fully realized. See [three roots](#three-roots).
+*mkha' 'gro ma*, lit. moving through space. The feminine principle associated with [wisdom](#wisdom). This term has several levels of meaning. There are or ordinary ḍākinīs who are beings with a certain degree of spiritual power, and wisdom ḍākinīs who are fully realized. See [three roots](#three-roots).
 
 ## Damchen
 *dam chen (rdo rje legs pa)*, a protector of the [Dharma](#dharma), bound under oath by [Padmasambhava](#padmasambhava-of-oddiyana).
@@ -3399,7 +3399,7 @@ see [Karma Chagme](#karma-chagme).
 *lha ma yin*, Skt. *asura*. One of the [six classes of beings](#six-classes-of-beings), with jealousy as their predominant emotion.
 
 ## Demon
-*bdud*, Skt. *mara*, term used for terrifying or malevolent energies, However, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of [samsara](#samsara) and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
+*bdud*, Skt. *mara*, term used for terrifying or malevolent energies, However, "what is called a demon is not someone with a gaping mouth and staring wide eyes. It is that which produces all the sufferings of [saṃsāra](#samsara) and prevents one from reaching liberation beyond suffering. In short it is that which harms body and mind." NT. See also [four demons](#four-demons).
 
 ## Dependent Arising
 *ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat  
@@ -3416,13 +3416,13 @@ Thus has proclaimed the Great Renunciant.
 *'khor ba 'jig*, the Buddha Krakucchanda, the first of the thousand Buddhas of the [Good Kalpa](#good-kalpa).
 
 ## Determination to be free
-*nges 'byung*, Skt. *nihsarana* defined as "the mind that wishes to achieve liberation from [samsara](#samsara)." This term is often translated as "renunciation."
+*nges 'byung*, Skt. *nihsarana* defined as "the mind that wishes to achieve liberation from [saṃsāra](#samsara)." This term is often translated as "renunciation."
 
 ## Devadatta
 *lhas byin*, a cousin of the [Buddha](#buddha), whose jealousy prevented him from deriving any benefit from the teachings.
 
 ## Dharani
-*gzungs*, mantra blessed by a [Buddha](#buddha) or [Bodhisattva](#bodhisattva) which has the power to help beings. There are many in the [sutras](#sutra), often quite long.
+*gzungs*, mantra blessed by a [Buddha](#buddha) or [Bodhisattva](#bodhisattva) which has the power to help beings. There are many in the [sūtras](#sutra), often quite long.
 
 ## Dharma
 *chos*. This term has a number of different meanings. In its widest sense it means all that can be known. In this text the term Dharma is used exclusively to indicate the teaching of the [Buddha](#buddha). It has two aspects: the Dharma of transmission (*lung gi chos*), namely the teachings which are actually given, and the Dharma of realization (*rtogs pa'i chos*), or the states of wisdom, etc., which are attained through the application of the teachings. It is often referred to as the "Sublime Dharma" because it liberates beings from suffering. *Dharma* or *chos* can also simply mean "phenomena." When it has this meaning it has been translated as such. See also <a href="https://en.wikipedia.org/wiki/Buddhist_atomism" target="_blank">Buddhist Atomism</a>
@@ -3461,7 +3461,7 @@ a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virupa](
 *'bri gung skyob pa* (1143 - 1217), the founder of Drikung Monastery and of the Drikung [Kagyu](#kagyupa) school.
 
 ## Drom Tonpa
-*'brom ston pa*, also called *'brom ston rgyal ba'i 'byung gnas* (1005 - 1064), [Atisa's](#atisa) principal Tibetan disciple, one of the first teachers of the [Kadampa](#kadampa) school and founder of Radreng (*rva sgreng*) Monastery (often pronounced "Reting").
+*'brom ston pa*, also called *'brom ston rgyal ba'i 'byung gnas* (1005 - 1064), [Atīśa's](#atisa) principal Tibetan disciple, one of the first teachers of the [Kadampa](#kadampa) school and founder of Radreng (*rva sgreng*) Monastery (often pronounced "Reting").
 
 ## Druk Pema Karpo
 *'brug padma dkar po* (16th century), the 3rd Drukchen Rinpoche, great master and writer of the Drukpa [Kagyu](#kagyupa) school and founder of Sangak Choling Monastery.
@@ -3488,13 +3488,13 @@ see [clinging](#clinging).
 Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, Body Consciousness, Mental Consciousness, Deluded awareness, "Storehouse" or "repository" Consciousness. From [wikipedia](https://en.wikipedia.org/wiki/Eight_Consciousnesses).
 
 ## Eight Great Charnel-grounds
-*dur khrod chen po brgyad*, places of frightening aspect where [dakas](#daka) and [dakinis](#dakini) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
+*dur khrod chen po brgyad*, places of frightening aspect where [ḍākas](#daka) and [ḍākinīs](#dakini) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
 
 ## Eight Great Close Sons
-*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjusri), [Avalokitesvara](#avalokitesvara), [Vajrapani](#vajrapani), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
+*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjusri), [Avalokiteśvara](#avalokitesvara), [Vajrapāṇi](#vajrapani), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
 
 ## Eight offering goddesses
-*mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [sambhogakaya](#sambhogakaya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
+*mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [saṃbhogakāya](#sambhogakaya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
 
 ## Eight ordinary concerns
 *'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
@@ -3509,7 +3509,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 see [negative emotions](#negative-emotions).
 
 ## Empowerment
-*dbang bskur*, Skt. *abhiseka*, lit. transfer of power. The authorization to hear, study and practice the teachings of the [Vajrayana](#vajrayana). This takes place in a ceremony which may be extremely elaborate or utterly simple. See [four empowerments](#four-empowerments).
+*dbang bskur*, Skt. *abhiseka*, lit. transfer of power. The authorization to hear, study and practice the teachings of the [Vajrayāna](#vajrayana). This takes place in a ceremony which may be extremely elaborate or utterly simple. See [four empowerments](#four-empowerments).
 
 ## Emptiness
 *stong pa nyid*, Skt. *sunyata*, the absence of true existence in all phenomena. See [dependent arising](#dependent-arising).
@@ -3557,7 +3557,7 @@ see [negative emotions](#negative-emotions).
 *tshogs kyi 'khor lo*, Skt. *ganacakra*, a ritual in which one blesses, offers and consumes food and drink as [wisdom](#wisdom) [nectar](#nectar).
 
 ## Field of merit
-*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Sangha gives them a much greater
+*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Saṃgha gives them a much greater
 
 ## Five clairvoyances
 1. Divine hearing, 
@@ -3574,15 +3574,15 @@ see [negative emotions](#negative-emotions).
 1. acting impurely with a female [Arhat](#arhat); 
 2. killing a [Bodhisattva](#bodhisattva); 
 3. killing someone training towards the supreme level; 
-4. stealing the sustenance of the [Sangha](#sangha); 
-5. destroying a [stupa](#stupa).
+4. stealing the sustenance of the [Saṃgha](#sangha); 
+5. destroying a [stūpa](#stupa).
 
 ## Five crimes with immediate retribution
 *mtshams meed lnga*, Skt. *pancanantariya*, 
 1. killing one's father or 
 2. one's mother or 
 3. an [Arhat](#arhat); 
-4. creating a split in the [Sangha](#sangha); 
+4. creating a split in the [Saṃgha](#sangha); 
 5. malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
 
 ## Five degenerations
@@ -3600,7 +3600,7 @@ see [energy](#energy).
 *rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
 
 ## Five Hundred Arhats
-"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
+"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvāṇa to compile his teachings into scriptures." [src](https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
 
 See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.org/art/1971.16)
 
@@ -3628,7 +3628,7 @@ See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.or
 *dang du slang ba'i dam tshig lnga*, five secondary [samayas](#samaya) in the Great Perfection. They are concerned with the enjoyment of the five meats and the five nectars, substances used by tantric practitioners which are ordinarily considered impure or taboo. See note [131](#131).
 
 ## Five sciences
-*rig gnas lnga*, Skt. *pancavidya*, the five branches of learning that a [pandita](#pandita) must master:
+*rig gnas lnga*, Skt. *pancavidya*, the five branches of learning that a [paṇḍita](#pandita) must master:
 1. the making of things (*gzo rig gnas, silpavidya*), 
 2. the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsavidya*),
 3. philology (*sgra' rigs gnas, Sabdavidya*),
@@ -3667,15 +3667,15 @@ See [five families](#five-families).
 
 "According to the causal vehicle of characteristics, the four demons are:
 
-1. The demon of the aggregates, *phung po'i bdud*, referring to that which dies. (Without the five aggregates, there would be no support, or basis for the sufferings of [samsara](#samsara).)
+1. The demon of the aggregates, *phung po'i bdud*, referring to that which dies. (Without the five aggregates, there would be no support, or basis for the sufferings of [saṃsāra](#samsara).)
 2. The demon of [negative emotions](#negative-emotions), *nyon mongs pa'i bdud*, the causer of death. (These emotions, which arise from the belief in a self, give rise to [negative actions](#negative-action). Negative actions give rise to [karma](#karma) and it is due to karma that we helplessly are born and die.)
 3. The demon of the Lord of Death, *'chi bdag gi bdud*, which is death itself. (This means death as such, which inevitably follows birth. More subtly it is the natural impermanence of each moment, which is by nature painful.)
 4. The demon of the sons of the [gods](#gods), *lha'i bu yi bdud*, that which prevents us from proceeding towards the state of peace beyond death. (In practice it refers to distraction, thoughts of attachment to external objects.)
 
-"According to the [Mantrayana](#secret-mantrayana) [vehicle](#vehicle), the four demons are:
+"According to the [Mantrayāna](#secret-mantrayana) [vehicle](#vehicle), the four demons are:
 
 1. The tangible demon: exterior things and beings which harm our body and mind.
-2. The intangible demon: attachment, aversion and confusion and the 84,000 types of [negative emotions](#negative-emotions) that give rise to all the sufferings of [samsara](#samsara).
+2. The intangible demon: attachment, aversion and confusion and the 84,000 types of [negative emotions](#negative-emotions) that give rise to all the sufferings of [saṃsāra](#samsara).
 3. The demon of exultation: this means the exultation that one feels when one thinks that one's own spiritual teacher, the teachings one has received and the practices one is engaged in are different, and that one's own vajra brothers and sisters are superior to other people's. More particularly, it is the infatuation that one feels when one achieves the slightest 'warmth' or power of the practice.
 4. The demon of conceit is the root of the three others: it is the belief in 'I' and 'mine;' this conceit makes us take the five aggregates as 'me' or 'mine:' if one destroys this demon, all external demons are destroyed by themselves, without doing anything to destroy them."
 
@@ -3739,16 +3739,16 @@ See [obscuration](#obscurations).
 
 ## Four or six tantra sections
 *rgyud sde bzhi* or *drug*, classification of the [tantras](#tantra) either into four groups: 
-1. Kriya, 
-2. Carya (or Upa), 
+1. Kriyā, 
+2. Caryā (or Upa), 
 3. Yoga and 
 4. Anuttaryoga (this classification is usual in the [New Translations schools](#new-translations)); 
 
 or into six groups: 
-1. Kriya, 
+1. Kriyā, 
 2. Upayoga, 
 3. Yoga, 
-4. Mahayoga, 
+4. Mahāyoga, 
 5. [Anuyoga](#anuyoga) and 
 6. [Atiyoga](#atiyoga) 
 
@@ -3784,7 +3784,7 @@ or into six groups:
 *dga' rab rdo rje*, better known by his Tibetan name than by his Sanskrit names, Pramudavajra, Prahevajra, Surativajra or Prajnabhava. The first human teacher in the lineage of the [Great Perfection](#great-perfection).
 
 ## Garuda
-*khyung*, a mythical bird of very large size which is able to fly as soon as it is hatched, symbolizing [primal wisdom](#primal-wisdom). The five colors in which it is sometimes represented symbolize the [five wisdoms](#five-wisdoms). It is the enemy of the [nagas](#naga), and is depicted with a snake in its beak, symbolizing consuming the negative emotions.
+*khyung*, a mythical bird of very large size which is able to fly as soon as it is hatched, symbolizing [primal wisdom](#primal-wisdom). The five colors in which it is sometimes represented symbolize the [five wisdoms](#five-wisdoms). It is the enemy of the [nāgas](#naga), and is depicted with a snake in its beak, symbolizing consuming the negative emotions.
 
 ## Gelugpa
 *dge lugs pa*, one of the schools of the [New Tradition](#new-tradition), founded by Je Tsongkhapa (1357-1419) and at first called the Gandenpa after his seat, the monastery of Ganden.
@@ -3820,10 +3820,10 @@ or into six groups:
 *rgod tshang pa mgon po rdo rje* (1189 - 1258), [Kagyupa](#kagyupa) master, disciple of Tsangpa Gyare, founder of a branch of the Drukpa Kagyu school and of many monasteries.
 
 ## Great Compassionate One
-*thugs rje chen po*, epithet of [Avalokitesvara](#avalokitesvara).
+*thugs rje chen po*, epithet of [Avalokiteśvara](#avalokitesvara).
 
 ## Great Exuberant Lakes
-*rol pa'i mtsho chen*, "seven lakes encircling [Mount Meru](#meru-mount), in which the [naga](#naga) kings live and play." DICT.
+*rol pa'i mtsho chen*, "seven lakes encircling [Mount Meru](#meru-mount), in which the [nāga](#naga) kings live and play." DICT.
 
 ## Great Omniscient One
 *kun mkhyen chen po*, the title by which [Longchenpa](#longchenpa) is frequently known.
@@ -3832,7 +3832,7 @@ or into six groups:
 *phyi'i rgya mtsho chen po*, the great oceans which surround [Mount Meru](#meru-mount) and the four continents in the ancient Indian cosmology.
 
 ## Great Perfection
-*dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine vehicles. *Perfection* means that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakaya](#dharmakaya); its natural expression is [clarity](#clarity-experience), the [sambhogakaya](#sambhogakaya), and its compassion is all-encompassing, the [nirmanakaya](#nirmanakaya). *Great* means that this perfection is the natural condition of all things. AT: great completeness. The teachings of the Great Perfection are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
+*dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine vehicles. *Perfection* means that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakāya](#dharmakaya); its natural expression is [clarity](#clarity-experience), the [saṃbhogakāya](#sambhogakaya), and its compassion is all-encompassing, the [nirmāṇakāya](#nirmanakaya). *Great* means that this perfection is the natural condition of all things. AT: great completeness. The teachings of the Great Perfection are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
 
 ## Great Vehicle
 *theg pa chen po*, Skt. *mahayana*, vehicle of the [Bodhisattvas](#bodhisattva), great because it aims at full Buddhahood for the sake of all beings.
@@ -3883,7 +3883,7 @@ or into six groups:
 *mos pa mtha yas*, a future [Buddha](#buddha), the last of the thousand Buddhas who will appear in this present [Good Kalpa](#good-kalpa).
 
 ## Innate (wisdom, joy, etc.)
-*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that [wisdom](#wisdom), joy, and nirvana in general are latently present even as we experience ignorance, suffering and samsara. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
+*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that [wisdom](#wisdom), joy, and nirvāṇa in general are latently present even as we experience ignorance, suffering and saṃsāra. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
 
 ## Inseparable Universe
 *mi 'byed 'jig rten*, our world, the field of activity of [Sakyamuni](#sakyamuni).
@@ -3895,7 +3895,7 @@ or into six groups:
 *chos nyid bar do*, intermediate state during which absolute reality manifests as pure forms of peaceful or wrathful aspect, according to one's own individual tendencies.
 
 ## Intermediate state of becoming
-*srid pa'i bar do*, the intermediate state during which the force of [karma](#karma) propels one towards one's next rebirth in [samsara](#samsara). AT: intermediate state of possibilities, intermediate state of existence.
+*srid pa'i bar do*, the intermediate state during which the force of [karma](#karma) propels one towards one's next rebirth in [saṃsāra](#samsara). AT: intermediate state of possibilities, intermediate state of existence.
 
 ## Jambudvipa
 *'dzam bu gling*, the southern continent, one of the four main "continents" in ancient Indian cosmology, the one in which we live. In some contexts this name refers to South Asia, and in others to the world in a general sense. 
@@ -3904,16 +3904,16 @@ or into six groups:
 *jam mgon kong sprul blo gros mtha' yas* (1813 - 1899) was a great teacher of the non-sectarian movement and was responsible, with Jamyang Khyentse Wangpo, for compiling several great collections of teachings and practices from all traditions, including the *Treasury of Rediscovered Teachings* (*rin chen gter mdzod*).
 
 ## Jetsun Mila
-*rje brtsun mi la* (1040 - 1123), Tibet's great yogi and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Marpa](#marpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
+*rje brtsun mi la* (1040 - 1123), Tibet's great yogī and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Marpa](#marpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
 
 ## Jigten Sumgon
-"Jigten Sumgon and the Drikung lineage are best known for the set of teachings known as The Five Profound Paths of Mahamudra. Some of Jigten Sumgon's sayings were collected by Sherab Jungne into what is known as the Gongchig (Wylie transliteration: dgongs gcig, "the single intention") a profound philosophical compendium that further developed in commentary works written in following generations. Some of Jigten Sumgon's teachings were collected by another disciple into what is known as The Heart of the Great Vehicle's Teachings (theg chen bstan pa'i snying po)." [src](https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n)
+"Jigten Sumgon and the Drikung lineage are best known for the set of teachings known as The Five Profound Paths of Mahāmudrā. Some of Jigten Sumgon's sayings were collected by Sherab Jungne into what is known as the Gongchig (Wylie transliteration: dgongs gcig, "the single intention") a profound philosophical compendium that further developed in commentary works written in following generations. Some of Jigten Sumgon's teachings were collected by another disciple into what is known as The Heart of the Great Vehicle's Teachings (theg chen bstan pa'i snying po)." [src](https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n)
 
 ## Jigme Lingpa
 *'jigs med gling pa* (1729 - 1798), see the [introduction](#introduction) of this book. He is considered to be a combined emanation of [Vimalamitra](#vimalamitra), [King Trisong Detsen](#trisong-detsen) and Gyalse Lharje. Patrul Rinpoche is often considered to be the emanation of Jigme Lingpa's speech.
 
 ## Jowo
-*jo bo*, lit. lord. A title often used by Tibetans for the Indian [pandita](#pandita) [Atisa](#atisa).
+*jo bo*, lit. lord. A title often used by Tibetans for the Indian [paṇḍita](#pandita) [Atīśa](#atisa).
 
 ## Jowo and Sakya
 *jo shag rnam gnyis*, Jowo Mikyo Dorje and Jowo Sakyamuni, two statues of the [Buddha](#buddha) brought to Tibet respectively by the Nepalese and Chinese princesses whom [King Songtsen Gampo](#songtsen-gampo) married in the 7th century.
@@ -3925,13 +3925,13 @@ or into six groups:
 *'phrul dga'*, Skt. *Nirmanarata*, a god realm in the World of Desire (on the fifth level of Gods of Desire) in which the gods can magically produce whatever they need. See [three worlds](#three-worlds).
 
 ## Joyous Realm
-*dga' ldan*, see [Tusita heaven](#tusita-heaven).
+*dga' ldan*, see [Tuṣita heaven](#tusita-heaven).
 
 ## Jungpo
 *'byung po*, a class of malignant spirits.
 
 ## Kadampa
-*bka' gdams pa*, the first of the schools of the [New Tradition](#new-tradition), which followed the teachings of [Atisa](#atisa). It stressed compassion, study and pure discipline. Its teachings were continued by all other schools, in particular the [Gelugpa](#gelugpa), which is also known as the New Kadampa school.
+*bka' gdams pa*, the first of the schools of the [New Tradition](#new-tradition), which followed the teachings of [Atīśa](#atisa). It stressed compassion, study and pure discipline. Its teachings were continued by all other schools, in particular the [Gelugpa](#gelugpa), which is also known as the New Kadampa school.
 
 ## Kagyupa
 *bka' brgyud pa* one of the schools of the [New Tradition](#new-tradition), which followed the teachings brought to Tibet from India by [Marpa](#marpa) the Translator in the 11th century and transmitted to [Milarepa](#milarepa). There are several branches of the Kagyu school.
@@ -3958,7 +3958,7 @@ or into six groups:
 *las kyi sgrib pa*, Skt. *karmavarana*, obscurations created by negative actions. See [obscurations](#obscurations).
 
 ## Kasyapa
-*'od srung*, the third of the thousand Buddhas of this present kalpa the one before [Sakyamuni](#sakyamuni). Kasyapa is also the name of one of Sakyamuni's Sravaka disciples.
+*'od srung*, the third of the thousand Buddhas of this present kalpa the one before [Sakyamuni](#sakyamuni). Kāśyapa is also the name of one of Sakyamuni's Sravaka disciples.
 
 ## Katyayana
 Indian Arhat who was a disciple of the buddha and wrote down one section of the [Abhidharma](#abhidarma).
@@ -3976,16 +3976,16 @@ Indian Arhat who was a disciple of the buddha and wrote down one section of the 
 a trident with many symbolic ornaments. 
 
 ## Khu, Ngok and Drom
-the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tonpa](#drom-tonpa)).
+the three main disciples of [Atīśa](#atisa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tonpa](#drom-tonpa)).
 
 ## Kila
 *phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddha), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, bodhicitta and awareness-wisdom.
 
 ## King, Subject and Friend
-*rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotsana](#vairotsana) and the [dakini](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal).
+*rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotsana](#vairotsana) and the [ḍākinī](#dakini) [Yeshe Tsogyal](#yeshe-tsogyal).
 
 ## Krisnacarya
-*nag po spyod pa*, one of the eighty-four [Mahasiddhas](#mahasiddha) of India.
+*nag po spyod pa*, one of the eighty-four [Mahāsiddhas](#mahasiddha) of India.
 
 ## Kriya (yoga)
 *bya ba*, the first of the three outer [tantras](#tantra), the fourth of the nine vehicles. In this type of practice the stress is mainly put on correct external behavior and cleanliness.
@@ -4000,22 +4000,22 @@ the three main disciples of [Atisa](#atisa). Their full names are Khuton Tsondru
 *gla khe*, kind of tree with a sweet bark.
 
 ## Lama
-*bla ma*, Skt. *guru*, 1. spiritual teacher, explained as the contraction of *bla na med pa*, "nothing superior." 2. often used loosely for Buddhist monks or [yogis](#yogi-or-yogini) in general.
+*bla ma*, Skt. *guru*, 1. spiritual teacher, explained as the contraction of *bla na med pa*, "nothing superior." 2. often used loosely for Buddhist monks or [yogīs](#yogi-or-yogini) in general.
 
 ## Langri Thangpa, (Geshe)
 *glang ri thang pa* (1054-1123), [Kadampa](#kadampa) geshe, disciple of Geshe [Potowa](#potowa-geshe), author of the *Mind Training in Eight Verses* and founder of the Langthang Monastery.
 
 ## Lay disciple
-*dge bsnyen*, Skt. *upasaka*, someone who has taken the refuge vows and five other vows (or only some of them): not killing, not lying, not stealing, not indulging in improper sexual conduct, and not taking intoxicants. It is one of the eight categories vows of the [Pratimoksa](#pratimoksa).
+*dge bsnyen*, Skt. *upasaka*, someone who has taken the refuge vows and five other vows (or only some of them): not killing, not lying, not stealing, not indulging in improper sexual conduct, and not taking intoxicants. It is one of the eight categories vows of the [Prātimokṣa](#pratimoksa).
 
 ## Level of union
-*zung 'jug gi go 'phang*, the level of [Vajradhara](#vajradhara). The union is that of [dharmakaya](#dharmakaya) and [rupakaya](#rupakaya).
+*zung 'jug gi go 'phang*, the level of [Vajradhara](#vajradhara). The union is that of [dharmakāya](#dharmakaya) and [rupakaya](#rupakaya).
 
 ## Levels
 see [Bodhisattva levels](#bodhisattva-levels).
 
 ## Liberation
-*thar pa*, Skt. *moksa*, 1. freedom from samsara, either as an [Arhat](#arhat) or as a [Buddha](#buddha). 2. occasionally, *bsgral las byed pa*, performing the action of liberation, a practice to liberate the consciousness of a malignant being into a Buddhafield. See also note [75](#75).
+*thar pa*, Skt. *moksa*, 1. freedom from saṃsāra, either as an [Arhat](#arhat) or as a [Buddha](#buddha). 2. occasionally, *bsgral las byed pa*, performing the action of liberation, a practice to liberate the consciousness of a malignant being into a Buddhafield. See also note [75](#75).
 
 ## Lingje Repa
 *gling rje ras pa* (1128-1188), founder of the Drukpa Kagyu school.
@@ -4027,7 +4027,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *'chi bdag*, Yama.
 
 ## Lord of Secrets
-*gsang ba'i bdag po*, an epithet of [Vajrapani](#vajrapani).
+*gsang ba'i bdag po*, an epithet of [Vajrapāṇi](#vajrapani).
 
 ## Lotus Born
 *padma 'byung nas*, see [Padmasambhava](#padmasambhava-of-oddiyana).
@@ -4051,7 +4051,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 the first of the three higher [yogas](#yoga) according to the classification of the [Dharma](#dharma) into nine vehicles. In this [yoga](#yoga), the main stress is put on the [generation phase](#generation-phase) (*bskyed rim*).
 
 ## Mahakasyapa
-*'od srung chen po*, one of the foremost [sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni), and chief among the first compilers of the [Abhidharma](#abhidarma). After the Buddha had left this world, he became the first patriarch of the [Dharma](#dharma), entrusted with the responsibility for maintaining the teachings and the [Sangha](#sangha).
+*'od srung chen po*, one of the foremost [sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni), and chief among the first compilers of the [Abhidharma](#abhidarma). After the Buddha had left this world, he became the first patriarch of the [Dharma](#dharma), entrusted with the responsibility for maintaining the teachings and the [Saṃgha](#sangha).
 
 ## Mahamudra
 *phyag rgya chen po*, lit. Great Seal. The Great Seal means that the seal of the absolute nature is on everything, that all phenomena belong to the wisdom mandala. This term can be used to denote the teaching, meditation practice or supreme accomplishment.
@@ -4062,43 +4062,43 @@ See [external](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamud
 See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 
 ## Mahasiddha
-*grub chen*, a [yogi](#yogi-or-yogini) who has reached the [supreme accomplishment](#supreme-accomplishment).
+*grub chen*, a [yogī](#yogi-or-yogini) who has reached the [supreme accomplishment](#supreme-accomplishment).
 
 ## Maitreya
 *byams pa*, the [Buddha](#buddha) to come, the fifth in this present [kalpa](#kalpa). He is also one of the [Eight Great Close Sons](#eight-great-close-sons).
 
 ## Maitriyogi
-*byams pa'i rnal 'byor pa*, one of [Atisa's](#atisa) three principal teachers.
+*byams pa'i rnal 'byor pa*, one of [Atīśa's](#atisa) three principal teachers.
 
 ## Major and minor marks
 *mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahapurusa laksana*) and eighty minor ones (*dpe byad, anuvyanjana*) characteristic of a [Buddha](#buddha).
 
 ## Mamo
-*ma mo*, Skt. *matrika*, a kind of [dakini](#dakini).
+*ma mo*, Skt. *matrika*, a kind of [ḍākinī](#dakini).
 
 ## Mandala
 *dkyil 'khor*, lit. centre and circumference. 1. The universe with the palace of the deity at the centre, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
 
 ## Mandarava
-a [dakini](#dakini), daughter of the King of Zahor, in India. One of the five principal disciples and [consorts](#consort) of [Padmasambhava](#padmasambhava-of-oddiyana) and one of the main holders of his teaching.
+a [ḍākinī](#dakini), daughter of the King of Zahor, in India. One of the five principal disciples and [consorts](#consort) of [Padmasambhava](#padmasambhava-of-oddiyana) and one of the main holders of his teaching.
 
 ## Mandhatri
 *nga las nu*, a previous incarnation of the [Buddha](#buddha) who became extremely powerful through the power of his past merit, but lost his power due to some evil thoughts.
 
 ## Mani
-the mantra of [Avalokitesvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ mani padme hũm.
+the mantra of [Avalokiteśvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ mani padme hũm.
 
 ## Manifest Joy
-*mngon par dga' ba*, Skt. *Abhirati*, name of a [kalpa](#kalpa) and of the Buddhafield of [Buddha](#buddha) [Aksobhya](#aksobhya).
+*mngon par dga' ba*, Skt. *Abhirati*, name of a [kalpa](#kalpa) and of the Buddhafield of [Buddha](#buddha) [Akṣobhya](#aksobhya).
 
 ## Mantra
-*sngags*, manifestation of supreme [enlightenment](#enlightenment) in the form of sounds. Syllables which, in the sadhanas of the [Secret Mantrayana](#secret-mantrayana), protect the mind of the practitioner from ordinary perceptions and invoke the wisdom deities.
+*sngags*, manifestation of supreme [enlightenment](#enlightenment) in the form of sounds. Syllables which, in the sadhanas of the [Secret Mantrayāna](#secret-mantrayana), protect the mind of the practitioner from ordinary perceptions and invoke the wisdom deities.
 
 ## Manjusri
 *'jam dpal dbyangs*, a tenth level [Bodhisattva](#bodhisattva). He embodies the knowledge and wisdom of all the [Buddhas](#buddha).
 
 ## Manjusrimitra
-*'jam dpal bshes gnyen*, second human master in the lineage of the [Great Perfection](#great-perfection), a great pandita of [Nalanda](#nalanda) and disciple of [Garab Dorje](#garab-dorje).
+*'jam dpal bshes gnyen*, second human master in the lineage of the [Great Perfection](#great-perfection), a great paṇḍita of [Nālandā](#nalanda) and disciple of [Garab Dorje](#garab-dorje).
 
 ## Mara
 *bdud*, demon, [see note 230](#230); the tempter in general, that which makes obstacles to spiritual practice and [enlightenment](#enlightenment).
@@ -4119,7 +4119,7 @@ See [external source](https://en.wikipedia.org/wiki/Bhaisajyaguru).
 *sgom pa*, to let the mind rest on an object of contemplation or reflection, or to maintain the flow of the authentic view.
 
 ## Melong Dorje
-*me long rdo rje* (1243 - 1303), Tibetan [mahasiddha](#mahasiddha), the teacher of Kumaradza, [Longchenpa's](#longchenpa) teacher.
+*me long rdo rje* (1243 - 1303), Tibetan [mahāsiddha](#mahasiddha), the teacher of Kumaradza, [Longchenpa's](#longchenpa) teacher.
 
 ## Merit
 *bsod nams*, Skt. *punya*, good [karma](#karma), the energy generated by positive actions of body, speech and mind. According to Garchen Rinpoche the [main cause of merit is love](https://youtu.be/-x4bg7OZfas?t=1868).
@@ -4128,7 +4128,7 @@ See [external source](https://en.wikipedia.org/wiki/Bhaisajyaguru).
 *ri rgyal po ri rab*, immense mountain, wider at the top than at the bottom, around which the four continents of the world are disposed, according to ancient Indian cosmology.
 
 ## Middle Way
-*dbu ma'i lam*, Skt. *madhyamika*, teaching on [emptiness](#emptiness) first expounded by [Nagarjuna](#nagarjuna) and considered to be the basis of the [Secret Mantrayana](#secret-mantrayana). "Middle" means that it is beyond the extreme points of view of [nihilism](#nihilism) and [eternalism](#eternalism).
+*dbu ma'i lam*, Skt. *madhyamika*, teaching on [emptiness](#emptiness) first expounded by [Nāgārjuna](#nagarjuna) and considered to be the basis of the [Secret Mantrayāna](#secret-mantrayana). "Middle" means that it is beyond the extreme points of view of [nihilism](#nihilism) and [eternalism](#eternalism).
 
 ## Milarepa
 see [Jetsun Mila](#jetsun-mila).
@@ -4158,7 +4158,7 @@ the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Sariputra](#s
 *dga' bo*, a cousin of the [Buddha](#buddha) who became one of his foremost disciples.
 
 ## Naropa
-*na ro pa* (1016-1100), Indian [pandita](#pandita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Marpa the Translator](#marpa).
+*na ro pa* (1016-1100), Indian [paṇḍita](#pandita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Marpa the Translator](#marpa).
 
 ## Natural state
 *gnas lugs*, Skt. *prakriti*, lit. way of abiding. "The nature or condition of everything." DICT.
@@ -4188,13 +4188,13 @@ see [New Tradition](#new-tradition).
 *sprul sku*, body of manifestation, the aspect of Buddhahood which manifests out of compassion to help ordinary beings.
 
 ## Nirvana
-*mya ngan las 'das pa*, the state beyond suffering. The conception of nirvana differs in the [Sravakayana](#sravakayana), [Mahayana](#mahayana) and [Vajrayana](#vajrayana).
+*mya ngan las 'das pa*, the state beyond suffering. The conception of nirvāṇa differs in the [Sravakayana](#sravakayana), [Mahāyāna](#mahayana) and [Vajrayāna](#vajrayana).
 
 ## Non-action
 acting without conceptualizing, from the state of realization that the actor, the action and the object acted upon are all without intrinsic reality.
 
 ## Non-dwelling nirvana
-*mi gnas pa'i myang 'das*, total enlightenment, beyond both [samsara](#samsara) and [nirvana](#nirvana), not "dwelling" in either of them.
+*mi gnas pa'i myang 'das*, total enlightenment, beyond both [saṃsāra](#samsara) and [nirvāṇa](#nirvana), not "dwelling" in either of them.
 
 ## Non-thought (experience)
 *mi rtog pa'i nyams*, Skt. *avikalpa, nirvikalpa*, one of the three types of experience in meditation. A calm state in which there are no thoughts. See [experiences](#experiences-meditative).
@@ -4221,7 +4221,7 @@ epithet of [Longchenpa](#longchenpa).
 *sngon byung gi rgyal po*, a [Buddha](#buddha) in the first [kalpa](#kalpa).
 
 ## Orgyenpa (Rinchen Pal)
-*o rgyan pa rin chen dpal* (1230-1309), a great [siddha](#siddha) of the [Drukpa Kagyu](#kagyupa) tradition, disciple of [Gotsangpa](#gotsangpa-gonpo-dorje). He traveled widely, visiting [Oddiyana](#oddiyana), Bodhgaya and China. Among his disciples were Karmapa Rangjung Dorje, Kharchupa and Dawa Senge.
+*o rgyan pa rin chen dpal* (1230-1309), a great [siddha](#siddha) of the [Drukpa Kagyu](#kagyupa) tradition, disciple of [Gotsangpa](#gotsangpa-gonpo-dorje). He traveled widely, visiting [Oḍḍiyāna](#oddiyana), Bodhgaya and China. Among his disciples were Karmapa Rangjung Dorje, Kharchupa and Dawa Senge.
 
 ## Owner of the ground
 *sa bdag*, Skt. *bhumipati*, a spirit occupying a place.
@@ -4236,13 +4236,13 @@ the name by which [Padmasambhava](#padmasambhava-of-oddiyana) refers to himself.
 *padma thod phreng rtsal*, lit. Padma garlanded with skulls. One of the names of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Padmasambhava of Oddiyana
-*o rgyan padma 'byung gnas*, the Lotus-born Teacher from Oddiyana, often known as [Guru Rinpoche](#guru-rinpoche). During the reign of [King Trisong Detsen](#trisong-detsen), the great master subjugated the evil forces hostile to the propagation of Buddhism in Tibet, spread the Buddhist teaching of [Vajrayana](#vajrayana) in that country and hid innumerable [spiritual treasures](#spiritual-treasure) for the sake of future generations. He is venerated as the Second [Buddha](#buddha) whose coming was predicted by the first one, Buddha [Sakyamuni](#sakyamuni), to give the special teachings of [Vajrayana](#vajrayana).
+*o rgyan padma 'byung gnas*, the Lotus-born Teacher from Oḍḍiyāna, often known as [Guru Rinpoche](#guru-rinpoche). During the reign of [King Trisong Detsen](#trisong-detsen), the great master subjugated the evil forces hostile to the propagation of Buddhism in Tibet, spread the Buddhist teaching of [Vajrayāna](#vajrayana) in that country and hid innumerable [spiritual treasures](#spiritual-treasure) for the sake of future generations. He is venerated as the Second [Buddha](#buddha) whose coming was predicted by the first one, Buddha [Sakyamuni](#sakyamuni), to give the special teachings of [Vajrayāna](#vajrayana).
 
 ## Palace of Lotus Light
 *padma 'od kyi pho brang*, the palace of [Padmasambhava](#padmasambhava-of-oddiyana) in the [Buddhafield](#buddhafield) of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain).
 
 ## Palmo (nun)
-*dge slong ma dpal mo*, famous Indian nun who propagated the practice of Nyung-ne (one-day fast and vow of silence) and attained the supreme accomplishment through the practice of [Avalokitesvara](#avalokitesvara).
+*dge slong ma dpal mo*, famous Indian nun who propagated the practice of Nyung-ne (one-day fast and vow of silence) and attained the supreme accomplishment through the practice of [Avalokiteśvara](#avalokitesvara).
 
 ## Palyul (monastery)
 *dpal yul*, one of the six great monasteries of the [Nyingmapa](#nyingmapa) school.
@@ -4275,10 +4275,10 @@ a scholar, someone learned in the five traditional sciences (see: [five sciences
 *bad kan*, one of the three humours according to Tibetan medicine. See also [wind](#wind), [bile](#bile).
 
 ## Pitaka
-See [Tripitaka](#tripitaka).
+See [Tripiṭaka](#tripitaka).
 
 ## Pitaka, (fourth)
-*sde snod bzhi pa*, the pitaka of the [Secret Mantrayana](#secret-mantrayana).
+*sde snod bzhi pa*, the piṭaka of the [Secret Mantrayāna](#secret-mantrayana).
 
 ## Pith-instructions
 *man ngag*, Skt. *upadesa*, instructions explaining the most profound points of the teachings in a condensed and direct way for the purposes of practice.
@@ -4293,7 +4293,7 @@ See [Tripitaka](#tripitaka).
 *so sor thar pa*, lit. individual liberation. The vows of individual liberation are the eight categories of vows taught in the [Vinaya](#vinaya), from the simple one day vow up to the complete vows of fully ordained monks. See [three vows](#three-vows).
 
 ## Pratyekabuddha
-*rang sangs rgyas*, "someone reaching the end of [samsara](#samsara) without the help of a spiritual master. By studying the nature of interdependent origination, he realizes the absence of true existence of the self and half-realizes the absence of true existence of phenomena." DICT.
+*rang sangs rgyas*, "someone reaching the end of [saṃsāra](#samsara) without the help of a spiritual master. By studying the nature of interdependent origination, he realizes the absence of true existence of the self and half-realizes the absence of true existence of phenomena." DICT.
 
 ## Precious canopy
 *rin po che'i gdugs*, one of the [eight auspicious signs](#eight-auspicious-signs), it corresponds to the Buddha's head and symbolizes protection from negative actions.
@@ -4302,7 +4302,7 @@ See [Tripitaka](#tripitaka).
 *o rgyan rin po che*, one of the names of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Precious word empowerment
-*tshig dbang rin po che*, the fourth [empowerment](#empowerment) "which eliminates the defilements of body, speech, mind and habitual tendencies, enables one to meditate on the natural [Great Perfection](#great-perfection) and sows the seed for obtaining vajra wisdom and the [svabhavikakaya](#svabhavikakaya)." DICT.
+*tshig dbang rin po che*, the fourth [empowerment](#empowerment) "which eliminates the defilements of body, speech, mind and habitual tendencies, enables one to meditate on the natural [Great Perfection](#great-perfection) and sows the seed for obtaining vajra wisdom and the [svābhāvikakāya](#svabhavikakaya)." DICT.
 
 ## Preliminaries
 *sngon 'gro*. see [five hundred thousand preliminaries](#five-hundred-thousand-preliminaries).
@@ -4335,19 +4335,19 @@ See [Tripitaka](#tripitaka).
 see [Dharma protectors](#dharma-protector).
 
 ## Protectors of the Three Families
-*rigs gsum mgon po*, the [Bodhisattvas](#bodhisattva) [Manjusri](#manjusri), [Avalokitesvara](#avalokitesvara) and [Vajrapani](#vajrapani). The three families are respectively those of the body, speech and mind of the [Buddha](#buddha).
+*rigs gsum mgon po*, the [Bodhisattvas](#bodhisattva) [Manjusri](#manjusri), [Avalokiteśvara](#avalokitesvara) and [Vajrapāṇi](#vajrapani). The three families are respectively those of the body, speech and mind of the [Buddha](#buddha).
 
 ## Puchungwa, (Geshe)
 *phu chung ba*, one of the [Three Brothers](#three-brothers).
 
 ## Purnakasyapa
-*'od srung rdzogs byed*, a leading [tirthika](#tirthika) master at the time of the [Buddha](#buddha).
+*'od srung rdzogs byed*, a leading [tīrthika](#tirthika) master at the time of the [Buddha](#buddha).
 
 ## Pure land
-*dag pa'i zhing*, a place or world manifested by a [Buddha](#buddha) or great [Bodhisattva](#bodhisattva) through the spontaneous qualities of his realization. There, beings can progress towards [enlightenment](#enlightenment) without falling back into the lower realms of [samsara](#samsara). Also, any place whatsoever, when it is perceived as a pure manifestation of spontaneous wisdom.
+*dag pa'i zhing*, a place or world manifested by a [Buddha](#buddha) or great [Bodhisattva](#bodhisattva) through the spontaneous qualities of his realization. There, beings can progress towards [enlightenment](#enlightenment) without falling back into the lower realms of [saṃsāra](#samsara). Also, any place whatsoever, when it is perceived as a pure manifestation of spontaneous wisdom.
 
 ## Pure Land of Bliss
-*bde ba can*, Skt. *Sukhavati*, the [Buddhafield](#buddhafield) of [Amitabha](#amitabha).
+*bde ba can*, Skt. *Sukhavati*, the [Buddhafield](#buddhafield) of [Amitābha](#amitabha).
 
 ## Pure levels (three)
 *dag pa sa gsum*, the eighth, ninth and tenth [Bodhisattva levels](#bodhisattva-levels), thus called because [Bodhisattvas](#bodhisattva) on these levels are totally free from the [obscuration of negative emotions](#obscurations-of-negative-emotions) (*nyon sgrib*).
@@ -4388,11 +4388,11 @@ Homage to you Tathagata
  that is free from any attachment  
  liberates from the evil destinies  
 >
-> Sangha  
+> Saṃgha  
 Freed, you show the path to freedom  
 And honor fully in the pure trainings  
 Best of fields, the Field of Virtuous Qualities  
-Homage to the Sangha too  
+Homage to the Saṃgha too  
 [src 1](https://www.youtube.com/live/-x4bg7OZfas), [2](https://www.youtube.com/live/9qkPT6ezaO4)  
 
 > From today onward until attaining enlightenment I will practice virtue with body speech and mind
@@ -4422,7 +4422,7 @@ Homage to the Sangha too
 *rgyal po'i rol stabs*, sitting posture with the right leg half stretched and the left drawn in.
 
 ## Rupakaya
-*gzugs sku*, Body of Form, which includes the [sambhogakaya](#sambhogakaya) and [nirmanakaya](#nirmanakaya) together.
+*gzugs sku*, Body of Form, which includes the [saṃbhogakāya](#sambhogakaya) and [nirmāṇakāya](#nirmanakaya) together.
 
 ## Sadprarudita
 *rtag tu ngu*, a [Bodhisattva](#bodhisattva) whose name means "Ever Weeping", on account of the numerous tears he shed in his quest to receive the teachings on transcendent wisdom.
@@ -4435,14 +4435,14 @@ Homage to the Sangha too
 
 ## Samantabhadra
 *kun tu bzang po*,
-1. the original [Buddha](#buddha) (Adibuddha), he who has never fallen into delusion, the Dharmakaya Buddha represented as a naked figure, deep blue like the sky, in union with Samantabhadri, as a symbol of awareness-emptiness, the pure, absolute nature ever present and unobstructed. The source of the lineage of the tantra transmissions of the [Nyingma](#nyingmapa) school.
+1. the original [Buddha](#buddha) (Adibuddha), he who has never fallen into delusion, the Dharmakāya Buddha represented as a naked figure, deep blue like the sky, in union with Samantabhadri, as a symbol of awareness-emptiness, the pure, absolute nature ever present and unobstructed. The source of the lineage of the tantra transmissions of the [Nyingma](#nyingmapa) school.
 2. Bodhisattva Samantabhadra, one of the [Eight Great Close Sons](#eight-great-close-sons), renowned for the way in which, through the power of his concentration, he miraculously multiplied the offerings he made.
 
 ## Samaya
-*dam tshig*, lit. promise. Sacred links between teacher and disciple, and also between disciples, in the [Vajrayana](#vajrayana). The Sanskrit word samaya can mean: agreement, engagement, convention, precept, boundary,e tc. Although there are many detailed obligations, the most essential samaya is to consider the teacher's body, speech and mind as pure.
+*dam tshig*, lit. promise. Sacred links between teacher and disciple, and also between disciples, in the [Vajrayāna](#vajrayana). The Sanskrit word samaya can mean: agreement, engagement, convention, precept, boundary,e tc. Although there are many detailed obligations, the most essential samaya is to consider the teacher's body, speech and mind as pure.
 
 ## Samaya object or substance
-*dam tshig gi rdzas*, object or ingredient which is necessary for or enhances the practices of the [Vajrayana](#vajrayana).
+*dam tshig gi rdzas*, object or ingredient which is necessary for or enhances the practices of the [Vajrayāna](#vajrayana).
 
 ## Sambhogakaya
 *longs spyod rdzogs pa'i sku*, Body of Perfect Enjoyment, the spontaneously luminous aspect of Buddhahood, only perceptible to highly realized beings.
@@ -4466,13 +4466,13 @@ Homage to the Sangha too
 *bde byed*, example of a man whose strong desire and hatred led him to kill his mother. He repented and, having purified his negative actions, was reborn in a god realm.
 
 ## Santaraksita
-*zhi ba mtsho*, also called the Bodhisattva Abbot. This great Indian [pandita](#pandita) of the [Mahayana](#mahayana) school was abbot of the Buddhist university of [Nalanda](#nalanda) and author of a number of philosophical commentaries, such as the *Ornament of the Middle Way* (*dbu ma rgyan*, Skt. *Madhyamakalmkara-karika*). He was invited to Tibet by King [Trisong Detsen](#trisong-detsen) to consecrate the site of the first Tibetan monastery at [Samye](#samye) and ordained the first Tibetan monks.
+*zhi ba mtsho*, also called the Bodhisattva Abbot. This great Indian [paṇḍita](#pandita) of the [Mahāyāna](#mahayana) school was abbot of the Buddhist university of [Nālandā](#nalanda) and author of a number of philosophical commentaries, such as the *Ornament of the Middle Way* (*dbu ma rgyan*, Skt. *Madhyamakalmkara-karika*). He was invited to Tibet by King [Trisong Detsen](#trisong-detsen) to consecrate the site of the first Tibetan monastery at [Samye](#samye) and ordained the first Tibetan monks.
 
 ## Santideva
-*zhi ba lha* (7th century), the great Indian poet and [mahasiddha](#mahasiddha), who astounded the monks of his monastery of [Nalanda](#nalanda) with his famous poem on the practice of bodhicitta, the Bodhicaryavatara (spyod 'jug), or *The Way of the Bodhisattva*.
+*zhi ba lha* (7th century), the great Indian poet and [mahāsiddha](#mahasiddha), who astounded the monks of his monastery of [Nālandā](#nalanda) with his famous poem on the practice of bodhicitta, the Bodhicaryavatara (spyod 'jug), or *The Way of the Bodhisattva*.
 
 ## Saraha
-*sa ra ha*, Indian [mahasiddha](#mahasiddha), author of three cycles of [dohas](#doha)
+*sa ra ha*, Indian [mahāsiddha](#mahasiddha), author of three cycles of [dohas](#doha)
 
 ## Sariputra
 *sha ri'i bu*, one of the two foremost [Sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni)
@@ -4484,25 +4484,25 @@ Homage to the Sangha too
 *bstan bcos*, a commentary on the [Buddha's](#buddha) teachings.
 
 ## Sattvavajra
-*sems dpa' rdo rje*, a name given to [Vajrapani](#vajrapani)
+*sems dpa' rdo rje*, a name given to [Vajrapāṇi](#vajrapani)
 
 ## Savaripa
-*sha ba ri pa* or *ri khrod dbang phyug*, one of the eighty-four [mahasiddhas](#mahasiddha) of India. He was a hunter from a hill tribe in Bengal, and along with his two wives became a disciple of [Nagarjuna](#nagarjuna).
+*sha ba ri pa* or *ri khrod dbang phyug*, one of the eighty-four [mahāsiddhas](#mahasiddha) of India. He was a hunter from a hill tribe in Bengal, and along with his two wives became a disciple of [Nāgārjuna](#nagarjuna).
 
 ## Second Buddha
 *sangs rgyas gnyis pa*, an epithet of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Secret empowerment
-*gsang dbang*. The second [empowerment](#empowerment), "which purifies the defilements of speech, enables one to meditate on the channels and energies and to recite mantras, and sows the seed for obtaining vajra speech and the [sambhogakaya](#sambhogakaya)." DICT.
+*gsang dbang*. The second [empowerment](#empowerment), "which purifies the defilements of speech, enables one to meditate on the channels and energies and to recite mantras, and sows the seed for obtaining vajra speech and the [saṃbhogakāya](#sambhogakaya)." DICT.
 
 ## Secret Mantrayana
-*gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayana](#vajrayana).
+*gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayāna](#vajrayana).
 
 ## Seven attributes of royalty
 *rgyal srid sna bdun*, Skt. *saptaratna*, seven possessions of a [universal monarch](#universal-monarch), each of which has a symbolic significance. They are the precious golden wheel, precious wish-fulfilling jewel, precious queen, precious minister, precious elephant, precious horse, and precious general.
 
 ## Seven branches
-*yan lag bdun*, Skt. *saptanga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvana, and dedication of merit.
+*yan lag bdun*, Skt. *saptanga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvāṇa, and dedication of merit.
 
 ## Seven noble riche
 *'phags pa'i nor bdun*, Skt. *saptadhanam*, faith, discipline, generosity, learning, conscientiousness, modesty, and wisdom.
@@ -4526,7 +4526,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *shud bu dpal gyi seng ge*, one of the [twenty five disciples](#twenty-five-disciples) of [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Siddha
-*grub thob*, lit. one who has attained the accomplishments. Someone who has attained the fruit of the practice of the [Secret Mantrayana](#secret-mantrayana).
+*grub thob*, lit. one who has attained the accomplishments. Someone who has attained the fruit of the practice of the [Secret Mantrayāna](#secret-mantrayana).
 
 ## Siddhi
 *dngos grub*, see [accomplishment](#accomplishment).
@@ -4538,7 +4538,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *rnam shes tshogs drug*, Skt. *sadvijnanakaya*, lit. six gatherings of consciousness, meaning the gathering of a sense object, of a sense organ and of a consciousness. They are the vision, hearing, smell, taste, touch, and mental consciousnesses.
 
 ## Six Ornaments
-*rgyan drug*, the six great commentators of the Buddha's teachings: [Nagarjuna](#nagarjuna), [Aryadeva](#aryadeva), [Asanga](#asanga), Vasubandhu, Dignaga, and Dharmakirti.
+*rgyan drug*, the six great commentators of the Buddha's teachings: [Nāgārjuna](#nagarjuna), [Āryadeva](#aryadeva), [Asaṅga](#asanga), Vasubandhu, Dignaga, and Dharmakirti.
 
 ## Six realms of existence
 *'gro drug*, Skt. *sadgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pancagati*), counting gods and demigods together as one realm.
@@ -4550,13 +4550,13 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *thabs*, Skt *upaya*, spontaneous, altruistic activity born from wisdom.
 
 ## Skull cup
-*thod phor*, Skt. *kapala*. The top of a skull is used in certain rituals and by some yogis as a bowl. It symbolizes egolessness.
+*thod phor*, Skt. *kapala*. The top of a skull is used in certain rituals and by some yogīs as a bowl. It symbolizes egolessness.
 
 ## Small skull drum
 *thod pa'i da ma ru*, small double sided drum made of two skull-tops.
 
 ## Smrtijnana
-(10th - 11th century), famous Indian master and [pandita](#pandita) who contributed to the translation into Tibetan and correction of certain tantras and commentaries. His death, in Tibet, marks the end of the period of the Old Translations.
+(10th - 11th century), famous Indian master and [paṇḍita](#pandita) who contributed to the translation into Tibetan and correction of certain tantras and commentaries. His death, in Tibet, marks the end of the period of the Old Translations.
 
 ## So, Zur and Nub
 *so zur gnubs*, the family names of three great masters who were the early holders of the lineage of the Nyingma Kahma (long transmission from master to disciple of the Nyingma teachings, as opposed to the Terma, or [spiritual treasures](#spiritual-treasure) hidden, then revealed, some times a very long time later). Their full names were So Yeshe Wangchuk, Zur Shakya Jungne and Nub Chen Sangye Yeshe.
@@ -4568,7 +4568,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *dge ba'i rtsa ba*, Skt. *kusalamula*, positive actions which are like the roots (*rtsa ba*) of merit or good (*dge ba*).
 
 ## Spiritual companions
-*chos grogs*, students of the same teacher, or with whom one has received teaching. It is considered vital to have harmonious relations with such people, particularly in the [Vajrayana](#vajrayana).
+*chos grogs*, students of the same teacher, or with whom one has received teaching. It is considered vital to have harmonious relations with such people, particularly in the [Vajrayāna](#vajrayana).
 
 ## Spiritual friend
 *dge ba'i gshes gnyen*, Skt. *kalyanamitra*, a synonym for spiritual teacher.
@@ -4577,7 +4577,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *gter ma*, teachings, with statues and other objects, that were hidden by [Padmasambhava](#padmasambhava-of-oddiyana), [Yeshe Tsogyal](#yeshe-tsogyal) and others in earth, rocks, lakes and trees, or even in more subtle locations such as space or mind for the sake of future generations, and then rediscovered in miraculous ways by incarnations of [Padmasambhava's](#padmasambhava-of-oddiyana) disciples, the treasure discoverers.
 
 ## Sravaka
-*nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [samsara](#samsara) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Sravakas do not aspire to full enlightenment for the sake of all beings.
+*nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [saṃsāra](#samsara) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Sravakas do not aspire to full enlightenment for the sake of all beings.
 
 ## Sravakayana
 *nyan thos kyi theg pa*, the vehicle of the [Sravakas](#sravaka).
@@ -4592,13 +4592,13 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *thos pa*, lit. listening. Traditionally, listening to the teachings was the main way of learning in Tibet. Before studying from a text, it is important to receive the aural transmission by actually hearing the teacher's words. The term "study" should therefore be understood as rather more than simple reading a text.
 
 ## Stupa
-*mchod rten*, lit. support of offering, symbolic representation of the Buddha's mind. The most typical Buddhist monument, which often has a wide square base, a rounded mid-section, and a tall conical upper section topped by a sun and moon. Stupas frequently contain the relics of enlightened beings. They vary in size from tiny clay models to the vast stupas at Borobodur in Indonesia and Bodha in Nepal.
+*mchod rten*, lit. support of offering, symbolic representation of the Buddha's mind. The most typical Buddhist monument, which often has a wide square base, a rounded mid-section, and a tall conical upper section topped by a sun and moon. Stūpas frequently contain the relics of enlightened beings. They vary in size from tiny clay models to the vast stūpas at Borobodur in Indonesia and Bodha in Nepal.
 
 ## Sublime being
 *skyes bu dam pa*, "realized being who has the capacity to act for the benefit of others on a vast scale." DICT.
 
 ## Sublime Compassionate One
-*'phags pa thugs rje chen po*, one of the names given to [Avalokitesvara](#avalokitesvara) (Chenrezi), the [Bodhisattva](#bodhisattva) of compassion.
+*'phags pa thugs rje chen po*, one of the names given to [Avalokiteśvara](#avalokitesvara) (Chenrezi), the [Bodhisattva](#bodhisattva) of compassion.
 
 ## Sublime levels
 see [Bodhisattva levels](#bodhisattva-levels).
@@ -4616,13 +4616,13 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *zhi gnas*, Skt. *samatha*, the basis of all concentrations. "The distraction of the mind by other objects having been calmed (*zhi*), the mind stays (*gnas*) without wavering in concentration." DICT.
 
 ## Sutra
-*mdo*, a concise text spoken by the Buddha; one of the Three [Pitakas](#pitaka). See [Tripitaka](#tripitaka). See also: Wikipedia's [List of suttas](https://en.wikipedia.org/wiki/List_of_suttas), Access to Insight's [Index of Suttas](https://www.accesstoinsight.org/index-sutta.html), and 84,000's reading room with [The Kangyur and The Tengyur](https://read.84000.co/section/lobby.html).
+*mdo*, a concise text spoken by the Buddha; one of the Three [Piṭakas](#pitaka). See [Tripiṭaka](#tripitaka). See also: Wikipedia's [List of suttas](https://en.wikipedia.org/wiki/List_of_suttas), Access to Insight's [Index of Suttas](https://www.accesstoinsight.org/index-sutta.html), and 84,000's reading room with [The Kangyur and The Tengyur](https://read.84000.co/section/lobby.html).
 
 ## Suvarnadvipa (Lord of)
-*gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atisa](#atisa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
+*gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atīśa](#atisa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
 
 ## Svabhavikakaya
-*ngo bo nyid kyi sku*, the Body of the Essential Nature; the fourth kaya, the aspect of inseparability of the first three, [Dharmakaya](#dharmakaya), [Sambhogakaya](#sambhogakaya), and [Nirmanakaya](#nirmanakaya).
+*ngo bo nyid kyi sku*, the Body of the Essential Nature; the fourth kaya, the aspect of inseparability of the first three, [Dharmakāya](#dharmakaya), [Saṃbhogakāya](#sambhogakaya), and [Nirmāṇakāya](#nirmanakaya).
 
 ## Symbol lineage of the Vidyadharas
 *rig 'dzin brda yi brgyud*, lineage of transmission of the teachings by means of gestures or symbols.
@@ -4637,13 +4637,13 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *thang stong rgyal po* (1385 - 1509), famous Tibetan [siddha](#siddha) who traveled extensively in China, Tibet and other eastern countries, built numerous temples and metal bridges and founded monasteries at Derge and elsewhere.
 
 ## Tantra
-*rgyud*, text based on the original purity of the nature of mind, whose fruit is the realization of that nature. The root texts of the [Vajrayana](#vajrayana) teachings.
+*rgyud*, text based on the original purity of the nature of mind, whose fruit is the realization of that nature. The root texts of the [Vajrayāna](#vajrayana) teachings.
 
 ## Tantric
-related to the [tantras](#tantra), to the [Vajrayana](#vajrayana).
+related to the [tantras](#tantra), to the [Vajrayāna](#vajrayana).
 
 ## Tara
-*sgrol ma*, female [Bodhisattva](#bodhisattva) born from a tear of [Avalokitesvara](#avalokitesvara); female manifestation of great compassion.
+*sgrol ma*, female [Bodhisattva](#bodhisattva) born from a tear of [Avalokiteśvara](#avalokitesvara); female manifestation of great compassion.
 
 ## Tathagata
 *bde bzhin gshegs pa*, one who has reached the real nature, a [Buddha](#buddha).
@@ -4687,13 +4687,13 @@ perceived as having a real and independent existence.
 *dkon mchog gsum*, Skt. *triratna*, 
 1. the [Buddha](#buddha), 
 2. the [Dharma](#dharma), and 
-3. the [Sangha](#sangha).
+3. the [Saṃgha](#sangha).
 
 ## Three kayas
 *sku gsum*, Skt. *trikaya*, lit. the Three Bodies: the three aspects of Buddhahood: 
-1. [dharmakaya](#dharmakaya), 
-2. [sambhogakaya](#sambhogakaya), and 
-3. [nirmanakaya](#nirmanakaya).
+1. [dharmakāya](#dharmakaya), 
+2. [saṃbhogakāya](#sambhogakaya), and 
+3. [nirmāṇakāya](#nirmanakaya).
 
 ## Three mandalas
 *dkyil 'khor gsum*, the mandalas of 
@@ -4718,7 +4718,7 @@ See [five poisons](#five-poisons).
 *rtsa gsum*, 
 1. the [lama](#lama), root or source of blessings; 
 2. the [yidam](#yidam), source of accomplishments; and 
-3. the [dakini](#dakini) (or [protectors](#protectors)), source of activities.
+3. the [ḍākinī](#dakini) (or [protectors](#protectors)), source of activities.
 
 ## Three supreme methods
 *dam pa gsum*. See [preparation, main part and conclusion](#preparation-main-part-and-conclusion).
@@ -4740,9 +4740,9 @@ See [external](https://kagyuoffice.org/buddhism/buddhism-in-india/the-three-vehi
 
 ## Three vows
 *sdom pa gsum*, Skt. *trisamvara*, 
-1. the vows of [Pratimoksa](#pratimoksa), 
+1. the vows of [Prātimokṣa](#pratimoksa), 
 2. the precepts of the [Bodhisattvas](#bodhisattva) and 
-3. the [samayas](#samaya) of the [Secret Mantrayana](#secret-mantrayana).
+3. the [samayas](#samaya) of the [Secret Mantrayāna](#secret-mantrayana).
 
 ## Three white foods
 *dkar gsum*, 
@@ -4770,7 +4770,7 @@ Occasionally used to translate *sa gsum*, Skt. *tribhvana*, lit. the three level
 they are called respectively the realms of 
 1. [gods](#gods), of 
 2. humans, and of 
-3. [nagas](#naga).
+3. [nāgas](#naga).
 
 ## Threefold training
 *bslab pa gsum*, Skt. *trisiksa*, 
@@ -4782,10 +4782,10 @@ they are called respectively the realms of
 *de bzhin nyid*, Skt. *tathata*, "tha nature of things, emptiness." DKR.
 
 ## Tilopa
-*ti lo pa*, one of the eighty four [mahasiddhas](#mahasiddha) of India. Teacher of [Naropa](#naropa).
+*ti lo pa*, one of the eighty four [mahāsiddhas](#mahasiddha) of India. Teacher of [Naropa](#naropa).
 
 ## Tingdzin Zangpo (Nyang)
-*myang ting 'dzin bzang po* (9th century), Tibetan [mahasiddha](#mahasiddha), disciple of [Vimalamitra](#vimalamitra) (from whom he received the entire teachings of the *Heart-essence*) and of [Padmasambhava](#padmasambhava-of-oddiyana). He is said to have been the first Tibetan to attain the rainbow body of the great transference (*'ja' lus 'pho ba chen po*), the greatest accomplishment of the [Great Perfection](#great-perfection).
+*myang ting 'dzin bzang po* (9th century), Tibetan [mahāsiddha](#mahasiddha), disciple of [Vimalamitra](#vimalamitra) (from whom he received the entire teachings of the *Heart-essence*) and of [Padmasambhava](#padmasambhava-of-oddiyana). He is said to have been the first Tibetan to attain the rainbow body of the great transference (*'ja' lus 'pho ba chen po*), the greatest accomplishment of the [Great Perfection](#great-perfection).
 
 ## Tirthika
 *mu stegs pa*, a proponent of extreme philosophical views such as [nihilism](#nihilism) and [eternalism](#eternalism). Often used for the schools of philosophical and religious thought in India that were opposed to Buddhism.
@@ -4817,7 +4817,7 @@ see [spiritual treasure](#spiritual-treasure).
 *gter ston*, see [spiritual treasure](#spiritual-treasure).
 
 ## Tripitaka
-*sde snod gsum*, The three collections of the Buddha's teachings, [Vinaya](#vinaya), [Sutra](#sutra), and [Abhidharma](#abhidarma). The [Vajrayana](#vajrayana) teachings are sometimes considered as a fourth [pitaka](#pitaka). Tripitaka means "the three baskets," so called because the palm-leaf folios on which the scriptures were originally written were collected and stored in baskets.
+*sde snod gsum*, The three collections of the Buddha's teachings, [Vinaya](#vinaya), [Sūtra](#sutra), and [Abhidharma](#abhidarma). The [Vajrayāna](#vajrayana) teachings are sometimes considered as a fourth [piṭaka](#pitaka). Tripiṭaka means "the three baskets," so called because the palm-leaf folios on which the scriptures were originally written were collected and stored in baskets.
 
 ## Trisong Detsen
 *khri srong sde'u btsan (790 - 844), 38th king of Tibet, second of the three great religious kings. It was due to his efforts that the great masters came from India and established Buddhism firmly in Tibet.
@@ -4826,16 +4826,16 @@ see [spiritual treasure](#spiritual-treasure).
 *tsam pa*, flour made from roasted barley or other grains. A staple food in Tibet.
 
 ## Tsa-tsa
-*tsa tsa*, a small clay [stupa](#stupa), [Buddha](#buddha), or other figure, made with a mould.
+*tsa tsa*, a small clay [stūpa](#stupa), [Buddha](#buddha), or other figure, made with a mould.
 
 ## Tulku
-*sprul sku*, the Tibetan translation of the Skt. [nirmanakaya](#nirmanakaya), also used as an honorific title and general term for recognized incarnations of [lamas](#lama), who are found, usually in childhood, and brought up to inherit the lineage and often the monastic foundations of their predecessors.
+*sprul sku*, the Tibetan translation of the Skt. [nirmāṇakāya](#nirmanakaya), also used as an honorific title and general term for recognized incarnations of [lamas](#lama), who are found, usually in childhood, and brought up to inherit the lineage and often the monastic foundations of their predecessors.
 
 ## Tusita heaven
-*dga' ldan*, (fourth level) realm of the gods of the World of Desire, in which Buddha [Sakyamuni](#sakyamuni) took a final rebirth before appearing in this world. At present [Maitreya](#maitreya), the future [Buddha](#buddha), is in the Tusita heaven teaching the [Mahayana](#mahayana). See [three worlds](#three-worlds).
+*dga' ldan*, (fourth level) realm of the gods of the World of Desire, in which Buddha [Sakyamuni](#sakyamuni) took a final rebirth before appearing in this world. At present [Maitreya](#maitreya), the future [Buddha](#buddha), is in the Tuṣita heaven teaching the [Mahāyāna](#mahayana). See [three worlds](#three-worlds).
 
 ## Twelve categories of teaching in the pitakas
-*sde snod bcu gnyis*, lit. twelve pitakas, also called the Twelve Branches of Excellent Speech (*gsung rab yan lag bcu gnyis*). The twelve types of teaching given by the Buddha correspond to twelve types of text: condensed (*mdo sde*, Skt. *sutra*), melodious (*dbyangs bsnyan*, *geya*), prophetic (*lung bstan*, *vyakarana*), verse (*tshigs bcad*, *gatha*), spoken with a purpose (*ched brjod*, *udana*), conversatory (*gleng gzhi*, *nidana* - questions, talks, etc.), concerning his past lives (*skyes rab*, *jataka*), marvelous (*rmad byung*, *adbhutadharma*), establishing a truth (*gtan babs*, *upadesa*), biographical or "expressing realization" (*rtogs brjod*, *avadana*), historical (*de ltar byung*, *itivrittaka*), and very detailed (*shin tu rgyas pa*, *vaipulya*).
+*sde snod bcu gnyis*, lit. twelve piṭakas, also called the Twelve Branches of Excellent Speech (*gsung rab yan lag bcu gnyis*). The twelve types of teaching given by the Buddha correspond to twelve types of text: condensed (*mdo sde*, Skt. *sutra*), melodious (*dbyangs bsnyan*, *geya*), prophetic (*lung bstan*, *vyakarana*), verse (*tshigs bcad*, *gatha*), spoken with a purpose (*ched brjod*, *udana*), conversatory (*gleng gzhi*, *nidana* - questions, talks, etc.), concerning his past lives (*skyes rab*, *jataka*), marvelous (*rmad byung*, *adbhutadharma*), establishing a truth (*gtan babs*, *upadesa*), biographical or "expressing realization" (*rtogs brjod*, *avadana*), historical (*de ltar byung*, *itivrittaka*), and very detailed (*shin tu rgyas pa*, *vaipulya*).
 
 ## Twelve qualities of full training
 *sbyangs pa'i yon tan bcu gnyis*, Skt. *dvadasadhutaguna*, twelve ascetic practices of [sravakas](#sravaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
@@ -4862,19 +4862,19 @@ see [spiritual treasure](#spiritual-treasure).
 *bden pa gnyis*, the [absolute](#absolute-truth) and [relative truths](#relative-truth).
 
 ## Twofold goal
-*don gnyis*, one's own goal, benefit or welfare (*rang don*) and that of others (*gzhan don*). Often understood in the ultimate sense of the goal for oneself being achieved by the realization of emptiness, the [dharmakaya](#dharmakaya), and the goal for others by compassion manifesting as the [rupakaya](#rupakaya).
+*don gnyis*, one's own goal, benefit or welfare (*rang don*) and that of others (*gzhan don*). Often understood in the ultimate sense of the goal for oneself being achieved by the realization of emptiness, the [dharmakāya](#dharmakaya), and the goal for others by compassion manifesting as the [rupakaya](#rupakaya).
 
 ## Twofold purity
 *dag pa gnyis*, original purity (*rang bzhin ye dag*), which is the [Buddha nature](#buddha-nature) in all beings, and purity from all adventitious stains (*blo bur phral dag*). Only a [Buddha](#buddha) has this second purity as well.
 
 ## Oddiyana
-*o rgyan*, a [dakini](#dakini) land which is the birthplace of [Padmasambhava](#padmasambhava-of-oddiyana). According to some it is located between present-day Afghanistan and Kashmire. It is also the birthplace of [Garab Dorje](#garab-dorje). The use of "Oddiyana" coupled with titles such as "Great One", "Second Buddha", "Great Master", and so on invariably refers to [Padmasambhava](#padmasambhava-of-oddiyana).
+*o rgyan*, a [ḍākinī](#dakini) land which is the birthplace of [Padmasambhava](#padmasambhava-of-oddiyana). According to some it is located between present-day Afghanistan and Kashmire. It is also the birthplace of [Garab Dorje](#garab-dorje). The use of "Oḍḍiyāna" coupled with titles such as "Great One", "Second Buddha", "Great Master", and so on invariably refers to [Padmasambhava](#padmasambhava-of-oddiyana).
 
 ## Unaltered
 *ma bcos pa*, Skt. *naisargika*, left in its original state, without manipulations or fabrications.
 
 ## Unexcelled, the
-*'og min*, Skt. *Akanistha*, see [Akanistha](#akanistha).
+*'og min*, Skt. *Akanistha*, see [Akaniṣṭha](#akanistha).
 
 ## Universal monarch
 *'khor lo sgyur ba'i rgyal po*, Skt. *cakravartin*,  
@@ -4891,7 +4891,7 @@ see [spiritual treasure](#spiritual-treasure).
 *bai ro tsa na*, Tibet's greatest translator and one of the first seven monks to be ordained in Tibet. He was one of the principal disciples of [Padmasambhava](#padmasambhava-of-oddiyana) and of [Sri Simha](#sri-simha).
 
 ## Vaisakha
-*sa ga zla ba*, the fourth month of the Tibetan lunar calendar. It is on the fifteenth of that month that the Buddha was born, attained enlightenment and passed into nirvana.
+*sa ga zla ba*, the fourth month of the Tibetan lunar calendar. It is on the fifteenth of that month that the Buddha was born, attained enlightenment and passed into nirvāṇa.
 
 ## Vaisravana
 *rnam thos sras*, one of the [Four Great Kings](#four-great-kings) (whose god realm is the first in the World of Desire), guardian of the North and god of wealth.
@@ -4900,10 +4900,10 @@ see [spiritual treasure](#spiritual-treasure).
 *rdo rje*, AT: diamond, adamantine thunderbolt. Symbol of unchanging and indestructible wisdom capable of penetrating through everything. Ritual instrument symbolizing compassion, skilful means, awareness. Always associated with the bell, *dril bu*, Skt. *ghanta*, the symbol of wisdom, emptiness. For the vajra's form see illustration of Vajrasattva who holds the vajra in his right hand and the bell in his left.
 
 ## Vajra brothers and sisters
-*rdo rje spun*, students of the same teacher, or with whom one has received [Vajrayana](#vajrayana) teachings. See [spiritual companions](#spiritual-companions).
+*rdo rje spun*, students of the same teacher, or with whom one has received [Vajrayāna](#vajrayana) teachings. See [spiritual companions](#spiritual-companions).
 
 ## Vajra master
-*rdo rje slob spon*, Skt. *vajracarya*, "the spiritual master who introduces one to a mandala of the [Secret Mantrayana](#secret-mantrayana) and gives the liberating instructions." DICT.
+*rdo rje slob spon*, Skt. *vajracarya*, "the spiritual master who introduces one to a mandala of the [Secret Mantrayāna](#secret-mantrayana) and gives the liberating instructions." DICT.
 
 ## Vajra of Joy
 *dgyes pa rdo rje*, a name of [Garab Dorje](#garab-dorje).
@@ -4921,13 +4921,13 @@ see [spiritual treasure](#spiritual-treasure).
 *rdo rje gdan*, Skt. *Vajrasana*, the place in India (the present name is Bodh Gaya) where all the Buddhas of this [kalpa](#kalpa) are to attain enlightenment.
 
 ## Vajra song
-*rdo rje mgur*, song (*mgur*) expressing the inner experiences of a [yogi](#yogi-or-yogini), his realization of the ultimate indestructible (vajra) nature.
+*rdo rje mgur*, song (*mgur*) expressing the inner experiences of a [yogī](#yogi-or-yogini), his realization of the ultimate indestructible (vajra) nature.
 
 ## Vajra Yogini
-*rdo rje rnal 'byor ma*, a female [sambhogakaya](#sambhogakaya) for of [Buddha](#buddha).
+*rdo rje rnal 'byor ma*, a female [saṃbhogakāya](#sambhogakaya) for of [Buddha](#buddha).
 
 ## Vajradhara
-*rdo rje 'chang*, lit. vajra holder. In the [New Tradition](#new-tradition), he is the primordial [Buddha](#buddha), source of all the [tantras](#tantra). In the [Ancient Tradition](#ancient-tradition), Vajradhara represents the principle of the Teacher as enlightened holder of the Vajrayana teachings.
+*rdo rje 'chang*, lit. vajra holder. In the [New Tradition](#new-tradition), he is the primordial [Buddha](#buddha), source of all the [tantras](#tantra). In the [Ancient Tradition](#ancient-tradition), Vajradhara represents the principle of the Teacher as enlightened holder of the Vajrayāna teachings.
 
 ## Vajradhatvisvari
 *rdo rje dbyings 'phugs ma*, one of the [consorts](#consort) of the Buddhas of the [Five Families](#five-families).
@@ -4936,13 +4936,13 @@ see [spiritual treasure](#spiritual-treasure).
 *phyag na rdo rje*, one of the [Eight Great Close Sons](#eight-great-close-sons).
 
 ## Vajrasattva
-*rdo rje sems dpa'*, the [Buddha](#buddha) who embodies the [Hundred Families](#hundred-families). The practice of [Vajrasattva](#vajrasattva) and recitation of his mantra are particularly effective for purifying negative actions. In the lineage of the [Great Perfection](#great-perfection) he is the  [sambhogakaya](#sambhogakaya) [Buddha](#buddha).
+*rdo rje sems dpa'*, the [Buddha](#buddha) who embodies the [Hundred Families](#hundred-families). The practice of [Vajrasattva](#vajrasattva) and recitation of his mantra are particularly effective for purifying negative actions. In the lineage of the [Great Perfection](#great-perfection) he is the  [saṃbhogakāya](#sambhogakaya) [Buddha](#buddha).
 
 ## Vajrayana
-*rdo rje theg pa*, see [Secret Mantrayana](#secret-mantrayana).
+*rdo rje theg pa*, see [Secret Mantrayāna](#secret-mantrayana).
 
 ## Vase empowerment
-*bum dbang*, the first [empowerment](#empowerment) "that purifies the defilements of the body, enables one to meditate on the generation phase and sows the seed for obtaining the vajra body and the [nirmanakaya](#nirmanakaya)." DICT.
+*bum dbang*, the first [empowerment](#empowerment) "that purifies the defilements of the body, enables one to meditate on the generation phase and sows the seed for obtaining the vajra body and the [nirmāṇakāya](#nirmanakaya)." DICT.
 
 ## Vase of great treasure
 *gter chen po'i bum pa*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the throat of the [Buddha](#buddha) and symbolizes the teachings that fulfill all desires.
@@ -4951,10 +4951,10 @@ see [spiritual treasure](#spiritual-treasure).
 *theg pa*, Skt. *yana*, the means for traveling the path to enlightenment.
 
 ## Vidyadhara
-*rig 'dzin*, knowledge holder. "One who through profound means holds the deities, mantras, and the wisdom of great bliss." DICT. In the [Nyingmapa](#nyingmapa) Tradition there are four levels of vidyadhara:
+*rig 'dzin*, knowledge holder. "One who through profound means holds the deities, mantras, and the wisdom of great bliss." DICT. In the [Nyingmapa](#nyingmapa) Tradition there are four levels of vidyādhara:
 1. Totally matured (*rnam smin*)
 2. Mastering the duration of his life (*tshe dbang*)
-3. Mahamudra (*phyag chen*)
+3. Mahāmudrā (*phyag chen*)
 4. Spontaneously accomplished (*lhun grub*)
 
 ## View
@@ -4972,13 +4972,13 @@ one of the most famous Buddhist universities of India, destroyed in the 12th cen
 an Indian musical instrument, with strings that are plucked.
 
 ## Vinaya
-*'dul ba*, one of the Three [Pitakas](#pitaka), containing teachings about monastic discipline and ethics in general.
+*'dul ba*, one of the Three [Piṭakas](#pitaka), containing teachings about monastic discipline and ethics in general.
 
 ## Vipasyin
 *rnam par gzigs*, the first of the six [Buddhas](#buddha) who preceded Buddha [Sakyamuni](#sakyamuni).
 
 ## Virupa 
-one of the eighty-four [mahasiddhas](#mahasiddha) of India. An important source of the teachings of the [Sakyapa](#sakyapa) tradition.
+one of the eighty-four [mahāsiddhas](#mahasiddha) of India. An important source of the teachings of the [Sakyapa](#sakyapa) tradition.
 
 ## Walking posture
 *mnyam pa'i 'dor stabs*, standing posture with the two legs together but the right foot slightly forward (symbolizing eagerness to help other beings).
@@ -5006,10 +5006,10 @@ one of the eighty-four [mahasiddhas](#mahasiddha) of India. An important source 
 *shes rab*, Skt. *prajna*, the ability to understand correctly, usually with the particular sense of understanding emptiness. AT: discerning wisdom. See also [primal wisdom](#primal-wisdom).
 
 ## Wisdom empowerment
-*shes rab kyi dbang*, the third empowerment "that purifies the defilements of the mind, enables one to meditate on the perfection phase and sows the seed for obtaining the vajra mind and the [dharmakaya](#dharmakaya)." DICT.
+*shes rab kyi dbang*, the third empowerment "that purifies the defilements of the mind, enables one to meditate on the perfection phase and sows the seed for obtaining the vajra mind and the [dharmakāya](#dharmakaya)." DICT.
 
 ## Wish-fulfilling jewel
-*yid bzhin nor bu*, Skt. *cintamani*, a fabulous jewel found in realms of the [gods](#gods) or [nagas](#naga) which fulfills all one's wishes.
+*yid bzhin nor bu*, Skt. *cintamani*, a fabulous jewel found in realms of the [gods](#gods) or [nāgas](#naga) which fulfills all one's wishes.
 
 ## Wish-fulfilling tree
 *dpag bsam gyi shing*, magical tree which has its root in the [demigod](#demigod) realm but bears its fruit in the realm of the [gods](#gods) of the [Thirty-three](#thirty-three).
@@ -5022,7 +5022,7 @@ concentrations leading not to enlightenment but only to rebirth in god realms. S
 
 ## Wrathful Black True Mother
 *ma cig khros ma nag mo*, Skt. *Krodhakali*, lit. the one mother wrathful and black. A manifestation of Samantabhadri
-in wrathful [sambhogakaya](#sambhogakaya) form, an aspect of Vajravarahi (*rdo rje phag mo).
+in wrathful [saṃbhogakāya](#sambhogakaya) form, an aspect of Vajravarahi (*rdo rje phag mo).
 
 ## Wrong view
 *log lta*, Skt. *mithyadristi*, AT: false belief, particularly a view that will lead one to courses of action that bring more suffering.
