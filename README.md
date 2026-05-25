@@ -449,17 +449,18 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
+Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being &mdash; that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
 
 Changes in this edition:
 
 - Clickable table of contents, section links, and glossary links.
-- Footnotes collapse under the paragraph that calls them, since there are no page numbers to point to.
-- New numbered notes (dotted, like [Note 37.1](#37-1)) add extra context with links to their sources. The [Vajrasattva](#vajrasattva) notes come from a three-month ngondro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
-- Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now show their number and title.
+- Footnotes collapse under the paragraph that calls them (no page numbers to point to).
+- Dotted notes (e.g. [37.1](#37-1)) add extra context with source links. The [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
+- Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) show their number and title.
 - British spellings changed to American (e.g. armour → armor).
 - Gendered pronouns swapped for gender-neutral ones where it fits.
-- Sanskrit and Tibetan terms in the body are written with proper IAST diacritics (e.g. *yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*) instead of the anglicized forms used in earlier editions, so readers can pronounce them correctly and recognize the standard scholarly spellings.
+- Sanskrit and Tibetan terms use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*) instead of anglicized forms, for correct pronunciation and standard scholarly spelling.
+- Em-dashes and en-dashes are closed (no surrounding spaces) and use HTML entities `&mdash;` (&mdash;) and `&ndash;` (&ndash;) for consistent rendering across devices.
 - Missing chapters added to the Part Three intro.
 - The five kinds of [transference](#transference) are now headings instead of a numbered list.
 
