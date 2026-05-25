@@ -449,7 +449,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free of self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sutra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
+Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/activity?sort=ASC">hand-typed</a> this digital edition from the printed second edition both to make the text easier to read and [study](#study), and as a practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering. This continues the traditional Buddhist practice of <a href="https://en.wikipedia.org/wiki/Sutra_copying">sutra copying</a> as a way to accumulate [merit](#merit) and help the teachings last.
 
 Changes in this edition:
 
@@ -459,6 +459,7 @@ Changes in this edition:
 - Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) now show their number and title.
 - British spellings changed to American (e.g. armour → armor).
 - Gendered pronouns swapped for gender-neutral ones where it fits.
+- Sanskrit and Tibetan terms in the body are written in their anglicized forms (e.g. *yogi*, *samsara*, *dharma*) for easier reading. Proper diacritics (e.g. *yogī*, *saṃsāra*) appear only inside italic transliterations, mantras, and the Pratītyasamutpāda verse, following the scholarly convention.
 - Missing chapters added to the Part Three intro.
 - The five kinds of [transference](#transference) are now headings instead of a numbered list.
 
@@ -2570,7 +2571,7 @@ In old age, when we want to stand up we cannot do it normally all in one movemen
 
 As our flesh wastes away, our skin becomes lax and our bodies and faces are covered in wrinkles. With less flesh and blood around them, all our joints become more prominent. Our cheek-bones and all our other bony protuberances stick out under the skin. Our memory declines, and we become dull-witted, deaf and blind. We cannot think clearly and we feel giddy. With the decline of our physical vigor there is little reason for us to want to look our best, so the clothes we wear are always heavy and ragged. We eat left-overs and have no sense of taste; all the food we eat is cold and insipid. We feel so heavy that it is difficult to do anything. We prop ourselves up in bed on all four sides and cannot get up. By that point, our physical deterioration has brought on depression and terrible mental suffering. All the beauty and brightness of our faces has faded, our skin is covered in wrinkles, and our foreheads are lined with ugly frowns of ill humor. Everyone scorns us, and even if people are stepping over our head, we cannot get up. We no longer react. It is as if we were realized [yogi](#yogi-or-yogini)s for whom clean and unclean no longer exist.<sup>[59](#59)</sup> Unable to bear the suffering of old age, we want to die, but in fact the closer we come to death the more terrified we are of it.
 
-<details id="59"><summary>Note <sup>59</sup></summary>For Tibetans, as in many oriental cultures, to step over someone's head (and body, too) is extremely insulting and a source of defilement. For the practitioner of [tantra](#tantra) it is a lack of respect for the [mandala](#mandala) of the body, which is sacred. However, for a [yogi](#yogi-or-yogini) who has realized the ultimate purity of all phenomena in the absolute, all categories of experience have the same taste of [emptiness](#emptiness).
+<details id="59"><summary>Note <sup>59</sup></summary>For Tibetans, as in many oriental cultures, to step over someone's head (and body, too) is extremely insulting and a source of defilement. For the practitioner of <a href="#tantra">tantra</a> it is a lack of respect for the <a href="#mandala">mandala</a> of the body, which is sacred. However, for a <a href="#yogi-or-yogini">yogi</a> who has realized the ultimate purity of all phenomena in the absolute, all categories of experience have the same taste of <a href="#emptiness">emptiness</a>.
 </details><br>
 
 All this makes the suffering that we have to undergo in old age not very different from the torments of beings in the [lower realms](#lower-realms).
