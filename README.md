@@ -2566,7 +2566,7 @@ As we busy ourselves with these inconsequential and ever-unfinished worldly task
 > When these three things come together, granny,  
 > You're like a realized [yogi](#yogi-or-yogini) being trampled by men and dogs. 
 
-In old age, when we want to stand up we cannot do it normally all in one movement. We have to put both hands on the floor, as though we were trying to pull a peg out of hard earth.
+In old age, when we want to stand up we cannot do it normally all in one movement. We have to put both hands on the floor, as though we were trying to pull a peg out of hard earth. When we walk we stay bent over at the waist and cannot raise our heads; and being unable to pick up and put down our feet very quickly, we creep along gingerly like a child stalking a bird. All the joints in our arms and legs are so arthritic that we cannot sit down gradually., 
 
 ##### 4.2.3 The suffering of sickness
 ##### 4.2.4 The suffering of death
@@ -3157,7 +3157,7 @@ having the qualities of [vajra](#vajra).
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
 
 ## Ancient Tradition
-*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantra) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oddiyana) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
+*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantrayana) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oddiyana) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
 
 ## Ancient Translations
 *snga 'gyur*, name given to the first teachings translated from Sanskrit and propagated in Tibet, those of the Ancient, or [Nyingmapa](#nyingmapa) Tradition, as opposed to the teachings that were translated and propagated from the 10th century onwards and which gave birth to the New Tradition of Tibetan Buddhism.
@@ -3184,10 +3184,10 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the [Medicine Buddha](#medicine-buddha).
 
 ## Aryadeva
-*'phags pa lha* (2nd century), the most famous disciple of [Nagarjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madyamika) philosophy. See [Middle way](#middle-way).
+*'phags pa lha* (2nd century), the most famous disciple of [Nagarjuna](#nagarjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madhyamika) philosophy. See [Middle way](#middle-way).
 
 ## Asanga
-*thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [sastras](#sastras), in particular the five teachings he received from [Maitreya](#maitreya).
+*thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [sastras](#sastra), in particular the five teachings he received from [Maitreya](#maitreya).
 
 ## Atisa
 (982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atisa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramasila](#vikramasila), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
@@ -3211,7 +3211,7 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 *dril bu*, Skt. *ghanta*. See [vajra](#vajra).
 
 ## Bhagavan
-*bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [samsara](#samasara) and [nirvana](#nirvana).
+*bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [samsara](#samsara) and [nirvana](#nirvana).
 
 ## Bhrikuti
 *jo mo khro gnyer can*, one of the forms of [Tara](#tara) the female [Bodhisattva](#bodhisattva) of compassion. The name means literally "She who has a wrathful frown."
@@ -3223,7 +3223,7 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 *thig le*, lit. a circle, sphere, point or drop, but also with a range of more abstract meanings. We have used this Sanskrit term in the chapter on the transference of consciousness to underline the fact that the levels of meaning are multiple; in other contexts we have translated the same word as [essence](#essence).
 
 ## Bliss (experience)
-*bde nyams*, one of the three types of experience in meditation. See [experiences](#experiences).
+*bde nyams*, one of the three types of experience in meditation. See [experiences](#experiences-meditative).
 
 ## Bliss and emptiness
 *bde stong*, bliss experienced without attachment, as being empty.
@@ -3286,7 +3286,7 @@ See [Pure Land](#pure-land).
 see [Karma Chagme](#karma-chagme).
 
 ## Chakshingwa, (Geshe)
-*lcags shing ba*, a [Kadampa](#kadampa) [geshe](#geshe), disciple of [Langri Thangpa](#langri-thangpa).
+*lcags shing ba*, a [Kadampa](#kadampa) [geshe](#geshe), disciple of [Langri Thangpa](#langri-thangpa-geshe).
 
 ## Channel
 *rtsa*, Skt. *nadi*, subtle vein in which the subtle [energy](#energy) (*rlung*, Skt. *prana*) circulates. The left and right principal channels run from the nostrils to just below the navel, where they join the [central channel](#central-channel).
@@ -3480,7 +3480,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *dur khrod chen po brgyad*, places of frightening aspect where [dakas](#daka) and [dakinis](#dakini) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
 
 ## Eight Great Close Sons
-*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjushri), [Avalokitesvara](#avalokitesvara), [Vajrapani](#vajrapani), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
+*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjusri), [Avalokitesvara](#avalokitesvara), [Vajrapani](#vajrapani), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
 
 ## Eight offering goddesses
 *mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [sambhogakaya](#sambhogakaya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
@@ -3589,7 +3589,7 @@ see [energy](#energy).
 *rig lnga*, Skt. *pancakula*, the [Buddha](#buddha), Vajra, Jewel, Lotus and Action families. The five Buddha Families represent the real nature of all things. For example the Five [Conquerors](#conqueror) are the real nature of the five aggregates, their Five [Consorts](#consort) the real nature of the five elements, the five wisdoms the real nature of the five poisons, and so on.
 
 ## Five Hundred Arhats
-"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](#https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
+"...the most loyal of the Buddha’s disciples, who attended the religion’s first council at Rajagrha (modern Rajgir) right after the Buddha’s final nirvana to compile his teachings into scriptures." [src](https://www.atlasobscura.com/places/five-hundred-arhats-kawagoe-kita-in-temple-japan)
 
 See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.org/art/1971.16)
 
@@ -3724,7 +3724,7 @@ the [three kayas](#three-kayas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*
 3. conceptual obscurations and 
 4. obscurations of habitual tendencies. 
 
-See [obscuration](#obscuration).
+See [obscuration](#obscurations).
 
 ## Four or six tantra sections
 *rgyud sde bzhi* or *drug*, classification of the [tantras](#tantra) either into four groups: 
@@ -4048,7 +4048,7 @@ the first of the three higher [yogas](#yoga) according to the classification of 
 See [external](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction)
 
 ## Mahasammata
-See [external](#https://en.wikipedia.org/wiki/Mah%C4%81sammata).
+See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 
 ## Mahasiddha
 *grub chen*, a [yogi](#yogi-or-yogini) who has reached the [supreme accomplishment](#supreme-accomplishment).
@@ -4093,7 +4093,7 @@ the mantra of [Avalokitesvara](#avalokitesvara) ([Chenrezi](#chenrenzi)), *oṁ 
 *bdud*, demon, [see note 230](#230); the tempter in general, that which makes obstacles to spiritual practice and [enlightenment](#enlightenment).
 
 ## Marpa
-*lho brag mar pa* (1012 - 1097), great Tibetan master and translator, disciple of Drogmi, [Naropa](#naropa), Maitripa and other great [siddhas](#siddha). He brought many [tantras](#tantras) from India to Tibet and translated them. These teachings were passed down through [Milarepa](#milarepa) and his other disciples, and are the basis of the teachings of the [Kagyu](#kagyupa) lineage.
+*lho brag mar pa* (1012 - 1097), great Tibetan master and translator, disciple of Drogmi, [Naropa](#naropa), Maitripa and other great [siddhas](#siddha). He brought many [tantras](#tantra) from India to Tibet and translated them. These teachings were passed down through [Milarepa](#milarepa) and his other disciples, and are the basis of the teachings of the [Kagyu](#kagyupa) lineage.
 
 ## Maudgalyayana
 *mo'u 'gal gyi bu*, one of the two foremost [sravaka](#sravaka) disciples of [Sakyamuni Buddha](#sakyamuni). He was said to be the one who had the greatest miraculous powers.
@@ -4111,7 +4111,7 @@ See [external source](https://en.wikipedia.org/wiki/Bhaisajyaguru).
 *me long rdo rje* (1243 - 1303), Tibetan [mahasiddha](#mahasiddha), the teacher of Kumaradza, [Longchenpa's](#longchenpa) teacher.
 
 ## Merit
-*bsod nams*, Skt. *punya*, good [karma](#karma), the energy generated by positive actions of body, speech and mind. According to Garchen Rinpoche the [main cause of merit is love](#https://youtu.be/-x4bg7OZfas?t=1868).
+*bsod nams*, Skt. *punya*, good [karma](#karma), the energy generated by positive actions of body, speech and mind. According to Garchen Rinpoche the [main cause of merit is love](https://youtu.be/-x4bg7OZfas?t=1868).
 
 ## Meru, Mount
 *ri rgyal po ri rab*, immense mountain, wider at the top than at the bottom, around which the four continents of the world are disposed, according to ancient Indian cosmology.
@@ -4485,7 +4485,7 @@ Homage to the Sangha too
 *gsang dbang*. The second [empowerment](#empowerment), "which purifies the defilements of speech, enables one to meditate on the channels and energies and to recite mantras, and sows the seed for obtaining vajra speech and the [sambhogakaya](#sambhogakaya)." DICT.
 
 ## Secret Mantrayana
-*gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayana](#vajrayan).
+*gsang ngags kyi theg pa*, a branch of the [Great Vehicle](#great-vehicle) which uses the special techniques of the [tantras](#tantra) to pursue the path of enlightenment for all beings more rapidly. Synonym of [Vajrayana](#vajrayana).
 
 ## Seven attributes of royalty
 *rgyal srid sna bdun*, Skt. *saptaratna*, seven possessions of a [universal monarch](#universal-monarch), each of which has a symbolic significance. They are the precious golden wheel, precious wish-fulfilling jewel, precious queen, precious minister, precious elephant, precious horse, and precious general.
@@ -4569,7 +4569,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [samsara](#samsara) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Sravakas do not aspire to full enlightenment for the sake of all beings.
 
 ## Sravakayana
-*nyan thos kyi theg pa*, the vehicle of the [Sravakas](#sravakas).
+*nyan thos kyi theg pa*, the vehicle of the [Sravakas](#sravaka).
 
 ## Sri Simha
 *dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Manjusrimitra](#manjusrimitra).
@@ -4789,7 +4789,7 @@ they are called respectively the realms of
 *rdzogs pa'i byang chub*, Skt. *sambodhi*, complete Buddhahood.
 
 ## Trakpa Gyaltsen
-*grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Sakya](#sakya) school, who are known as the Sakya Gongma.
+*grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Sakya](#sakyapa) school, who are known as the Sakya Gongma.
 
 ## Transcendent perfection
 *pha rol tu phyin pa*, Skt. *paramita*. The six methods of training in the bodhicitta of application. They are transcendent because they are accompanied by the wisdom of emptiness. See also [six transcendent perfections](#six-transcendent-perfections).
