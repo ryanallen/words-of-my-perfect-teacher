@@ -2630,13 +2630,21 @@ Our sufferings are in direct proportion to the extent of our possessions. For in
 
 <sup>* This is a free translation of a <i>ja 'khor</i>, a measure which corresponds to four bricks of presset Tibetan tea.</sup>
 
-So reflect and meditate on how important it is to live in peace, following the old adage "without wealth, there are no enemies." Inspire yourself with the stories of the Buddhas of the past and uproot all your attachment to money and property. Live on what you find like the birds, and devote yourself entirely to the practice of Dharma.
+So reflect and meditate on how important it is to live in peace, following the old adage "without wealth, there are no enemies." Inspire yourself with the stories of the [Buddha](#buddha)s of the past and uproot all your attachment to money and property. Live on what you find like the birds, and devote yourself entirely to the practice of [Dharma](#dharma).
 
 ##### 4.3.2 The fear of losing loved ones
 
 We who live in this world of [saṃsāra](#saṃsāra) all feel attachment for those with whom we identify and hostility toward others. For the sake of our families, followers, compatriots, friends and lovers, we are prepared to undergo all sorts of suffering. None of those with whom we have ties of kin or friendship can live for ever, and sooner or later we are bound to be separated from them. They die, or they drift off to other countries, or they are threatened by enemies and other dangers&mdash;and the suffering they undergo affects us more deeply than our own. Parents, especially, care very much for their children and are constantly worrying that they might be cold, hungry or thirsty, or that they might fall ill or die. Indeed, they love their children to the point that they would rather die themselves than let them suffer, and for their sake suffer a great deal of anguish. 
 
-But although we suffer so much from this dread of being separated from the friends and relatives we love, we should think about it carefully. Can we be so sure that our dear ones are as dear as we think? For instance, our parents claim to love us as their children, but their way of loving us is misguided and has an effect that is ultimately harmful. By trying to give us wealth and property and get us married, they are tightening [saṃsāra](#saṃsāra)'s hold on us. 
+But although we suffer so much from this dread of being separated from the friends and relatives we love, we should think about it carefully. Can we be so sure that our dear ones are as dear as we think? For instance, our parents claim to love us as their children, but their way of loving us is misguided and has an effect that is ultimately harmful. By trying to give us wealth and property and get us married, they are tightening [saṃsāra](#saṃsāra)'s hold on us. They teach us everything we need to know about how to get the better of our adversaries, how to take care of our friends, how to get rich, and all the other harmful courses of action that will just make sure that we stay inescapably trapped in the [lower realms](#lower-realms). They could not do worse than that. 
+
+As for our children, both boys and girls, in the [beginning](#beginning) they suck the [essence](#essence) out of our bodies, in the middle they take food out of our mouths, and in the end they take wealth out of our hands. In return for our love they rebel against us.
+
+To our sons we give all the wealth that we have earned throughout our lives, without counting the cost and regardless of all the negative activities, suffering and criticism we have had to go through&mdash;but they are still not in the least bit grateful. Even if we present them with a full measure of Chinese silver, they are less grateful than any normal person would be if we had given them a pinch of tea-leaves. They just think that whatever belongs to their father automatically belongs to them.
+
+Our sisters and daughters, too, swallow up our fortunes without any gratitude. The more we give them, the more they want. If we have so much as a false turquoise as a counter on our rosary, they will wheedle that out of us as well. At the very best, they contribute to the prosperity of other people, but bring nothing to us. But should things go badly, they return home, bringing dishonor and sadness to their family.<sup>*</sup>
+
+<sup>* In traditional Asian cultures a bride, accompanied by her dowry, joins her husband's family. If the marriage fails she will return to the house of her parents.</sup>
 
 ##### 4.3.3 The suffering of not getting what one wants
 ##### 4.3.4 The suffering of encountering what one does not want
