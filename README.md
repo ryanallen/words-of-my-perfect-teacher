@@ -2583,9 +2583,17 @@ When the [four elements](#four-elements) that make up our body become imbalanced
 
 As soon as the first painful twinges of illness strike&mdash;however young we may be in body and mind, however strong and radiantly healthy, however much in our prime&mdash;we crumple like little birds hit by a stone. Our strength evaporates. We sink into the depths of our bedding, and any movement, however slight, is difficult. Even to answer when someone asks what is wrong is an effort: our voice seems to come from deep inside and is hard to get out. We try lying on our right side, then on our left, on our back or on our belly. But we can never get comfortable. We lose all appetite for food and drink and cannot sleep at night. In the daytime the days seem endless; at night the nights seem endless. We have to put up with bitter, hot or sour medicines, with bloodletting, cautery and all sorts of other unpleasant treatments. The thought that this illness might suddenly end in death terrifies us. Under the power of morbid influences and our own lack of integrity we may lose control of both body and mind, and on top of our normal deluded perceptions we start to hallucinate. Sometimes the sick even take their own lives. People suffering from diseases such as leprosy and epilepsy are abandoned by all and left to contemplate their fate; they are still alive, but it is as though they were already dead.
 
-
-
 ##### 4.2.4 The suffering of death
+
+As death approaches, you collapse into your bed and no longer have the strength to get up. Even when you see food and drink, you feel no desire for it. Tormented by the sensations of dying, you feel more and more depressed and all your courage and confidence evaporate. You experience forebodings and hallucinations of what awaits you. Your time has come for the great moving on. Your family and friends gather around you, but there is nothing they can do to delay your departure&mdash;you are going through the suffering of death by yourself, all alone. Nor is there any way for you to take your possessions with you, however limitless they might be. You cannot bring yourself to let go of them, but you know you cannot keep them either. Remorse overtakes you as you remember the [negative action](#negative-action)s that you have done. When you think of the sufferings of the [lower realms](#lower-realms), you are terrified. Death is suddenly here. Dread takes hold of you. The [perceptions](#perceptions) of life slip away, and slowly you grow colder.
+
+When an evil-doer dies, they clutch at their breast, covering their skin with the marks of their finger nails. Remembering all their evil actions, they are frightened of being reborn in the [lower realms](#lower-realms). They are filled with regret at not having practiced the [Dharma](#dharma) while they had the freedom to do so, as it is the only thing which would have been useful at the moment of death. When they realize that, they feel tremendous pain. Tahat is why they beat their breast and cover it with the marks of their nails as they die. It is said:
+
+> Watching an evil person dying;  
+> They are a teacher demonstrating to us the effect of actions.
+
+Even before they are dead, the [lower realms](#lower-realms) start to close in on them. Whatever they perceive becomes menacing. All their sensations cause them to suffer. The elements of their body dissolve, their breath becomes hoarse and their limbs go limp. They start to hallucinate. Their eyes roll up, and as they pass beyond this life Death comes to meet them. The apparaitions of the [intermediate state](#intermediate-state) appear, but they 
+
 #### 4.3 OTHER HUMAN SUFFERINGS
 ##### 4.3.1 The fear of meeting hated enemies
 ##### 4.3.2 The fear of losing loved ones
