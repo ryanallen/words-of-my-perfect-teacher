@@ -1,6 +1,6 @@
 # <div align="center">Words of My Perfect Teacher</div>
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
-<div align="center"><sub>REVISED EDITION</sub></div>
+<div align="center"><sub>HAND-COPIED DIGITAL REVISED EDITION</sub></div>
 
 ![Wheel illustration similar to book cover](.imgs/wheel.svg)
 
@@ -2635,6 +2635,8 @@ So reflect and meditate on how important it is to live in peace, following the o
 ##### 4.3.2 The fear of losing loved ones
 
 We who live in this world of [saṃsāra](#saṃsāra) all feel attachment for those with whom we identify and hostility toward others. For the sake of our families, followers, compatriots, friends and lovers, we are prepared to undergo all sorts of suffering. None of those with whom we have ties of kin or friendship can live for ever, and sooner or later we are bound to be separated from them. They die, or they drift off to other countries, or they are threatened by enemies and other dangers&mdash;and the suffering they undergo affects us more deeply than our own. Parents, especially, care very much for their children and are constantly worrying that they might be cold, hungry or thirsty, or that they might fall ill or die. Indeed, they love their children to the point that they would rather die themselves than let them suffer, and for their sake suffer a great deal of anguish. 
+
+But although we suffer so much from this dread of being separated from the friends and relatives we love, we should think about it carefully. Can we be so sure that our dear ones are as dear as we think? For instance, our parents claim to love us as their children, but their way of loving us is misguided and has an effect that is ultimately harmful. By trying to give us wealth and property and get us married, they are tightening [saṃsāra](#saṃsāra)'s hold on us. 
 
 ##### 4.3.3 The suffering of not getting what one wants
 ##### 4.3.4 The suffering of encountering what one does not want
