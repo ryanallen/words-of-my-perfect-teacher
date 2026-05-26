@@ -2507,7 +2507,7 @@ We experience suffering upon suffering when, before one suffering is over, we ar
 <details id="53"><summary>Note <sup>53</sup></summary>The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#saṃsāra">saṃsāra</a>.
 </details><br>
 
-Now, some of us might think that things are going quite well for us at the moment, and we do not seem to be suffering much. In fact, we are totally immersed in the causes of suffering. For our very food and clothing, our homes, the adornments and celebrations that give us pleasure, are all produced with harmful actions. As everything we do is just a concoction of [negative actions](#negative-action), it can only lead to suffering. As examples, consider tea and [tsampa](#tsampa)*
+Now, some of us might think that things are going quite well for us at the moment, and we do not seem to be suffering much. In fact, we are totally immersed in the causes of suffering. For our very food and clothing, our homes, the adornments and celebrations that give us pleasure, are all produced with harmful actions. As everything we do is just a concoction of [negative actions](#negative-action), it can only lead to suffering. As examples, consider tea and [tsampa](#tsampa)<sup>*</sup>
 
 <sup>* Tea and <i><a href="#tsampa">tsampa</a></i>, finely ground roasted barley, are the two staples throughout Tibet. Tibetan tea is churned with milk and butter and consumed frequently during the day. <a href="#tsampa">Tsampa</a> is mixed with it to make an instant food.</sup>
 
@@ -2627,6 +2627,8 @@ Jetsun [Milarepa](#milarepa) says:
 Our sufferings are in direct proportion to the extent of our possessions. For instance, if you owned a horse you would worry that it might be carried off by an enemy or stolen by a thief; you would wonder whether it had all the hay it needed, and so on. Just one horse brings plenty of trouble. If you owned a sheep, you would have one sheep's worth of trouble. If all you had was a bag of tea<sup>*</sup> you could still be sure of having a bag of tea's worth of trouble. 
 
 <sup>* This is a free translation of a <i>ja 'khor</i>, a measure which corresponds to four bricks of presset Tibetan tea.</sup>
+
+So reflect and meditate on how important it is to live in peace, following the old adage "without wealth, there are no enemies." Inspire yourself with the stories of the Buddhas of the past and uproot all your attachment to money and property. Live on what you find like the birds, and devote yourself entirely to the practice of Dharma.
 
 ##### 4.3.2 The fear of losing loved ones
 ##### 4.3.3 The suffering of not getting what one wants
