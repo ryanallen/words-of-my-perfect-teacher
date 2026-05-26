@@ -2592,7 +2592,14 @@ When an evil-doer dies, they clutch at their breast, covering their skin with th
 > Watching an evil person dying;  
 > They are a teacher demonstrating to us the effect of actions.
 
-Even before they are dead, the [lower realms](#lower-realms) start to close in on them. Whatever they perceive becomes menacing. All their sensations cause them to suffer. The elements of their body dissolve, their breath becomes hoarse and their limbs go limp. They start to hallucinate. Their eyes roll up, and as they pass beyond this life Death comes to meet them. The apparaitions of the [intermediate state](#intermediate-state) appear, but they 
+Even before they are dead, the [lower realms](#lower-realms) start to close in on them. Whatever they perceive becomes menacing. All their sensations cause them to suffer. The elements of their body dissolve, their breath becomes hoarse and their limbs go limp. They start to hallucinate. Their eyes roll up, and as they pass beyond this life Death comes to meet them. The apparitions of the [intermediate state](#intermediate-state) appear, but they have no protector or [refuge](#refuge).
+
+There is no guarantee at all that our moment to leave this life, naked and empty-handed, will not come today. When that happens the only thing that will truly help us is the [Dharma](#dharma). There is no other [refuge](#refuge). It is said:
+
+> In your mother's womb, turn your mind to the [Dharma](#dharma);  
+> As soon as you are born, remember the [Dharma](#dharma) for death.  
+
+Since death comes so suddenly, to young as well as old, we ought to have started practicing the [Dharma](#dharma) from the very moment of our birth. For only [Dharma](#dharma) will help us at the moment of death. But up to now we have forgotten about death, being too busy overcoming our adversaries and helping our friends, taking care of our houses and possessions, occupying ourselves with friends and family. But to pass our time like that, steeped in attachment, ignorance and hatred for the sake of friends and loved ones, is, if you think about it, a great mistake.
 
 #### 4.3 OTHER HUMAN SUFFERINGS
 ##### 4.3.1 The fear of meeting hated enemies
