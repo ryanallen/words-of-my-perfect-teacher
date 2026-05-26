@@ -2631,6 +2631,9 @@ Our sufferings are in direct proportion to the extent of our possessions. For in
 So reflect and meditate on how important it is to live in peace, following the old adage "without wealth, there are no enemies." Inspire yourself with the stories of the Buddhas of the past and uproot all your attachment to money and property. Live on what you find like the birds, and devote yourself entirely to the practice of Dharma.
 
 ##### 4.3.2 The fear of losing loved ones
+
+We who live in this world of samsara all feel attachement for those with whom we identify and hostility toward others. For the sake of our families, followers, compatriots, friends and lovers, we are preparted to undergo all osrts of suffering. None of those with whom we h ave ties of kin or friendship can live for ever, and sooner or later we are bound to be separated from them. They die, or the drift off to other countries, or they are threatened by enemies and other dangers&mdash;and the suffering they udnergo affects us more deeply than our own. Parents, especially, care very much for their children and are constatnly worrying that they might be cold, hungry or thirsty
+
 ##### 4.3.3 The suffering of not getting what one wants
 ##### 4.3.4 The suffering of encountering what one does not want
 ### **5. The asuras**
