@@ -93,7 +93,7 @@ The International Sacred Literature Trust was established to promote understandi
 
 What resources do the sacred traditions of the world possess to respond to the great global threats of poverty, war, ecological disaster and spiritual despair?
 
-Our starting-point is the sacred texts with their vision of a higher truth and their deep insights into the nature of humanity and the universe we inhabit. The translation programme is planned so that each faith community articulates its own teachings with the intention of enhancing its self-understanding as well as the understanding of those of other faiths and those of no faith.
+Our starting-point is the sacred texts with their vision of a higher truth and their deep insights into the nature of humanity and the universe we inhabit. The translation program is planned so that each faith community articulates its own teachings with the intention of enhancing its self-understanding as well as the understanding of those of other faiths and those of no faith.
 
 The Trust particularly encourages faiths to make available texts which are needed in translation for their own communities and also texts which are little known outside the tradition but which have the power to inspire, console, enlighten and transform. These sources from the past become resources for the present and future when we make inspired use of them to guide us in shaping the contemporary world.
 
@@ -938,7 +938,7 @@ Your interest<sup>[12](#12)</sup> in the [Dharma](#dharma) is the basis of what 
 NT says "Whether or not we have received the <a href="#dharma">Dharma</a>, if we have no interest in it we will be like a horse who is offered a bone, or a dog presented with grass" <i>don gnyer</i>, "interest," also <a href="#means">means</a> "effort," that is to say, not only intellectual interest but also active engagement.
 </details><br>
 
-> The [Dharma](#dharma) is nobody's property. It belongs to whoever has the most endeavour.
+> The [Dharma](#dharma) is nobody's property. It belongs to whoever has the most endeavor.
 
 The [Buddha](#buddha) himself obtained the teachings at the price of hundreds of hardships. To obtain a single four-line verse, he gouged holes in his own flesh to serve as offering lamps, filling them with oil and planting in them thousands of burning wicks. He leapt into flaming pits, and drove a thousand iron nails into his body.<sup>[13](#13)</sup>
 
@@ -1313,7 +1313,7 @@ In [Dharma](#dharma) terms, a central place is wherever the [Dharma](#dharma)&md
 
 In the distant past, from the time Lord [Buddha](#buddha) came into this world and as long as his doctrine still existed in India, that land was central in terms of both geography and [Dharma](#dharma). However, now that it has fallen into the hands of the [tīrthikas](#tīrthika) and the doctrine of the [Conqueror](#conqueror) has disappeared in that region, as far as [Dharma](#dharma) is concerned even Bodh Gaya is a peripheral place.
 
-In the days of the [Buddha](#buddha), Tibet, the Land of Snows, was called "the [border country](#border-country) of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the Buddhas. The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *[Sūtra](#sūtra) of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mould and other objects fell on the palace roof.
+In the days of the [Buddha](#buddha), Tibet, the Land of Snows, was called "the [border country](#border-country) of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the Buddhas. The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *[Sūtra](#sūtra) of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mold and other objects fell on the palace roof.
 
 Five generations later, in accordance with prophecies that he would understand the meaning of the [sūtra](#sūtra), there appeared the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), an emanation of the [Sublime Compassionate One](#sublime-compassionate-one).<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to [study](#study) its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sūtras](#sūtra) and [tantras](#tantra) of [Avalokiteśvara](#avalokiteśvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous [means](#means) to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the [Buddha](#buddha)'s body, speech and mind including the statues called the [Jowo](#jowo) Mikyo Dorje and the [Jowo](#jowo) [Sakyamuni](#sakyamuni), the actual representatives of the [Buddha](#buddha).<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
 
@@ -2375,7 +2375,7 @@ Sometimes they see an orchard of fruit trees in the distance. As before, they ap
 
 In summer, even the moonlight feels hot and burns them; in winter, even the sun feels icy cold. These sensations torture them terribly.  
 
-Once, when [Srona](#srona-sronajat) was in the land of the [pretas](#preta), he found their avarice so poisonous that it gave him a fever and his mouth became completely dry. He came across an iron castle at whose door stood a terrifying sombre figure with red eyes.
+Once, when [Srona](#srona-sronajat) was in the land of the [pretas](#preta), he found their avarice so poisonous that it gave him a fever and his mouth became completely dry. He came across an iron castle at whose door stood a terrifying somber figure with red eyes.
 
 "Where is there some water?" [Srona](#srona-sronajat) asked.
 
@@ -2393,7 +2393,7 @@ These [pretas](#preta) have mouths no bigger than the eye of a needle. Even were
 
 These [pretas](#preta) have all sorts of different experiences that vary from one to another and are of varying intensity. For example, some have many creatures living on their bodies and devouring them.
 
-Once when he was travelling in the land of the [pretas](#preta), [Srona](#srona-sronajat) came to a palace where he met a beautiful woman. Exquisitely formed and bedecked with precious jewels, she was ravishing to behold. To each of the four legs of her throne a [preta](#preta) was tied. She offered [Srona](#srona-sronajat) something to eat, warning him not to give the smallest scrap to the other pretas even if they begged for it. When [Srona](#srona-sronajat) started to eat they began to beg. He gave some food to one of them and it turned into chaff; what he gave to the second turned into a lump of iron; the third started to eat his own flesh, and what he gave to the fourth became pus and blood.
+Once when he was traveling in the land of the [pretas](#preta), [Srona](#srona-sronajat) came to a palace where he met a beautiful woman. Exquisitely formed and bedecked with precious jewels, she was ravishing to behold. To each of the four legs of her throne a [preta](#preta) was tied. She offered [Srona](#srona-sronajat) something to eat, warning him not to give the smallest scrap to the other pretas even if they begged for it. When [Srona](#srona-sronajat) started to eat they began to beg. He gave some food to one of them and it turned into chaff; what he gave to the second turned into a lump of iron; the third started to eat his own flesh, and what he gave to the fourth became pus and blood.
 
 When the woman came back, she cried, "Didn't I tell you not to give them anything! Do you think that you are more compassionate than I am?"
 
@@ -2421,7 +2421,7 @@ So the woman told [Srona](#srona-sronajat) her story. "I was a [brahmin](#brahmi
 
 "If she doesn't believe you, tell her that in her father's old house there are four iron pots filled with gold, a golden stick and an ablution jar for monks. Tell her to take them and make offerings to the great and sublime [Kātyāyana](#kātyāyana) from time to time, and to dedicate the [merit](#merit) in our name. This will reduce our [karma](#karma) till it is finally exhausted."
 
-Once, as the Master Jetari was travelling, he met a female [preta](#preta) with a repulsive body, who was the mother of five hundred children.
+Once, as the Master Jetari was traveling, he met a female [preta](#preta) with a repulsive body, who was the mother of five hundred children.
 
 "My husband went to Bodh Gaya twelve years ago, looking for food. He still isn't back. If you go there, tell him that if he doesn't come back soon, our children will all have died of hunger."
 
@@ -2472,7 +2472,7 @@ The wild animals that share our human world, in particular, live in constant fea
 
 Hunters are expert in all methods of torturing and killing these animals. They threaten their lives with all sorts of vicious devices&mdash;nets, snares, traps and guns. Some animals are killed for their horns, fur, skins and other products of their body. Oysters are killed for their pearls; elephants for their tusks and bones; tigers, leopards, otters and foxes for their fur; musk-oxen for their musk; wild asses and yaks for their flesh and blood. It is a terrible affliction that the very body with which they are born is the reason for their being killed.
 
-As for those animals domesticated by man, they are so stupid that when their executioner approaches, knife in hand, they can only stare wide-eyed, not even thinking of escape. They are milked, loaded down, castrated, pierced through the nose and yoked to the plough. Not one of them escapes this continual round of slavery. Horses and yaks continue to be loaded and ridden even when their backs are nothing but one big sore. When they can go no further, they are whipped and pelted with stones. The fact that they could be in distress or ill never seems to cross their owners' minds.
+As for those animals domesticated by man, they are so stupid that when their executioner approaches, knife in hand, they can only stare wide-eyed, not even thinking of escape. They are milked, loaded down, castrated, pierced through the nose and yoked to the plow. Not one of them escapes this continual round of slavery. Horses and yaks continue to be loaded and ridden even when their backs are nothing but one big sore. When they can go no further, they are whipped and pelted with stones. The fact that they could be in distress or ill never seems to cross their owners' minds.
 
 Cattle and sheep are exploited until they die. Once they are too old, they are sold off or killed by the owners themselves. Whatever the case, they are destined for the butcher and a natural death is unknown to them.
 
@@ -2580,6 +2580,8 @@ All this makes the suffering that we have to undergo in old age not very differe
 ##### 4.2.3 The suffering of sickness
 
 When the [four elements](#four-elements) that make up our body become imbalanced, all sorts of illnesses&mdash;those of [wind](#wind), [bile](#bile), [phlegm](#phlegm) and so on&mdash;arise, and sensations of pain and suffering afflict us.
+
+As soon as the first painful twinges of illness strike&mdash;however young we may be in body and mind, however strong and radiantly healthy, however much in our prime&mdash;we crumple like little birds hit by a stone. Our strength evaporates. We sink into the depths of our bedding, and any movement, however slight, is difficult. Even to answer when someone asks what is wrong is an effort: our voice seems to come from deep inside and is hard to get out. We try lying on our right side, then on our left, on our back or on our belly. But we can never get comfortable. We lose all appetite for food and drink and cannot sleep at night. In the daytime the days seem endless; at night the nights seem endless. We have to put up with bitter, hot or sour medicines, with bloodletting, cautery and all sorts of other unpleasant treatments. The thought that this illness might suddenly end in death terrifies us. Under the power of morbid influences and our own lack of integrity we may lose control of both body and mind, and on top of our normal deluded perceptions we start to hallucinate. Sometimes the sick even take their own lives. People suffering from diseases such as leprosy and epilepsy are abandoned by all and left to contemplate their fate; they are still alive, but it is as though they were already dead.
 
 
 
@@ -3494,7 +3496,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *dur khrod chen po brgyad*, places of frightening aspect where [ḍākas](#ḍāka) and [ḍākinīs](#ḍākinī) meet. Internally they correspond to the [eight consciousnesses](#eight-consciousnesses) (*rnam shes brgyad*).
 
 ## Eight Great Close Sons
-*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjusri), [Avalokiteśvara](#avalokiteśvara), [Vajrapāṇi](#vajrapāṇi), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfils a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
+*nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Sakyamuni](#sakyamuni): [Manjushri](#manjusri), [Avalokiteśvara](#avalokiteśvara), [Vajrapāṇi](#vajrapāṇi), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfills a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
 
 ## Eight offering goddesses
 *mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lasya*), the Lady of Garlands (*phreng ba ma*, Skt. *Mala*), the Lady of Song (*glu ma*, Skt. *Gita*), the Lady of Dance (*gar ma*, Skt. *Nrtya*), the Lady of Flowers (*me tog ma*, Skt. *Puspa*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Aloka*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandha*). In the mandala of the peaceful [saṃbhogakāya](#saṃbhogakāya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
@@ -4080,7 +4082,7 @@ See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 *ma mo*, Skt. *matrika*, a kind of [ḍākinī](#ḍākinī).
 
 ## Mandala
-*dkyil 'khor*, lit. centre and circumference. 1. The universe with the palace of the deity at the centre, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
+*dkyil 'khor*, lit. center and circumference. 1. The universe with the palace of the deity at the center, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
 
 ## Mandarava
 a [ḍākinī](#ḍākinī), daughter of the King of Zahor, in India. One of the five principal disciples and [consorts](#consort) of [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and one of the main holders of his teaching.
@@ -4152,7 +4154,7 @@ defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmata](#dharm
 *klu sgrub* (1st-2nd century), Indian master, one of the [Six Ornaments](#six-ornaments). He expounded the teachings of the [Middle Way](#middle-way) and composed numerous philosophical and medical treatises.
 
 ## Nālandā
-the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Sariputra](#sariputra), which much later, starting in the time of the Gupta kinds (5th century), became one of the great centres of learning in Buddhist India. It was destroyed around 1200 A.D.
+the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Sariputra](#sariputra), which much later, starting in the time of the Gupta kinds (5th century), became one of the great centers of learning in Buddhist India. It was destroyed around 1200 A.D.
 
 ## Namcho Mingyur Dorje
 *gnam chos mi 'gyur rdo rje*, a famous [treasure discoverer](#treasure-discoverer) of the 16th century.
@@ -4664,7 +4666,7 @@ see [habitual tendencies](#habitual-tendencies).
 *the'u rang*, a kind of spirit appearing like a small dwarf with only one leg.
 
 ## Thirty-five Buddhas
-*sangs rgyas so lnga* or *bde gshegs so lnga*, the Thirty-five Buddhas of Confession, representing the omnipresence of the [Buddhas](#buddha), ready to purify beings from their faults in all thirty-five directions of space (the four main directions, the four intermediate directions, then the eight and sixteen sub-directions, the centre, the nadir, and the zenith).
+*sangs rgyas so lnga* or *bde gshegs so lnga*, the Thirty-five Buddhas of Confession, representing the omnipresence of the [Buddhas](#buddha), ready to purify beings from their faults in all thirty-five directions of space (the four main directions, the four intermediate directions, then the eight and sixteen sub-directions, the center, the nadir, and the zenith).
 
 ## Thirty-three
 *gsum cu rtsa gsum*, Skt. *Trayastrimsa*, a god realm in the World of Desire, the abode of [Indra](#indra) and his thirty-two ministers. See [three worlds](#three-worlds).
@@ -4797,7 +4799,7 @@ they are called respectively the realms of
 (1005 - 1064), another name of [Drom Tonpa](#drom-tonpa).
 
 ## Torma
-*gtor ma*, a ritual object, often modelled from flour and butter, which can be the symbol of a deity, a mandala, an offering, or occasionally a weapon to fight negative forces.
+*gtor ma*, a ritual object, often modeled from flour and butter, which can be the symbol of a deity, a mandala, an offering, or occasionally a weapon to fight negative forces.
 
 ## Total enlightenment
 *rdzogs pa'i byang chub*, Skt. *sambodhi*, complete Buddhahood.
@@ -4829,7 +4831,7 @@ see [spiritual treasure](#spiritual-treasure).
 *tsam pa*, flour made from roasted barley or other grains. A staple food in Tibet.
 
 ## Tsa-tsa
-*tsa tsa*, a small clay [stūpa](#stūpa), [Buddha](#buddha), or other figure, made with a mould.
+*tsa tsa*, a small clay [stūpa](#stūpa), [Buddha](#buddha), or other figure, made with a mold.
 
 ## Tulku
 *sprul sku*, the Tibetan translation of the Skt. [nirmāṇakāya](#nirmāṇakāya), also used as an honorific title and general term for recognized incarnations of [lamas](#lama), who are found, usually in childhood, and brought up to inherit the lineage and often the monastic foundations of their predecessors.
@@ -4996,7 +4998,7 @@ one of the eighty-four [mahāsiddhas](#mahāsiddha) of India. An important sourc
 *nor lha*, a deity that one propitiates to increase wealth.
 
 ## Wheel
-*'khor lo*, Skt, *cakra*, one of the centres of energy at different points on the [central channel](#central-channel), from which radiate the small subtle channels going to all parts of the body. Generally there are considered to be four or five of these wheels.
+*'khor lo*, Skt, *cakra*, one of the centers of energy at different points on the [central channel](#central-channel), from which radiate the small subtle channels going to all parts of the body. Generally there are considered to be four or five of these wheels.
 
 ## Wheel of Dharma
 *chos kyi 'khor lo*, Skt. *dharmacakra*, the symbol of the Buddha's teaching. To turn the wheel of the [Dharma](#dharma) means to teach the [Dharma](#dharma). During his lifetime, the Buddha gave three major series of teachings, which are referred to as the first, second, and third turnings.
