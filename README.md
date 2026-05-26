@@ -453,16 +453,16 @@ Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a>
 
 Changes in this edition:
 
-- Clickable table of contents, section links, and glossary links.
-- Footnotes collapse under the paragraph that calls them (no page numbers to point to).
-- Dotted notes (e.g. [37.1](#37-1)) add extra context with source links. The [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
-- Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) show their number and title.
-- British spellings changed to American (e.g. armour → armor).
-- Gendered pronouns swapped for gender-neutral ones where it fits.
-- Sanskrit and Tibetan terms use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*) instead of anglicized forms, for correct pronunciation and standard scholarly spelling.
-- Em-dashes and en-dashes are closed (no surrounding spaces) and use HTML entities `&mdash;` (&mdash;) and `&ndash;` (&ndash;) for consistent rendering across devices.
+- Clickable contents, sections, and glossary.
+- Footnotes collapse under their paragraph; no page numbers.
+- Dotted notes (e.g. [37.1](#37-1)) add context with source links. The [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
+- Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) keep their number in the title.
+- British spellings → American (e.g. armour → armor).
+- Gender-neutral pronouns where it fits.
+- Sanskrit and Tibetan spellings use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*).
+- Em- and en-dashes use closed style&mdash;`word&mdash;word`, no spaces&mdash;via `&mdash;` and `&ndash;` entities.
 - Missing chapters added to the Part Three intro.
-- The five kinds of [transference](#transference) are now headings instead of a numbered list.
+- The five kinds of [transference](#transference) are headings, not a numbered list.
 
 May all beings be free from suffering.
 
@@ -2580,6 +2580,8 @@ All this makes the suffering that we have to undergo in old age not very differe
 ##### 4.2.3 The suffering of sickness
 
 When the [four elements](#four-elements) that make up our body become imbalanced, all sorts of illnesses&mdash;those of [wind](#wind), [bile](#bile), [phlegm](#phlegm) and so on&mdash;arise, and sensations of pain and suffering afflict us.
+
+
 
 ##### 4.2.4 The suffering of death
 #### 4.3 OTHER HUMAN SUFFERINGS
