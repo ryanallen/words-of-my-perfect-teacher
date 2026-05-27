@@ -2646,6 +2646,51 @@ Our sisters and daughters, too, swallow up our fortunes without any gratitude. T
 
 <sup>* In traditional Asian cultures a bride, accompanied by her dowry, joins her husband's family. If the marriage fails she will return to the house of her parents.</sup>
 
+As for all our other relatives and friends, they treat us like [gods](#gods)&mdash;as long as we are prosperous and happy and everything is going splendidly. They do whatever they can to help us, and give us all kinds of things of which we have no need. But should we fall on hard times, although we have done them no harm at all, they treat us like enemies and return with malice any kindness we show them.
+
+All this goes to show that there is nothing of any worth in sons, daughters, family and friends, as [Jetsun Mila](#jetsun-mila) expresses in his song:
+
+> In the [beginning](#beginning), your son is a charming little god;  
+> You love him so much that you cannot bear it.  
+> In the middle he ferociously demands his due;  
+> You give him everything, but he is never satisfied.  
+> He brings home someone else's daughter,  
+> Pushing his kindly parents out.  
+> When his father calls him, he doesn't deign to answer.  
+> When his mother calls, he doesn't even hear.  
+> In the end, he is like a distant neighbor.  
+> You destroy yourself nourishing a swindler like that.  
+> How frustrating it is to beget your own enemies!  
+> I've cast off this harness that tethers us to [saṃsāra](#saṃsāra).  
+> I don't want any of these worldly sons.
+
+He goes on:  
+
+> In the [beginning](#beginning) a daughter is a smiling little goddess,  
+> Imperiously monopolizing all your best possessions.  
+> In the middle, she endlessly asks her due:  
+> She openly demands things from her father,  
+> And steals them from her mother on the sly.  
+> Never satisfied with what she's given,  
+> She's a source of despair to her kindly parents.  
+> In the end, she's a red-faced ogress:  
+> At best, she's an asset to someone else,  
+> At worst, she'll bring calamity upon you.  
+> How frustrating she is, this ravaging monster!  
+> I've cast off this incurable sorrow.  
+> I don't want a daughter who'll lead me to ruin.
+
+Finally:  
+
+> In the [beginning](#beginning) friends meet you joyfully, the smile  
+> And the whole valley rings with "Come in!" and "Sit down!"  
+> In the middle they return your hospitality with meat and beer,  
+> Item for item, exactly one for one.  
+> In the end, they cause strife based on hate or attachment.  
+> How frustrating they are, those evil friends with all their quarrels!  
+> I've given up my dining companions of easy times.  
+> I don't want any worldly friends.
+
 ##### 4.3.3 The suffering of not getting what one wants
 ##### 4.3.4 The suffering of encountering what one does not want
 ### **5. The asuras**
