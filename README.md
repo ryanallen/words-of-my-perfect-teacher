@@ -2692,6 +2692,13 @@ Finally:
 > I don't want any worldly friends.
 
 ##### 4.3.3 The suffering of not getting what one wants
+
+There is not one of us in the world who does not want to be happy and feel good; and yet none of us gets what we want. For instance, a family trying to make themselves comfortable build a house, but it collapses and kills them. A person might eat to satisfy his hunger, but the food makes him ill and endangers his life. Soldiers go to battle hoping for victory, and immediately get killed. A group of merchants go on a trading expedition in high hopes of profit, but are attacked and reduced to beggary. No matter how much effort and [energy](#energy) we expend in the hope of [becoming](#becoming) happy and rich in this life, unless actions in our past lives have created that potential we will not even be able to satisfy our immediate hunger. All we do is to make trouble for ourselves and others. The only result we can be sure of achieving is not to be liberated from the depths of the [lower realms](#lower-realms). That is why a single spark of [merit](#merit) is worth more than a mountain of effort. 
+
+What use are samsaric activities that never come to an end? All the effort we have made throughout beginningless time in [saṃsāra](#saṃsāra) trying to get what we want has brough5t us nothing but suffering. In the past, had we taken all the [energy](#energy) we devoted to worldly aims over the early or later part of just one life and devoted that [energy](#energy) to the [Dharma](#dharma) instead, we would alredy be [Buddha](#buddha)s by now. And if not, then at least we would definitely never again be subject to the sufferings of the [lower realms](#lower-realms).
+
+We should meditate as follows: now that we know the difference between what we should do and what we should not, let us stop putting great hopes in samsaric enterprises taht will never be accomplished&mdash;and instead preactice the true [Dharma](#dharma), in which [accomplishment](#accomplishment) is certain.
+
 ##### 4.3.4 The suffering of encountering what one does not want
 ### **5. The asuras**
 ### **6. The [gods](#gods)**
