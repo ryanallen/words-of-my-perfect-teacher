@@ -1840,9 +1840,9 @@ So, reflect sincerely and meditate on how important it is from this very moment 
 
 ## III. THE IMPERMANENCE OF HOLY BEINGS
 
-In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Sravakas](#sravaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Śākyamuni's](#sakyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvāṇa](#nirvāṇa) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
+In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Śrāvakas](#sravaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Śākyamuni's](#sakyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvāṇa](#nirvāṇa) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
 
-One by one, the numerous great [Sravakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
+One by one, the numerous great [Śrāvakas](#sravaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
 
 In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats) who compiled the words of the [Buddha](#sakyamuni). There were the [Six Ornaments](#six-ornaments) and [Two Supreme Ones](#two-supreme-ones), the [Eighty Siddhas](#eighty-siddhas), and many others, who mastered all attributes of the paths and [levels](#levels) and possessed unlimited clairvoyance and miraculous powers. But all that remains of them today are the stories telling how they lived.
 
@@ -2903,7 +2903,7 @@ There is no harmful act that cannot be purified by confession. As the great teac
 
 Of all [negative action](#negative-action)s&mdash;be they external breaches of the [prātimokṣa](#prātimokṣa) vows, inner transgressions of the bodhicitta training, or secret violations of the [tantric](#tantric) [samayas](#samaya)&mdash;there is not one, however serious, that cannot be purified by confession.
 
-In the [sūtras](#sūtra), the [Buddha](#sakyamuni) tells several stories illustrating this point. For instance, there is the tale of the [brāhmaṇa](#brahmin) Atapa, who was known as [Aṅgulimāla](#aṅgulimāla), "Garland of Fingers." [Aṅgulimāla](#aṅgulimāla) killed nine hundred and ninety-nine people,<sup>[174](#174)</sup> but then cleansed himself of those actions through confession and attained the state of [Arhat](#arhat) in that very lifetime. There is also the case of [King Ajatasatru](#darsaka), who killed his father, but later repaired his crime through confession and attained [liberation](#liberation), having experienced the sufferings of [hell](#hell) only for the time it takes a ball to bounce once. 
+In the [sūtras](#sūtra), the [Buddha](#sakyamuni) tells several stories illustrating this point. For instance, there is the tale of the [brāhmaṇa](#brahmin) Atapa, who was known as [Aṅgulimāla](#aṅgulimāla), "Garland of Fingers." [Aṅgulimāla](#aṅgulimāla) killed nine hundred and ninety-nine people,<sup>[174](#174)</sup> but then cleansed himself of those actions through confession and attained the state of [Arhat](#arhat) in that very lifetime. There is also the case of [King Ajātaśatru](#darsaka), who killed his father, but later repaired his crime through confession and attained [liberation](#liberation), having experienced the sufferings of [hell](#hell) only for the time it takes a ball to bounce once. 
 
 <details id="174"><summary>Note <sup>174</sup></summary><a href="#aṅgulimāla">Aṅgulimāla</a>, who had been given a false teaching that he would gain <a href="#liberation">liberation</a> by killing one thousand people and collecting a finger from each, had already killed nine hundred and ninety-nine, and was on his way to complete the thousand by killing his mother when he met the <a href="#buddha">Buddha</a>, whom he tried to kill instead. Because of the <a href="#buddha">Buddha</a>'s powers, he was unable to attack him. Then the <a href="#buddha">Buddha</a> spoke to him and turned his mind to the <a href="#dharma">Dharma</a>.</details><br>
 
@@ -2912,9 +2912,9 @@ The protector [Nāgārjuna](#nāgārjuna) says:
 > Someone who has acted carelessly  
 But later becomes careful and attentive  
 Is as beautiful as the bright moon emerging from the clouds,  
-Like [Nanda](#nanda), [Aṅgulimāla](#aṅgulimāla), [Darsaka](#darsaka) and [Sankara](#sankara)<sup>[175](#175)</sup>  
+Like [Nanda](#nanda), [Aṅgulimāla](#aṅgulimāla), [Darśaka](#darsaka) and [Sankara](#sankara)<sup>[175](#175)</sup>  
 >  
-> <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining <a href="#liberation">liberation</a>; <a href="#aṅgulimāla">Aṅgulimāla</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darsaka</a> (another name for Ajatasatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. <a href="#nanda">Nanda</a> and <a href="#aṅgulimāla">Aṅgulimāla</a> became <a href="#arhat">Arhats</a>, <a href="#darsaka">Darsaka</a> became a <a href="#bodhisattva">Bodhisattva</a>, and <a href="#sankara">Sankara</a> was reborn in a god <a href="#realm">realm</a> and subsequently attained the <a href="#path-of-seeing">path of seeing</a>.</details><br>
+> <details id="175"><summary>Note <sup>175</sup></summary><a href="#nanda">Nanda</a> is the example of someone with extreme attachment attaining <a href="#liberation">liberation</a>; <a href="#aṅgulimāla">Aṅgulimāla</a> is the example of someone with extreme ignorance; <a href="#darsaka">Darśaka</a> (another name for Ajātaśatru) is the example of extreme aggression; <a href="#sankara">Sankara</a> is the example of someone with both extreme attachment and extreme anger. <a href="#nanda">Nanda</a> and <a href="#aṅgulimāla">Aṅgulimāla</a> became <a href="#arhat">Arhats</a>, <a href="#darsaka">Darśaka</a> became a <a href="#bodhisattva">Bodhisattva</a>, and <a href="#sankara">Sankara</a> was reborn in a god <a href="#realm">realm</a> and subsequently attained the <a href="#path-of-seeing">path of seeing</a>.</details><br>
 
 However, purification only takes place when you confess sincerely in the right way, using the [four powers](#ii-the-four-powers) as antidotes. The purification process will never work if your eyes and mouth are otherwise occupied, or if you are just mouthing the words, "I admit... I confess..." while your mind is busy pursuing other [thought](#thought)s. And to think, "In future, even if I do wrong it won't matter because I can just confess afterwards," will stop the purification from working at all, even if you do confess.
 
@@ -3435,7 +3435,7 @@ the title by which [Śāntarakṣita](#śāntarakṣita) is sometimes known.
 *tshangs pa* In Buddhism Brahmā is not considered as an eternal deity but as the ruler of the gods of the World of Form.
 
 ## Brahma-world
-*tshang pa'i 'jig rten*, Skt. *brahmaloka*, in general, all the form and formless worlds.
+*tshang pa'i 'jig rten*, Skt. *brahmāloka*, in general, all the form and formless worlds.
 
 ## Brahmin
 *bram ze*, one of the four castes in ancient Indian society, the priestly caste.
@@ -3447,7 +3447,7 @@ the title by which [Śāntarakṣita](#śāntarakṣita) is sometimes known.
 See [Pure Land](#pure-land).
 
 ## Buddha Nature
-*de gshegs snying po*, Skt. *tathagatagarbha*, the potential of Buddhahood present in every being. AT: essence of Buddhahood.
+*de gshegs snying po*, Skt. *tathāgatagarbha*, the potential of Buddhahood present in every being. AT: essence of Buddhahood.
 
 ## Burnt offering
 *gsur*, an offering made by burning food on coals. It is offered to the Buddhas, the protectors, all beings in general and in particular to wandering spirits and those towards whom we have karmic debts. The usual white *gsur* is prepared with the [three white foods](#three-white-foods) and the [three sweet foods](#three-sweet-foods). The red *gsur* is prepared with meat.
@@ -3459,7 +3459,7 @@ See [Pure Land](#pure-land).
 *Rnga yab gling*, one of the eight sub-continents in ancient Indian cosmology, to the west of [Jambudvīpa](#jambudvīpa). This is the south-western continent referred to as the Buddhafield of the [Glorious Copper-colored Mountain](#glorious-copper-colored-mountain).
 
 ## Central channel
-*rtsa dbu ma*, Skt. *avadhuti*, the central axis of the subtle body. Its exact description varies according to the particular practice. It represents non-dual [wisdom](#wisdom).
+*rtsa dbu ma*, Skt. *avadhūti*, the central axis of the subtle body. Its exact description varies according to the particular practice. It represents non-dual [wisdom](#wisdom).
 
 ## Chagme Rinpoche
 see [Karma Chagme](#karma-chagme).
@@ -3498,7 +3498,7 @@ see [Karma Chagme](#karma-chagme).
 *snang mched thob*, three experiences which occur successively at the moment of death.
 
 ## Clear light
-*'od gsal*, Skt. *prabhasvara*, spontaneous, luminous (or knowing) aspect of the nature of the mind&mdash;or [awareness](#awareness).
+*'od gsal*, Skt. *prabhāsvara*, spontaneous, luminous (or knowing) aspect of the nature of the mind&mdash;or [awareness](#awareness).
 
 ## Clear light of the moment of the ground
 *gzhi dus kyi 'od gsal*, "anture of the mind of all beings, pure from the beginning and spontaneously luminous; fundamental continuum (of awareness), potential of Buddhahood." DICT. It can be "introduced" by a realized master to a disciple, who then stabilizes and develops that experience through the profound practices of the [Great Perfection](#great-perfection) Ordinary beings perceive it only for a flash at the moment of death.
@@ -3522,7 +3522,7 @@ see [Karma Chagme](#karma-chagme).
 *shes bya'i sgrib pa*, Skt. *jñeyāvaraṇa* "These are the concepts of subject, object and action, which prevent one from attaining omniscience." DICT.
 
 ## Conditioned
-*'dus byas*, Skt. *samskrita*, produced (*byas*) by a combination (*'dus*) of causes and conditions. "Conditioned positive actions are all those done without realizing [emptiness](#emptiness)," DKR.
+*'dus byas*, Skt. *saṃskṛta*, produced (*byas*) by a combination (*'dus*) of causes and conditions. "Conditioned positive actions are all those done without realizing [emptiness](#emptiness)," DKR.
 
 ## Conditioning effect
 *dbang gi 'bras bu*, the effect of actions on the environment in which one lives in a future life.
@@ -3555,7 +3555,7 @@ see [Karma Chagme](#karma-chagme).
 *dam chen (rdo rje legs pa)*, a protector of the [Dharma](#dharma), bound under oath by [Padmasambhava](#padmasambhava-of-oḍḍiyāna).
 
 ## Darsaka
-*mthong ldan*, another name of Ajatasatru, the son of King Bimbisara, king of Magadha and the most important patron of [Śākyamuni Buddha](#sakyamuni). Although he had killed his father, he later repented and purified his negative actions to such an extent that he attained the level of a [Bodhisattva](#bodhisattva).
+*mthong ldan*, another name of Ajātaśatru, the son of King Bimbisara, king of Magadha and the most important patron of [Śākyamuni Buddha](#sakyamuni). Although he had killed his father, he later repented and purified his negative actions to such an extent that he attained the level of a [Bodhisattva](#bodhisattva).
 
 ## Degenerate age
 *snyigs dus*, Skt. *kaliyuga*, a period of the [five degenerations](#five-degenerations).
@@ -4296,7 +4296,7 @@ See [external source](https://en.wikipedia.org/wiki/Bhaisajyaguru).
 *ri rgyal po ri rab*, immense mountain, wider at the top than at the bottom, around which the four continents of the world are disposed, according to ancient Indian cosmology.
 
 ## Middle Way
-*dbu ma'i lam*, Skt. *madhyamika*, teaching on [emptiness](#emptiness) first expounded by [Nāgārjuna](#nāgārjuna) and considered to be the basis of the [Secret Mantrayāna](#secret-mantrayāna). "Middle" means that it is beyond the extreme points of view of [nihilism](#nihilism) and [eternalism](#eternalism).
+*dbu ma'i lam*, Skt. *mādhyamika*, teaching on [emptiness](#emptiness) first expounded by [Nāgārjuna](#nāgārjuna) and considered to be the basis of the [Secret Mantrayāna](#secret-mantrayāna). "Middle" means that it is beyond the extreme points of view of [nihilism](#nihilism) and [eternalism](#eternalism).
 
 ## Milarepa
 see [Jetsun Mila](#jetsun-mila).
@@ -4751,7 +4751,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *nyan thos kyi theg pa*, the vehicle of the [Śrāvakas](#śrāvaka).
 
 ## Sri Simha
-*dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Manjusrimitra](#manjusrimitra).
+*dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Mañjuśrīmitra](#manjusrimitra).
 
 ## Srona (Sronajat)
 *gro byin skyes*, a [vina](#vina) player who became a disciple of the Buddha and gained the ability to visit other realms, notably those of the [pretas](#preta).
@@ -5006,7 +5006,7 @@ see [spiritual treasure](#spiritual-treasure).
 *sde snod bcu gnyis*, lit. twelve piṭakas, also called the Twelve Branches of Excellent Speech (*gsung rab yan lag bcu gnyis*). The twelve types of teaching given by the Buddha correspond to twelve types of text: condensed (*mdo sde*, Skt. *sūtra*), melodious (*dbyangs bsnyan*, *geya*), prophetic (*lung bstan*, *vyakarana*), verse (*tshigs bcad*, *gatha*), spoken with a purpose (*ched brjod*, *udana*), conversatory (*gleng gzhi*, *nidana* - questions, talks, etc.), concerning his past lives (*skyes rab*, *jataka*), marvelous (*rmad byung*, *adbhutadharma*), establishing a truth (*gtan babs*, *upadeśa*), biographical or "expressing realization" (*rtogs brjod*, *avadana*), historical (*de ltar byung*, *itivrittaka*), and very detailed (*shin tu rgyas pa*, *vaipulya*).
 
 ## Twelve qualities of full training
-*sbyangs pa'i yon tan bcu gnyis*, Skt. *dvadasadhutaguna*, twelve ascetic practices of [sravakas](#sravaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
+*sbyangs pa'i yon tan bcu gnyis*, Skt. *dvadasadhutaguna*, twelve ascetic practices of [śrāvakas](#sravaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
 
 ## Twelve Vajra Laughs
 *rdo rje gad mo bcu gnyis*, a teaching of the [Great Perfection](#great-perfection).
@@ -5080,7 +5080,7 @@ see [spiritual treasure](#spiritual-treasure).
 *bzhad pa rdo rje*, another name of [Garab Dorje](#garab-dorje).
 
 ## Vajra posture
-*rdo rje dkyil krung*, Skt. *vajrasana*, meditation posture with the legs crossed and the feet resting on the thighs.
+*rdo rje dkyil krung*, Skt. *vajrāsana*, meditation posture with the legs crossed and the feet resting on the thighs.
 
 ## Vajra recitation
 *rdo rje bzlas pa*, recitation of mantras in concert with inhalation, holding and exhalation.
@@ -5202,7 +5202,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravarahi (
 *gshin rje*, the Lord of Death.
 
 ## Yamantaka
-*gshin rje bshed*, wrathful form of [Manjursri](#manjusri).
+*gshin rje bshed*, wrathful form of [Mañjuśrī](#manjusri).
 
 ## Yellow scroll
 *shog ser*, piece of paper (not necessarily yellow) on which the texts of [spiritual treasures](#spiritual-treasure) are written.
