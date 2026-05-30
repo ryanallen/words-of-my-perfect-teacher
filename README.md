@@ -3805,7 +3805,7 @@ See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.or
 
 ## Five wisdoms
 *ye shes lnga*, five aspects of the wisdom of Buddhahood: 
-1. the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhatujnana*), 
+1. the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhātujñana*), 
 2. mirror-like wisdom (*me long gi ye shes, adarsajnana*), 
 3. the wisdom of equality (*mnyam nyid kyi ye shes, samatajnana*), 
 4. discriminating wisdom (*so sor rtog pa'i ye shes, pratyaveksanajnana*),
@@ -3934,7 +3934,7 @@ or into six groups:
 1.  being generous (*sbyin pa*, Skt. *dana*),
 2.  speaking in a pleasant manner (*snyan par smra ba, priyavadita*),
 3.  teaching in accordance with individuals' needs (*don mthun pa, samanarthata*),
-4.  acting in accordance with what he teaches (*don spyod pa, arthacarya*).
+4.  acting in accordance with what he teaches (*don spyod pa, arthācārya*).
 
 ## Fruit empowerment
 *'bras bu'i dbang*, the empowerment that takes place at the moment of attaining full enlightenment.
@@ -5042,7 +5042,7 @@ see [spiritual treasure](#spiritual-treasure).
 *ma bcos pa*, Skt. *naisargika*, left in its original state, without manipulations or fabrications.
 
 ## Unexcelled, the
-*'og min*, Skt. *Akanistha*, see [Akaniṣṭha](#akaniṣṭha).
+*'og min*, Skt. *Akaniṣṭha*, see [Akaniṣṭha](#akaniṣṭha).
 
 ## Universal monarch
 *'khor lo sgyur ba'i rgyal po*, Skt. *cakravartin*,  
@@ -5071,7 +5071,7 @@ see [spiritual treasure](#spiritual-treasure).
 *rdo rje spun*, students of the same teacher, or with whom one has received [Vajrayāna](#vajrayāna) teachings. See [spiritual companions](#spiritual-companions).
 
 ## Vajra master
-*rdo rje slob spon*, Skt. *vajracarya*, "the spiritual master who introduces one to a mandala of the [Secret Mantrayāna](#secret-mantrayāna) and gives the liberating instructions." DICT.
+*rdo rje slob spon*, Skt. *vajrācārya*, "the spiritual master who introduces one to a mandala of the [Secret Mantrayāna](#secret-mantrayāna) and gives the liberating instructions." DICT.
 
 ## Vajra of Joy
 *dgyes pa rdo rje*, a name of [Garab Dorje](#garab-dorje).
