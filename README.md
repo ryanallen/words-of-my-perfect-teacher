@@ -2744,6 +2744,11 @@ Wealth, possessions, health, happiness and popularity are all the effects of pas
 > In short, practised without remembering death,  
 > Any [Dharma](#dharma) is useless. 
 
+Human beings living in these degenerate times in all four continents of this world, but particularly here in Jabudvipa, are deprived of even the tiniest opportunity for happiness. Their lives are full of suffering. Nowadays degeneration accelerates with every year that passes, every month and every day, every mealtime, every morning and every evening. The [kalpa](#kalpa) is going from bad to worse. The [Buddha](#buddha)'s teaching and beings' happiness are decaying more and more. Think about all this and develop a feeling of disillusionment. Moreover, this continent of [Jambudvīpa](#jambudvīpa) confers a particular power on the [effects of actions](#effects-of-actions)<sup>[60](#60)</sup> which makes everything&mdash;good and bad, pleasant and unpleasant, high and low, [Dharma](#dharma) or not&mdash;highly unpredictable. You should really see for yourself how things are, and be clear in your mind about what has to be done and what should be avoided. Put into practice the Omniscient [Longchenpa](#longchenpa)'s advice:
+
+<details id="60"><summary>Note <sup>60</sup></summary><i>las kyi sa pa</i>, a place where the force of <a href="#karma">karma</a> is more powerful and its effects are felt more strongly and, in certain cases, sooner. Of the four continents in the universe of traditional cosmology, it is especially in <a href="#jambudvīpa">Jambudvīpa</a> that actions produce strong effects, and in which individual experiences are more variable. The inhabitants of the other continents experience the results of past actions, for the most part, rather than creating new causes. Their experiences and lifespans are more fixed.
+</details><br>
+
 
 
 ### **5. The asuras**
