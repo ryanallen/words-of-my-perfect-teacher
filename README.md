@@ -2727,6 +2727,25 @@ We are always encountering what we do not want. As the [Great Omniscient One](#g
 
 Wealth, possessions, health, happiness and popularity are all the effects of past [positive action](#positive-action)s. If you have accumulated [positive action](#positive-action)s in the past, all these things will come to you naturally as a result, whatever you want them or not. But without those [positive action](#positive-action)s, no amount of effort will ever get what you want. All you will get is what you want least. So when you practice the [Dharma](#dharma), rely on the inexhaustible wealth of being content with whatever comes. Otherwise, once you start practising, your worldly ambitions for this life are sure to bring you trouble and displease the holy beings. [Jetsun Mila](#jetsun-mila) sings:
 
+> What the Lord of Men, the [Conqueror](#conqueror), mainly taught  
+> Was how to be rid of the [eight ordinary concerns](#eight-ordinary-concerns).  
+> But those who consider themselves learned these days&mdash;  
+> Haven't their ordinary concerns grown even greater than before?  
+> The [Conqueror](#conqueror) taught rules of discipline to follow  
+> So that one could withdraw from all worldly tasks.  
+> But the monks of today who follow those rules&mdash;  
+> Aren't their worldly tasks now more numerous than before?  
+>  
+> He taught how to live like the [risi](#risi)s of old  
+> So that one could cut off ties with friends and relations.  
+> But those who live like [risi](#risi)s these days&mdash;  
+> Don't they care how people see them even more than before?  
+>  
+> In short, practised without remembering death,  
+> Any [Dharma](#dharma) is useless. 
+
+
+
 ### **5. The asuras**
 ### **6. The [gods](#gods)**
 
