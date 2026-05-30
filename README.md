@@ -2976,7 +2976,7 @@ The power of resolution [means](#means) to remember the faults you have committe
 
 > I vow to stop from now on.
 
-And the *Prayer of Sukhavati* says:
+And the *Prayer of Sukhāvatī* says:
 
 > Without a vow for the future from now on, there is no purification,  
 So I make the vow for the future from now on  
@@ -3408,7 +3408,7 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 *bde stong*, bliss experienced without attachment, as being empty.
 
 ## Blissful (pure land)
-*bde ba can*, Skt. *Sukhavati*, the Buddhafield of the West, that of Buddha [Amitābha](#amitābha).
+*bde ba can*, Skt. *Sukhāvatī*, the Buddhafield of the West, that of Buddha [Amitābha](#amitābha).
 
 ## Bodhisattva
 *byang chub kyi sems*, lit. the mind of enlightenment. On the relative level, it is the wish to attain Buddhahood for the sake of all beings, as well as the practice of the path of love, compassion, the [six transcendent perfections](#six-transcendent-perfections), etc., necessary for achieving that goal. On the absolute level, it is the direct insight into the ultimate nature.
@@ -3417,10 +3417,10 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 the title by which [Śāntarakṣita](#śāntarakṣita) is sometimes known.
 
 ## Bodhisattva levels
-*phags pa'i sa*, lit. sublime levels, Skt. *bhumi*. The ten levels of realization reached by [Bodhisattvas](#bodhisattva) on the paths of seeing, meditation and beyond learning. In some classifications additional levels are added. "These levels are sublime because they are far beyond ordinary beings." DICT.
+*phags pa'i sa*, lit. sublime levels, Skt. *bhūmi*. The ten levels of realization reached by [Bodhisattvas](#bodhisattva) on the paths of seeing, meditation and beyond learning. In some classifications additional levels are added. "These levels are sublime because they are far beyond ordinary beings." DICT.
 
 ## Bodhnath (stūpa)
-*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stūpas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stupa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stupa*, berkeley, Dharma Publishing, 1973).
+*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stūpas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stūpa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stūpa*, berkeley, Dharma Publishing, 1973).
 
 ## Body, speech, mind, qualities and activity
 *sku, gsung, thugs, yon tan, phrin las*, five aspects of Buddhahood. Sometimes referred to as the [five kayas](#five-kayas). See also [five families](#five-families).
@@ -4392,7 +4392,7 @@ epithet of [Longchenpa](#longchenpa).
 *o rgyan pa rin chen dpal* (1230-1309), a great [siddha](#siddha) of the [Drukpa Kagyu](#kagyupa) tradition, disciple of [Gotsangpa](#gotsangpa-gonpo-dorje). He traveled widely, visiting [Oḍḍiyāna](#oḍḍiyāna), Bodhgaya and China. Among his disciples were Karmapa Rangjung Dorje, Kharchupa and Dawa Senge.
 
 ## Owner of the ground
-*sa bdag*, Skt. *bhumipati*, a spirit occupying a place.
+*sa bdag*, Skt. *bhūmipati*, a spirit occupying a place.
 
 ## Padampa Sangye
 *pha dam pa sangs rgyas* (11th-12th century), Indian [siddha](#siddha) who established the teachings of the Shijepa (*zhi byed pa*) school. Teacher of [Machik Labdron](#machik-labdron), to whom he transmitted the [Cho](#cho) teachings. He traveled to Tibet several times.
@@ -4515,7 +4515,7 @@ see [Dharma protectors](#dharma-protector).
 *dag pa'i zhing*, a place or world manifested by a [Buddha](#buddha) or great [Bodhisattva](#bodhisattva) through the spontaneous qualities of his realization. There, beings can progress towards [enlightenment](#enlightenment) without falling back into the lower realms of [saṃsāra](#saṃsāra). Also, any place whatsoever, when it is perceived as a pure manifestation of spontaneous wisdom.
 
 ## Pure Land of Bliss
-*bde ba can*, Skt. *Sukhavati*, the [Buddhafield](#buddhafield) of [Amitābha](#amitābha).
+*bde ba can*, Skt. *Sukhāvatī*, the [Buddhafield](#buddhafield) of [Amitābha](#amitābha).
 
 ## Pure levels (three)
 *dag pa sa gsum*, the eighth, ninth and tenth [Bodhisattva levels](#bodhisattva-levels), thus called because [Bodhisattvas](#bodhisattva) on these levels are totally free from the [obscuration of negative emotions](#obscurations-of-negative-emotions) (*nyon sgrib*).
