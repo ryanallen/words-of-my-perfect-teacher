@@ -1858,14 +1858,14 @@ As for us, our [negative actions](#negative-action), carried along by the [wind]
 
 ## IV. THE IMPERMANENCE OF THOSE IN POSITIONS OF POWER
 
-There are magnificent and illustrious [gods](#gods) and [risis](#risi) who can live for as long as a [kalpa](#kalpa), with statures measured in leagues or earshots and a power and resplendence that outshine the sun and moon, are nevertheless not beyond the reach of death. As *The Treasury of Qualities* says:
+There are magnificent and illustrious [gods](#gods) and [ṛiṣis](#ṛiṣi) who can live for as long as a [kalpa](#kalpa), with statures measured in leagues or earshots and a power and resplendence that outshine the sun and moon, are nevertheless not beyond the reach of death. As *The Treasury of Qualities* says:
 
 > Even [Brahmā](#brahmā), [Indra](#indra), Maheśvara and the [universal monarch](#universal-monarch)s  
 Have no way to evade the [Demon](#demon) of Death.
 
-In the end, not even divine or human [risis](#risi) with the [five kinds of clairvoyance](#five-clairvoyances) and the power to fly through the sky can escape death. *The Letter of Consolation* says"
+In the end, not even divine or human [ṛiṣis](#ṛiṣi) with the [five kinds of clairvoyance](#five-clairvoyances) and the power to fly through the sky can escape death. *The Letter of Consolation* says"
 
-> Great [risis](#risi) with their [five-fold powers](#five-clairvoyances)  
+> Great [ṛiṣis](#ṛiṣi) with their [five-fold powers](#five-clairvoyances)  
 Can fly far and wide in the skies,  
 Yet they will never reach a land  
 Where immortality holds sway.
@@ -2123,7 +2123,7 @@ At first he [thought](#thought), "Maybe I should cut it down," but then he said 
 
 When he came back out, he had the same problem with the thorns. This time he [thought](#thought), "I am not at all sure that I shall ever go back inside;" and so it went on for many years until he was an accomplished master. When he left, the bush was still uncut.
 
-Rigdzin [Jigme Lingpa](#jigme-lingpa) would always spend the time of the constellation [Risi](#risi), in autumn, at a certain hot spring. The sides of the pool had no steps, making it very difficult for him to climb down to the water and sit in it. His followers offered to cut some steps, but he replied: "Why take so much trouble when we don't know if we will be around next year?" He would always be speaking of impermanence like that, my master told me.
+Rigdzin [Jigme Lingpa](#jigme-lingpa) would always spend the time of the constellation [Ṛiṣi](#ṛiṣi), in autumn, at a certain hot spring. The sides of the pool had no steps, making it very difficult for him to climb down to the water and sit in it. His followers offered to cut some steps, but he replied: "Why take so much trouble when we don't know if we will be around next year?" He would always be speaking of impermanence like that, my master told me.
 
 We too, as long as we have not fully assimilated such an attitude, should meditate on it. Start by generating bodhicitta, and as the main practice train your mind by all these various [means](#means) until impermanence really permeates your every [thought](#thought). Finally, conclude by sealing the practice with the dedication of [merit](#merit). Practicing in this way, strive to the best of your ability to emulate the great beings of the past.
 
@@ -2736,9 +2736,9 @@ Wealth, possessions, health, happiness and popularity are all the effects of pas
 > But the monks of today who follow those rules&mdash;  
 > Aren't their worldly tasks now more numerous than before?  
 >  
-> He taught how to live like the [risi](#risi)s of old  
+> He taught how to live like the [ṛiṣi](#ṛiṣi)s of old  
 > So that one could cut off ties with friends and relations.  
-> But those who live like [risi](#risi)s these days&mdash;  
+> But those who live like [ṛiṣi](#ṛiṣi)s these days&mdash;  
 > Don't they care how people see them even more than before?  
 >  
 > In short, practised without remembering death,  
@@ -4568,8 +4568,8 @@ Homage to the Saṃgha too
 ## Rinchen Zangpo
 *rin chen bzang po* (958 - 1055), the most famous translator of the second propagation of Buddhism in Tibet, when the [New Tradition](#new-tradition) began.
 
-## Risi
-*drang srong*,
+## Ṛiṣi
+*drang srong*, Skt. *ṛiṣi*,
 1. sage, hermit, saint, particularly the famous sages of Indian myth, who had enormous longevity and magical powers.
 2. name of a constellation.
 
