@@ -3278,14 +3278,14 @@ Abbreviations:
 ## Abbot
 *mkhan po*, in general means someone who gives monastic vows. This title is also given to a person who has attained a high degree of knowledge of the [Dharma](#dharma) and is in charge of teaching it. It can also simple be the title given to the eldest monk during a traditional summer retreat.
 
-## Abhidarma
+## Abhidharma
 *mngon pa*, one of the three [piṭakas](#piṭaka). The foundation of Buddhist psychology and logic. It describes the universe, the different kinds of beings, the steps on the path to enlightenment, refutes mistaken beliefs, etc.
 
 ## Absolute Space
-*chos dbyings*, Skt. *dharmadhatu*, AT: the expanse of reality. From the point of view of realization, all phenomena appear as the expanse of [emptiness](#emptiness).
+*chos dbyings*, Skt. *dharmadhātu*, AT: the expanse of reality. From the point of view of realization, all phenomena appear as the expanse of [emptiness](#emptiness).
 
 ## Absolute truth
-*don dam bden pa*, Skt. *paramartha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
+*don dam bden pa*, Skt. *paramārtha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
 
 ## Ācārya
 *slob dpon* (1) teacher. (2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
