@@ -619,7 +619,7 @@ Over the centuries these many strands of the [Buddha](#buddha)'s teaching have b
 
 One of these four, the [Nyingma school](#nyingmapa) (whose name derives from the Tibetan for "old") follows the traditions which were originally introduced in the eighth century by such Indian masters as [Śāntarakṣita](#śāntarakṣita), [Vimalamitra](#vimalamitra), and [Padmasambhava](#padmasambhava-of-oḍḍiyāna), whom the Tibetans refer to as [Guru Rinpoche](#guru-rinpoche), "the Precious Master," and handed down through fully realized Tibetan masters such as [Longchenpa](#longchenpa), [Jigme Lingpa](#jigme-lingpa), and Jamyang Khyentse Wangpo. The lineages which have been passed down to the other three main schools&mdash;the [Kagyupa](#kagyupa), [Sakyapa](#sakyapa), and [Gelugpa](#gelugpa)&mdash;were introduced into Tibet after the tenth century following the attempts by an anti-Buddhist king to destroy the [Dharma](#dharma) in Tibet. Just as the different forms of Buddhism in other parts of Asia had been adopted and had evolved to meet the needs of different peoples and cultures, each of these four schools had its origins and development in widely diverging situations&mdash;historical, geographical and even political&mdash;which served as a prism to split the light of the [Buddha](#buddha)'s teaching into a many-colored spectrum of traditions and lineages. (Sadly, some Buddhists have tended to forget that this light has one source, and, as in the world's other great religions, sectarian divisions have sometimes masked the true message of Buddhism.)
 
-The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the [Buddha](#buddha), and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sūtras](#sūtra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayāna](#vajrayāna) teachings), and countless commentaries on all [three vehicles](#three-vehicles) ([Sravakayana](#sravakayana), [Mahāyāna](#mahāyāna), and [Vajrayāna](#vajrayāna)) written by Tibetan masters.
+The teachings preserved in the lineages of Tibetan Buddhism are contained in the enormous sacred literature of that tradition. The Kangyur, consisting of more than a hundred volumes, contains the scriptures originating from the time of the [Buddha](#buddha), and is divided into the [Vinaya](#vinaya), dealing with ethics and discipline, the [Sūtras](#sūtra), which are concerned with meditation and the [Abhidharma](#abhidarma), which covers Buddhist philosophy. The numerous commentaries on these, and other major Buddhist works written later make up over two hundred volumes of the Tangyur. Both the Kangyur and Tangyur were translated into Tibetan mainly from Sanskrit and comprise the Tibetan Buddhist Canon. In addition to this, a vast number of other works exist: teachings introduced into Tibet from India from the eighth century onwards (including many of the [Vajrayāna](#vajrayāna) teachings), and countless commentaries on all [three vehicles](#three-vehicles) ([Śrāvakayāna](#śrāvakayāna), [Mahāyāna](#mahāyāna), and [Vajrayāna](#vajrayāna)) written by Tibetan masters.
 
 The enormous range of teachings to be found within Tibetan Buddhism can nevertheless be summarized by the Four Noble Truths, which the [Buddha](#buddha) expounded shortly after his [enlightenment](#enlightenment). The first of these points out that our [conditioned](#conditioned) existence is never free from a state of suffering, never truly satisfactory. Any happiness we have is only temporary and in due course gives way to suffering. The reason for this, as explained by the second truth, is that any action one may do, say or think gives rise to a result which has to be experienced either later in one's life or in a future life. Indeed, rebirth is the result of one's actions, and the conditions into which one is born in one life are directly dependent on the actions one has done in previous lives, and particularly the motives and attitudes involved.  This, the [principle of cause and effect](#principle-of-cause-and-effect), explains why, for example, some people remain poor all their lives despite their efforts to become wealthy, while others have everything they could want even though they do nothing to gain it. The second truth goes on to show that the **driving force behind our actions is the [negative [emotions](#emotions)](#negative-emotions) such as hatred, attachment, pride, jealousy, and especially ignorance, which is the root of all the others.** This ignorance concerns not only a lack of [wisdom](#wisdom) in how we act, but the basic ignorance behind how we ordinarily perceive the whole of existence and constantly become caught by our [clinging](#clinging) to the idea of our own egos and of the outer world as solid and lasting. Because there is no end to our actions, there can be no end to our continuously taking rebirth in the cycle of [conditioned](#conditioned) existence. Only when we cease to act through ignorance can this cycle be broken, as shown by the third truth which expounds the cessation of suffering and freedom from [conditioned](#conditioned) existence.
 
@@ -2143,7 +2143,7 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 
 # <div align="center">CHAPTER THREE<br><i>The defects of <a href="#saṃsāra">saṃsāra</a></i></div>
 
-> *Understanding that samsaric activities are empty of meaning,*  
+> *Understanding that saṃsāric activities are empty of meaning,*  
 *With great compassion you strive only for the benefit of others.*  
 *Without attachment to [saṃsāra](#saṃsāra) or [nirvāṇa](#nirvāṇa), you act according to the [Great Vehicle](#great-vehicle).*  
 *Peerless Teacher, at your feet I bow.*  
@@ -2156,7 +2156,7 @@ As I have pointed out already, we may now have a life endowed with the [freedoms
 
 The term [saṃsāra](#saṃsāra), the [wheel](#wheel) or round of existence, is used here to mean going round and round from one place to another in a circle, like a potter's [wheel](#wheel), or the [wheel](#wheel) of a water mill. When a fly is trapped in a closed jar, no matter where it flies it cannot get out. Likewise, whether we are born in the higher or [lower realms](#lower-realms), we are never outside [saṃsāra](#saṃsāra). The upper part of the jar is like the higher [realm](#realm)s of [gods](#gods) and men, and the lower part like the three unfortunate [realm](#realm)s. It is said that [saṃsāra](#saṃsāra) is a circle because we turn round and round, taking rebirth in one after another of the [six realms](#six-realms-of-existence) as a result of our own actions which, whether positive or negative, are tainted by [clinging](#clinging).
 
-We have been wandering since beginningless time in these samsaric worlds in which every being, without exception, has had relations of affection, enmity and indifference with every other being. Everyone has been everyone else's father and mother. In the [sūtras](#sūtra) it is said that if you wished to count back the generations of mothers in your family, saying, "She was my mother's mother; her mother was so and so..." and so on, using little pellets of earth as big as a juniper berry to count them, the whole earth would be used up before you had counted them all. As [Lord Nāgārjuna](#nāgārjuna) says:
+We have been wandering since beginningless time in these saṃsāric worlds in which every being, without exception, has had relations of affection, enmity and indifference with every other being. Everyone has been everyone else's father and mother. In the [sūtras](#sūtra) it is said that if you wished to count back the generations of mothers in your family, saying, "She was my mother's mother; her mother was so and so..." and so on, using little pellets of earth as big as a juniper berry to count them, the whole earth would be used up before you had counted them all. As [Lord Nāgārjuna](#nāgārjuna) says:
 
 > We would run out of earth trying to count our mothers  
 With balls of clay the size of juniper berries.  
@@ -2695,9 +2695,9 @@ Finally:
 
 There is not one of us in the world who does not want to be happy and feel good; and yet none of us gets what we want. For instance, a family trying to make themselves comfortable build a house, but it collapses and kills them. A person might eat to satisfy his hunger, but the food makes him ill and endangers his life. Soldiers go to battle hoping for victory, and immediately get killed. A group of merchants go on a trading expedition in high hopes of profit, but are attacked and reduced to beggary. No matter how much effort and [energy](#energy) we expend in the hope of [becoming](#becoming) happy and rich in this life, unless actions in our past lives have created that potential we will not even be able to satisfy our immediate hunger. All we do is to make trouble for ourselves and others. The only result we can be sure of achieving is not to be liberated from the depths of the [lower realms](#lower-realms). That is why a single spark of [merit](#merit) is worth more than a mountain of effort. 
 
-What use are samsaric activities that never come to an end? All the effort we have made throughout beginningless time in [saṃsāra](#saṃsāra) trying to get what we want has brought us nothing but suffering. In the past, had we taken all the [energy](#energy) we devoted to worldly aims over the early or later part of just one life and devoted that [energy](#energy) to the [Dharma](#dharma) instead, we would already be [Buddha](#buddha)s by now. And if not, then at least we would definitely never again be subject to the sufferings of the [lower realms](#lower-realms).
+What use are saṃsāric activities that never come to an end? All the effort we have made throughout beginningless time in [saṃsāra](#saṃsāra) trying to get what we want has brought us nothing but suffering. In the past, had we taken all the [energy](#energy) we devoted to worldly aims over the early or later part of just one life and devoted that [energy](#energy) to the [Dharma](#dharma) instead, we would already be [Buddha](#buddha)s by now. And if not, then at least we would definitely never again be subject to the sufferings of the [lower realms](#lower-realms).
 
-We should meditate as follows: now that we know the difference between what we should do and what we should not, let us stop putting great hopes in samsaric enterprises that will never be accomplished&mdash;and instead practise the true [Dharma](#dharma), in which [accomplishment](#accomplishment) is certain.
+We should meditate as follows: now that we know the difference between what we should do and what we should not, let us stop putting great hopes in saṃsāric enterprises that will never be accomplished&mdash;and instead practise the true [Dharma](#dharma), in which [accomplishment](#accomplishment) is certain.
 
 ##### 4.3.4 The suffering of encountering what one does not want
 
@@ -3018,7 +3018,7 @@ For the visualization that follows, see yourself as staying in your ordinary for
 
 <details id="181"><summary>Note <sup>181</sup></summary>In the main practice (see <a href="#introduction">Introduction</a>) one often visualizes oneself in the form of a <a href="#deity">deity</a>. Here we consider we are ordinary and impure at first, and through the practice we become pure. So at the outset we think of our body as being in its usual everyday form.</details>
 
-<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#saṃsāra">saṃsāra</a> to benefit mother sentient beings, but he never engages in samsaric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
+<details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#saṃsāra">saṃsāra</a> to benefit mother sentient beings, but he never engages in saṃsāric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
 
 <sup>*</sup><br>
 ![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
@@ -3078,7 +3078,7 @@ His two legs are crossed in the [[vajra](#vajra) posture](#vajra-posture) and he
 
 This visualization provides [the power of support](#1-the-power-of-support). It is not a flat image like a [tangka](#tangka) or a fresco. Nor is it inert and inanimate like a clay or gold statue, which is solid and material. It appears: every detail appears clearly and distinctly, even the pupils and whites of the eyes. Yet it is empty: there is not one atom of solid substance to it, no flesh, no blood, no internal organs. It is like a rainbow appearing in space or an immaculate crystal vase. And it is imbued with [wisdom](#wisdom): Lord [Vajrasattva](#vajrasattva) is identical in nature with your own compassionate [root teacher](#root-teacher), and his mind reaches out to you and to all beings with great love.
 
-As [the power of regret](#2-the-power-of-regretting-having-done-wrong), in his presence call to mind all the [negative action](#negative-action)s you think of that you have accumulated until now, in one samsaric existence after another since time without [beginning](#beginning): 
+As [the power of regret](#2-the-power-of-regretting-having-done-wrong), in his presence call to mind all the [negative action](#negative-action)s you think of that you have accumulated until now, in one saṃsāric existence after another since time without [beginning](#beginning): 
 - the ten [negative action](#negative-action)s of body, speech and mind  
 - the [five crimes with immediate retribution](#five-crimes-with-immediate-retribution)  
 - the four serious faults  
@@ -3329,8 +3329,11 @@ having the qualities of [vajra](#vajra).
 ## Ānanda
 *kun dga' bo*, a cousin of the [Buddha](#buddha) who became his attendant. He was instrumental in the preservation of the teachings after the Buddha had left this world, as he was able to remember everything that he had heard the Buddha say.
 
-## Anandagarbha
+## Ānandagarbha
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
+
+## Angulimāla
+*sor mo threng ba*, one of the Buddha's disciples, who despite having killed nine hundred and ninety nine people, was able, by purifying his negative actions, to attain the level of [Arhat](#arhat). His name means "Garland of Fingers."
 
 ## Ancient Tradition
 *rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantrayāna) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oḍḍiyāna) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
@@ -3354,19 +3357,19 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *bsnyen sgrub*, two steps in practices involving the recitation of a [mantra](#mantra). In the first, practitioners *approach* the deity that they are visualizing by reciting the [deity's](#deity) mantra. In the second they are familiar enough to identify themselves with the deity.
 
 ## Arhat
-*dgra bcom pa*. To become an Arhat is the final goal of the [Sravakayana](#sravakayana). It is a kind of [nirvāṇa](#nirvāṇa), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
+*dgra bcom pa*. To become an Arhat is the final goal of the [Śrāvakayāna](#śrāvakayāna). It is a kind of [nirvāṇa](#nirvāṇa), beyond rebirth, but falls short of Buddhahood. The Tibetan word literally means one who has subdued the enemies, i.e. [negative emotions](#negative-emotions).
 
 ## Arura and kyurura
 *Terminalia chebula* and *Emblica officinalis*, chebulic and emblic myrobolan, medicinal plants. Aura is the emblem of the [Medicine Buddha](#medicine-buddha).
 
 ## Āryadeva
-*'phags pa lha* (2nd century), the most famous disciple of [Nāgārjuna](#nāgārjuna), whose teaching he commented upon in several treatises on [Madhyamika](#madhyamika) philosophy. See [Middle way](#middle-way).
+*'phags pa lha* (2nd century), the most famous disciple of [Nāgārjuna](#nāgārjuna), whose teaching he commented upon in several treatises on [Mādhyamika](#mādhyamika) philosophy. See [Middle way](#middle-way).
 
 ## Asaṅga
 *thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [śāstras](#śāstra), in particular the five teachings he received from [Maitreya](#maitreya).
 
 ## Atīśa
-(982-1054), also known as [Dipamkara](#dipamkara) or [Jowo](#jowo) Atīśa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramaśīla](#vikramaśīla), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarnadvipa (Dharmakirti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
+(982-1054), also known as [Dipaṃkara](#dipaṃkara) or [Jowo](#jowo) Atīśa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramaśīla](#vikramaśīla), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarṇadvīpa (Dharmakīrti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
 
 ## Atiyoga
 the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
@@ -3378,7 +3381,7 @@ the highest of the three inner yogas, the summit of the Nine Vehicles according 
 *rig pa*, Skt. *vidya*, the original state of the mind, fresh, vast, luminous, and beyond thought.
 
 ## Becoming
-*srid pa*, the process of samsaric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [saṃsāra](#saṃsāra) as opposed to *zhi ba*, the peace of [nirvāṇa](#nirvāṇa).
+*srid pa*, the process of saṃsāric existence. The Tibetan word is often used in the sense of "possibility," and represents all the concepts which we project onto reality and which become the illusory world that we perceive. It is often used as synonym for [saṃsāra](#saṃsāra) as opposed to *zhi ba*, the peace of [nirvāṇa](#nirvāṇa).
 
 ## Beginning
 We have used this word to translate *ye* in expressions like *ye nas*, "from the very beginning" or *ye dag* "pure from the beginning." However it should be understood that this does not refer to a first moment of origin or creation in the distant past, but rather to the fact that the pure nature has always been intrinsically present. 
@@ -3386,7 +3389,7 @@ We have used this word to translate *ye* in expressions like *ye nas*, "from the
 ## Bell
 *dril bu*, Skt. *ghanta*. See [vajra](#vajra).
 
-## Bhagavan
+## Bhagavān
 *bcom ldan 'das*, an epithet of the [Buddha](#buddha). He who has vanquished (*bcom*) the [four demons](#four-demons), possess (*ldan*) all the qualities of realization, and is beyond (*das*) [saṃsāra](#saṃsāra) and [nirvāṇa](#nirvāṇa).
 
 ## Bhrikuti
@@ -3604,8 +3607,8 @@ Thus has proclaimed the Great Renunciant.
 ## Dharmodgata
 *chos 'phags*, "Sublime Dharma," [Bodhisattva](#bodhisattva) from whom Sadaprarudita received the teachings on transcendent wisdom.
 
-## Dipamkara
-[Atista's](#atīśa) ordination name.
+## Dipaṃkara
+[Atiśa's](#atīśa) ordination name.
 
 ## Directions
 see [ten directions](#ten-directions).
@@ -4206,7 +4209,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 ## Machik Labdron
 *ma cig lab sgron* (1031-1129), a disciple of [Padampa Sangye](#padampa-sangye), she became the holder of his instructions on the [Cho](#cho) practice.
 
-## Madhyamika
+## Mādhyamika
 *dbu ma'i lam*, see [Middle Way](#middle-way).
 
 ## Mahāyāna
@@ -4353,7 +4356,7 @@ see [New Tradition](#new-tradition).
 *sprul sku*, body of manifestation, the aspect of Buddhahood which manifests out of compassion to help ordinary beings.
 
 ## Nirvāṇa
-*mya ngan las 'das pa*, the state beyond suffering. The conception of nirvāṇa differs in the [Sravakayana](#sravakayana), [Mahāyāna](#mahāyāna) and [Vajrayāna](#vajrayāna).
+*mya ngan las 'das pa*, the state beyond suffering. The conception of nirvāṇa differs in the [Śrāvakayāna](#śrāvakayāna), [Mahāyāna](#mahāyāna) and [Vajrayāna](#vajrayāna).
 
 ## Non-action
 acting without conceptualizing, from the state of realization that the actor, the action and the object acted upon are all without intrinsic reality.
@@ -4640,7 +4643,7 @@ Homage to the Saṃgha too
 *sa ra ha*, Indian [mahāsiddha](#mahāsiddha), author of three cycles of [dohas](#doha)
 
 ## Sariputra
-*sha ri'i bu*, one of the two foremost [Sravaka](#sravaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni)
+*sha ri'i bu*, one of the two foremost [Śrāvaka](#śrāvaka) disciples of [Buddha](#buddha) [Sakyamuni](#sakyamuni)
 
 ## Sarvanivaranaviskambhin
 *sgrib pa rnam sel*, one of the [Eight Great Close Sons](#eight-great-close-sons) of [Buddha](#buddha) [Sakyamuni](#sakyamuni).
@@ -4703,7 +4706,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *rnam shes tshogs drug*, Skt. *sadvijnanakaya*, lit. six gatherings of consciousness, meaning the gathering of a sense object, of a sense organ and of a consciousness. They are the vision, hearing, smell, taste, touch, and mental consciousnesses.
 
 ## Six Ornaments
-*rgyan drug*, the six great commentators of the Buddha's teachings: [Nāgārjuna](#nāgārjuna), [Āryadeva](#āryadeva), [Asaṅga](#asaṅga), Vasubandhu, Dignaga, and Dharmakirti.
+*rgyan drug*, the six great commentators of the Buddha's teachings: [Nāgārjuna](#nāgārjuna), [Āryadeva](#āryadeva), [Asaṅga](#asaṅga), Vasubandhu, Dignaga, and Dharmakīrti.
 
 ## Six realms of existence
 *'gro drug*, Skt. *sadgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pancagati*), counting gods and demigods together as one realm.
@@ -4741,11 +4744,11 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 ## Spiritual treasure
 *gter ma*, teachings, with statues and other objects, that were hidden by [Padmasambhava](#padmasambhava-of-oḍḍiyāna), [Yeshe Tsogyal](#yeshe-tsogyal) and others in earth, rocks, lakes and trees, or even in more subtle locations such as space or mind for the sake of future generations, and then rediscovered in miraculous ways by incarnations of [Padmasambhava's](#padmasambhava-of-oḍḍiyāna) disciples, the treasure discoverers.
 
-## Sravaka
-*nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [saṃsāra](#saṃsāra) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Sravakas do not aspire to full enlightenment for the sake of all beings.
+## Śrāvaka
+*nyan thos*, a follower of the root vehicle of Buddhism whose goal is to attain liberation from the sufferings of [saṃsāra](#saṃsāra) as an [Arhat](#arhat). Unlike the followers of the [Great Vehicle](#great-vehicle), the Śrāvakas do not aspire to full enlightenment for the sake of all beings.
 
-## Sravakayana
-*nyan thos kyi theg pa*, the vehicle of the [Sravakas](#sravaka).
+## Śrāvakayāna
+*nyan thos kyi theg pa*, the vehicle of the [Śrāvakas](#śrāvaka).
 
 ## Sri Simha
 *dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Manjusrimitra](#manjusrimitra).
@@ -4783,8 +4786,8 @@ see [Bodhisattva levels](#bodhisattva-levels).
 ## Sūtra
 *mdo*, a concise text spoken by the Buddha; one of the Three [Piṭakas](#piṭaka). See [Tripiṭaka](#tripiṭaka). See also: Wikipedia's [List of suttas](https://en.wikipedia.org/wiki/List_of_suttas), Access to Insight's [Index of Suttas](https://www.accesstoinsight.org/index-sutta.html), and 84,000's reading room with [The Kangyur and The Tengyur](https://read.84000.co/section/lobby.html).
 
-## Suvarnadvipa (Lord of)
-*gser gling pa*, a Buddhist master, Dharmakirti, who lived in Sumatra in the 10th century. [Atīśa](#atīśa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
+## Suvarṇadvīpa (Lord of)
+*gser gling pa*, a Buddhist master, Dharmakīrti, who lived in Sumatra in the 10th century. [Atīśa](#atīśa) considered him as the most important of the teachers from whom he received the teachings on bodhicitta.
 
 ## Svābhāvikakāya
 *ngo bo nyid kyi sku*, the Body of the Essential Nature; the fourth kaya, the aspect of inseparability of the first three, [Dharmakāya](#dharmakāya), [Saṃbhogakāya](#saṃbhogakāya), and [Nirmāṇakāya](#nirmāṇakāya).
