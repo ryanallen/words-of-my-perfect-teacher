@@ -385,7 +385,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [Postface by Jamgon Kongtrul Lodro Thaye](#postface)
 
-[Notes](#notes)  
+Notes *— integrated inline; see [Preface to the Hand-copied Digital Edition](#digital-preface)*
 [Glossary](#glossary)  
 [Bibliography](#bibliography)  
 [Index](#index)    
@@ -456,7 +456,7 @@ Thank you, great teachers. <a href="https://github.com/ryanallen">Ryan Allen</a>
 Changes in this edition:
 
 - Clickable contents, sections, and glossary.
-- Footnotes collapse under their paragraph; no page numbers.
+- Notes and footnotes appear inline, beneath the passage they annotate; no separate notes section or page numbers.
 - Dotted notes (e.g. [37.1](#37-1)) add context with source links. The [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
 - Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) keep their number in the title.
 - British spellings → American (e.g. armour → armor).
@@ -472,7 +472,7 @@ May all beings be free from suffering.
 
 *<h1 id="preface" align="center">Preface to the Second Edition</h1>*
 
-  The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgon Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the [notes](#notes) and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
+  The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgon Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the notes and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
 
   However, the principal change is a revision of the text itself, the fruit of a painstaking, detailed re-reading by Pema Wangyal Rinpoche. His numerous comments, clarifications and queries&mdash;on average three or four per page&mdash;have enabled us to take a critical look at the accuracy of our translation and to bring it closer still to Patrul Rinpoche's original meaning. Readers of the first edition may be assured that we have found no glaring errors in the substance of the instructions and practices explained. Nevertheless, in a text so justly celebrated for its extraordinary wealth of detail and anecdote, it is in those finer details that we hope the translation has gained in authenticity and accuracy.
 
