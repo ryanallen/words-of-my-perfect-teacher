@@ -2700,6 +2700,16 @@ What use are samsaric activities that never come to an end? All the effort we ha
 We should meditate as follows: now that we know the difference between what we should do and what we should not, let us stop putting great hopes in samsaric enterprises that will never be accomplished&mdash;and instead practise the true [Dharma](#dharma), in which [accomplishment](#accomplishment) is certain.
 
 ##### 4.3.4 The suffering of encountering what one does not want
+
+There is not one of us in the world who wants any of the sufferings described here, and yet they are what we experience all the time, whether we like it or not. There are people, for example, who because of their past actions become the subjects of a particular ruler or the slaves of some rich person. Against their wish, they are completely subordinated to the will of their masters, without a moment's freedom. They might be punished terribly for the smallest mistakes, and there is still nothing they can do. Even if they were being led right now to the execution ground, they would know they could not escape.
+
+We are always encountering what we do not want. As the [Great Omniscient One](#great-omniscient-one)<sup>*</sup> says:
+
+<sup>*Longchenpa.</sup>
+
+> You would like to stay with family and loved ones  
+>
+
 ### **5. The asuras**
 ### **6. The [gods](#gods)**
 
