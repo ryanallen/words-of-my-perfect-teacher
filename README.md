@@ -998,7 +998,7 @@ Such dreams about the past and future will never come to fruition and are only a
 
 Do not focus too intently, picking out individual words and points, like a *dremo* bear digging up marmots&mdash;each time you seize one item, you forget the one before, and will never get to understand the whole. **Too much [concentration](#concentration) also makes you sleepy. Instead keep a balance between tight and loose.**
 
-Once, in the past, [Ānanda](#ānanda) was teaching [Srona](#srona-sronajat) to meditate. Srona had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Srona went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vīṇā](#vīṇā)*-player, weren't you?"
+Once, in the past, [Ānanda](#ānanda) was teaching [Śroṇa](#śroṇa-śroṇajāt) to meditate. Śroṇa had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Śroṇa went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vīṇā](#vīṇā)*-player, weren't you?"
 
 "Yes, I played very well."
 
@@ -1006,7 +1006,7 @@ Once, in the past, [Ānanda](#ānanda) was teaching [Srona](#srona-sronajat) to 
 
 "It sounded best when they were neither too taut nor too loose."
 
-"It is the same for your mind," said the [Buddha](#buddha); and by practicing with that advice [Srona](#srona-sronajat) attained his goal.
+"It is the same for your mind," said the [Buddha](#buddha); and by practicing with that advice [Śroṇa](#śroṇa-śroṇajāt) attained his goal.
 
 [Machik Labdrön](#machik-labdrön) says:
 
@@ -2339,7 +2339,7 @@ Inside they found a big frog being eaten alive by a mass of insects. After doing
 
 At the time of the [Buddha](#śākyamuni), there was a village butcher who made a vow never to kill animals at night. He was reborn in an ephemeral [hell](#hell). At night his pleasure knew no bounds. He lived in a beautiful mansion, with four lovely women plying him with food and drink and other pleasures. During the day, however, the walls of the house would transform into blazing hot metal and the four women into terrifying brown dogs who fed on his body.
 
-Long ago, [Srona](#srona-sronajat) saw an adulterer who had vowed to keep from infidelity during the day. In contrast to the butcher, he suffered only during the night.
+Long ago, [Śroṇa](#śroṇa-śroṇajāt) saw an adulterer who had vowed to keep from infidelity during the day. In contrast to the butcher, he suffered only during the night.
 
 There was once a delightful monastery, housing about five hundred monks. When the [bell](#bell) rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of [Buddha](#buddha) [Kāśyapa](#kāśyapa), many monks had argued at the time of the midday meal, and this was the fully ripened effect.<sup>*</sup>
 
@@ -2377,9 +2377,9 @@ Sometimes they see an orchard of fruit trees in the distance. As before, they ap
 
 In summer, even the moonlight feels hot and burns them; in winter, even the sun feels icy cold. These sensations torture them terribly.  
 
-Once, when [Srona](#srona-sronajat) was in the land of the [pretas](#preta), he found their avarice so poisonous that it gave him a fever and his mouth became completely dry. He came across an iron castle at whose door stood a terrifying somber figure with red eyes.
+Once, when [Śroṇa](#śroṇa-śroṇajāt) was in the land of the [pretas](#preta), he found their avarice so poisonous that it gave him a fever and his mouth became completely dry. He came across an iron castle at whose door stood a terrifying somber figure with red eyes.
 
-"Where is there some water?" [Srona](#srona-sronajat) asked.
+"Where is there some water?" [Śroṇa](#śroṇa-śroṇajāt) asked.
 
 At these words, a crowd of [pretas](#preta), all looking like lumps of burnt wood, came milling around him, begging, "Great perfect being, give us water!"
 
@@ -2395,11 +2395,11 @@ These [pretas](#preta) have mouths no bigger than the eye of a needle. Even were
 
 These [pretas](#preta) have all sorts of different experiences that vary from one to another and are of varying intensity. For example, some have many creatures living on their bodies and devouring them.
 
-Once when he was traveling in the land of the [pretas](#preta), [Srona](#srona-sronajat) came to a palace where he met a beautiful woman. Exquisitely formed and bedecked with precious jewels, she was ravishing to behold. To each of the four legs of her throne a [preta](#preta) was tied. She offered [Srona](#srona-sronajat) something to eat, warning him not to give the smallest scrap to the other [preta](#preta)s even if they begged for it. When [Srona](#srona-sronajat) started to eat they began to beg. He gave some food to one of them and it turned into chaff; what he gave to the second turned into a lump of iron; the third started to eat his own flesh, and what he gave to the fourth became pus and blood.
+Once when he was traveling in the land of the [pretas](#preta), [Śroṇa](#śroṇa-śroṇajāt) came to a palace where he met a beautiful woman. Exquisitely formed and bedecked with precious jewels, she was ravishing to behold. To each of the four legs of her throne a [preta](#preta) was tied. She offered [Śroṇa](#śroṇa-śroṇajāt) something to eat, warning him not to give the smallest scrap to the other [preta](#preta)s even if they begged for it. When [Śroṇa](#śroṇa-śroṇajāt) started to eat they began to beg. He gave some food to one of them and it turned into chaff; what he gave to the second turned into a lump of iron; the third started to eat his own flesh, and what he gave to the fourth became pus and blood.
 
 When the woman came back, she cried, "Didn't I tell you not to give them anything! Do you think that you are more compassionate than I am?"
 
-"What is the connection between you and these four?" [Srona](#srona-sronajat) asked her.
+"What is the connection between you and these four?" [Śroṇa](#śroṇa-śroṇajāt) asked her.
 
 "This was my husband; that one was my son, that was my daughter-in-law, and the fourth was my servant."
 
@@ -2409,7 +2409,7 @@ When the woman came back, she cried, "Didn't I tell you not to give them anythin
 
 "How could I not believe you, when I am seeing this with my very own eyes?"
 
-So the woman told [Srona](#srona-sronajat) her story. "I was a [brāhmaṇa](#brahmin) woman in a village. One evening, I had prepared some delicious food because it was an auspicious day. The great and sublime [Kātyāyana](#kātyāyana) happened to come by on his alms round. I felt faith in him and gave him an offering of food. Then I [thought](#thought) to myself that perhaps my husband would like to share the [merit](#merit). 'Rejoice with me that I have given alms to the great and [sublime](#sublime-being) [Kātyāyana](#kātyāyana), the [Buddha's](#buddha) heir,' I said to him. But he flew into a rage. 'You have not yet offered food to the [brahmins](#brahmin), nor even presented your respects to your family and friends, and there you are giving the first part of the food to this shaven-skulled monk! Why can't he stuff his mouth with chaff?'
+So the woman told [Śroṇa](#śroṇa-śroṇajāt) her story. "I was a [brāhmaṇa](#brahmin) woman in a village. One evening, I had prepared some delicious food because it was an auspicious day. The great and sublime [Kātyāyana](#kātyāyana) happened to come by on his alms round. I felt faith in him and gave him an offering of food. Then I [thought](#thought) to myself that perhaps my husband would like to share the [merit](#merit). 'Rejoice with me that I have given alms to the great and [sublime](#sublime-being) [Kātyāyana](#kātyāyana), the [Buddha's](#buddha) heir,' I said to him. But he flew into a rage. 'You have not yet offered food to the [brāhmaṇas](#brahmin), nor even presented your respects to your family and friends, and there you are giving the first part of the food to this shaven-skulled monk! Why can't he stuff his mouth with chaff?'
 
 "I made that same proposition to my son, who also got angry: 'Why doesn't your bald-head eat lumps of iron?' he yelled.
 
@@ -3787,21 +3787,21 @@ See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.or
 ## Five poisons
 *dug lnga*, the five negative emotions:
 1. bewilderment, *gti mug*, Skt. *moha* (AT: ignorance, confusion),
-2. attachment, *'dod chags, raga* (AT: desire),
-3. aversion, *zhe sdang, dvesa* (including hatred, anger, etc.),
-4. jealousy, *phra dog, irsya*, and
-5. pride, *nga rgyal, mana*.
+2. attachment, *'dod chags, rāga* (AT: desire),
+3. aversion, *zhe sdang, dveṣa* (including hatred, anger, etc.),
+4. jealousy, *phra dog, irsyā*, and
+5. pride, *nga rgyal, māna*.
 
 ## Five samayas of relishing
 *dang du slang ba'i dam tshig lnga*, five secondary [samayas](#samaya) in the Great Perfection. They are concerned with the enjoyment of the five meats and the five nectars, substances used by tantric practitioners which are ordinarily considered impure or taboo. See note [131](#131).
 
 ## Five sciences
 *rig gnas lnga*, Skt. *pañcavidyā*, the five branches of learning that a [paṇḍita](#paṇḍita) must master:
-1. the making of things (*gzo rig gnas, silpavidya*), 
-2. the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsavidya*),
-3. philology (*sgra' rigs gnas, Sabdavidya*),
-4. logic (*gtan tshigs kyi rig gnas, hetuvidya*) and
-5. philosophy (*nang don rig gnas, abhyatmavidya*).
+1. the making of things (*gzo rig gnas, śilpāvidyā*), 
+2. the repairing of things (includes medicine; *gso ba'i rig gnas, cikitsāvidyā*),
+3. philology (*sgra' rigs gnas, śabdavidyā*),
+4. logic (*gtan tshigs kyi rig gnas, hetuvidyā*) and
+5. philosophy (*nang don rig gnas, adhyātmavidyā*).
 
 ## Five wisdoms
 *ye shes lnga*, five aspects of the wisdom of Buddhahood: 
@@ -3823,9 +3823,9 @@ See [five families](#five-families).
 ## Four boundless qualities
 *tshad med bzhi*, Skt. *caturaprameya*, 
 1. unlimited love (*byams pa,* Skt. *maitrī*), 
-2. compassion (*snying rje, karuna*), 
-3. joy (*dga' ba, mudita*), and
-4. equanimity (*btang snyoms, upeksa*).
+2. compassion (*snying rje, karunā*), 
+3. joy (*dga' ba, muditā*), and
+4. equanimity (*btang snyoms, upekṣā*).
 
 ## Four concentrations
 *bsam gtan bzhi*, Skt. *caturdhyāna*, four levels of meditative absorption, the fruit of which is to be reborn in four kinds of god realms in the World of Form. However they can also be used on the path of enlightenment.
@@ -3872,8 +3872,8 @@ as principles of
 *gzugs med bzhi*, four concentrations called 
 1. infinite space (*nam mkha' mtha' yas,* Skt. *ākāsānantya*), 
 2. infinite consciousness (*nam shes mtha' yas, vijñānānantya*), 
-3. nothing at all (*ci yang med pa, akimcanya*), and 
-4. neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); 
+3. nothing at all (*ci yang med pa, ākiṃcanya*), and 
+4. neither existing nor non-existing (*'du shes med 'du shes med min, naivasaṃjñānāsaṃjñā*); 
 
 four god realms corresponding to these concentrations.
 
@@ -3932,8 +3932,8 @@ or into six groups:
 ## Four ways of attracting beings
 *bsdu ba'i ngos po bzhi* Skt. *catuḥsaṃgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples:
 1.  being generous (*sbyin pa*, Skt. *dāna*),
-2.  speaking in a pleasant manner (*snyan par smra ba, priyavadita*),
-3.  teaching in accordance with individuals' needs (*don mthun pa, samanarthata*),
+2.  speaking in a pleasant manner (*snyan par smra ba, priyavāditā*),
+3.  teaching in accordance with individuals' needs (*don mthun pa, samānarthatā*),
 4.  acting in accordance with what he teaches (*don spyod pa, arthācārya*).
 
 ## Fruit empowerment
@@ -4239,7 +4239,7 @@ See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 *byams pa'i rnal 'byor pa*, one of [Atīśa's](#atīśa) three principal teachers.
 
 ## Major and minor marks
-*mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahāpuruṣa lakṣaṇa*) and eighty minor ones (*dpe byad, anuvyanjana*) characteristic of a [Buddha](#buddha).
+*mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahāpuruṣa lakṣaṇa*) and eighty minor ones (*dpe byad, anuvyañjana*) characteristic of a [Buddha](#buddha).
 
 ## Mamo
 *ma mo*, Skt. *mātṛkā*, a kind of [ḍākinī](#ḍākinī).
@@ -4753,7 +4753,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 ## Śrī Siṃha
 *dpal gyi seng ge* (4th century), the third human teacher in the lineage of transmission of the [Great Perfection](#great-perfection) teachings, disciple of [Mañjuśrīmitra](#mañjuśrīmitra).
 
-## Srona (Sronajat)
+## Śroṇa (Śroṇajāt)
 *gro byin skyes*, a [vīṇā](#vīṇā) player who became a disciple of the Buddha and gained the ability to visit other realms, notably those of the [pretas](#preta).
 
 ## Study
@@ -5211,7 +5211,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravarahi (
 *ye shes mtsho rgyal*, [Padmasambhava's](#padmasambhava-of-oḍḍiyāna) mystic [consort](#consort) and greatest disciple. She served him perfectly, and helped him to propagate his teachings, in particular concealing [spiritual treasures](#spiritual-treasure) to be rediscovered later for the sake of future disciples.
 
 ## Yidam
-*yi dam*, Skt. *devatā*, *istadevata*, a deity representing enlightenment, in a male or female, peaceful or wrathful form corresponding to one's individual nature. The yidam is the source of accomplishments. See [three roots](#three-roots).
+*yi dam*, Skt. *devatā*, *iṣṭadevatā*, a deity representing enlightenment, in a male or female, peaceful or wrathful form corresponding to one's individual nature. The yidam is the source of accomplishments. See [three roots](#three-roots).
 
 ## Yoga
 *rnal 'byor*, practice, lit. a method for uniting (*'byor*) with the natural state (*rnal ma*).
