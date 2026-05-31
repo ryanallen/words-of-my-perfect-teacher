@@ -4051,13 +4051,13 @@ or into six groups:
 *mos pa mtha yas*, a future [Buddha](#buddha), the last of the thousand Buddhas who will appear in this present [Good Kalpa](#good-kalpa).
 
 ## Innate (wisdom, joy, etc.)
-*lhan skyes*, Skt. *sahaja*, lit. born together, meaning that [wisdom](#wisdom), joy, and nirvāṇa in general are latently present even as we experience ignorance, suffering and saṃsāra. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
+*lhan skyes*, Skt. *sāhaja*, lit. born together, meaning that [wisdom](#wisdom), joy, and nirvāṇa in general are latently present even as we experience ignorance, suffering and saṃsāra. The two aspects of one and the same nature are "born together", but perceived as opposites by unenlightened minds.
 
 ## Inseparable Universe
 *mi 'byed 'jig rten*, our world, the field of activity of [Śākyamuni](#śākyamuni).
 
 ## Intermediate state
-*bar do*, Skt.*antarabhava*, term used for the various stages of experience between death and the next, with a wider interpretation that includes the various states of consciousness in life. Four intermediate states are distinguished: 1) the natural intermediate state of this life (*rang bzhin skyes gnas bar do*), 2) the intermediate state of the moment of death (*'chi kha'i bar do*), 3) the [intermediate state of absolute reality](#intermediate-state-of-absolute-reality) (*chos nyid bar do*), and 4) the [intermediate state of becoming](#intermediate-state-of-becoming) (*srid pa'i bar do*); or, to make six intermediate states, two more particular states, within the first, can be added: 5) the intermediate state of dream (*rmi lam bar do*) and 6) the intermediate state of meditative concentration (*bsam gtan bar do*).
+*bar do*, Skt.*antarābhava*, term used for the various stages of experience between death and the next, with a wider interpretation that includes the various states of consciousness in life. Four intermediate states are distinguished: 1) the natural intermediate state of this life (*rang bzhin skyes gnas bar do*), 2) the intermediate state of the moment of death (*'chi kha'i bar do*), 3) the [intermediate state of absolute reality](#intermediate-state-of-absolute-reality) (*chos nyid bar do*), and 4) the [intermediate state of becoming](#intermediate-state-of-becoming) (*srid pa'i bar do*); or, to make six intermediate states, two more particular states, within the first, can be added: 5) the intermediate state of dream (*rmi lam bar do*) and 6) the intermediate state of meditative concentration (*bsam gtan bar do*).
 
 ## Intermediate state of absolute reality
 *chos nyid bar do*, intermediate state during which absolute reality manifests as pure forms of peaceful or wrathful aspect, according to one's own individual tendencies.
