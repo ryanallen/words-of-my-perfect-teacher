@@ -1329,7 +1329,7 @@ Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Ko
 These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details of the story sites, see HIST, Vol. 1, page 510 and notes.
 </details><br>
 
-His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oḍḍiyāna), the Preceptor of [Oḍḍiyāna](#oḍḍiyāna), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotsana](#vairotsana), learned the art of translation and translated all the main [sūtras](#sūtra), [tantras](#tantra) and [śāstras](#śāstra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Saṃgha](#saṃgha), to uphold the [Buddha](#buddha)'s mind.
+His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oḍḍiyāna), the Preceptor of [Oḍḍiyāna](#oḍḍiyāna), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotṣana](#vairotṣana), learned the art of translation and translated all the main [sūtras](#sūtra), [tantras](#tantra) and [śāstras](#śāstra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Saṃgha](#saṃgha), to uphold the [Buddha](#buddha)'s mind.
 
 From that time onwards up to the present day, the teachings of the [Buddha](#buddha) have shone like the sun in Tibet and, despite ups and downs, the doctrine of the [Conqueror](#conqueror) has never been lost in either of its aspects, transmission or realization. Thus Tibet, as far as the [Dharma](#dharma) is concerned, is a central country.
 
@@ -2137,7 +2137,7 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 [alt text](image_url)
 
 *<p id="jetsun-trakpa-gyaltsen-il" align="center">Jetsun <a href="#trakpa-gyaltsen">Trakpa Gyaltsen</a> (1147 - 1216)</p>*
-<p align="center">A great scholar and early teacher of the <a href="#sakyapa">Sakya school</a>.</p>
+<p align="center">A great scholar and early teacher of the <a href="#sakyapa">Śākya school</a>.</p>
 
 ---
 
@@ -3420,7 +3420,7 @@ the title by which [Śāntarakṣita](#śāntarakṣita) is sometimes known.
 *phags pa'i sa*, lit. sublime levels, Skt. *bhūmi*. The ten levels of realization reached by [Bodhisattvas](#bodhisattva) on the paths of seeing, meditation and beyond learning. In some classifications additional levels are added. "These levels are sublime because they are far beyond ordinary beings." DICT.
 
 ## Bodhnath (stūpa)
-*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stūpas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stūpa*, a terma discovered by Sakya Zangpo (translated by Keith Downam as *The Legend of the Great Stūpa*, berkeley, Dharma Publishing, 1973).
+*bya rung kha shor*, pronounced "Jarungkashor", one of the two great stūpas in the Kathmandu valley. The story of its construction is related to the advent of Buddhism in Tibet and described in the *History of the Jarungkhashor Stūpa*, a terma discovered by Śākya Zangpo (translated by Keith Downam as *The Legend of the Great Stūpa*, berkeley, Dharma Publishing, 1973).
 
 ## Body, speech, mind, qualities and activity
 *sku, gsung, thugs, yon tan, phrin las*, five aspects of Buddhahood. Sometimes referred to as the [five kāyas](#five-kāyas). See also [five families](#five-families).
@@ -3486,7 +3486,7 @@ see [Karma Chagme](#karma-chagme).
 *gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdron](#machik-labdron) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyoton Sonam Lama, and propagated them in Tibet.
 
 ## Chogyal Pakpa
-*chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Sakya](#sakyapa) school known as the Sakya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
+*chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Śākya](#sakyapa) school known as the Śākya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
 
 ## Circumambulation
 *skor ba*, act of veneration consisting in walking clockwise, concentratedly and with awareness, around a sacred object, e.g. a temple, [stūpa](#stūpa), holy mountain, or the house, and even the person, of a spiritual master.
@@ -4015,7 +4015,7 @@ or into six groups:
 *bla ma'i rnal 'byor*, practice of mixing one's mind with the teacher's mind.
 
 ## Gyalse Rinpoche
-*rgyal sras rin po che*, lit. the Precious Son of the Conquerors. A title given to Thogme Zangpo (1295 - 1369), a great master of the [Nyingma](#nyingmapa) and [Sakya](#sakyapa) traditions and author of the *Thirty Seven Elements of a Bodhisattva's Practice (rgyal sras lag len)*.
+*rgyal sras rin po che*, lit. the Precious Son of the Conquerors. A title given to Thogme Zangpo (1295 - 1369), a great master of the [Nyingma](#nyingmapa) and [Śākya](#sakyapa) traditions and author of the *Thirty Seven Elements of a Bodhisattva's Practice (rgyal sras lag len)*.
 
 ## Gyelgong
 *rgyal 'gong*, a class of malignant spirits.
@@ -4083,7 +4083,7 @@ or into six groups:
 ## Jowo
 *jo bo*, lit. lord. A title often used by Tibetans for the Indian [paṇḍita](#paṇḍita) [Atīśa](#atīśa).
 
-## Jowo and Sakya
+## Jowo and Śākya
 *jo shag rnam gnyis*, Jowo Mikyo Dorje and Jowo Śākyamuni, two statues of the [Buddha](#buddha) brought to Tibet respectively by the Nepalese and Chinese princesses whom [King Songtsen Gampo](#songtsen-gampo) married in the 7th century.
 
 ## Jowo Rinpoche
@@ -4150,7 +4150,7 @@ the three main disciples of [Atīśa](#atīśa). Their full names are Khuton Tso
 *phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddha), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, bodhicitta and awareness-wisdom.
 
 ## King, Subject and Friend
-*rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotsana](#vairotsana) and the [ḍākinī](#ḍākinī) [Yeshe Tsogyal](#yeshe-tsogyal).
+*rje 'bangs grogs gsum*, King [Trisong Detsen](#trisong-detsen), the great translator [Vairotṣana](#vairotṣana) and the [ḍākinī](#ḍākinī) [Yeshe Tsogyal](#yeshe-tsogyal).
 
 ## Kṛṣṇācārya
 *nag po spyod pa*, one of the eighty-four [Mahāsiddhas](#mahāsiddha) of India.
@@ -4177,7 +4177,7 @@ the three main disciples of [Atīśa](#atīśa). Their full names are Khuton Tso
 *dge bsnyen*, Skt. *upāsaka*, someone who has taken the refuge vows and five other vows (or only some of them): not killing, not lying, not stealing, not indulging in improper sexual conduct, and not taking intoxicants. It is one of the eight categories vows of the [Prātimokṣa](#prātimokṣa).
 
 ## Level of union
-*zung 'jug gi go 'phang*, the level of [Vajradhara](#vajradhara). The union is that of [dharmakāya](#dharmakāya) and [rupakaya](#rupakaya).
+*zung 'jug gi go 'phang*, the level of [Vajradhara](#vajradhara). The union is that of [dharmakāya](#dharmakāya) and [rūpakāya](#rūpakāya).
 
 ## Levels
 see [Bodhisattva levels](#bodhisattva-levels).
@@ -4247,7 +4247,7 @@ See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 ## Mandala
 *dkyil 'khor*, lit. center and circumference. 1. The universe with the palace of the deity at the center, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
 
-## Mandarava
+## Mandaravā
 a [ḍākinī](#ḍākinī), daughter of the King of Zahor, in India. One of the five principal disciples and [consorts](#consort) of [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and one of the main holders of his teaching.
 
 ## Māndhātṛ
@@ -4589,7 +4589,7 @@ Homage to the Saṃgha too
 ## Royal posture
 *rgyal po'i rol stabs*, sitting posture with the right leg half stretched and the left drawn in.
 
-## Rupakaya
+## Rūpakāya
 *gzugs sku*, Body of Form, which includes the [saṃbhogakāya](#saṃbhogakāya) and [nirmāṇakāya](#nirmāṇakāya) together.
 
 ## Sadprarudita
@@ -4968,7 +4968,7 @@ they are called respectively the realms of
 *rdzogs pa'i byang chub*, Skt. *sambodhi*, complete Buddhahood.
 
 ## Trakpa Gyaltsen
-*grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Sakya](#sakyapa) school, who are known as the Sakya Gongma.
+*grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Śākya](#sakyapa) school, who are known as the Śākya Gongma.
 
 ## Transcendent perfection
 *pha rol tu phyin pa*, Skt. *pāramitā*. The six methods of training in the bodhicitta of application. They are transcendent because they are accompanied by the wisdom of emptiness. See also [six transcendent perfections](#six-transcendent-perfections).
@@ -5015,7 +5015,7 @@ see [spiritual treasure](#spiritual-treasure).
 *dge bsnyen nyer gcip*, a group of spirits who were subdued by [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and became the protectors of the [Dharma](#dharma).
 
 ## Twenty-five disciples
-*rje 'bang nyer lnga*, the greatest Tibetan disciples of [Padmasambhava](#padmasambhava-of-oḍḍiyāna). All of them attained the supreme accomplishment. The most famous were [King Trisong Detsen](#trisong-detsen), [Yeshe Tsogyal](#yeshe-tsogyal), and [Vairotsana](#vairotsana). Many of the great masters of Tibetan Buddhism are emanations of the twenty-five disciples.
+*rje 'bang nyer lnga*, the greatest Tibetan disciples of [Padmasambhava](#padmasambhava-of-oḍḍiyāna). All of them attained the supreme accomplishment. The most famous were [King Trisong Detsen](#trisong-detsen), [Yeshe Tsogyal](#yeshe-tsogyal), and [Vairotṣana](#vairotṣana). Many of the great masters of Tibetan Buddhism are emanations of the twenty-five disciples.
 
 ## Two accumulations
 *tshogs gnyis*, Skt. *sambharadvaya*, the accumulation of merit (*bsod nams*, Skt. *punya*) and that of wisdom (*ye shes*, *jñāna*).
@@ -5030,7 +5030,7 @@ see [spiritual treasure](#spiritual-treasure).
 *bden pa gnyis*, the [absolute](#absolute-truth) and [relative truths](#relative-truth).
 
 ## Twofold goal
-*don gnyis*, one's own goal, benefit or welfare (*rang don*) and that of others (*gzhan don*). Often understood in the ultimate sense of the goal for oneself being achieved by the realization of emptiness, the [dharmakāya](#dharmakāya), and the goal for others by compassion manifesting as the [rupakaya](#rupakaya).
+*don gnyis*, one's own goal, benefit or welfare (*rang don*) and that of others (*gzhan don*). Often understood in the ultimate sense of the goal for oneself being achieved by the realization of emptiness, the [dharmakāya](#dharmakāya), and the goal for others by compassion manifesting as the [rūpakāya](#rūpakāya).
 
 ## Twofold purity
 *dag pa gnyis*, original purity (*rang bzhin ye dag*), which is the [Buddha nature](#buddha-nature) in all beings, and purity from all adventitious stains (*blo bur phral dag*). Only a [Buddha](#buddha) has this second purity as well.
@@ -5055,7 +5055,7 @@ see [spiritual treasure](#spiritual-treasure).
 ## Vairocana
 *rnam par snang mdzad*, the [Buddha](#buddha) of the Buddha family. See [five families](#five-families).
 
-## Vairotsana
+## Vairotṣana
 *bai ro tsa na*, Tibet's greatest translator and one of the first seven monks to be ordained in Tibet. He was one of the principal disciples of [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and of [Sri Simha](#sri-simha).
 
 ## Vaisakha
