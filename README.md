@@ -3805,11 +3805,11 @@ See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.or
 
 ## Five wisdoms
 *ye shes lnga*, five aspects of the wisdom of Buddhahood: 
-1. the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhātujñana*), 
-2. mirror-like wisdom (*me long gi ye shes, adarsajnana*), 
-3. the wisdom of equality (*mnyam nyid kyi ye shes, samatajnana*), 
-4. discriminating wisdom (*so sor rtog pa'i ye shes, pratyaveksanajnana*),
-5. and all-accomplishing wisdom (*bya ba grub pa'i ye shes, krityanusthanajnana*).
+1. the wisdom of the absolute space (*chos dbyings kyi ye shes*, Skt. *dharmadhātujñāna*), 
+2. mirror-like wisdom (*me long gi ye shes, ādarśajñāna*), 
+3. the wisdom of equality (*mnyam nyid kyi ye shes, samatājñāna*), 
+4. discriminating wisdom (*so sor rtog pa'i ye shes, pratyavekṣaṇājñāna*),
+5. and all-accomplishing wisdom (*bya ba grub pa'i ye shes, krityānuṣṭhānajñāna*).
 
 See [five families](#five-families).
 
@@ -3848,7 +3848,7 @@ See [five families](#five-families).
 4. The demon of conceit is the root of the three others: it is the belief in 'I' and 'mine;' this conceit makes us take the five aggregates as 'me' or 'mine:' if one destroys this demon, all external demons are destroyed by themselves, without doing anything to destroy them."
 
 ## Four elements
-*'byung ba bzhi*, Skt. *catur / panca bhuta*, 
+*'byung ba bzhi*, Skt. *catur / pañca bhūta*, 
 1. earth 
 2. water 
 3. fire and 
@@ -3871,7 +3871,7 @@ as principles of
 ## Four formless states
 *gzugs med bzhi*, four concentrations called 
 1. infinite space (*nam mkha' mtha' yas,* Skt. *ākāsānantya*), 
-2. infinite consciousness (*nam shes mtha' yas, vinjnanasanantya*), 
+2. infinite consciousness (*nam shes mtha' yas, vijñānānantya*), 
 3. nothing at all (*ci yang med pa, akimcanya*), and 
 4. neither existing nor non-existing (*'du shes med 'du shes med min, naivasamjnasamjna*); 
 
