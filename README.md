@@ -383,7 +383,7 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 **[CONCLUSION](#conclusion)**
 
-[Postface by Jamgon Kongtrul Lodro Thaye](#postface)
+[Postface by Jamgön Kongtrul Lodrö Thayé](#postface)
 
 Notes *— integrated inline; see [Preface to the Hand-copied Digital Edition](#digital-preface)*
 [Glossary](#glossary)  
@@ -433,7 +433,7 @@ For all teachings on all practices, whether [preliminaries](#preliminaries) or m
 
 *<h1 id="acknowledgements" align="center">Translators' Acknowledgements</h1>*
 
-In accordance with Tibetan tradition, the translators would like to thank the teachers of the lineage: the late Dudjom Rinpoche, Dilgo Khyentse Rinpoche and Kangyur Rinpoche, whose extraordinary inspiration and patient explanations form the basis for all our efforts to understand these teachings; and also the numerous other [lamas](#lama) who answered our questions and gave us encouragement&mdash;Dodrup Chen Rinpoche, Nyoshul Khenpo Rinpoche, Dzogchen Khenpo Thubten, Zenkar Rinpoche, Khetsun Zangpo Rinpoche, [Lama](#lama) Sonam Tobgyal and many others.
+In accordance with Tibetan tradition, the translators would like to thank the teachers of the lineage: the late Dudjom Rinpoche, Dilgo Khyentse Rinpoche and Kangyur Rinpoche, whose extraordinary inspiration and patient explanations form the basis for all our efforts to understand these teachings; and also the numerous other [lamas](#lama) who answered our questions and gave us encouragement&mdash;Dodrup Chen Rinpoche, Nyoshul Khenpo Rinpoche, Dzogchen Khenpo Thubten, Zenkar Rinpoche, Khetsun Zangpo Rinpoche, [Lama](#lama) Sönam Tobgyal and many others.
 
 The Padmakara Translation Group is made up of students of Tibetan Buddhism from several countries and disciplines, working under the direction of Pema Wangyal Rinpoche and Jigme Khyentse Rinpoche, at the centre d'Etudes de Chanteloube in Dordogne, Southwest France.
 
@@ -472,7 +472,7 @@ May all beings be free from suffering.
 
 *<h1 id="preface" align="center">Preface to the Second Edition</h1>*
 
-  The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgon Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the notes and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
+  The encouraging need for this book to be reprinted has made possible a number of changes. A preface written by Dilgo Khyentse Rinpoche for the French edition has been included, as well as a postface written by Jamgön Kongtrul the Great for the very first woodblock printing of this book in Tibetan a century ago. The quality of the [illustrations](#listofillustrations) has been improved, the notes and [glossary](#glossary) have been expanded and revised, and Sanskrit words have been given their standard transliterated spelling.
 
   However, the principal change is a revision of the text itself, the fruit of a painstaking, detailed re-reading by Pema Wangyal Rinpoche. His numerous comments, clarifications and queries&mdash;on average three or four per page&mdash;have enabled us to take a critical look at the accuracy of our translation and to bring it closer still to Patrul Rinpoche's original meaning. Readers of the first edition may be assured that we have found no glaring errors in the substance of the instructions and practices explained. Nevertheless, in a text so justly celebrated for its extraordinary wealth of detail and anecdote, it is in those finer details that we hope the translation has gained in authenticity and accuracy.
 
@@ -591,7 +591,7 @@ Kunzang [means](#means) "everywhere perfect" or "always perfect." It is the abbr
 
 The Tibetans have preserved all aspects of Indian Buddhism intact from the eighth century to the twentieth. This has not been, however, a mere static preservation of sacred [treasure](#treasure)s. The [Buddha](#buddha) [Dharma](#dharma) was the main preoccupation of Tibet's best minds for centuries, giving rise to an extraordinary range of philosophical, poetic, academic and inspirational literature, as well as a distinctive and magnificent artistic and architectural heritage. But above all, the Tibetans used the Buddhist teachings for their true purpose, as a tool for transforming the human mind, and thousands of practitioners, some of them famous teachers, others unknown yogīs, accomplished their final goal.
 
-One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no [means](#means) the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. Patrul Rinpoche was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgon Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai [Lama](#lama), and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
+One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no [means](#means) the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. Patrul Rinpoche was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgön Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai [Lama](#lama), and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
 
 Dilgo Khyentse Rinpoche, like Patrul, came from Eastern Tibet. He spent twenty years of his life in meditation retreats, often in the simplest conditions. He studied with a vast number of teachers, even meeting some of Patrul Rinpoche's own disciples in his youth. He responded to the terrible destruction in Tibet in the nineteen fifties and sixties by working tirelessly to find, preserve and reprint lost texts, to establish monastic communities in exile, and above all to teach and inspire the new generations. He considered Patrul Rinpoche to be the perfect example of a Dzogchen practitioner, and encouraged and helped the translators of this book, which he considered to be the perfect guide for students embarking on the Buddhist path.
 
@@ -1008,7 +1008,7 @@ Once, in the past, [Ānanda](#ānanda) was teaching [Srona](#srona-sronajat) to 
 
 "It is the same for your mind," said the [Buddha](#buddha); and by practicing with that advice [Srona](#srona-sronajat) attained his goal.
 
-[Machik Labdron](#machik-labdron) says:
+[Machik Labdrön](#machik-labdrön) says:
 
 > Be firmly concentrated and loosely relaxed:<sup>[16](#16)</sup>  
 Here is an essential point for the [View](#view).
@@ -1317,7 +1317,7 @@ In the distant past, from the time Lord [Buddha](#buddha) came into this world a
 
 In the days of the [Buddha](#buddha), Tibet, the Land of Snows, was called "the [border country](#border-country) of Tibet," because it was a sparsely populated land to which the doctrine had not yet spread. Later, the population increased little by little, and there reigned several kings who were emanations of the [Buddhas](#buddha). The [Dharma](#dharma) first appeared in Tibet during the reign of Lha-Thothori Nyentsen, when the *[Sūtra](#sūtra) of a Hundred Invocations and Prostrations*, a *[tsa-tsa](#tsa-tsa)* mold and other objects fell on the palace roof.
 
-Five generations later, in accordance with prophecies that he would understand the meaning of the [sūtra](#sūtra), there appeared the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), an emanation of the [Sublime Compassionate One](#sublime-compassionate-one).<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to [study](#study) its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sūtras](#sūtra) and [tantras](#tantra) of [Avalokiteśvara](#avalokiteśvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous [means](#means) to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the [Buddha](#buddha)'s body, speech and mind including the statues called the [Jowo](#jowo) Mikyo Dorje and the [Jowo](#jowo) [Śākyamuni](#śākyamuni), the actual representatives of the [Buddha](#buddha).<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
+Five generations later, in accordance with prophecies that he would understand the meaning of the [sūtra](#sūtra), there appeared the [Dharma](#dharma) King [Songtsen Gampo](#songtsen-gampo), an emanation of the [Sublime Compassionate One](#sublime-compassionate-one).<sup>*</sup> During [Songtsen Gampo's](#songtsen-gampo) reign, the translator Thonmi Sambhota was sent to India to [study](#study) its languages and scripts. On his return he introduced an alphabet to Tibet for the first time. He translated into Tibetan twenty-one [sūtras](#sūtra) and [tantras](#tantra) of [Avalokiteśvara](#avalokiteśvara), *The Powerful Secret*, and various other texts. The king himself displayed multiple forms, and along with his minister Gartongtsen, he used miraculous [means](#means) to defend the country. He took as his queens two princesses, one Chinese and one from Nepal, who brought with them numerous representations of the [Buddha](#buddha)'s body, speech and mind including the statues called the [Jowo](#jowo) Mikyö Dorje and the [Jowo](#jowo) [Śākyamuni](#śākyamuni), the actual representatives of the [Buddha](#buddha).<sup>[26](#26)</sup> The king built the series of temples known as the Thadul and Yangdul, of which the principal one was the Rasa Trulnang.<sup>[27](#27)</sup> In this way he established Buddhism in Tibet.
 
 <sup>* <a href="#avalokiteśvara">Avalokiteśvara</a>, the <a href="#bodhisattva">Bodhisattva</a> of Compassion.</sup>
 
@@ -1680,7 +1680,7 @@ How more could I betray myself?
 
 This present life, therefore, is the turning-point at which you can choose between lasting good or lasting evil. If you do not make use of it right now to seize the citadel of the absolute nature within this lifetime, in lives to come it will be very hard to obtain such freedom again. Once you take birth in any of the forms of life in the [lower realms](#lower-realms), no idea of [Dharma](#dharma) will ever occur to you. Too bewildered to know what to do or what not to do, you will fall endlessly further and further to ever [lower realms](#lower-realms). So, telling yourself that now is the time to make an effort, meditate over and over again, applying the [three supreme methods](#three-supreme-methods): **start with the [thought](#thought) of bodhicitta**, **do the practice itself without any conceptualization**, and **dedicate the [merit](#merit) at the end**.
 
-As a measure of how much this practice has truly convinced us, we should be like [Geshe Chengawa](#chengawa-geshe), who spent all his time practicing and never even slept. [Geshe Tonpa](#tonpa-geshe) said to him: "You'd better rest, my son. You'll make yourself ill."
+As a measure of how much this practice has truly convinced us, we should be like [Geshe Chengawa](#chengawa-geshe), who spent all his time practicing and never even slept. [Geshe Tönpa](#tönpa-geshe) said to him: "You'd better rest, my son. You'll make yourself ill."
 
 "Yes, I should rest," Chengawa replied. "But when I think how difficult it is to find the freedoms and advantages that we have, I have no time to rest." He recited nine hundred million [mantra](#mantra)s of Miyowa and did without sleep for the whole of his life. We should meditate until exactly that sort of conviction arises in our own minds.
 
@@ -1762,7 +1762,7 @@ The names of these mountain ranges are:<br>
 
 The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
 
-Jamgon Kongtrul states:  
+Jamgön Kongtrul states:  
 
 > Beyond Mount Meru and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
 >  
@@ -1929,7 +1929,7 @@ People of Tingri, don't bicker or fight!
 [alt text](image_url)
 
 *<p id="padampa-sangye-il" align="center"><a href="#padampa-sangye">Padampa Sangye</a> (11th - 12th centuries)</p>*
-<p align="center">The famous Indian <a href="#siddha">siddha</a> who spread the teachings throughout India, China and Tibet. He and his disciple <a href="#machik-labdron">Machik Labdron</a> established the lineages of the <a href="#cho">Cho</a> teachings in Tibet.</p>
+<p align="center">The famous Indian <a href="#siddha">siddha</a> who spread the teachings throughout India, China and Tibet. He and his disciple <a href="#machik-labdrön">Machik Labdrön</a> established the lineages of the <a href="#cho">Cho</a> teachings in Tibet.</p>
 
 ---
 
@@ -3348,7 +3348,7 @@ having the qualities of [vajra](#vajra).
 second of the three inner yogas and eighth of the nine vehicles, according to the classification of the Nyingmapa school. In this yoga the main stress is put on the [perfection phase](#perfection-phase), particularly, meditation on the [channels and energies](#channels-and-energies-exercises-of).
 
 ## Aperture of Brahmā
-*tshang pa'i bu ga*, Skt. *brahmarandra*, point on the top of the head where the [central channel](#central-channel) ends.
+*tshang pa'i bu ga*, Skt. *brahmarandhra*, point on the top of the head where the [central channel](#central-channel) ends.
 
 ## Appearances
 *snang ba*, see [perceptions](#perceptions)
@@ -3426,7 +3426,7 @@ the title by which [Śāntarakṣita](#śāntarakṣita) is sometimes known.
 *sku, gsung, thugs, yon tan, phrin las*, five aspects of Buddhahood. Sometimes referred to as the [five kāyas](#five-kāyas). See also [five families](#five-families).
 
 ## Bonpo
-*bon po*, follower of Bon, the religious tradition prevailing in Tibet before the introduction of Buddhism.
+*bon po*, follower of Bön, the religious tradition prevailing in Tibet before the introduction of Buddhism.
 
 ## Border country
 *mtha' 'khob*, a region in which the teachings are unknown.
@@ -3474,18 +3474,18 @@ see [Karma Chagme](#karma-chagme).
 *rtsa rlung gi 'phrul 'khor*, exercises combining visualization, concentration and physical movements, in which the flow of subtle energies through the subtle [channels](#channel) is controlled and directed. These practices should only be attempted with the proper transmission and guidance, after completing the [preliminaries](#preliminaries) and achieving some stability in the [generation phase](#generation-phase).
 
 ## Chekawa Yeshe Dorje
-*'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points [see external](https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/seven-points-mind-training), and rendered them more accessible. See *The Great Path of Awakening*, Jamgon Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
+*'chad kha ba ye shes rdo rje* (1101-1175), a famous [Kadampa](#kadampa) [geshe](#geshe). He systematized the teachings of the Mind Training into seven points [see external](https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/seven-points-mind-training), and rendered them more accessible. See *The Great Path of Awakening*, Jamgön Kongtrul, Shambhala, 1987, and *Enlightened Courage*, Dilgo Khyentse, Editions Padmakara, 1992 (worldwide except N. America) and Snow Lion, 1993 (North America only).
 
 ## Chengawa, (Geshe)
-*spyan snga ba*(1038 - 1103), disciple of [Drom Tonpa](#drom-tonpa), started the transmission lineage of the [Kadampa](#kadampa) oral instructions.
+*spyan snga ba*(1038 - 1103), disciple of [Drom Tönpa](#drom-tönpa), started the transmission lineage of the [Kadampa](#kadampa) oral instructions.
 
 ## Chenrenzi
 *spyan ras gzigs*, the Tibetan name for [Avalokiteśvara](#avalokiteśvara)
 
 ## Cho
-*gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdron](#machik-labdron) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyoton Sonam Lama, and propagated them in Tibet.
+*gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdrön](#machik-labdrön) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyotön Sönam Lama, and propagated them in Tibet.
 
-## Chogyal Pakpa
+## Chögyal Pakpa
 *chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Śākya](#sakyapa) school known as the Śākya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
 
 ## Circumambulation
@@ -3534,7 +3534,7 @@ see [Karma Chagme](#karma-chagme).
 (1) *yum*, feminine deity represented in union with a male deity (*yab*). She symbolizes *[wisdom](#wisdom)* inseparable from [skilful means](#skilful-means), symbolized by the male. They also symbolize the space of emptiness inseparable from awareness. (2) *gsang yum*, lit. secret mother. The wife of a great [lama](#lama).
 
 ## Cosmos of a billion universes
-*stong gsum*, Skt. *trisahasra*, a cosmos composed of one billion (1000^3) universes like ours and cooresponding to the area of activity of one [Buddha](#buddha).
+*stong gsum*, Skt. *trisāhasra*, a cosmos composed of one billion (1000^3) universes like ours and cooresponding to the area of activity of one [Buddha](#buddha).
 
 ## Creativity of awareness
 *rig pa'i rtsal*, awareness's inherent and spontaneous ability to manifest phenomena.
@@ -3617,7 +3617,7 @@ see [ten directions](#ten-directions).
 *thim rim*, a succession of phenomena which occur at the moment of death: the dissolution of the elements, and the three experiences called clarity, increase and attainment.
 
 ## Distinguishing, clear decision and self-liberation
-*shan 'byed*, *la bzla*, *rand grol*, three essential points in the Trekcho meditation. Usually they are explained only during the transmission of [Great Perfection](#great-perfection) teachings by a qualified [Lama](#lama).
+*shan 'byed*, *la bzla*, *rand grol*, three essential points in the Trekchö meditation. Usually they are explained only during the transmission of [Great Perfection](#great-perfection) teachings by a qualified [Lama](#lama).
 
 ## Dohā
 a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virūpa](#virūpa)) expresses his or her realization.
@@ -3628,7 +3628,7 @@ a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virūpa]
 ## Drikung Kyobpa
 *'bri gung skyob pa* (1143 - 1217), the founder of Drikung Monastery and of the Drikung [Kagyu](#kagyupa) school.
 
-## Drom Tonpa
+## Drom Tönpa
 *'brom ston pa*, also called *'brom ston rgyal ba'i 'byung gnas* (1005 - 1064), [Atīśa's](#atīśa) principal Tibetan disciple, one of the first teachers of the [Kadampa](#kadampa) school and founder of Radreng (*rva sgreng*) Monastery (often pronounced "Reting").
 
 ## Druk Pema Karpo
@@ -3638,7 +3638,7 @@ a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virūpa]
 *gnyis 'dzin*, lit. grasping at or apprehending two. The concept of "I" and "other."
 
 ## Ecumenical (movement)
-*ris med*, lit. without partiality. Spiritual movement made famous by the great lama Jamyang Khyentse Wangpo as well as Jamgon Kontrul Lodro Thaye, Lama Mipham, Chogyur Lingpa and Patrul Rinpoche. It is characterized by an attitude of respect for all the teachings and schools of Buddhism.
+*ris med*, lit. without partiality. Spiritual movement made famous by the great lama Jamyang Khyentse Wangpo as well as Jamgön Kontrul Lodrö Thayé, Lama Mipham, Chogyur Lingpa and Patrul Rinpoche. It is characterized by an attitude of respect for all the teachings and schools of Buddhism.
 
 ## Effects of actions
 *las rgyu 'bras*, Skt. *phala*. See [karma](#karma).
@@ -3662,7 +3662,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *nye ba'i sras chen brgyad*, the main [Bodhisattvas](#bodhisattva) in the retinue of [Buddha](#buddha) [Śākyamuni](#śākyamuni): [Mañjuśrī](#mañjuśrī), [Avalokiteśvara](#avalokiteśvara), [Vajrapāṇi](#vajrapāṇi), [Maitreya](#maitreya), Ksitigarbha, [Sarvanivaranaviskambhin](#sarvanivaranaviskambhin), and [Samantabhadra](#samantabhadra). Each fulfills a particular role to help beings. Symbolically they represent the pure state of the [eight consciousnesses](#eight-consciousnesses).
 
 ## Eight offering goddesses
-*mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lāsyā*), the Lady of Garlands (*phreng ba ma*, Skt. *Māla*), the Lady of Song (*glu ma*, Skt. *Gītā*), the Lady of Dance (*gar ma*, Skt. *Nṛtyā*), the Lady of Flowers (*me tog ma*, Skt. *Puṣpā*), the Lady of Incense (*bdug spos ma*, Skt. *Dhupa*), the Lady of Lamps (*snang gsal ma*, Skt. *Ālokā*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandhā*). In the mandala of the peaceful [saṃbhogakāya](#saṃbhogakāya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
+*mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lāsyā*), the Lady of Garlands (*phreng ba ma*, Skt. *Māla*), the Lady of Song (*glu ma*, Skt. *Gītā*), the Lady of Dance (*gar ma*, Skt. *Nṛtyā*), the Lady of Flowers (*me tog ma*, Skt. *Puṣpā*), the Lady of Incense (*bdug spos ma*, Skt. *Dhūpā*), the Lady of Lamps (*snang gsal ma*, Skt. *Ālokā*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandhā*). In the mandala of the peaceful [saṃbhogakāya](#saṃbhogakāya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
 
 ## Eight ordinary concerns
 *'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
@@ -3686,7 +3686,7 @@ see [negative emotions](#negative-emotions).
 *rlung*, Skt. *prāṇa*, *vāyu*, lit. wind. Its characteristic is to be "light and mobile." The mind is described as riding on the *rlung* like a rider on a horse. Five different types of *rlung* regulate the functions of the body: i| the ascending energy (*gyen rgyu*), ii| the energy of evacuation (*thur sel*), iii| the fiery energy (me mnyam), iv| all-pervading energy (khyab byed) and v| the life-supporting energy (*srog 'dzin*).
 
 ## Enjoying the Emanations of Others
-*gzhan 'phrul dbang byed*, Skt. *Paranirmitavasavartin*, the sixth and highest level of the gods of the World of Desire, in which the gods enjoy the things miraculously produced by other gods. See [three worlds](#three-worlds).
+*gzhan 'phrul dbang byed*, Skt. *Paranirmitavaśavartin*, the sixth and highest level of the gods of the World of Desire, in which the gods enjoy the things miraculously produced by other gods. See [three worlds](#three-worlds).
 
 ## Enlightenment
 *byang chub*, Skt. *bodhi*, purification (*byang*) of all obscurations and realization (*chub*) of all qualities.
@@ -3704,7 +3704,7 @@ see [negative emotions](#negative-emotions).
 *ngo bo*, *rang bzhin*, *thugs rge*. View of the [Great Perfection](#great-perfection): the essential nature of the mind and all phenomena is [emptiness](#emptiness); the expression of that nature is clarity; its compassion is all-pervasive.
 
 ## Eternalism
-*rtag par lta ba*, Skt. *atmadrsti*, *satkāyadṛṣṭi*, the belief in an eternally existing entity, a soul for instance. Considered an extreme philosophical tendency. See [nihilism](#nihilism).
+*rtag par lta ba*, Skt. *ātmadṛṣṭi*, *satkāyadṛṣṭi*, the belief in an eternally existing entity, a soul for instance. Considered an extreme philosophical tendency. See [nihilism](#nihilism).
 
 ## Excellent Words
 *gsung rab*, Skt. *pravacana*, the words of the [Buddha](#buddha).
@@ -3930,7 +3930,7 @@ or into six groups:
 4. exhaustion of phenomena beyond mind (*chos zad blo 'das*).
 
 ## Four ways of attracting beings
-*bsdu ba'i ngos po bzhi* Skt. *catuhsamgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples:
+*bsdu ba'i ngos po bzhi* Skt. *catuḥsaṃgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples:
 1.  being generous (*sbyin pa*, Skt. *dāna*),
 2.  speaking in a pleasant manner (*snyan par smra ba, priyavadita*),
 3.  teaching in accordance with individuals' needs (*don mthun pa, samanarthata*),
@@ -4068,7 +4068,7 @@ or into six groups:
 ## Jambudvīpa
 *'dzam bu gling*, the southern continent, one of the four main "continents" in ancient Indian cosmology, the one in which we live. In some contexts this name refers to South Asia, and in others to the world in a general sense. 
 
-## Jamgon Kongtrul (the Great), Lodro Thaye
+## Jamgön Kongtrul (the Great), Lodrö Thayé
 *jam mgon kong sprul blo gros mtha' yas* (1813 - 1899) was a great teacher of the non-sectarian movement and was responsible, with Jamyang Khyentse Wangpo, for compiling several great collections of teachings and practices from all traditions, including the *Treasury of Rediscovered Teachings* (*rin chen gter mdzod*).
 
 ## Jetsun Mila
@@ -4084,7 +4084,7 @@ or into six groups:
 *jo bo*, lit. lord. A title often used by Tibetans for the Indian [paṇḍita](#paṇḍita) [Atīśa](#atīśa).
 
 ## Jowo and Śākya
-*jo shag rnam gnyis*, Jowo Mikyo Dorje and Jowo Śākyamuni, two statues of the [Buddha](#buddha) brought to Tibet respectively by the Nepalese and Chinese princesses whom [King Songtsen Gampo](#songtsen-gampo) married in the 7th century.
+*jo shag rnam gnyis*, Jowo Mikyö Dorje and Jowo Śākyamuni, two statues of the [Buddha](#buddha) brought to Tibet respectively by the Nepalese and Chinese princesses whom [King Songtsen Gampo](#songtsen-gampo) married in the 7th century.
 
 ## Jowo Rinpoche
 *jo wo rin po che*, a statue representing [Buddha](#buddha) [Śākyamuni](#śākyamuni) at the age of 12, in the Jokhang temple in Lhasa.
@@ -4138,13 +4138,13 @@ Indian Arhat who was a disciple of the buddha and wrote down one section of the 
 *kha rag sgom chung*, an 11th century [Kadampa](#kadampa) lama, disciple of Geshe Potowa. His name means "Little Meditator of Kharak," and he was famous for his perseverance and strict application of the teachings. It is said that he received the teachings of the [Great Perfection](#great-perfection) and achieved the rainbow body.
 
 ## Khampa Lungpa
-*khams pa lung pa (sgang sha'kya yon tan) (1025 - 1115), a [Kadampa](#kadampa) lama, one of [Drom Tonpa's](#drom-tonpa) principal disciples.
+*khams pa lung pa (sgang sha'kya yon tan) (1025 - 1115), a [Kadampa](#kadampa) lama, one of [Drom Tönpa's](#drom-tönpa) principal disciples.
 
 ## Khaṭvāṅga
 a trident with many symbolic ornaments. 
 
 ## Khu, Ngok and Drom
-the three main disciples of [Atīśa](#atīśa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tonpa](#drom-tonpa)).
+the three main disciples of [Atīśa](#atīśa). Their full names are Khuton Tsondru Yungdrung, Ngok Lekpai Sherab, and Drom Gyalwai Jungne ([Drom Tönpa](#drom-tönpa)).
 
 ## Kila
 *phur ba*, wrathful deity, the activity aspect of all the [Buddhas](#buddha), a manifestation of [Vajrasattva](#vajrasattva). Practice related to this deity is based on the four aspects of [Kila](#kila), those of the ritual object, compassion, bodhicitta and awareness-wisdom.
@@ -4206,7 +4206,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 ## Lower realms
 *ngan song*, the [hells](#hell), the realms of [pretas](#preta) and of animals.
 
-## Machik Labdron
+## Machik Labdrön
 *ma cig lab sgron* (1031-1129), a disciple of [Padampa Sangye](#padampa-sangye), she became the holder of his instructions on the [Cho](#cho) practice.
 
 ## Mādhyamika
@@ -4239,10 +4239,10 @@ See [external](https://en.wikipedia.org/wiki/Mah%C4%81sammata).
 *byams pa'i rnal 'byor pa*, one of [Atīśa's](#atīśa) three principal teachers.
 
 ## Major and minor marks
-*mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahapurusa laksana*) and eighty minor ones (*dpe byad, anuvyanjana*) characteristic of a [Buddha](#buddha).
+*mtshan dang dpe byad*, thirty-two major marks (*mtshan bzang*, Skt. *mahāpuruṣa lakṣaṇa*) and eighty minor ones (*dpe byad, anuvyanjana*) characteristic of a [Buddha](#buddha).
 
 ## Mamo
-*ma mo*, Skt. *matrika*, a kind of [ḍākinī](#ḍākinī).
+*ma mo*, Skt. *mātṛkā*, a kind of [ḍākinī](#ḍākinī).
 
 ## Mandala
 *dkyil 'khor*, lit. center and circumference. 1. The universe with the palace of the deity at the center, as visualized in the practice of the [generation phase](#generation-phase). 2. The visualized ideal universe as an offering.
@@ -4329,7 +4329,7 @@ the birthplace near Rājagṛha of the [Buddha's](#buddha) disciple [Śāriputra
 *na ro pa* (1016-1100), Indian [paṇḍita](#paṇḍita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Mārpa the Translator](#mārpa).
 
 ## Natural state
-*gnas lugs*, Skt. *prakriti*, lit. way of abiding. "The nature or condition of everything." DICT.
+*gnas lugs*, Skt. *prakṛti*, lit. way of abiding. "The nature or condition of everything." DICT.
 
 ## Nectar
 see [ambrosia](#ambrosia)
@@ -4347,7 +4347,7 @@ see [ambrosia](#ambrosia)
 see [New Tradition](#new-tradition).
 
 ## Nihilism
-*chad par lta ba*, Skt. *vibhava drsti*, materialism, the view which denies the existence of past and future lives, the principle of cause and effect, and so on.
+*chad par lta ba*, Skt. *vibhava dṛṣṭi*, materialism, the view which denies the existence of past and future lives, the principle of cause and effect, and so on.
 
 ## Nine Expanses
 *klong dgu*, nine subdivisions of the Expanse Section (*klong sde*) in the teachings of the [Great Perfection](#great-perfection).
@@ -4374,7 +4374,7 @@ acting without conceptualizing, from the state of realization that the actor, th
 see [Ancient Tradition](#ancient-tradition).
 
 ## Obscurations
-*sgrib pa*, Skt. *avarana*, factors which veil one's Buddha-nature. See also: [two obscurations](#two-obscurations), [four obscurations](#four-obscurations).
+*sgrib pa*, Skt. *āvaraṇa*, factors which veil one's Buddha-nature. See also: [two obscurations](#two-obscurations), [four obscurations](#four-obscurations).
 
 ## Obscurations of habitual tendencies
 *bag chags kyi sgrib pa*, Skt. *vāsanāvaraṇa*, the habitual tendencies imprinted on the [ground-of-all](#ground-of-all). See [obscurations](#obscurations).
@@ -4395,7 +4395,7 @@ epithet of [Longchenpa](#longchenpa).
 *sa bdag*, Skt. *bhūmipati*, a spirit occupying a place.
 
 ## Padampa Sangye
-*pha dam pa sangs rgyas* (11th-12th century), Indian [siddha](#siddha) who established the teachings of the Shijepa (*zhi byed pa*) school. Teacher of [Machik Labdron](#machik-labdron), to whom he transmitted the [Cho](#cho) teachings. He traveled to Tibet several times.
+*pha dam pa sangs rgyas* (11th-12th century), Indian [siddha](#siddha) who established the teachings of the Shijepa (*zhi byed pa*) school. Teacher of [Machik Labdrön](#machik-labdrön), to whom he transmitted the [Cho](#cho) teachings. He traveled to Tibet several times.
 
 ## Padma
 the name by which [Padmasambhava](#padmasambhava-of-oḍḍiyāna) refers to himself. The name means "lotus".
@@ -4455,7 +4455,7 @@ See [Tripiṭaka](#tripiṭaka).
 *kuśala*. "That which produces happiness" (Dudjom Rinpoche). AT: beneficial act, virtue.
 
 ## Potowa, (Geshe)
-*po to ba* (1031 - 1105), one of the [Three Brothers](#three-brothers), the three foremost disciples of [Drom Tonpa](#drom-tonpa) (the founder of the [Kadampa](#kadampa) school).
+*po to ba* (1031 - 1105), one of the [Three Brothers](#three-brothers), the three foremost disciples of [Drom Tönpa](#drom-tönpa) (the founder of the [Kadampa](#kadampa) school).
 
 ## Prātimokṣa
 *so sor thar pa*, lit. individual liberation. The vows of individual liberation are the eight categories of vows taught in the [Vinaya](#vinaya), from the simple one day vow up to the complete vows of fully ordained monks. See [three vows](#three-vows).
@@ -4508,7 +4508,7 @@ see [Dharma protectors](#dharma-protector).
 ## Puchungwa, (Geshe)
 *phu chung ba*, one of the [Three Brothers](#three-brothers).
 
-## Purnakasyapa
+## Pūrṇakāśyapa
 *'od srung rdzogs byed*, a leading [tīrthika](#tīrthika) master at the time of the [Buddha](#buddha).
 
 ## Pure land
@@ -4523,14 +4523,14 @@ see [Dharma protectors](#dharma-protector).
 ## Pure perception
 *dag snang*, "the perception of all the world and its contents as a pure [Buddhafield](#buddhafield), as the display of [kāyas](#kāya) and [wisdoms](#wisdom)." DICT.
 
-## Raksasa
+## Rākṣasa
 *srin po*, a kind of malignant spirit that eats human flesh.
 
 ## Ratnasambhava
 *rin chen 'byung gnas*, the [Buddha](#buddha) of the Jewel Family. See [five families](#five-families).
 
 ## Real meaning
-*nges don*, Skt. *nitartha*, direct expression of truth from the point of view of realized beings. See also [expedient meaning](#expedient-meaning).
+*nges don*, Skt. *nītārtha*, direct expression of truth from the point of view of realized beings. See also [expedient meaning](#expedient-meaning).
 
 ## Realm
 see [six realms](#six-realms-of-existence).
@@ -4568,9 +4568,9 @@ Homage to the Saṃgha too
  
 
 ## Relative truth
-*kun rdzob bden pa*, Skt. *samvriti satya*, the apparent truth perceived and taken as real by the deluded mind.
+*kun rdzob bden pa*, Skt. *saṃvṛti satya*, the apparent truth perceived and taken as real by the deluded mind.
 
-## Repa Shiwa O
+## Repa Shiwa Ö
 *ras pa zhi ba 'od*, one of the main disciples of [Milarepa](#milarepa).
 
 ## Rinchen Zangpo
@@ -4634,7 +4634,7 @@ Homage to the Saṃgha too
 *bde byed*, example of a man whose strong desire and hatred led him to kill his mother. He repented and, having purified his negative actions, was reborn in a god realm.
 
 ## Śāntarakṣita
-*zhi ba mtsho*, also called the Bodhisattva Abbot. This great Indian [paṇḍita](#paṇḍita) of the [Mahāyāna](#mahāyāna) school was abbot of the Buddhist university of [Nālandā](#nālandā) and author of a number of philosophical commentaries, such as the *Ornament of the Middle Way* (*dbu ma rgyan*, Skt. *Madhyamakalmkara-karika*). He was invited to Tibet by King [Trisong Detsen](#trisong-detsen) to consecrate the site of the first Tibetan monastery at [Samye](#samye) and ordained the first Tibetan monks.
+*zhi ba mtsho*, also called the Bodhisattva Abbot. This great Indian [paṇḍita](#paṇḍita) of the [Mahāyāna](#mahāyāna) school was abbot of the Buddhist university of [Nālandā](#nālandā) and author of a number of philosophical commentaries, such as the *Ornament of the Middle Way* (*dbu ma rgyan*, Skt. *Madhyamakālṃkāra-kārikā*). He was invited to Tibet by King [Trisong Detsen](#trisong-detsen) to consecrate the site of the first Tibetan monastery at [Samye](#samye) and ordained the first Tibetan monks.
 
 ## Śāntideva
 *zhi ba lha* (7th century), the great Indian poet and [mahāsiddha](#mahāsiddha), who astounded the monks of his monastery of [Nālandā](#nālandā) with his famous poem on the practice of bodhicitta, the Bodhicaryavatara (spyod 'jug), or *The Way of the Bodhisattva*.
@@ -4670,7 +4670,7 @@ Homage to the Saṃgha too
 *rgyal srid sna bdun*, Skt. *saptaratna*, seven possessions of a [universal monarch](#universal-monarch), each of which has a symbolic significance. They are the precious golden wheel, precious wish-fulfilling jewel, precious queen, precious minister, precious elephant, precious horse, and precious general.
 
 ## Seven branches
-*yan lag bdun*, Skt. *saptanga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvāṇa, and dedication of merit.
+*yan lag bdun*, Skt. *saptāṅga*, a form of prayer which comprises seven parts: prostration, offering, confession, rejoicing, requesting the teachers to turn the wheel of [Dharma](#dharma), requesting them not to pass into nirvāṇa, and dedication of merit.
 
 ## Seven noble riche
 *'phags pa'i nor bdun*, Skt. *saptadhanam*, faith, discipline, generosity, learning, conscientiousness, modesty, and wisdom.
@@ -4703,13 +4703,13 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *'gro drug*, see [six realms of existence](#six-realms-of-existence).
 
 ## Six consciousnesses
-*rnam shes tshogs drug*, Skt. *sadvijnanakaya*, lit. six gatherings of consciousness, meaning the gathering of a sense object, of a sense organ and of a consciousness. They are the vision, hearing, smell, taste, touch, and mental consciousnesses.
+*rnam shes tshogs drug*, Skt. *ṣaḍvijñānakāya*, lit. six gatherings of consciousness, meaning the gathering of a sense object, of a sense organ and of a consciousness. They are the vision, hearing, smell, taste, touch, and mental consciousnesses.
 
 ## Six Ornaments
 *rgyan drug*, the six great commentators of the Buddha's teachings: [Nāgārjuna](#nāgārjuna), [Āryadeva](#āryadeva), [Asaṅga](#asaṅga), Vasubandhu, Dignaga, and Dharmakīrti.
 
 ## Six realms of existence
-*'gro drug*, Skt. *ṣaḍgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pancagati*), counting gods and demigods together as one realm.
+*'gro drug*, Skt. *ṣaḍgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pañcagati*), counting gods and demigods together as one realm.
 
 ## Six transcendent perfections
 *pha rol tu phyin pa drug*, Skt. *ṣaṭ pāramitā*: **transcendent generosity** (*sbyin pa'i pha rol tu phyin pa*, Skt. *dāna-pāramitā*), **transcendent discipline** (*tshul khrims gyi pha rol tu phyin pa*, *Śīla-pāramitā*), **transcendent patience** (*bzod pa'i pha rol tu phyin pa*, *kṣānti-pāramitā*), **transcendent diligence** (*dbtson 'grus kyi pha rol tu phyin pa*, *vīrya-pāramitā*), **transcendent concentration** (*bsam gtan gyi pha rol tu phyin pa*, *dhyāna-pāramitā*) and **transcendent wisdom** (*shes rab kyi pha rol tu phyin pa*, *prajñā-pāramitā*). See also [transcendent perfection](#transcendent-perfection).
@@ -4733,7 +4733,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *srong btsan sgam po* (617 - 698), 33rd king of Tibet and one of the three great religious kings. It was during his time that the first Buddhist temples were built.
 
 ## Source of good
-*dge ba'i rtsa ba*, Skt. *kusalamula*, positive actions which are like the roots (*rtsa ba*) of merit or good (*dge ba*).
+*dge ba'i rtsa ba*, Skt. *kuśalamūla*, positive actions which are like the roots (*rtsa ba*) of merit or good (*dge ba*).
 
 ## Spiritual companions
 *chos grogs*, students of the same teacher, or with whom one has received teaching. It is considered vital to have harmonious relations with such people, particularly in the [Vajrayāna](#vajrayāna).
@@ -4796,7 +4796,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 *rig 'dzin brda yi brgyud*, lineage of transmission of the teachings by means of gestures or symbols.
 
 ## Tainted (action)
-*zag bcas*, Skt. *sasrava*, done with the [three concepts](#three-concepts) of subject, object and action.
+*zag bcas*, Skt. *sāsrava*, done with the [three concepts](#three-concepts) of subject, object and action.
 
 ## Tangka
 *thang ka*, a Tibetan scroll painting.
@@ -4835,13 +4835,13 @@ see [habitual tendencies](#habitual-tendencies).
 *gsum cu rtsa gsum*, Skt. *Trāyastriṃśa*, a god realm in the World of Desire, the abode of [Indra](#indra) and his thirty-two ministers. See [three worlds](#three-worlds).
 
 ## Thought
-*rnam rtog*, Skt. *vikalpana*, in general, whatever arises in the mind in a [dualistic](#dualistic) mode.
+*rnam rtog*, Skt. *vikalpanā*, in general, whatever arises in the mind in a [dualistic](#dualistic) mode.
 
 ## Threatening mudrā
 *sdigs mdzubs*, Skt. *tarjani mudrā*, threatening gesture, pointing with the forefinger and little finger.
 
 ## Three Brothers
-*sku mched gsum*, the three principal disciples of [Drom Tonpa](#drom-tonpa): [Potowa](#potowa-geshe), [Chengawa](#chengawa-geshe), and [Puchungwa](#puchungwa-geshe).
+*sku mched gsum*, the three principal disciples of [Drom Tönpa](#drom-tönpa): [Potowa](#potowa-geshe), [Chengawa](#chengawa-geshe), and [Puchungwa](#puchungwa-geshe).
 
 ## Three concepts
 *'khor gsum*, 
@@ -4907,7 +4907,7 @@ See [five poisons](#five-poisons).
 See [external](https://kagyuoffice.org/buddhism/buddhism-in-india/the-three-vehicles-of-the-teachings-of-the-buddha/).
 
 ## Three vows
-*sdom pa gsum*, Skt. *trisamvara*, 
+*sdom pa gsum*, Skt. *trisaṃvara*, 
 1. the vows of [Prātimokṣa](#prātimokṣa), 
 2. the precepts of the [Bodhisattvas](#bodhisattva) and 
 3. the [samayas](#samaya) of the [Secret Mantrayāna](#secret-mantrayāna).
@@ -4930,7 +4930,7 @@ which are traditionally considered as very pure foods.
 The first contains the beings of the [hell](#hell), [preta](#preta), animal, human, and [demigod](#demigod) realms, and some of the god realms. The second two are god realms with a rarified experience which is the result of certain types of intense concentration (see [worldly concentration](#worldly-concentrations)).
 
 **II.**  
-Occasionally used to translate *sa gsum*, Skt. *tribhvana*, lit. the three levels:  
+Occasionally used to translate *sa gsum*, Skt. *tribhuvana*, lit. the three levels:  
 1. above the earth (*sa bla*),  
 2. on the earth (*sa steng*),  
 3. below the earth (*sa 'og*);
@@ -4941,13 +4941,13 @@ they are called respectively the realms of
 3. [nāgas](#nāga).
 
 ## Threefold training
-*bslab pa gsum*, Skt. *trisiksa*, 
+*bslab pa gsum*, Skt. *triśikṣā*, 
 1. discipline (*tshul khrims*, *śīla*), 
 2. concentration (*ting nges 'dzin*, *citta*) and 
 3. wisdom (*shes rab*, *prajñā*).
 
 ## Thusness
-*de bzhin nyid*, Skt. *tathata*, "tha nature of things, emptiness." DKR.
+*de bzhin nyid*, Skt. *tathatā*, "tha nature of things, emptiness." DKR.
 
 ## Tilopa
 *ti lo pa*, one of the eighty four [mahāsiddhas](#mahāsiddha) of India. Teacher of [Nāropa](#nāropa).
@@ -4958,14 +4958,14 @@ they are called respectively the realms of
 ## Tīrthika
 *mu stegs pa*, a proponent of extreme philosophical views such as [nihilism](#nihilism) and [eternalism](#eternalism). Often used for the schools of philosophical and religious thought in India that were opposed to Buddhism.
 
-## Tonpa (Geshe)
-(1005 - 1064), another name of [Drom Tonpa](#drom-tonpa).
+## Tönpa (Geshe)
+(1005 - 1064), another name of [Drom Tönpa](#drom-tönpa).
 
 ## Torma
 *gtor ma*, a ritual object, often modeled from flour and butter, which can be the symbol of a deity, a mandala, an offering, or occasionally a weapon to fight negative forces.
 
 ## Total enlightenment
-*rdzogs pa'i byang chub*, Skt. *sambodhi*, complete Buddhahood.
+*rdzogs pa'i byang chub*, Skt. *saṃbodhi*, complete Buddhahood.
 
 ## Trakpa Gyaltsen
 *grags pa rgyal mtshan* (1147 - 1216), one of the five great scholars of the [Śākya](#sakyapa) school, who are known as the Śākya Gongma.
@@ -5006,7 +5006,7 @@ see [spiritual treasure](#spiritual-treasure).
 *sde snod bcu gnyis*, lit. twelve piṭakas, also called the Twelve Branches of Excellent Speech (*gsung rab yan lag bcu gnyis*). The twelve types of teaching given by the Buddha correspond to twelve types of text: condensed (*mdo sde*, Skt. *sūtra*), melodious (*dbyangs bsnyan*, *geya*), prophetic (*lung bstan*, *vyakarana*), verse (*tshigs bcad*, *gatha*), spoken with a purpose (*ched brjod*, *udana*), conversatory (*gleng gzhi*, *nidana* - questions, talks, etc.), concerning his past lives (*skyes rab*, *jataka*), marvelous (*rmad byung*, *adbhutadharma*), establishing a truth (*gtan babs*, *upadeśa*), biographical or "expressing realization" (*rtogs brjod*, *avadana*), historical (*de ltar byung*, *itivrittaka*), and very detailed (*shin tu rgyas pa*, *vaipulya*).
 
 ## Twelve qualities of full training
-*sbyangs pa'i yon tan bcu gnyis*, Skt. *dvadasadhutaguna*, twelve ascetic practices of [śrāvakas](#śrāvaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
+*sbyangs pa'i yon tan bcu gnyis*, Skt. *dvādaśadhūtaguṇa*, twelve ascetic practices of [śrāvakas](#śrāvaka) and [pratyekabuddhas](#pratyekabuddha), such as eating only once a day, living in solitude, possessing only the three monastic garments, etc.
 
 ## Twelve Vajra Laughs
 *rdo rje gad mo bcu gnyis*, a teaching of the [Great Perfection](#great-perfection).
@@ -5018,7 +5018,7 @@ see [spiritual treasure](#spiritual-treasure).
 *rje 'bang nyer lnga*, the greatest Tibetan disciples of [Padmasambhava](#padmasambhava-of-oḍḍiyāna). All of them attained the supreme accomplishment. The most famous were [King Trisong Detsen](#trisong-detsen), [Yeshe Tsogyal](#yeshe-tsogyal), and [Vairotṣana](#vairotṣana). Many of the great masters of Tibetan Buddhism are emanations of the twenty-five disciples.
 
 ## Two accumulations
-*tshogs gnyis*, Skt. *sambharadvaya*, the accumulation of merit (*bsod nams*, Skt. *punya*) and that of wisdom (*ye shes*, *jñāna*).
+*tshogs gnyis*, Skt. *saṃbhāradvaya*, the accumulation of merit (*bsod nams*, Skt. *punya*) and that of wisdom (*ye shes*, *jñāna*).
 
 ## Two obscurations
 *sgrib gnyis*, the [obscurations of negative emotions](#obscurations-of-negative-emotions) and [conceptual obscurations](#concept-obscurations). See also [obscurations](#obscurations) and [four obscurations](#four-obscurations).
@@ -5050,7 +5050,7 @@ see [spiritual treasure](#spiritual-treasure).
 2. an emperor.
 
 ## Untainted (action)
-*zag med*, Skt. *anasrava*, done without concepts of subject, object, and action.
+*zag med*, Skt. *anāsrava*, done without concepts of subject, object, and action.
 
 ## Vairocana
 *rnam par snang mdzad*, the [Buddha](#buddha) of the Buddha family. See [five families](#five-families).
@@ -5116,7 +5116,7 @@ see [spiritual treasure](#spiritual-treasure).
 *gter chen po'i bum pa*, one of the [eight auspicious signs](#eight-auspicious-signs). It corresponds to the throat of the [Buddha](#buddha) and symbolizes the teachings that fulfill all desires.
 
 ## Vehicle
-*theg pa*, Skt. *yana*, the means for traveling the path to enlightenment.
+*theg pa*, Skt. *yāna*, the means for traveling the path to enlightenment.
 
 ## Vidyādhara
 *rig 'dzin*, knowledge holder. "One who through profound means holds the deities, mantras, and the wisdom of great bliss." DICT. In the [Nyingmapa](#nyingmapa) Tradition there are four levels of vidyādhara:
@@ -5126,7 +5126,7 @@ see [spiritual treasure](#spiritual-treasure).
 4. Spontaneously accomplished (*lhun grub*)
 
 ## View
-*lta ba*, Skt. *dristi*
+*lta ba*, Skt. *dṛṣṭi*
 1. point of view, belief
 2. the authentic point of view, the real knowledge of the natural state of all phenomena.
 
@@ -5189,11 +5189,11 @@ one of the eighty-four [mahāsiddhas](#mahāsiddha) of India. An important sourc
 concentrations leading not to enlightenment but only to rebirth in god realms. See [four concentrations](#four-concentrations).
 
 ## Wrathful Black True Mother
-*ma cig khros ma nag mo*, Skt. *Krodhakali*, lit. the one mother wrathful and black. A manifestation of Samantabhadri
+*ma cig khros ma nag mo*, Skt. *Krodhakālī*, lit. the one mother wrathful and black. A manifestation of Samantabhadri
 in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravarahi (*rdo rje phag mo).
 
 ## Wrong view
-*log lta*, Skt. *mithyadristi*, AT: false belief, particularly a view that will lead one to courses of action that bring more suffering.
+*log lta*, Skt. *mithyādṛṣṭi*, AT: false belief, particularly a view that will lead one to courses of action that bring more suffering.
 
 ## Yaksa
 *gnod sbyin*, a class of spirits.
@@ -5211,7 +5211,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravarahi (
 *ye shes mtsho rgyal*, [Padmasambhava's](#padmasambhava-of-oḍḍiyāna) mystic [consort](#consort) and greatest disciple. She served him perfectly, and helped him to propagate his teachings, in particular concealing [spiritual treasures](#spiritual-treasure) to be rediscovered later for the sake of future disciples.
 
 ## Yidam
-*yi dam*, Skt. *devata*, *istadevata*, a deity representing enlightenment, in a male or female, peaceful or wrathful form corresponding to one's individual nature. The yidam is the source of accomplishments. See [three roots](#three-roots).
+*yi dam*, Skt. *devatā*, *istadevata*, a deity representing enlightenment, in a male or female, peaceful or wrathful form corresponding to one's individual nature. The yidam is the source of accomplishments. See [three roots](#three-roots).
 
 ## Yoga
 *rnal 'byor*, practice, lit. a method for uniting (*'byor*) with the natural state (*rnal ma*).
