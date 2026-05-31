@@ -1737,7 +1737,7 @@ There are two subcontinents for each of the four continents which surround Mount
 - 4. Aparacā<a href="#māra">māra</a> (T. rnga yab gzhan)  
 
 3. Aparagodānīya in the West:  
-- 5. Shatha (Skt. Satha; T. g.yo ldan) and  
+- 5. Śāṭha (Skt. Śāṭha; T. g.yo ldan) and  
 - 6. Uttaramantriṇa (T. lam mchog 'gro)  
 
 4. Uttarakuru in the North:  
@@ -3665,7 +3665,7 @@ Eye Consciousness, Ear Consciousness, Nose Consciousness, Tongue Consciousness, 
 *mchod pa'i lha mo brgyad*: the Lady of Beauty (*sgeg mo ma*, Skt. *Lāsyā*), the Lady of Garlands (*phreng ba ma*, Skt. *Māla*), the Lady of Song (*glu ma*, Skt. *Gītā*), the Lady of Dance (*gar ma*, Skt. *Nṛtyā*), the Lady of Flowers (*me tog ma*, Skt. *Puṣpā*), the Lady of Incense (*bdug spos ma*, Skt. *Dhūpā*), the Lady of Lamps (*snang gsal ma*, Skt. *Ālokā*) and the Lady of Perfume (*dri chab ma*, Skt. *Gandhā*). In the mandala of the peaceful [saṃbhogakāya](#saṃbhogakāya) deities, they are also the consorts of the eight [Bodhisattvas](#bodhisattva) (see [Eight Great Close Sons](#eight-great-close-sons), and symbolize, respectively, the pure state of the four objects of the sense organs (form, smell, sound and taste) and of the four aspects of thoughts (past, present, future and of undetermined time).
 
 ## Eight ordinary concerns
-*'jig rten chos brgyad*, Skt. *astalokadharmah*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
+*'jig rten chos brgyad*, Skt. *aṣṭalokadharmāḥ*, the normal preoccupations of unrealized people without a clear spiritual perspective. They are: gain and loss, pleasure and pain, praise and criticism, fame and infamy.
 
 ## Eight perverse acts
 *log pa rgyad*, i| criticizing good, ii| praising evil, iii| interrupting the accumulation of merit of a virtuous person, iv| disturbing the minds of those who have devotion, v| giving up one's spiritual master, vi| giving up one's deity, vii| giving up one's vajra brothers and sisters, viii| desecrating a mandala.
