@@ -567,7 +567,7 @@ Sometimes there are additional elements, as in the *Heart-essence of the Vast Ex
 
 ### The [generation phase](#generation-phase)
 
-In the [generation phase](#generation-phase) one learns to develop an enlightened vision of the world by visualizing oneself as a [Buddha](#buddha), and one's surroundings as a pure [Buddhafield](#buddhafield), while reciting the appropriate [mantra](#mantra). This process is at first artificial, something which is developed or generated, but the visualizations correspond to the visionary experience of enlightened beings. By adopting these new habits of perception, one can weaken the ordinary habits of gross perception based on ignorance and emotional [tendencies](#tendencies), and put oneself in touch with a more subtle level of experience. These practices take the form of *sadhanas*, the ritual texts for which are sometimes extraordinarily poetic.
+In the [generation phase](#generation-phase) one learns to develop an enlightened vision of the world by visualizing oneself as a [Buddha](#buddha), and one's surroundings as a pure [Buddhafield](#buddhafield), while reciting the appropriate [mantra](#mantra). This process is at first artificial, something which is developed or generated, but the visualizations correspond to the visionary experience of enlightened beings. By adopting these new habits of perception, one can weaken the ordinary habits of gross perception based on ignorance and emotional [tendencies](#tendencies), and put oneself in touch with a more subtle level of experience. These practices take the form of *sādhanas*, the ritual texts for which are sometimes extraordinarily poetic.
 
 ### The [perfection phase](#perfection-phase)
 
@@ -1846,7 +1846,7 @@ One by one, the numerous great [Śrāvakas](#śrāvaka) of the present dispensat
 
 In India, there once lived the [Five Hundred Arhats](#five-hundred-arhats) who compiled the words of the [Buddha](#śākyamuni). There were the [Six Ornaments](#six-ornaments) and [Two Supreme Ones](#two-supreme-ones), the [Eighty Siddhas](#eighty-siddhas), and many others, who mastered all attributes of the paths and [levels](#levels) and possessed unlimited clairvoyance and miraculous powers. But all that remains of them today are the stories telling how they lived.
 
-Here too in Tibet, the Land of Snows, when the [Second Buddha](#second-buddha) of [Oḍḍiyāna](#oḍḍiyāna)<sup>*</sup> turned the [Wheel of Dharma](#wheel-of-dharma) to ripen and liberate beings, there lived all his followers, like the [twenty-five disciples](#twenty-five-disciples) known as the King and Subjects and the [Eighty Siddhas](#eighty-siddhas) of Yerpa. Later came the [Ancient Tradition](#ancient-tradition) masters of the [So, Zur and Nub](#so-zur-and-nub) clans; [Marpa](#marpa), [Milarepa](#milarepa) and Dagpo of the [New Tradition](#new-tradition); and innumerable other learned and accomplished beings. Most of them achieved high [levels](#levels) of [accomplishment](#accomplishment) and had mastery over the [four elements](#four-elements). They could produce all sorts of miraculous transformations. They could make tangible objects appear out of nowhere and disappear into nowhere. They could not be burned by fire, be swept away by water, be crushed by earth or fall from precipices into space&mdash;they were simply free from any harm that the [four elements](#four-elements) could bring about.
+Here too in Tibet, the Land of Snows, when the [Second Buddha](#second-buddha) of [Oḍḍiyāna](#oḍḍiyāna)<sup>*</sup> turned the [Wheel of Dharma](#wheel-of-dharma) to ripen and liberate beings, there lived all his followers, like the [twenty-five disciples](#twenty-five-disciples) known as the King and Subjects and the [Eighty Siddhas](#eighty-siddhas) of Yerpa. Later came the [Ancient Tradition](#ancient-tradition) masters of the [So, Zur and Nub](#so-zur-and-nub) clans; [Mārpa](#mārpa), [Milarepa](#milarepa) and Dagpo of the [New Tradition](#new-tradition); and innumerable other learned and accomplished beings. Most of them achieved high [levels](#levels) of [accomplishment](#accomplishment) and had mastery over the [four elements](#four-elements). They could produce all sorts of miraculous transformations. They could make tangible objects appear out of nowhere and disappear into nowhere. They could not be burned by fire, be swept away by water, be crushed by earth or fall from precipices into space&mdash;they were simply free from any harm that the [four elements](#four-elements) could bring about.
 
 <sup>* <a href="#padmasambhava-of-oḍḍiyāna">Padmasambhava</a> is often referred to as the second <a href="#buddha">Buddha</a> of our era, extending the work of <a href="#śākyamuni">Śākyamuni</a>.</sup><br>
 
@@ -3776,7 +3776,7 @@ See also, [The Five Hundred Arhats at Cleveland Art](https://www.clevelandart.or
 *'bum lnga*, five traditional preliminary practices: [refuge](#refuge), bodhicitta, [vajrasattva](#vajrasattva), [mandala](#mandala) and [guru yoga](#guru-yoga), performed one hundred thousand times each.
 
 ## Five kāyas
-*sku lnga*, Skt. *pañcakāya*, the [three kāyas](#three-kāyas) to which are added the Unchanging Vajra Kāya (*mi 'gyur rdo rje'i sku,* Skt. *vajrakāya*) and the Kāya of Perfect Enlightenment (*mngon par byang chub pa'i sku*, Skt. *abhisambodhikaya*). The expression can also refer to the five Buddha families: body, speech, mind, qualities and activity.
+*sku lnga*, Skt. *pañcakāya*, the [three kāyas](#three-kāyas) to which are added the Unchanging Vajra Kāya (*mi 'gyur rdo rje'i sku,* Skt. *vajrakāya*) and the Kāya of Perfect Enlightenment (*mngon par byang chub pa'i sku*, Skt. *abhisaṃbodhikāya*). The expression can also refer to the five Buddha families: body, speech, mind, qualities and activity.
 
 ## Five paths
 *lam lnga*, Skt. *pañcamārga*, five successive stages in the path to enlightenment: the paths of accumulating, joining, seeing, meditation, and the path beyond learning.
@@ -3878,7 +3878,7 @@ as principles of
 four god realms corresponding to these concentrations.
 
 ## Four Great Kings
-*rgyal chen rigs bzhi*, Skt. *caturmaharajakayika*, four gods who are traditionally the protectors of the four directions. Their realm is the first of the six god realms in the World of Desire. See [three worlds](#three-worlds).
+*rgyal chen rigs bzhi*, Skt. *caturmahārājākāyika*, four gods who are traditionally the protectors of the four directions. Their realm is the first of the six god realms in the World of Desire. See [three worlds](#three-worlds).
 
 ## Four great streams of suffering
 *sdug sngal gyi chu bo chen po bzhi*, 
@@ -4072,7 +4072,7 @@ or into six groups:
 *jam mgon kong sprul blo gros mtha' yas* (1813 - 1899) was a great teacher of the non-sectarian movement and was responsible, with Jamyang Khyentse Wangpo, for compiling several great collections of teachings and practices from all traditions, including the *Treasury of Rediscovered Teachings* (*rin chen gter mdzod*).
 
 ## Jetsun Mila
-*rje brtsun mi la* (1040 - 1123), Tibet's great yogī and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Marpa](#marpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
+*rje brtsun mi la* (1040 - 1123), Tibet's great yogī and poet, whose biography and spiritual songs are among the best loved works in Tibetan Buddhism. One of the foremost disciples of [Mārpa](#mārpa), he is among the great masters at the origin of the [Kagyupa](#kagyupa) school.
 
 ## Jigten Sumgon
 "Jigten Sumgon and the Drikung lineage are best known for the set of teachings known as The Five Profound Paths of Mahāmudrā. Some of Jigten Sumgon's sayings were collected by Sherab Jungne into what is known as the Gongchig (Wylie transliteration: dgongs gcig, "the single intention") a profound philosophical compendium that further developed in commentary works written in following generations. Some of Jigten Sumgon's teachings were collected by another disciple into what is known as The Heart of the Great Vehicle's Teachings (theg chen bstan pa'i snying po)." [src](https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n)
@@ -4102,7 +4102,7 @@ or into six groups:
 *bka' gdams pa*, the first of the schools of the [New Tradition](#new-tradition), which followed the teachings of [Atīśa](#atīśa). It stressed compassion, study and pure discipline. Its teachings were continued by all other schools, in particular the [Gelugpa](#gelugpa), which is also known as the New Kadampa school.
 
 ## Kagyupa
-*bka' brgyud pa* one of the schools of the [New Tradition](#new-tradition), which followed the teachings brought to Tibet from India by [Marpa](#marpa) the Translator in the 11th century and transmitted to [Milarepa](#milarepa). There are several branches of the Kagyu school.
+*bka' brgyud pa* one of the schools of the [New Tradition](#new-tradition), which followed the teachings brought to Tibet from India by [Mārpa](#mārpa) the Translator in the 11th century and transmitted to [Milarepa](#milarepa). There are several branches of the Kagyu school.
 
 ## Kalpa
 *bskal pa*. A great kalpa, which corresponds to a cycle of formation and destruction of a universe, is divided into eighty intermediate kalpas. An intermediate kalpa is composed of one small kalpa during which the span of life, etc., increases and one small kalpa during which it decreases.
@@ -4123,7 +4123,7 @@ or into six groups:
 *las kyi rlung*, energy determined by one's [karma](#karma), as opposed to *ye shes kyi rlung*, the energy connected with [wisdom](#wisdom).
 
 ## Karmic obscurations (obscurations of past actions)
-*las kyi sgrib pa*, Skt. *karmavarana*, obscurations created by negative actions. See [obscurations](#obscurations).
+*las kyi sgrib pa*, Skt. *karmāvaraṇā*, obscurations created by negative actions. See [obscurations](#obscurations).
 
 ## Kāśyapa
 *'od srung*, the third of the thousand Buddhas of this present kalpa the one before [Śākyamuni](#śākyamuni). Kāśyapa is also the name of one of Śākyamuni's Śrāvaka disciples.
@@ -4260,7 +4260,7 @@ the mantra of [Avalokiteśvara](#avalokiteśvara) ([Chenrezi](#chenrenzi)), *o�
 *mngon par dga' ba*, Skt. *Abhirati*, name of a [kalpa](#kalpa) and of the Buddhafield of [Buddha](#buddha) [Akṣobhya](#akṣobhya).
 
 ## Mantra
-*sngags*, manifestation of supreme [enlightenment](#enlightenment) in the form of sounds. Syllables which, in the sadhanas of the [Secret Mantrayāna](#secret-mantrayāna), protect the mind of the practitioner from ordinary perceptions and invoke the wisdom deities.
+*sngags*, manifestation of supreme [enlightenment](#enlightenment) in the form of sounds. Syllables which, in the sādhanas of the [Secret Mantrayāna](#secret-mantrayāna), protect the mind of the practitioner from ordinary perceptions and invoke the wisdom deities.
 
 ## Mañjuśrī
 *'jam dpal dbyangs*, a tenth level [Bodhisattva](#bodhisattva). He embodies the knowledge and wisdom of all the [Buddhas](#buddha).
@@ -4271,8 +4271,8 @@ the mantra of [Avalokiteśvara](#avalokiteśvara) ([Chenrezi](#chenrenzi)), *o�
 ## Māra
 *bdud*, demon, [see note 230](#230); the tempter in general, that which makes obstacles to spiritual practice and [enlightenment](#enlightenment).
 
-## Marpa
-*lho brag mar pa* (1012 - 1097), great Tibetan master and translator, disciple of Drogmi, [Naropa](#naropa), Maitripa and other great [siddhas](#siddha). He brought many [tantras](#tantra) from India to Tibet and translated them. These teachings were passed down through [Milarepa](#milarepa) and his other disciples, and are the basis of the teachings of the [Kagyu](#kagyupa) lineage.
+## Mārpa
+*lho brag mar pa* (1012 - 1097), great Tibetan master and translator, disciple of Drogmi, [Nāropa](#nāropa), Maitripa and other great [siddhas](#siddha). He brought many [tantras](#tantra) from India to Tibet and translated them. These teachings were passed down through [Milarepa](#milarepa) and his other disciples, and are the basis of the teachings of the [Kagyu](#kagyupa) lineage.
 
 ## Maudgalyāyana
 *mo'u 'gal gyi bu*, one of the two foremost [śrāvaka](#śrāvaka) disciples of [Śākyamuni Buddha](#śākyamuni). He was said to be the one who had the greatest miraculous powers.
@@ -4317,7 +4317,7 @@ defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmata](#dharm
 *klu sgrub* (1st-2nd century), Indian master, one of the [Six Ornaments](#six-ornaments). He expounded the teachings of the [Middle Way](#middle-way) and composed numerous philosophical and medical treatises.
 
 ## Nālandā
-the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Śāriputra](#śāriputra), which much later, starting in the time of the Gupta kinds (5th century), became one of the great centers of learning in Buddhist India. It was destroyed around 1200 A.D.
+the birthplace near Rājagṛha of the [Buddha's](#buddha) disciple [Śāriputra](#śāriputra), which much later, starting in the time of the Gupta kinds (5th century), became one of the great centers of learning in Buddhist India. It was destroyed around 1200 A.D.
 
 ## Namcho Mingyur Dorje
 *gnam chos mi 'gyur rdo rje*, a famous [treasure discoverer](#treasure-discoverer) of the 16th century.
@@ -4325,8 +4325,8 @@ the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Śāriputra](
 ## Nanda
 *dga' bo*, a cousin of the [Buddha](#buddha) who became one of his foremost disciples.
 
-## Naropa
-*na ro pa* (1016-1100), Indian [paṇḍita](#paṇḍita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Marpa the Translator](#marpa).
+## Nāropa
+*na ro pa* (1016-1100), Indian [paṇḍita](#paṇḍita) and [siddha](#siddha), the disciple of [Tilopa](#tilopa) and teacher of [Mārpa the Translator](#mārpa).
 
 ## Natural state
 *gnas lugs*, Skt. *prakriti*, lit. way of abiding. "The nature or condition of everything." DICT.
@@ -4335,7 +4335,7 @@ the birthplace near Rajagriha of the [Buddha's](#buddha) disciple [Śāriputra](
 see [ambrosia](#ambrosia)
 
 ## Negative action
-*sdig pa* or *mi dge ba*, Skt. *asubha*. "That which produces suffering" (Dudjom Rinpoche). AT: harmful action, unwholesome act, evil.
+*sdig pa* or *mi dge ba*, Skt. *aśubha*. "That which produces suffering" (Dudjom Rinpoche). AT: harmful action, unwholesome act, evil.
 
 ## Negative emotions
 *nyon mongs pa*, Skt. *kleśa*, "mental phenomena which assail body and mind and lead to harmful actions, creating a state of mental torment." DICT. AT: afflictive emotions, passions, afflictions. Synonym of poison (*dug*). See [five poisons](#five-poisons).
@@ -4377,7 +4377,7 @@ see [Ancient Tradition](#ancient-tradition).
 *sgrib pa*, Skt. *avarana*, factors which veil one's Buddha-nature. See also: [two obscurations](#two-obscurations), [four obscurations](#four-obscurations).
 
 ## Obscurations of habitual tendencies
-*bag chags kyi sgrib pa*, Skt. *vasanavarana*, the habitual tendencies imprinted on the [ground-of-all](#ground-of-all). See [obscurations](#obscurations).
+*bag chags kyi sgrib pa*, Skt. *vāsanāvaraṇa*, the habitual tendencies imprinted on the [ground-of-all](#ground-of-all). See [obscurations](#obscurations).
 
 ## Obscurations of negative emotions
 *nyon mongs kyi sgrib pa*, Skt. *kleśāvaraṇa*, "thoughts (of hatred, attachment, etc); they prevent one from attaining liberation." DICT. See [obscurations](#obscurations).
@@ -4419,13 +4419,13 @@ the name by which [Padmasambhava](#padmasambhava-of-oḍḍiyāna) refers to him
 a scholar, someone learned in the five traditional sciences (see: [five sciences](#five-sciences)). Particularly used to refer to Indian scholars.
 
 ## Path of accumulating
-*tshogs lam*, Skt. *sambharamarga*, the first of the five paths towards total enlightenment, according to the [Bodhisattva](#bodhisattva) vehicle. On this path one accumulates the causes which will make it possible to proceed towards enlightenment.
+*tshogs lam*, Skt. *sambhāramārga*, the first of the five paths towards total enlightenment, according to the [Bodhisattva](#bodhisattva) vehicle. On this path one accumulates the causes which will make it possible to proceed towards enlightenment.
 
 ## Path of joining
-*sbyor lam*, Skt. *prayogamarga*, the second of the five paths. On this path one connects oneself to or prepares oneself for seeing the two kinds of absence of self.
+*sbyor lam*, Skt. *prayogamārga*, the second of the five paths. On this path one connects oneself to or prepares oneself for seeing the two kinds of absence of self.
 
 ## Path of seeing
-*mthong lam*, Skt. *darsanamarga*, the third of the five paths, according to the [Bodhisattva](#bodhisattva) vehicle. It is called this because on it one really sees the two kinds of absence of 'self' (i.e. of true, independent existence), that of the individual and that of phenomena.
+*mthong lam*, Skt. *darśanamārga*, the third of the five paths, according to the [Bodhisattva](#bodhisattva) vehicle. It is called this because on it one really sees the two kinds of absence of 'self' (i.e. of true, independent existence), that of the individual and that of phenomena.
 
 ## Perceptions
 *snang ba*, that which appears in the eyes of each individual according to his or her tendencies or spiritual development. NT, quoting Patrul Rinpoche, speaks of three types of perception: 
@@ -4435,7 +4435,7 @@ a scholar, someone learned in the five traditional sciences (see: [five sciences
 
 ## Perfection phase
 
-*rdzogs rim*, Skt. *sampannakrama*
+*rdzogs rim*, Skt. *sampannakramā*
 1. "with characteristics" (*mtshan bcas*), it is the meditation on the [channels](#channel) and [energies](#energy) of the body visualized as a vajra body.
 2. "without characteristics" (*mtshan med*), it is the meditation phase during which the forms visualized in the generation phase are dissolved and one remains in the experience of emptiness.
 
@@ -4950,7 +4950,7 @@ they are called respectively the realms of
 *de bzhin nyid*, Skt. *tathata*, "tha nature of things, emptiness." DKR.
 
 ## Tilopa
-*ti lo pa*, one of the eighty four [mahāsiddhas](#mahāsiddha) of India. Teacher of [Naropa](#naropa).
+*ti lo pa*, one of the eighty four [mahāsiddhas](#mahāsiddha) of India. Teacher of [Nāropa](#nāropa).
 
 ## Tingdzin Zangpo (Nyang)
 *myang ting 'dzin bzang po* (9th century), Tibetan [mahāsiddha](#mahāsiddha), disciple of [Vimalamitra](#vimalamitra) (from whom he received the entire teachings of the *Heart-essence*) and of [Padmasambhava](#padmasambhava-of-oḍḍiyāna). He is said to have been the first Tibetan to attain the rainbow body of the great transference (*'ja' lus 'pho ba chen po*), the greatest accomplishment of the [Great Perfection](#great-perfection).
