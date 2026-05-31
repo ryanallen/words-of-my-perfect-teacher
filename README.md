@@ -2893,7 +2893,7 @@ The main obstacles that prevent all the extraordinary experiences and realizatio
 
 <sup>* Habitual patterns created by past actions.</sup>
 
-<sup>** Skt. <i>alaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.</sup>
+<sup>** Skt. <i>ālaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.</sup>
 
 <details id="173"><summary>Note <sup>173</sup></summary>In the practices of the <a href="#vajrayāna">Vajrayāna</a> one considers the visualized <a href="#deity">deity</a> as one's own <a href="#root-teacher">root teacher</a> who represents all the <a href="#buddha">Buddhas</a> of the past, present and future. <a href="#vajrasattva">Vajrasattva</a> (Tib. <i>rdo rje sems dpa'</i>) is the particular <a href="#buddha">Buddha</a> who, as a <a href="#bodhisattva">Bodhisattva</a>, pledged that whoever recited his <a href="#mantra">mantra</a> would be purified of all their <a href="#negative-action">negative action</a>s and <a href="#obscurations">obscurations</a>. His name refers to the indestructible purity of the nature of mind.</details><br>
 
@@ -3888,7 +3888,7 @@ four god realms corresponding to these concentrations.
 4. death.
 
 ## Four joys
-*dga' ba bzhi*, Skt. *caturananda*, four increasingly subtle experiences of bliss beyond ordinary feelings, connected with the practice of the third, or wisdom, empowerment.
+*dga' ba bzhi*, Skt. *caturānanda*, four increasingly subtle experiences of bliss beyond ordinary feelings, connected with the practice of the third, or wisdom, empowerment.
 
 ## Four kāyas
 the [three kāyas](#three-kāyas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*, the kāya of the nature as it is, representing the inseparability of the first three.
@@ -3931,7 +3931,7 @@ or into six groups:
 
 ## Four ways of attracting beings
 *bsdu ba'i ngos po bzhi* Skt. *catuhsamgrahavastu*, the four ways in which a [Bodhisattva](#bodhisattva) attracts disciples:
-1.  being generous (*sbyin pa*, Skt. *dana*),
+1.  being generous (*sbyin pa*, Skt. *dāna*),
 2.  speaking in a pleasant manner (*snyan par smra ba, priyavadita*),
 3.  teaching in accordance with individuals' needs (*don mthun pa, samanarthata*),
 4.  acting in accordance with what he teaches (*don spyod pa, arthācārya*).
@@ -3940,7 +3940,7 @@ or into six groups:
 *'bras bu'i dbang*, the empowerment that takes place at the moment of attaining full enlightenment.
 
 ## Full effect
-*rnam smin gyi 'bras bu*, Skt. *vipakaphala*, the point at which an action has its maximum effect, for instance a rebirth in hell.
+*rnam smin gyi 'bras bu*, Skt. *vipākaphala*, the point at which an action has its maximum effect, for instance a rebirth in hell.
 
 ## Gampopa
 *sgam po pa*, see [Dagpo Rinpoche](#dago-rinpoche).
@@ -3949,7 +3949,7 @@ or into six groups:
 *dri za*, lit. smell eaters. Spirit feeding on smells. Also used for beings in the [intermediate state](#intermediate-state).
 
 ## Garab Dorje
-*dga' rab rdo rje*, better known by his Tibetan name than by his Sanskrit names, Pramudavajra, Prahevajra, Surativajra or Prajnabhava. The first human teacher in the lineage of the [Great Perfection](#great-perfection).
+*dga' rab rdo rje*, better known by his Tibetan name than by his Sanskrit names, Pramudavajra, Prahevajra, Surativajra or Prajñabhava. The first human teacher in the lineage of the [Great Perfection](#great-perfection).
 
 ## Garuḍa
 *khyung*, a mythical bird of very large size which is able to fly as soon as it is hatched, symbolizing [primal wisdom](#primal-wisdom). The five colors in which it is sometimes represented symbolize the [five wisdoms](#five-wisdoms). It is the enemy of the [nāgas](#nāga), and is depicted with a snake in its beak, symbolizing consuming the negative emotions.
@@ -3958,10 +3958,10 @@ or into six groups:
 *dge lugs pa*, one of the schools of the [New Tradition](#new-tradition), founded by Je Tsongkhapa (1357-1419) and at first called the Gandenpa after his seat, the monastery of Ganden.
 
 ## Generation phase
-*bskyed rim*, Skt. *utpattikrama* "meditation yoga through which one purifies oneself of one's habitual clingings to the four kinds of birth and in which one meditates on forms, sounds and thoughts as having the nature of deities, mantras and [wisdom](#wisdom)" DICT.
+*bskyed rim*, Skt. *utpattikramā* "meditation yoga through which one purifies oneself of one's habitual clingings to the four kinds of birth and in which one meditates on forms, sounds and thoughts as having the nature of deities, mantras and [wisdom](#wisdom)" DICT.
 
 ## Generosity
-*sbyin pa*, Skt. *dana*, lit. giving.
+*sbyin pa*, Skt. *dāna*, lit. giving.
 
 ## Geshe
 *dge bshes*, spiritual friend. The usual term for a [Kadampa](#kadampa) teacher. Later it came to be used for a doctor in philosophy in the [Gelugpa](#gelugpa) school.
@@ -4006,7 +4006,7 @@ or into six groups:
 *theg pa chen po*, Skt. *mahāyāna*, vehicle of the [Bodhisattvas](#bodhisattva), great because it aims at full Buddhahood for the sake of all beings.
 
 ## Ground-of-all
-*kun gzhi*, Skt. *alaya*, abridged form of *kun gzhi rnam par shes pa*, the ground consciousness in which the [habitual tendencies](#habitual-tendencies) are stored. It is the basis for the other consciousnesses. Occasionally, in certain teachings, *kun gzhi* is used for the original nature, the [primordial purity](#primordial-purity) (*ka dag*).
+*kun gzhi*, Skt. *ālaya*, abridged form of *kun gzhi rnam par shes pa*, the ground consciousness in which the [habitual tendencies](#habitual-tendencies) are stored. It is the basis for the other consciousnesses. Occasionally, in certain teachings, *kun gzhi* is used for the original nature, the [primordial purity](#primordial-purity) (*ka dag*).
 
 ## Guru Rinpoche
 *gu ru rin po che*, the name by which [Padmasambhava](#padmasambhava-of-oḍḍiyāna) is most commonly known in Tibet.
@@ -4021,7 +4021,7 @@ or into six groups:
 *rgyal 'gong*, a class of malignant spirits.
 
 ## Habitual tendencies
-*bag chags*, Skt. *vasana*, habitual patterns of thought, speech or action created by what one has done in past lives. AT: habits, inclinations, impregnations.
+*bag chags*, Skt. *vāsanā*, habitual patterns of thought, speech or action created by what one has done in past lives. AT: habits, inclinations, impregnations.
 
 ## Hearing lineage of ordinary beings
 *gang zag snyan brgyud*, lineage of transmission in which it is necessary for the teacher to use words and the disciple to hear them, rather than transmitting the teachings mind-to-mind or using symbols.
@@ -4712,7 +4712,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *'gro drug*, Skt. *ṣaḍgati*, six modes of existence caused and dominated by a particular mental poison: the realms of [hells](#hell) (**anger**), of [pretas](#preta) (**miserliness**), of animals (**bewilderment or ignorance**), of humans (**desire**), of [demigods](#demigod) or asuras (**jealousy**), and of [gods](#gods) (**pride**). They correspond to deluded perceptions produced by beings' [karma](#karma) and apprehended as real. One also speaks of five realms (*'gro lnga*, Skt. *pancagati*), counting gods and demigods together as one realm.
 
 ## Six transcendent perfections
-*pha rol tu phyin pa drug*, Skt. *sad pāramitā*: **transcendent generosity** (*sbyin pa'i pha rol tu phyin pa*, Skt. *dana-pāramitā*), **transcendent discipline** (*tshul khrims gyi pha rol tu phyin pa*, *Śīla-pāramitā*), **transcendent patience** (*bzod pa'i pha rol tu phyin pa*, *ksanti-pāramitā*), **transcendent diligence** (*dbtson 'grus kyi pha rol tu phyin pa*, *virya-pāramitā*), **transcendent concentration** (*bsam gtan gyi pha rol tu phyin pa*, *dhyāna-pāramitā*) and **transcendent wisdom** (*shes rab kyi pha rol tu phyin pa*, *prajñā-pāramitā*). See also [transcendent perfection](#transcendent-perfection).
+*pha rol tu phyin pa drug*, Skt. *ṣaṭ pāramitā*: **transcendent generosity** (*sbyin pa'i pha rol tu phyin pa*, Skt. *dāna-pāramitā*), **transcendent discipline** (*tshul khrims gyi pha rol tu phyin pa*, *Śīla-pāramitā*), **transcendent patience** (*bzod pa'i pha rol tu phyin pa*, *kṣānti-pāramitā*), **transcendent diligence** (*dbtson 'grus kyi pha rol tu phyin pa*, *vīrya-pāramitā*), **transcendent concentration** (*bsam gtan gyi pha rol tu phyin pa*, *dhyāna-pāramitā*) and **transcendent wisdom** (*shes rab kyi pha rol tu phyin pa*, *prajñā-pāramitā*). See also [transcendent perfection](#transcendent-perfection).
 
 ## Skilful Means
 *thabs*, Skt *upāya*, spontaneous, altruistic activity born from wisdom.
