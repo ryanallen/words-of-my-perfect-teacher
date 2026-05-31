@@ -3332,9 +3332,6 @@ having the qualities of [vajra](#vajra).
 ## Ānandagarbha
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
 
-## Angulimāla
-*sor mo threng ba*, one of the Buddha's disciples, who despite having killed nine hundred and ninety nine people, was able, by purifying his negative actions, to attain the level of [Arhat](#arhat). His name means "Garland of Fingers."
-
 ## Ancient Tradition
 *rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantrayāna) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oḍḍiyāna) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
 
@@ -3369,7 +3366,7 @@ second of the three inner yogas and eighth of the nine vehicles, according to th
 *thogs med* (4th century), one of the [Six Ornaments](#six-ornaments), founder of the Yogachara school and author of many important [śāstras](#śāstra), in particular the five teachings he received from [Maitreya](#maitreya).
 
 ## Atīśa
-(982-1054), also known as [Dipaṃkara](#dipaṃkara) or [Jowo](#jowo) Atīśa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramaśīla](#vikramaśīla), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarṇadvīpa (Dharmakīrti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
+(982-1054), also known as [Dīpaṃkara](#dīpaṃkara) or [Jowo](#jowo) Atīśa. This great Indian master and scholar, one of the main teachers at the famous university of [Vikramaśīla](#vikramaśīla), was a strict follower of the monastic rule. He received the bodhicitta teachings from many important masters, and in particular from the Lord of Suvarṇadvīpa (Dharmakīrti), under whom he studied in Indonesia. He spent the last ten years of his life in Tibet, teaching and taking part in the translation of Buddhist texts. His disciples founded the [Kadampa](#kadampa) school.
 
 ## Atiyoga
 the highest of the three inner yogas, the summit of the Nine Vehicles according to the classification of the [Nyingmapa](#nyingmapa) School. See [Great Perfection](#great-perfection).
@@ -3607,7 +3604,7 @@ Thus has proclaimed the Great Renunciant.
 ## Dharmodgata
 *chos 'phags*, "Sublime Dharma," [Bodhisattva](#bodhisattva) from whom Sadaprarudita received the teachings on transcendent wisdom.
 
-## Dipaṃkara
+## Dīpaṃkara
 [Atiśa's](#atīśa) ordination name.
 
 ## Directions
