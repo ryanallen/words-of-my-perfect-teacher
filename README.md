@@ -464,7 +464,7 @@ Changes in this edition:
 - Sanskrit and Tibetan spellings use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*).
 - Em- and en-dashes use closed style&mdash;`word&mdash;word`, no spaces&mdash;via `&mdash;` and `&ndash;` entities.
 - Missing chapters added to the Part Three intro.
-- The five kinds of [transference](#transference) are headings, not a numbered list.
+- The [five kinds of transference](#i-the-five-kinds-of-transference) are headings, not a numbered list.
 
 May all beings be free from suffering.
 
@@ -1748,7 +1748,7 @@ There are two subcontinents for each of the four continents which surround Mount
 </details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
-Seven golden mountain rages (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.<br>
+Seven golden mountain ranges (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.<br>
 
 The names of these mountain ranges are:<br>
 
@@ -4754,7 +4754,7 @@ See [external](https://en.wikipedia.org/wiki/Sikh%C4%AB_Buddha).
 *gro byin skyes*, a [vīṇā](#vīṇā) player who became a disciple of the Buddha and gained the ability to visit other realms, notably those of the [pretas](#preta).
 
 ## Study
-*thos pa*, lit. listening. Traditionally, listening to the teachings was the main way of learning in Tibet. Before studying from a text, it is important to receive the aural transmission by actually hearing the teacher's words. The term "study" should therefore be understood as rather more than simple reading a text.
+*thos pa*, lit. listening. Traditionally, listening to the teachings was the main way of learning in Tibet. Before studying from a text, it is important to receive the aural transmission by actually hearing the teacher's words. The term "study" should therefore be understood as rather more than simply reading a text.
 
 ## Stūpa
 *mchod rten*, lit. support of offering, symbolic representation of the Buddha's mind. The most typical Buddhist monument, which often has a wide square base, a rounded mid-section, and a tall conical upper section topped by a sun and moon. Stūpas frequently contain the relics of enlightened beings. They vary in size from tiny clay models to the vast stūpas at Borobodur in Indonesia and Bodha in Nepal.
