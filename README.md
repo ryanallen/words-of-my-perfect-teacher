@@ -3601,7 +3601,7 @@ Thus has proclaimed the Great Renunciant.
 ## Dharmakāya
 *chos sku*, lit. Dharma Body. The emptiness aspect of Buddhahood. It can be translated as body of truth, absolute dimension.
 
-## Dharmata
+## Dharmatā
 *chos nyid*, "the void nature." DICT.
 
 ## Dharmodgata
@@ -3924,7 +3924,7 @@ or into six groups:
 
 ## Four Visions
 *snang ba bzhi*, four successive stages in the practice of thogal in the [Great Perfection](#great-perfection):
-1. dharmata actually appearing (*chos nyid mngon sum*),
+1. dharmatā actually appearing (*chos nyid mngon sum*),
 2. increase of experiences and appearances (*nyams snang gong 'phel*),
 3. the ultimate reach of awareness (*rig pa tshad phebs*),
 4. exhaustion of phenomena beyond mind (*chos zad blo 'das*).
@@ -4090,7 +4090,7 @@ or into six groups:
 *jo wo rin po che*, a statue representing [Buddha](#buddha) [Śākyamuni](#śākyamuni) at the age of 12, in the Jokhang temple in Lhasa.
 
 ## Joyful Magic
-*'phrul dga'*, Skt. *Nirmanarata*, a god realm in the World of Desire (on the fifth level of Gods of Desire) in which the gods can magically produce whatever they need. See [three worlds](#three-worlds).
+*'phrul dga'*, Skt. *Nirmāṇarata*, a god realm in the World of Desire (on the fifth level of Gods of Desire) in which the gods can magically produce whatever they need. See [three worlds](#three-worlds).
 
 ## Joyous Realm
 *dga' ldan*, see [Tuṣita heaven](#tuṣita-heaven).
@@ -4308,7 +4308,7 @@ see [Jetsun Mila](#jetsun-mila).
 *thub pa*, lit. the Mighty One. An epithet for a [Buddha](#buddha).
 
 ## Nada
-defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmata](#dharmata). In the syllable *hum* it is represented by a little flame above the circle on top, symbolizing the state of enlightenment, the sole essence, awakened awareness.
+defined as *chos nyid kyi rang sgra*, the spontaneous sound of [dharmatā](#dharmatā). In the syllable *hum* it is represented by a little flame above the circle on top, symbolizing the state of enlightenment, the sole essence, awakened awareness.
 
 ## Nāga
 *klu*, a kind of snakelike being living in the depths of water or under the ground. Although they have miraculous powers they are classified as belonging to the animal realm. See [three worlds](#three-worlds).
