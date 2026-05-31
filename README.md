@@ -1840,7 +1840,7 @@ So, reflect sincerely and meditate on how important it is from this very moment 
 
 ## III. THE IMPERMANENCE OF HOLY BEINGS
 
-In the present [Good Kalpa](#good-kalpa), [Vipasyin](#vipasyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Śrāvakas](#śrāvaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Śākyamuni's](#śākyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvāṇa](#nirvāṇa) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
+In the present [Good Kalpa](#good-kalpa), [Vipaśyin](#vipaśyin), [Sikhin](#sikhin) and five other [Buddhas](#buddha) have already appeared, each with their own circle of [Śrāvakas](#śrāvaka) and [Arhats](#arhat) in inconceivable number. Each worked to bring benefit to innumerable beings through the teachings of the [Three Vehicles](#three-vehicles). Yet nowadays all we have is whatever still remains of the [Buddha Śākyamuni's](#śākyamuni) teaching. Otherwise, all of those [Buddhas](#buddha) have passed into [nirvāṇa](#nirvāṇa) and all the pure [Dharma](#dharma) teachings they gave have gradually disappeared.
 
 One by one, the numerous great [Śrāvakas](#śrāvaka) of the present dispensation too, each with their entourage of five hundred [Arhats](#arhat), have passed beyond suffering into the state where nothing is left of the aggregates.
 
@@ -3288,7 +3288,7 @@ Abbreviations:
 *don dam bden pa*, Skt. *paramārtha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
 
 ## Ācārya
-*slob dpon* (1) teacher. (2) equivalent of spiritual master or lama. See [vajra master](vajra-master).
+*slob dpon* (1) teacher. (2) equivalent of spiritual master or lama. See [vajra master](#vajra-master).
 
 ## Ācārya Padma
 *slob dpon padma*, the master Padma, see [Padmasambhava](#padmasambhava-of-oḍḍiyāna).
@@ -3483,7 +3483,7 @@ see [Karma Chagme](#karma-chagme).
 *spyan ras gzigs*, the Tibetan name for [Avalokiteśvara](#avalokiteśvara)
 
 ## Cho
-*gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdrön](#machik-labdrön) received the cho teachings from the Indian teacher [Padampa Sangye](padampa-sangye) and from Kyotön Sönam Lama, and propagated them in Tibet.
+*gcod*, lit. cutting, destroying. Method of meditation in which one offers one's own body to cut the [four demons](#four-demons) within. [Machik Labdrön](#machik-labdrön) received the cho teachings from the Indian teacher [Padampa Sangye](#padampa-sangye) and from Kyotön Sönam Lama, and propagated them in Tibet.
 
 ## Chögyal Pakpa
 *chos rgyal 'phags pa* (1235 - 1280), one of the five great scholars of the [Śākya](#sakyapa) school known as the Śākya Gongma. He became the preceptor of Mongolian emperor Kublai Khan and regent of Tibet.
@@ -3546,7 +3546,7 @@ see [Karma Chagme](#karma-chagme).
 *dwags po rin po che* (1079 - 1153), also known as Gampopa, the most famous disciple of [Milarepa](#milarepa) and founder of the [Kagyupa](#kagyupa) monastic order.
 
 ## Ḍāka
-*mkha 'gro*, lit. moving through space, or *dpa' bo*, hero. [Tantric](#tantric) equivalent of [Bodhisattva](#bodhisattva). Male equivalent of [ḍākinī](dakini).
+*mkha 'gro*, lit. moving through space, or *dpa' bo*, hero. [Tantric](#tantric) equivalent of [Bodhisattva](#bodhisattva). Male equivalent of [ḍākinī](#ḍākinī).
 
 ## Ḍākinī
 *mkha' 'gro ma*, lit. moving through space. The feminine principle associated with [wisdom](#wisdom). This term has several levels of meaning. There are or ordinary ḍākinīs who are beings with a certain degree of spiritual power, and wisdom ḍākinīs who are fully realized. See [three roots](#three-roots).
@@ -5097,7 +5097,7 @@ see [spiritual treasure](#spiritual-treasure).
 ## Vajradhara
 *rdo rje 'chang*, lit. vajra holder. In the [New Tradition](#new-tradition), he is the primordial [Buddha](#buddha), source of all the [tantras](#tantra). In the [Ancient Tradition](#ancient-tradition), Vajradhara represents the principle of the Teacher as enlightened holder of the Vajrayāna teachings.
 
-## Vajradhatvisvari
+## Vajradhātvīśvarī
 *rdo rje dbyings 'phugs ma*, one of the [consorts](#consort) of the Buddhas of the [Five Families](#five-families).
 
 ## Vajrapāṇi
@@ -5142,7 +5142,7 @@ an Indian musical instrument, with strings that are plucked.
 ## Vinaya
 *'dul ba*, one of the Three [Piṭakas](#piṭaka), containing teachings about monastic discipline and ethics in general.
 
-## Vipasyin
+## Vipaśyin
 *rnam par gzigs*, the first of the six [Buddhas](#buddha) who preceded Buddha [Śākyamuni](#śākyamuni).
 
 ## Virūpa
@@ -5190,18 +5190,18 @@ concentrations leading not to enlightenment but only to rebirth in god realms. S
 
 ## Wrathful Black True Mother
 *ma cig khros ma nag mo*, Skt. *Krodhakālī*, lit. the one mother wrathful and black. A manifestation of Samantabhadrī
-in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravarahi (*rdo rje phag mo).
+in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāhī (*rdo rje phag mo).
 
 ## Wrong view
 *log lta*, Skt. *mithyādṛṣṭi*, AT: false belief, particularly a view that will lead one to courses of action that bring more suffering.
 
-## Yaksa
+## Yakṣa
 *gnod sbyin*, a class of spirits.
 
 ## Yama
 *gshin rje*, the Lord of Death.
 
-## Yamantaka
+## Yamāntaka
 *gshin rje bshed*, wrathful form of [Mañjuśrī](#mañjuśrī).
 
 ## Yellow scroll
