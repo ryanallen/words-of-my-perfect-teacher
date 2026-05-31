@@ -4452,7 +4452,7 @@ See [Tripiṭaka](#tripiṭaka).
 *man ngag*, Skt. *upadeśa*, instructions explaining the most profound points of the teachings in a condensed and direct way for the purposes of practice.
 
 ## Positive action
-*kusala*. "That which produces happiness" (Dudjom Rinpoche). AT: beneficial act, virtue.
+*kuśala*. "That which produces happiness" (Dudjom Rinpoche). AT: beneficial act, virtue.
 
 ## Potowa, (Geshe)
 *po to ba* (1031 - 1105), one of the [Three Brothers](#three-brothers), the three foremost disciples of [Drom Tonpa](#drom-tonpa) (the founder of the [Kadampa](#kadampa) school).
