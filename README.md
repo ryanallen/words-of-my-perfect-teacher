@@ -545,7 +545,7 @@ The *Heart-essence of the Vast Expanse* cycle of teachings that [Longchenpa](#lo
 
 These elements are fundamental for a proper understanding of Buddhist values. They are general because they are the fundamentals of Buddhism in general. The contemplations in this section can be practiced by anyone, Buddhist or not.
 
-The second part, the inner [preliminaries](#preliminaries), starts with taking [refuge](#refuge)&mdash;learning to rely on the [Buddha](#buddha), the [Dharma](#dharma) (his teaching) and the [Saṃgha](#saṃgha) (the Buddhist community). This is the basis of Buddhist commitment common to all traditions. Next comes the development of bodhicitta, the "mind of [enlightenment](#enlightenment)." This attitude of unconditional love and compassion, that seeks to bring all beings to perfect freedom, is the basis of the [Mahāyāna](#mahāyāna). It is followed by practices to purify the effects of one's past [negative action](#negative-action)s and accumulate the positive [energy](#energy) necessary to progress on the path. These practices use more fully the techniques of visualization and [mantra](#mantra) specific to the [Vajrayāna](#vajrayāna) approach.
+The second part, the inner [preliminaries](#preliminaries), starts with taking [refuge](#refuge)&mdash;learning to rely on the [Buddha](#buddha), the [Dharma](#dharma) (his teaching) and the [Saṅgha](#saṅgha) (the Buddhist community). This is the basis of Buddhist commitment common to all traditions. Next comes the development of bodhicitta, the "mind of [enlightenment](#enlightenment)." This attitude of unconditional love and compassion, that seeks to bring all beings to perfect freedom, is the basis of the [Mahāyāna](#mahāyāna). It is followed by practices to purify the effects of one's past [negative action](#negative-action)s and accumulate the positive [energy](#energy) necessary to progress on the path. These practices use more fully the techniques of visualization and [mantra](#mantra) specific to the [Vajrayāna](#vajrayāna) approach.
 
 Finally comes the [Guru Yoga](#guru-yoga), uniting one's mind with the mind of the teacher. [Guru Yoga](#guru-yoga) is the very root of the [Vajrayāna](#vajrayāna), where the purity of the link between teacher and disciple is of paramount importance. Also included here is the practice of *phowa*, or [transference](#transference) of consciousness, a shortcut method to enable those who are unable to pursue the path to the end to be liberated nonetheless at the time of death.
 
@@ -623,7 +623,7 @@ The teachings preserved in the lineages of Tibetan Buddhism are contained in the
 
 The enormous range of teachings to be found within Tibetan Buddhism can nevertheless be summarized by the Four Noble Truths, which the [Buddha](#buddha) expounded shortly after his [enlightenment](#enlightenment). The first of these points out that our [conditioned](#conditioned) existence is never free from a state of suffering, never truly satisfactory. Any happiness we have is only temporary and in due course gives way to suffering. The reason for this, as explained by the second truth, is that any action one may do, say or think gives rise to a result which has to be experienced either later in one's life or in a future life. Indeed, rebirth is the result of one's actions, and the conditions into which one is born in one life are directly dependent on the actions one has done in previous lives, and particularly the motives and attitudes involved.  This, the [principle of cause and effect](#principle-of-cause-and-effect), explains why, for example, some people remain poor all their lives despite their efforts to become wealthy, while others have everything they could want even though they do nothing to gain it. The second truth goes on to show that the **driving force behind our actions is the [negative [emotions](#emotions)](#negative-emotions) such as hatred, attachment, pride, jealousy, and especially ignorance, which is the root of all the others.** This ignorance concerns not only a lack of [wisdom](#wisdom) in how we act, but the basic ignorance behind how we ordinarily perceive the whole of existence and constantly become caught by our [clinging](#clinging) to the idea of our own egos and of the outer world as solid and lasting. Because there is no end to our actions, there can be no end to our continuously taking rebirth in the cycle of [conditioned](#conditioned) existence. Only when we cease to act through ignorance can this cycle be broken, as shown by the third truth which expounds the cessation of suffering and freedom from [conditioned](#conditioned) existence.
 
-The fourth truth explains the way through which this can be achieved. This essentially [means](#means), on the one hand, the accumulation of [positive action](#positive-action)s, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Saṃgha](#saṃgha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own [liberation](#liberation) in mind can attain a high degree of realization and become an [Arhat](#arhat) (one who has overcome the [negative [emotions](#emotions)](#negative-emotions)). But this is not full [enlightenment](#enlightenment). Only those who have as their motivation the good and ultimate [enlightenment](#enlightenment) of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayāna](#vajrayāna) is able to become fully enlightened in a very short time.
+The fourth truth explains the way through which this can be achieved. This essentially [means](#means), on the one hand, the accumulation of [positive action](#positive-action)s, such as venerating and making offerings to the [Buddha](#buddha), [Dharma](#dharma) (his teaching), and [Saṅgha](#saṅgha) (the community of practitioners), and practicing charity and so on; and on the other hand, the practice of meditation, which can directly dispel the root ignorance which is the cause of suffering. A practitioner who follows this path with only his own [liberation](#liberation) in mind can attain a high degree of realization and become an [Arhat](#arhat) (one who has overcome the [negative [emotions](#emotions)](#negative-emotions)). But this is not full [enlightenment](#enlightenment). Only those who have as their motivation the good and ultimate [enlightenment](#enlightenment) of all other beings can attain final Buddhahood. Such practitioners, who follow the path of the [Great Vehicle](#great-vehicle) based on compassion, are known as [Bodhisattvas](#bodhisattva). A [Bodhisattva](#bodhisattva) who moreover practices the profound and skilful teachings of the [Vajrayāna](#vajrayāna) is able to become fully enlightened in a very short time.
 
 During his lifetime the [Buddha](#buddha) created a community of monks and nuns who became the core for upholding and continuing the teachings. This did not, however, exclude lay men and women as serious followers of the path, and this was reflected in Tibet where, from the 8th century onwards, the community of practitioners comprised two complementary congregations: on the one hand, a very large monastic community, and on the other a strong tradition of practitioners with lay ordination, whether [yogīs](#yogī-or-yoginī) or householders, many of whom would appear to be leading ordinary lives while following an inner spiritual path and eventually attaining full realization.<sup>*</sup> Within the [Nyingmapa](#nyingmapa) tradition monastic ordination is considered a very useful support for the practice, but by no [means](#means) the only way to progress in meditation. This is encouraging for those who seriously wish to put the teachings into practice but are unable to involve themselves in a monastic lifestyle.
 
@@ -791,14 +791,14 @@ These visualizations<sup>[9](#9)</sup> are to help us understand how things are 
 <i>gsal btab pa</i> <a href="#means">means</a> visualize but also to bring to mind, to have clearly in one's mind, to refresh one's memory. "Visualizing in this way does not mean telling oneself that a donkey is a horse or that a piece of coal is gold; it <a href="#means">means</a> having vividly in one's mind what has always been so from the <a href="#beginning">beginning</a>, that <a href="#appearances">appearances</a> and beings spring from the primal ground, which is the state of Buddhahood." NT
 </details><br>
 
-The teacher embodies the [essence](#essence) of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Saṃgha](#saṃgha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [ḍākinī](#ḍākinī). He is the union of the [three kāyas](#three-kāyas): his body is the [nirmāṇakāya](#nirmāṇakāya), his speech the [saṃbhogakāya](#saṃbhogakāya), his mind the [dharmakāya](#dharmakāya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand [Buddhas](#buddha) of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
+The teacher embodies the [essence](#essence) of all [Buddhas](#buddha) throughout the [three times](#three-times). He is the union of the [Three Jewels](#three-jewels): his body is the [Saṅgha](#saṅgha), his speech the [Dharma](#dharma), his mind the [Buddha](#buddha). He is the union of the [Three Roots](#three-roots): his body is the teacher, his speech the [yidam](#yidam), his mind the [ḍākinī](#ḍākinī). He is the union of the [three kāyas](#three-kāyas): his body is the [nirmāṇakāya](#nirmāṇakāya), his speech the [saṃbhogakāya](#saṃbhogakāya), his mind the [dharmakāya](#dharmakāya). He is the embodiment of all the [Buddhas](#buddha) of the past, source of all the [Buddhas](#buddha) of the future and the representative of all the [Buddhas](#buddha) of the present. Since he takes as his disciples degenerate beings like us, whom none of the thousand [Buddhas](#buddha) of the [Good Kalpa](#good-kalpa)<sup>[10](#10)</sup> could help, his compassion and bounty exceed that of all [Buddhas](#buddha).
 
 <details id="10"><summary>Note <sup>10</sup></summary>
 "In this <a href="#kalpa">kalpa</a> a thousand <a href="#buddha">Buddhas</a> are to appear. However, we have not met those <a href="#buddha">Buddhas</a> who have already come&mdash;or if we did meet them they did not succeed in bringing us to <a href="#liberation">liberation</a>. As for the <a href="#buddha">Buddhas</a> of the future, it is still too soon for us to meet them. So without our spiritual teachers we would have no one to help us." DKR
 </details><br>
 
 >The teacher is the [Buddha](#buddha), the teacher is the [Dharma](#dharma),  
-The teacher is also the [Saṃgha](#saṃgha).  
+The teacher is also the [Saṅgha](#saṅgha).  
 The teacher is the one who accomplishes everything.  
 The teacher is Glorious [Vajradhara](#vajradhara).
 
@@ -1329,7 +1329,7 @@ Same as note <sup><a href="#295">295</a></sup>: Princess Wen-Ch'eng Kung-chu, Ko
 These temples were constructed at precise points to subdue the negative forces of Tibet. At the heart of the group was the Rasa Trulnang, the original name for the Jokhang. See also <a href="#iv-propagation-of-the-essence-teaching-in-tibet-land-of-snows">IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS</a> and note <sup><a href="#294">294</a></sup>: The <i>gtsug lag khang</i> or central temple of Lhasa, the Rasa Trulnang, nowadays known as the Jokhang, could only be built after the construction of the four Thadul (<i>mtha' 'dul</i>) or Border-Taming and four Yangdul (,i.yang 'dul</i>) or Outer Border-Taming temples, and other temples, on geomantically important sites around Tibet and its borders. For details of the story sites, see HIST, Vol. 1, page 510 and notes.
 </details><br>
 
-His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oḍḍiyāna), the Preceptor of [Oḍḍiyāna](#oḍḍiyāna), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotṣana](#vairotṣana), learned the art of translation and translated all the main [sūtras](#sūtra), [tantras](#tantra) and [śāstras](#śāstra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Saṃgha](#saṃgha), to uphold the [Buddha](#buddha)'s mind.
+His fifth successor, [King Trisong Detsen](#trisong-detsen), invited one hundred and eight pandits to Tibet, including [Padmasambhava](#padmasambhava-of-oḍḍiyāna), the Preceptor of [Oḍḍiyāna](#oḍḍiyāna), the greatest of the mantra-holders, unequalled throughout the [three worlds](#three-worlds). To uphold representations of the [Buddha](#buddha)'s form, [Trisong Detsen](#trisong-detsen) had temples built, including "unchanging, spontaneously arisen" [Samye](#samye). To uphold the [Buddha](#buddha)'s speech, the authentic [Dharma](#dharma), one hundred and eight translators, including the great [Vairotṣana](#vairotṣana), learned the art of translation and translated all the main [sūtras](#sūtra), [tantras](#tantra) and [śāstras](#śāstra) then current in the noble land of India. The "Seven Men for Testing" and others were ordained as monks, forming the [Saṅgha](#saṅgha), to uphold the [Buddha](#buddha)'s mind.
 
 From that time onwards up to the present day, the teachings of the [Buddha](#buddha) have shone like the sun in Tibet and, despite ups and downs, the doctrine of the [Conqueror](#conqueror) has never been lost in either of its aspects, transmission or realization. Thus Tibet, as far as the [Dharma](#dharma) is concerned, is a central country.
 
@@ -3725,7 +3725,7 @@ see [negative emotions](#negative-emotions).
 *tshogs kyi 'khor lo*, Skt. *gaṇacakra*, a ritual in which one blesses, offers and consumes food and drink as [wisdom](#wisdom) [nectar](#nectar).
 
 ## Field of merit
-*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Saṃgha gives them a much greater
+*tshogs zhing*, the focus, or object, of one's offering, devotion, prayer, prostrations, etc., through which one can perform the necessary accumulations of merit and [wisdom](#wisdom). The term usually implies a visualized focus of practice such as the refuge deities, the teacher in Guru Yoga, etc. The fact that one's practice and positive actions are directed towards such an embodiment of the Buddha, Dharma and Saṅgha gives them a much greater
 
 ## Five clairvoyances
 1. Divine hearing, 
@@ -3742,7 +3742,7 @@ see [negative emotions](#negative-emotions).
 1. acting impurely with a female [Arhat](#arhat); 
 2. killing a [Bodhisattva](#bodhisattva); 
 3. killing someone training towards the supreme level; 
-4. stealing the sustenance of the [Saṃgha](#saṃgha); 
+4. stealing the sustenance of the [Saṅgha](#saṅgha); 
 5. destroying a [stūpa](#stūpa).
 
 ## Five crimes with immediate retribution
@@ -3750,7 +3750,7 @@ see [negative emotions](#negative-emotions).
 1. killing one's father or 
 2. one's mother or 
 3. an [Arhat](#arhat); 
-4. creating a split in the [Saṃgha](#saṃgha); 
+4. creating a split in the [Saṅgha](#saṅgha); 
 5. malevolently causing a [Buddha](#buddha) to bleed. Someone who has committed one of these five actions takes rebirth in the hell of Ultimate Torment immediately after death, without going through the intermediate state.
 
 ## Five degenerations
@@ -4219,7 +4219,7 @@ see [Bodhisattva levels](#bodhisattva-levels).
 the first of the three higher [yogas](#yoga) according to the classification of the [Dharma](#dharma) into nine vehicles. In this [yoga](#yoga), the main stress is put on the [generation phase](#generation-phase) (*bskyed rim*).
 
 ## Mahākāśyapa
-*'od srung chen po*, one of the foremost [śrāvaka](#śrāvaka) disciples of [Buddha](#buddha) [Śākyamuni](#śākyamuni), and chief among the first compilers of the [Abhidharma](#abhidharma). After the Buddha had left this world, he became the first patriarch of the [Dharma](#dharma), entrusted with the responsibility for maintaining the teachings and the [Saṃgha](#saṃgha).
+*'od srung chen po*, one of the foremost [śrāvaka](#śrāvaka) disciples of [Buddha](#buddha) [Śākyamuni](#śākyamuni), and chief among the first compilers of the [Abhidharma](#abhidharma). After the Buddha had left this world, he became the first patriarch of the [Dharma](#dharma), entrusted with the responsibility for maintaining the teachings and the [Saṅgha](#saṅgha).
 
 ## Mahāmudrā
 *phyag rgya chen po*, lit. Great Seal. The Great Seal means that the seal of the absolute nature is on everything, that all phenomena belong to the wisdom mandala. This term can be used to denote the teaching, meditation practice or supreme accomplishment.
@@ -4556,11 +4556,11 @@ Homage to you Tathagata
  that is free from any attachment  
  liberates from the evil destinies  
 >
-> Saṃgha  
+> Saṅgha  
 Freed, you show the path to freedom  
 And honor fully in the pure trainings  
 Best of fields, the Field of Virtuous Qualities  
-Homage to the Saṃgha too  
+Homage to the Saṅgha too  
 [src 1](https://www.youtube.com/live/-x4bg7OZfas), [2](https://www.youtube.com/live/9qkPT6ezaO4)  
 
 > From today onward until attaining enlightenment I will practice virtue with body speech and mind
@@ -4627,7 +4627,7 @@ Homage to the Saṃgha too
 ## Samye Chimpu
 *bsam yas mchims phu*, name of a group of hermitages situated on the mountainside above [Samye](#samye) Monastery, where many great Buddhist masters have attained accomplishment.
 
-## Saṃgha
+## Saṅgha
 *dge 'dun*. In its broad meaning it refers to all the practitioners of the [Buddha's](#buddha) teaching. It can have a more restricted meaning according to the context, referring to ordained monks, Arhats, Bodhisattvas, etc.
 
 ## Sankara
@@ -4855,7 +4855,7 @@ perceived as having a real and independent existence.
 *dkon mchog gsum*, Skt. *triratna*, 
 1. the [Buddha](#buddha), 
 2. the [Dharma](#dharma), and 
-3. the [Saṃgha](#saṃgha).
+3. the [Saṅgha](#saṅgha).
 
 ## Three kāyas
 *sku gsum*, Skt. *trikāya*, lit. the Three Bodies: the three aspects of Buddhahood: 
