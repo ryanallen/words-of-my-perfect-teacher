@@ -1379,7 +1379,7 @@ The time it takes for the universe to form, to stay in existence, to be destroye
 
 Before our [kalpa](#kalpa) arose, this [cosmos of a billion universes](#cosmos-of-a-billion-universes) was an immense ocean on whose surface appeared a thousand thousand-petalled lotuses. The [gods](#gods) of the [Brahmā-world](#brahma-world), wondering how this could be, through clairvoyance understood it to signify that during this [kalpa](#kalpa) one thousand [Buddhas](#buddha) would appear. "This will be a good [kalpa](#kalpa)," they said, and "Good" became its name.
 
-From the time when beings' lifespan was eighty thousand years and the [Buddha](#buddha) [Destroyer-of-Saṃsāra](#destroyer-of-samsara) appeared, and up to the time when beings will live incalculably long and the [Buddha](#buddha) Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of [Jambudvīpa](#jambudvīpa). Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
+From the time when beings' lifespan was eighty thousand years and the [Buddha](#buddha) [Destroyer-of-Saṃsāra](#destroyer-of-saṃsāra) appeared, and up to the time when beings will live incalculably long and the [Buddha](#buddha) Infinite-Aspiration will come, one thousand [Buddhas](#buddha) will have taken their place in this world, on the [Vajra Seat](#vajra-seat) at the center of the Continent of [Jambudvīpa](#jambudvīpa). Each one of them will have attained perfect Buddhahood there and turned the [Wheel of Dharma](#wheel-of-dharma). Therefore our present [kalpa](#kalpa) is a [bright kalpa](#good-kalpa).
 
 It will be followed by sixty peripheral, bad [kalpa](#kalpa)s, and after that, in the [Kalpa](#kalpa) of Vast Numbers, ten thousand [Buddhas](#buddha) will appear. Then another ten thousand bad [kalpa](#kalpa)s will ensue. In this alternation of bright and dark [kalpa](#kalpa)s, should we happen to be born during a dark [kalpa](#kalpa), we would never even hear that there was such a thing as the [Three Jewels](#three-jewels).
 
@@ -3580,7 +3580,7 @@ And that which is their cessation;
 Thus has proclaimed the Great Renunciant.  
 [src](https://read.84000.co/translation/toh212.html#UT22084-062-012-section-1)
 
-## Destroyer-of-Samsara
+## Destroyer-of-Saṃsāra
 *'khor ba 'jig*, the Buddha Krakucchanda, the first of the thousand Buddhas of the [Good Kalpa](#good-kalpa).
 
 ## Determination to be free
@@ -3891,7 +3891,7 @@ four god realms corresponding to these concentrations.
 *dga' ba bzhi*, Skt. *caturānanda*, four increasingly subtle experiences of bliss beyond ordinary feelings, connected with the practice of the third, or wisdom, empowerment.
 
 ## Four kāyas
-the [three kāyas](#three-kāyas) plus the *svabhavikayaya*, *ngo bo nyid kyi sku*, the kāya of the nature as it is, representing the inseparability of the first three.
+the [three kāyas](#three-kāyas) plus the *svābhāvikakāya*, *ngo bo nyid kyi sku*, the kāya of the nature as it is, representing the inseparability of the first three.
 
 ## Four metaphors
 *'du shes bzhi*. Thinking of oneself as someone who is sick, of the spiritual friend of the doctor, of the Dharma as the remedy, and of practicing his instructions as the way to recover.
