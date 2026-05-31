@@ -2,7 +2,7 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub>HAND-COPIED DIGITAL REVISED EDITION</sub></div>
 
-![Wheel illustration similar to book cover](.imgs/wheel.svg)
+![Wheel illustration similar to book cover; hand-traced by Ryan Allen](.imgs/wheel.svg)
 
 <div align="center">by Patrul Rinpoche</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
@@ -10,7 +10,7 @@ digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://gi
 
 ---
 
-[alt text](image_url)
+![BUDDHA SAKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni-the_buddha_of_our_time.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
@@ -465,6 +465,7 @@ Changes in this edition:
 - Em- and en-dashes use closed style&mdash;`word&mdash;word`, no spaces&mdash;via `&mdash;` and `&ndash;` entities.
 - Missing chapters added to the Part Three intro.
 - The [five kinds of transference](#i-the-five-kinds-of-transference) are headings, not a numbered list.
+- Illustrations are hand-traced from the original woodblock prints by Ryan Allen.
 
 May all beings be free from suffering.
 
