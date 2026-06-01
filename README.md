@@ -10,7 +10,7 @@ digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://gi
 
 ---
 
-![BUDDHA SAKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni-the_buddha_of_our_time.svg)
+![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni-the_buddha_of_our_time.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
@@ -2742,7 +2742,7 @@ Wealth, possessions, health, happiness and popularity are all the effects of pas
 > But those who live like [ṛiṣi](#ṛiṣi)s these days&mdash;  
 > Don't they care how people see them even more than before?  
 >  
-> In short, practised without remembering death,  
+> In short, practiced without remembering death,  
 > Any [Dharma](#dharma) is useless. 
 
 Human beings living in these degenerate times in all four continents of this world, but particularly here in Jabudvipa, are deprived of even the tiniest opportunity for happiness. Their lives are full of suffering. Nowadays degeneration accelerates with every year that passes, every month and every day, every mealtime, every morning and every evening. The [kalpa](#kalpa) is going from bad to worse. The [Buddha](#buddha)'s teaching and beings' happiness are decaying more and more. Think about all this and develop a feeling of disillusionment. Moreover, this continent of [Jambudvīpa](#jambudvīpa) confers a particular power on the [effects of actions](#effects-of-actions)<sup>[60](#60)</sup> which makes everything&mdash;good and bad, pleasant and unpleasant, high and low, [Dharma](#dharma) or not&mdash;highly unpredictable. You should really see for yourself how things are, and be clear in your mind about what has to be done and what should be avoided. Put into practice the Omniscient [Longchenpa](#longchenpa)'s advice:
@@ -2750,7 +2750,20 @@ Human beings living in these degenerate times in all four continents of this wor
 <details id="60"><summary>Note <sup>60</sup></summary><i>las kyi sa pa</i>, a place where the force of <a href="#karma">karma</a> is more powerful and its effects are felt more strongly and, in certain cases, sooner. Of the four continents in the universe of traditional cosmology, it is especially in <a href="#jambudvīpa">Jambudvīpa</a> that actions produce strong effects, and in which individual experiences are more variable. The inhabitants of the other continents experience the results of past actions, for the most part, rather than creating new causes. Their experiences and lifespans are more fixed.
 </details><br>
 
-
+> Sometimes look at what you perceive to be favorable;  
+> If you know it's just perception, all you experience will turn out to be helpful.<sup>[61](#61)</sup>  
+> Sometimes look at what you perceive to be adverse and harmful;  
+> This is vital, making you appalled at the deluded way you see things.  
+> Sometimes look at your friends and the teachers of others;  
+> Distinguishing the good from the bad will inspire you to practice.<sup>[62](#62)</sup>  
+> Sometimes look at the miraculous display of the [four elements](#four-elements) in space;  
+> You will see how effort subsides in the true nature of mind.<sup>[63](#63)</sup>  
+> Sometimes look at your homeland, house and possessions;  
+> Knowing them to be illusory, you will feel disgust at the deluded way you perceived them.  
+> Sometimes look at the wealth and possessions of others;  
+> Seeing how pitiful they are, you will cast off samsaric ambition.  
+> In brief, examining the nature of everything in all its multiplicity,  
+> You will destroy the delusion of [clinging](#clinging) to any of it as real.
 
 ### **5. The asuras**
 ### **6. The [gods](#gods)**
