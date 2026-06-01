@@ -999,7 +999,7 @@ Such dreams about the past and future will never come to fruition and are only a
 
 Do not focus too intently, picking out individual words and points, like a *dremo* bear digging up marmots&mdash;each time you seize one item, you forget the one before, and will never get to understand the whole. **Too much [concentration](#concentration) also makes you sleepy. Instead keep a balance between tight and loose.**
 
-Once, in the past, [Ānanda](#ānanda) was teaching [Śroṇa](#śroṇa-śroṇajāt) to meditate. Śroṇa had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. Śroṇa went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vīṇā](#vīṇā)*-player, weren't you?"
+Once, in the past, [Ānanda](#ānanda) was teaching [Śroṇa](#śroṇa-śroṇajāt) to meditate. [Śroṇa](#śroṇa-śroṇajāt) had great difficulty getting it right. Sometimes he was too tense, sometimes too relaxed. [Śroṇa](#śroṇa-śroṇajāt) went to discuss the matter with the [Buddha](#buddha), who asked him: "When you were a layman, you were a good *[vīṇā](#vīṇā)*-player, weren't you?"
 
 "Yes, I played very well."
 
@@ -1726,7 +1726,7 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 <sup>* These stages of destruction all take place within one <a href="#kalpa">kalpa</a>, but even these long-lived <a href="#gods">gods</a> can grow old between the first destruction by fire and the seventh, after which their <a href="#realm">realm</a>&mdash;part of that of the second <a href="#concentration">concentration</a>&mdash;will be destroyed by water.</sup>
 
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
-There are two subcontinents for each of the four continents which surround Mount Meru according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
+There are two subcontinents for each of the four continents which surround Mount [Meru](#meru-mount) according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
 <br>
 
 1. Pūrvavideha in the East:  
@@ -1749,7 +1749,7 @@ There are two subcontinents for each of the four continents which surround Mount
 </details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
-Seven golden mountain ranges (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount Meru, according to Buddhist cosmology.<br>
+Seven golden mountain ranges (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount [Meru](#meru-mount), according to Buddhist cosmology.<br>
 
 The names of these mountain ranges are:<br>
 
@@ -1761,17 +1761,17 @@ The names of these mountain ranges are:<br>
 6. Bent (Vinataka; T. rnam 'dud)
 7. Rim (Nimindhara; T. mu khyud 'dzin)
 
-The first range of mountains, Yugandhara, is a quarter of the height of Mount Meru. Each of the subsequent mountain ranges are half the height of the previous ones.  
+The first range of mountains, Yugandhara, is a quarter of the height of Mount [Meru](#meru-mount). Each of the subsequent mountain ranges are half the height of the previous ones.  
 
 Jamgön Kongtrul states:  
 
-> Beyond Mount Meru and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
+> Beyond Mount [Meru](#meru-mount) and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
 >  
 > The spaces between [the mountain ranges] are filled with what are known as seven seas enjoyed [by the nāgas], the waters of which have eight qualities: cool, tasty, light, soft, clear, odorless, harmless to the throat if swallowed, and harmless to the stomach.
 
 Dudjom Rinpoche states:  
 
-> Mount Meru is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara&mdash;each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the <a href="#vinaya">Vinaya</a> scriptures:
+> Mount [Meru](#meru-mount) is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara&mdash;each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the <a href="#vinaya">Vinaya</a> scriptures:
 >  
 >  > Cool, sweet, light, and soft,  
 Clear and odorless,  
@@ -1780,7 +1780,7 @@ Such is water that has the eight perfect qualities.
 >  
 > They are filled with <a href="#wish-fulfilling-jewel">wish-fulfilling jewel</a>s and the other multifarious riches that belong to the <a href="#nāga">nāga</a>s.
 >  
-> Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount Meru.  
+> Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount [Meru](#meru-mount).  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Seven_golden_mountain_ranges)
 </details>
@@ -1789,9 +1789,9 @@ Such is water that has the eight perfect qualities.
 Description of the Universe<br>
 <a href="#abhidharma">Abhidharma</a><br><br>
 
-A world system has a square Core Mountain (Mount Meru) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
+A world system has a square Core Mountain (Mount [Meru](#meru-mount)) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
 
-...As for the eight rings of mountains on the gold base, the seven closest to Mount Meru are actual mountains, while the eighth is an iron fence encircling the perimeter of the entire gold base...
+...As for the eight rings of mountains on the gold base, the seven closest to Mount [Meru](#meru-mount) are actual mountains, while the eighth is an iron fence encircling the perimeter of the entire gold base...
 
 [src](https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/time-the-universe/buddhist-cosmology-in-abhidharma-and-kalachakra#description-of-the-universe)
 </details><br>
@@ -2780,7 +2780,7 @@ The pleasures and abundance enjoyed by the asuras, the [demigod](#demigod)s, riv
 
 Even within their own [realm](#realm)s, there are disputes between territories and provinces, and they spend all their time fighting and quarrelling among themselves over such disagreements.
 
-But worse, looking upwards into the [realm](#realm) of the [gods](#gods), they can see that the [gods](#gods) have the ultimate in wealth and possessions. They also see that all the gods' wants and needs are provided by a [wish-fulfilling tree](#wish-fulfilling-tree)&mdash;whose roots, however, are in their own [realm](#realm). At that they are seized with unbearable resentment. Donning their armor and grabbing their weapons, they set off to make war on the [gods](#gods). As soon as the [gods](#gods) see what is happening, they proceed to the Forest of Aggression,<sup>[64](#64)</sup> and in their turn put on armor and take up arms. The [gods](#gods) keep an elephant with [thirty-three](#thirty-three) heads called Supremely Steady. Their king, [Indra](#indra), rides on the central head, with his ministers all around him on the thirty-two other heads. Inconceivable divine legions of irresistible splendor surround them, raising their mighty battle cry. As the battle begins, they let loose a rain of weapons&mdash;[vajra](#vajra)s, [wheel](#wheel)s, spears, giant arrows and so on. Their magical power gives them the strength to haul huge mountains into their laps and hurl them down as missiles. Because of their past actions, [gods](#gods) are seven times taller than men, but [demigod](#demigod)s are much smaller than [gods](#gods). [Gods](#gods) can be killed only by cutting off their heads; any other wounds they receive are immediately healed by their divine [ambrosia](#ambrosia). But [demigod](#demigod)s die, as humans do, when a vital organ is hit. They are therefore bound to lose the many battles that take place. When, among their other strategies, the [gods](#gods) dispatch an elephant called All-Protector, crazed with liquor, a [wheel](#wheel) of swords fastened to its trunk, the [demigod](#demigod)s die in their hundreds of thousands. Their corpses tumble down the slopes of Mount Meru to fall into the [Great Exuberant Lakes](#great-exuberant-lakes) below, whose waters are suffused with the color of blood.
+But worse, looking upwards into the [realm](#realm) of the [gods](#gods), they can see that the [gods](#gods) have the ultimate in wealth and possessions. They also see that all the gods' wants and needs are provided by a [wish-fulfilling tree](#wish-fulfilling-tree)&mdash;whose roots, however, are in their own [realm](#realm). At that they are seized with unbearable resentment. Donning their armor and grabbing their weapons, they set off to make war on the [gods](#gods). As soon as the [gods](#gods) see what is happening, they proceed to the Forest of Aggression,<sup>[64](#64)</sup> and in their turn put on armor and take up arms. The [gods](#gods) keep an elephant with [thirty-three](#thirty-three) heads called Supremely Steady. Their king, [Indra](#indra), rides on the central head, with his ministers all around him on the thirty-two other heads. Inconceivable divine legions of irresistible splendor surround them, raising their mighty battle cry. As the battle begins, they let loose a rain of weapons&mdash;[vajra](#vajra)s, [wheel](#wheel)s, spears, giant arrows and so on. Their magical power gives them the strength to haul huge mountains into their laps and hurl them down as missiles. Because of their past actions, [gods](#gods) are seven times taller than men, but [demigod](#demigod)s are much smaller than [gods](#gods). [Gods](#gods) can be killed only by cutting off their heads; any other wounds they receive are immediately healed by their divine [ambrosia](#ambrosia). But [demigod](#demigod)s die, as humans do, when a vital organ is hit. They are therefore bound to lose the many battles that take place. When, among their other strategies, the [gods](#gods) dispatch an elephant called All-Protector, crazed with liquor, a [wheel](#wheel) of swords fastened to its trunk, the [demigod](#demigod)s die in their hundreds of thousands. Their corpses tumble down the slopes of Mount [Meru](#meru-mount) to fall into the [Great Exuberant Lakes](#great-exuberant-lakes) below, whose waters are suffused with the color of blood.
 
 <details id="64"><summary>Note <sup>64</sup></summary>The <a href="#realm">realm</a> of the <a href="#gods">gods</a> is characterized in part by the absence of anger and hatred. So here, in order to be able to fight, the <a href="#gods">gods</a> of the Heaven of the <a href="#thirty-three">Thirty-three</a> go to a magic forest which makes them aggressive.
 </details><br>
@@ -2887,9 +2887,9 @@ The master answered him with the same question.
 
 "So, what should I do?" asked the yogī.
 
-"All of you should rely entirely on Tönpa and sincerely renounce this life," answered [Atīśa](#atīśa).
+"All of you should rely entirely on [Tönpa](#tönpa-geshe) and sincerely renounce this life," answered [Atīśa](#atīśa).
 
-Another tale tells of a monk who was circumambulating Radreng Monastery when he met [Geshe](#geshe) Tönpa. The [Geshe](#geshe) said, "Venerable monk, circumambulating is a good thing, but woudln't it be better to practice real [Dharma](#dharma)?"
+Another tale tells of a monk who was circumambulating Radreng Monastery when he met [Geshe](#geshe) [Tönpa](#tönpa-geshe). The [Geshe](#geshe) said, "Venerable monk, circumambulating is a good thing, but woudln't it be better to practice real [Dharma](#dharma)?"
 
 The monk [thought](#thought) to himself, "Maybe it is more important to read the [Mahāyāna](#mahāyāna) [sūtra](#sūtra)s than to circumambulate." So he took to reading the [sūtra](#sūtra)s on the balcony overlooking the outdoor teaching yard.
 
@@ -2897,7 +2897,7 @@ After a while, [Geshe](#geshe) Tonmpa told him, "It is a good thing to read the 
 
 The monk [thought](#thought) it over again. "This must mean that it would be better to practice meditation than to read the [sūtra](#sūtra)s." So he put off his reading till another time and began to spend his time sitting on his bed with his eyes half closed.
 
-Once again, Tönpa said to him, "It is a good thing to meditate, too, but wouldn't it be better to practice the real [Dharma](#dharma)?"
+Once again, [Tönpa](#tönpa-geshe) said to him, "It is a good thing to meditate, too, but wouldn't it be better to practice the real [Dharma](#dharma)?"
 
 The monk, at his wits' end, cried out, "Venerable [Geshe](#geshe), what should I do, then, to practice [Dharma](#dharma)?"
 
@@ -3184,7 +3184,7 @@ So he set to work, but found that this work got him involved in many distraction
 
 Dagpo Rinpoche was delighted and told him that he was perfectly right.
 
-"Even if you have committed [negative action](#negative-action)s as colossal as Mount Meru itself," he said, "they are purified in one instant of seeing that nature."
+"Even if you have committed [negative action](#negative-action)s as colossal as Mount [Meru](#meru-mount) itself," he said, "they are purified in one instant of seeing that nature."
 
 There is indeed no deeper way to cleanse oneself of past misdeeds than to meditate on bodhicitta and to maintain the flow of the [unaltered](#unaltered) [natural state](#natural-state). Keep these two things in mind as you go through the details of the meditation on [Vajrasattva](#vajrasattva)&mdash;purification by the stream of [nectar](#nectar), recitation of the hundred syllable [mantra](#mantra), and so on.
 
