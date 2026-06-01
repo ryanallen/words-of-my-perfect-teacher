@@ -2798,7 +2798,7 @@ In this [realm](#realm) of the asuras, with their constant fights and quarrels, 
 <details id="65"><summary>Note <sup>65</sup></summary>The worlds of form and formlessness. See: "three worlds."
 </details><br>
 
-> Know that even Brahma himself,  
+> Know that even [Brahmā](#brahmā) himself,  
 > After achieving happiness free from attachment  
 > In his turn will endure ceaseless suffering  
 > As fuel for the fires of the Hell of Ultimate Torment.
@@ -2811,7 +2811,7 @@ Wherever we are born throughout the six realms, therefore, everything has the na
 > Humans suffer from having a short life,  
 > Asuras suffer from wars and quarrels,  
 > And the gods suffer from their own mindlessness.  
-> In samsara there is never a pinpoint of happiness.
+> In [saṃsāra](#saṃsāra) there is never a pinpoint of happiness.
 
 And Lord Maitreya says:
 
@@ -2821,14 +2821,14 @@ And Lord Maitreya says:
 <details id="66"><summary>Note <sup>66</sup></summary>Lit. "five realms:" an alternative classification of the six realms with the gods and asuras grouped as one.
 </details><br>
 
-The Great Master of Oddiyana says:
+The Great Master of [Oḍḍiyāna](#oḍḍiyāna) says:
 
-> It is said that in this samsara there is not as much  
+> It is said that in this [saṃsāra](#saṃsāra) there is not as much  
 > As a pinpoint's worth of happiness to be found.  
 > But should one happen to find just a little,  
 > It will contain the suffering of change. 
 
-The more you reflect on these and other similar passages, the more you will realize that no matter where you are reborn, from the summit of existence right down to the deepet hell, there is not even the tiniest interlude of real comfort or happiness. It is all without any meaning. Think about samsara and its sufferings until you have no desire for it any more, like someone with a bad liver being offered greasy food.
+The more you reflect on these and other similar passages, the more you will realize that no matter where you are reborn, from the summit of existence right down to the deepest [hell](#hell), there is not even the tiniest interlude of real comfort or happiness. It is all without any meaning. Think about [saṃsāra](#saṃsāra) and its sufferings until you have no desire for it any more, like someone with a bad liver being offered greasy food.
 
 Do not be content with merely hearing about these torments and understanding them intellectually. Take them upon yourself mentally and experience them with all your imatgination until you are really convinced of them. Armed with that degree of certainty, avoiding negative actions and take pleasure in positive ones will com naturally to you without your having to force it.
 
@@ -2854,7 +2854,7 @@ Back on earth, Nanda observed monastic discipline perfectly.
 
 Then the Buddha addressed the monks. "Nanda has renounced worldly life in order to be reborn in the divine realms," he said, "but all of you have become monks in order to go beyond suffering. You and he are not on the same path. Do not talk to him any more. Do not be intimate with him. Do not even sit on the same seat as him!"
 
-All the monks obeyed, and Nanda was very upset. He thought, "Ananda is my younger brother; at least he will still ahve some affection for me." But when he went to see his brother, Ananda got up from the seat and moved away. Nanda asked him why, and Ananda told him what the Buddha had said. nanda was heartbroken.
+All the monks obeyed, and [Nanda](#nanda) was very upset. He [thought](#thought), "[Ānanda](#ānanda) is my younger brother; at least he will still have some affection for me." But when he went to see his brother, [Ānanda](#ānanda) got up from the seat and moved away. [Nanda](#nanda) asked him why, and [Ānanda](#ānanda) told him what the [Buddha](#buddha) had said. [Nanda](#nanda) was heartbroken.
 
 At last the Buddha came to him and said, "Nanda, will you come to see the hells?" nanda agreed, and the Buddha transported them both there with his miraculous powers. "Go and look around," he said.
 
@@ -2862,11 +2862,11 @@ So Nanda set off to explore, visiting all the realms of hell, until in one place
 
 "There is a young cousin of the Buddha called nanda," they replied, "who is practicing monastic discipline with the intention fo being reborn as a god. After enjoying the happiness of a celestial realm, when his merit runs out he will be reborn here."
 
-Nanda was terrified. He returned, and thought things over. To be born among the gods in the future and then to end up in the hell-realms made no sense, so he developed a real determination to seek freedom from samsara. Having seen the hells with his own eyes, he never did anything that transgressed the precepts even slightly, and the Buddha extolled him as the disciple with the best control over the sense-doors.<sup>*</sup>
+[Nanda](#nanda) was terrified. He returned, and [thought](#thought) things over. To be born among the [gods](#gods) in the future and then to end up in the hell-realms made no sense, so he developed a real determination to seek freedom from [saṃsāra](#saṃsāra). Having seen the [hell](#hell)s with his own eyes, he never did anything that transgressed the precepts even slightly, and the [Buddha](#buddha) extolled him as the disciple with the best control over the sense-doors.<sup>*</sup>
 
 <sup>* Controlling the sense-doors means not allowing oneself to be seduced by the objects of the sense.</sup>
 
-We do not need to go so far as to see the hells with our own eyes. A simple picture is enough to frighten us and reinforce our desire for liberation. It is for this reason that the Buddha asked that the five-fold wheel representing samsara be drawn at the doors of the sangha's assembly-halls.<sup>*</sup> As Lord Nagarjuna said:
+We do not need to go so far as to see the [hell](#hell)s with our own eyes. A simple picture is enough to frighten us and reinforce our desire for [liberation](#liberation). It is for this reason that the [Buddha](#buddha) asked that the five-fold [wheel](#wheel) representing [saṃsāra](#saṃsāra) be drawn at the doors of the [saṅgha](#saṅgha)'s assembly-halls.<sup>*</sup> As Lord [Nāgārjuna](#nāgārjuna) said:
 
 <sup>* This diagram can commonly be seen at the entrance of Tibetan temples.</sup>
 
@@ -2875,35 +2875,35 @@ We do not need to go so far as to see the hells with our own eyes. A simple pict
 > What will you do when you experience there  
 > The full, inexorable effects of your actions?
 
-Reflect, therefore, on all the different kinds of suffering in samsara. From the depth of your heart, turn away from all the ordinary goals of this life. Unless you give up wroldly activities completely, whatever Dharma you may claim to be practicing will not be the real thing.
+Reflect, therefore, on all the different kinds of suffering in [saṃsāra](#saṃsāra). From the depth of your heart, turn away from all the ordinary goals of this life. Unless you give up worldly activities completely, whatever [Dharma](#dharma) you may claim to be practicing will not be the real thing.
 
-As Atisa was about to leave this world, a yogi came to him with a question. "After you have gone, should I meditate?"
+As [Atīśa](#atīśa) was about to leave this world, a yogī came to him with a question. "After you have gone, should I meditate?"
 
-"Even if you do, will it really be the Dharma?" Atisa asked him.
+"Even if you do, will it really be the [Dharma](#dharma)?" [Atīśa](#atīśa) asked him.
 
 "Well then, should I teach?"
 
 The master answered him with the same question.
 
-"So, what should I do?" asked the yogi.
+"So, what should I do?" asked the yogī.
 
-"All of you should rely entirely on Tonpa and sincerely renounce this life," answered Atisa.
+"All of you should rely entirely on Tönpa and sincerely renounce this life," answered [Atīśa](#atīśa).
 
-Another tale tells of a monk who was circumambulating Radreng Monastery when he met Geshe Tonpa. The Geshe said, "Venerable monk, circumambulating is a good thing, but woudln't it be better to practice real Dharma?"
+Another tale tells of a monk who was circumambulating Radreng Monastery when he met [Geshe](#geshe) Tönpa. The [Geshe](#geshe) said, "Venerable monk, circumambulating is a good thing, but woudln't it be better to practice real [Dharma](#dharma)?"
 
-The monk thought to himself, "Maybe it is more important to read the Mahayana sutras than to circumambulate." So he took to reading the sutras on the balcony overlooking the outdoor teaching yard.
+The monk [thought](#thought) to himself, "Maybe it is more important to read the [Mahāyāna](#mahāyāna) [sūtra](#sūtra)s than to circumambulate." So he took to reading the [sūtra](#sūtra)s on the balcony overlooking the outdoor teaching yard.
 
 After a while, Geshe Tonmpa told him, "It is a good thing to read the teachings, too, but wouldn't it be better to practice real Dharma?"
 
-The monk thought it over again. "This must mean taht it would be better to practice meditation than to read the sutras." So he put off his reading till another time and began to spend his time sitting on his bed with his eyes half closed.
+The monk [thought](#thought) it over again. "This must mean that it would be better to practice meditation than to read the [sūtra](#sūtra)s." So he put off his reading till another time and began to spend his time sitting on his bed with his eyes half closed.
 
-Once again, Tonpa said to him, "It is a good thing to meditate, too, but wouldn't it be better to practice the real Dharma?"
+Once again, Tönpa said to him, "It is a good thing to meditate, too, but wouldn't it be better to practice the real [Dharma](#dharma)?"
 
 The monk, at his wits' end, cried out, "Venerable Geshe, what should I do, then, to practice Dharma?"
 
 "Venerable monk," the Geshe replied, "renounce this life! Renounce this life!"
 
-It is all our ordinary activities and commitments limited to this life's concerns that prevent us from getting free from samsara's realms of suffering, now and forever. Apart from an authentic teacher, no-one else can truly show us what has to be done to cut through the moorings that hold us to this life and to attain enlightement in our future lives. Leave behind all of this life's preoccupations&mdash;parents, relatives and friends, companions and lovers, food, wealth and possessions&mdash;like so much spit in the dust.<sup>*</sup> Be satisfied with whatever food and clothes might come your way, and devote yourself wholly to the Dharma. Padampa Sangye says:
+It is all our ordinary activities and commitments limited to this life's concerns that prevent us from getting free from [saṃsāra](#saṃsāra)'s [realm](#realm)s of suffering, now and forever. Apart from an authentic teacher, no-one else can truly show us what has to be done to cut through the moorings that hold us to this life and to attain enlightenment in our future lives. Leave behind all of this life's preoccupations&mdash;parents, relatives and friends, companions and lovers, food, wealth and possessions&mdash;like so much spit in the dust.<sup>*</sup> Be satisfied with whatever food and clothes might come your way, and devote yourself wholly to the [Dharma](#dharma). [Padampa Sangye](#padampa-sangye) says:
 
 <sup>* Waht is impled here (explicit in other chapters) is not a rejection of one's responsibilities to parents, children etc. but a transformation of limited ego-based attachment and preoccupation into a genuine love which also extends to all beings.</sup>
 
@@ -2933,7 +2933,7 @@ It is all our ordinary activities and commitments limited to this life's concern
 <details id="67"><summary>Note <sup>67</sup></summary><i>las su 'char ba</i>. We have received a number of different explanations of this expression. We have translated it according to the interpretation of DKR as being the equivalent of <i>las su rung ba</i>, suitable or workable.
 </details><br>
 
-<details id="68"><summary>Note <sup>68</sup></summary>Just as a watch tower plays a vital role in a war for observing the enemy and obtaining the victory, the samaya is essential in the Secret Mantrayana for avoiding obstacles and attaining Buddhahood.
+<details id="68"><summary>Note <sup>68</sup></summary>Just as a watch tower plays a vital role in a war for observing the enemy and obtaining the victory, the <a href="#samaya">samaya</a> is essential in the <a href="#secret-mantrayāna">Secret Mantrayāna</a> for avoiding obstacles and attaining Buddhahood.
 </details><br>
 
 <sup>* Ultimately all perceptions have the same nature, which is emptiness.</sup>
