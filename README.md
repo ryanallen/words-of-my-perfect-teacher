@@ -2765,7 +2765,28 @@ Human beings living in these degenerate times in all four continents of this wor
 > In brief, examining the nature of everything in all its multiplicity,  
 > You will destroy the delusion of [clinging](#clinging) to any of it as real.
 
+<details id="61"><summary>Note <sup>61</sup></summary>If we are not deceived by favorable circumstances, but realize that they only have as much reality as we accord them, those circumstances can become an aid to the progress of our meditation instead of producing attachments which will obstruct us.
+</details><br>
+
+<details id="62"><summary>Note <sup>62</sup></summary>It is through observing both good and bad teachers that one can appreciate the good ones. Observing good and bad practitioners helps one to learn how to act oneself.
+</details><br>
+
+<details id="63"><summary>Note <sup>63</sup></summary>In the same way that outer phenomena appear and disappear in space, mental phenomena arise from the nature of mind (<i>sems nyid</i>) and dissolve back within it. They have no independent reality.
+</details><br>
+
 ### **5. The asuras**
+
+The pleasures and abundance enjoyed by the asuras, the [demigod](#demigod)s, rival those of the [gods](#gods). However, from previous lives they have a strong propensity for envy, quarrelling and fighting. The effect of those past [negative action](#negative-action)s is that no sooner do they take their present form than they start to experience intense feelings of envy.
+
+Even within their own [realm](#realm)s, there are disputes between territories and provinces, and they spend all their time fighting and quarrelling among themselves over such disagreements.
+
+But worse, looking upwards into the [realm](#realm) of the [gods](#gods), they can see that the [gods](#gods) have the ultimate in wealth and possessions. They also see that all the gods' wants and needs are provided by a [wish-fulfilling tree](#wish-fulfilling-tree)&mdash;whose roots, however, are in their own [realm](#realm). At that they are seized with unbearable resentment. Donning their armor and grabbing their weapons, they set off to make war on the [gods](#gods). As soon as the [gods](#gods) see what is happening, they proceed to the Forest of Aggression,<sup>[64](#64)</sup> and in their turn put on armor and take up arms. The [gods](#gods) keep an elephant with [thirty-three](#thirty-three) heads called Supremely Steady. Their king, [Indra](#indra), rides on the central head, with his ministers all around him on the thirty-two other heads. Inconceivable divine legions of irresistible splendor surround them, raising their mighty battle cry. As the battle begins, they let loose a rain of weapons&mdash;[vajra](#vajra)s, [wheel](#wheel)s, spears, giant arrows and so on. Their magical power gives them the strength to haul huge mountains into their laps and hurl them down as missiles. Because of their past actions, [gods](#gods) are seven times taller than men, but [demigod](#demigod)s are much smaller than [gods](#gods). [Gods](#gods) can be killed only by cutting off their heads; any other wounds they receive are immediately healed by their divine [ambrosia](#ambrosia). But [demigod](#demigod)s die, as humans do, when a vital organ is hit. They are therefore bound to lose the many battles that take place. When, among their other strategies, the [gods](#gods) dispatch an elephant called All-Protector, crazed with liquor, a wheel of swords fastened to its trunk, the [demigod](#demigod)s die in their hundreds of thousands. Their corpses tumble down the slopes of Mount Meru to fall into the [Great Exuberant Lakes](#great-exuberant-lakes) below, whose waters are suffused with the color of blood.
+
+<details id="64"><summary>Note <sup>64</sup></summary>The <a href="#realm">realm</a> of the <a href="#gods">gods</a> is characterized in part by the absence of anger and hatred. So here, in order to be able to fight, the <a href="#gods">gods</a> of the Heaven of the <a href="#thirty-three">Thirty-three</a> go to a magic forest which makes them aggressive.
+</details><br>
+
+In this [realm](#realm) of the asuras, with their constant fights and quarrels, there is no freedom from suffering. Meditate on their lot from the depth of your heart.
+
 ### **6. The [gods](#gods)**
 
 # <div align="center">CHAPTER FOUR<br><i>Actions:<sup>*</sup> the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
