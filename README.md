@@ -4,7 +4,7 @@
 
 ![Wheel illustration similar to book cover; hand-traced by Ryan Allen](.imgs/wheel.svg)
 
-<div align="center">by Patrul Rinpoche</div>  
+<div align="center">by [Patrul Rinpoche](#patrul-rinpoche)</div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
 digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
 
@@ -54,7 +54,7 @@ The Library of Congress has cataloged the original edition as follows:
 
 O-rgyan- 'jigs-med-chos-kyi-dban-po, Dpal-sprul, b. 1808  
 [Kun bzan bla ma'i zal lun. English]  
-The words of my perfect teacher / Patrul Rinpoche: translated by the Padmakara Translation Group; with a foreword by the Dalai [Lama](#lama) and Dilgo Khyentse Rinpoche&mdash;2nd ed.  
+[The words of my perfect teacher](#the-words-of-my-perfect-teacher) / [Patrul Rinpoche](#patrul-rinpoche): translated by the Padmakara Translation Group; with a foreword by the Dalai [Lama](#lama) and Dilgo Khyentse Rinpoche&mdash;2nd ed.  
 p. cm.&mdash;(Sacred literature series)  
 Includes bibliographical references and index.  
 ISBN 0-7619-9026-7 (alk. paper).&mdash;ISBN 0-7619-9027-5 (alk. paper)  
@@ -89,7 +89,7 @@ Printed in the United States of America.
 
 # INTERNATIONAL SACRED LITERATURE TRUST
 
-The International Sacred Literature Trust was established to promote understanding and open discussion between and within faiths and to give voice in today's world to the [wisdom](#wisdom) that speaks across time and traditions.
+The [International Sacred Literature Trust](#international-sacred-literature-trust) was established to promote understanding and open discussion between and within faiths and to give voice in today's world to the [wisdom](#wisdom) that speaks across time and traditions.
 
 What resources do the sacred traditions of the world possess to respond to the great global threats of poverty, war, ecological disaster and spiritual despair?
 
@@ -423,7 +423,7 @@ The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjam
 
 *<h1 id="forewordhhdkr" align="center">Foreword<br>by Dilgo Khyentse Rinpoche</h1>*
 
-*The Words of My Perfect Teacher, a Guide to the [Preliminaries](#preliminaries) for the Heart-essence of the Vast Expanse from the [Great Perfection](#great-perfection)*, sets out the paths of the four main schools of Tibetan Buddhism without any conflict between them.
+*The [Words of My Perfect Teacher](#words-of-my-perfect-teacher), a Guide to the [Preliminaries](#preliminaries) for the Heart-essence of the Vast Expanse from the [Great Perfection](#great-perfection)*, sets out the paths of the four main schools of Tibetan Buddhism without any conflict between them.
 
 It contains all the teachings, including the Steps of the Path for those of the three [levels](#levels) of understanding, along with the Three Main Themes of the Path; the Three [Perceptions](#perceptions), [preliminaries](#preliminaries) for the Path and Fruit; the [Buddha Nature](#buddha-nature) as the cause, precious human life as the support, the [spiritual friend](#spiritual-friend) as the impetus, his instructions as the method, and the [kāyas](#kāya) and [wisdom](#wisdom)s as the result, these representing the confluence of the [Kadampa](#kadampa) and [Mahāmudrā](#mahāmudrā) traditions; and the [Nyingma](#nyingmapa) path in terms of [determination to be free](#determination-to-be-free) through disgust for [saṃsāra](#saṃsāra), faith through confidence in the effect of actions, bodhicitta through striving to help others, and [pure perception](#pure-perception) of the utter purity of everything there is.
 
@@ -443,7 +443,7 @@ The first stage of the English version was a draft translation from the French b
 
 The translators are grateful to readers Michal Abrams, Wulstan Fletcher, Helena Blankleder, Rinchen Lhamo, Elissa Mannheimer and Vivian Kurz for their valuable suggestions, and to Jill Heald for help with the typescript.
 
-Finally, our warmest thanks to Kerry Brown of the International Sacred Literature Trust for her constant and patient encouragement.
+Finally, our warmest thanks to Kerry Brown of the [International Sacred Literature Trust](#international-sacred-literature-trust) for her constant and patient encouragement.
 
 ---
 
@@ -451,7 +451,7 @@ Finally, our warmest thanks to Kerry Brown of the International Sacred Literatur
 
 Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was hand-typed by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;both to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
 
-*The Words of My Perfect Teacher* is by Patrul Rinpoche, translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>; the second edition was published by Yale University Press in 2011. Translation and introductory matter © 1994, 1998 Padmakara Translation Group&mdash;all rights in the underlying translation, introduction, and notes are reserved by the original copyright holders. This hand-copy is non-commercial, prepared under 17 U.S.C. § 107 (fair use); it is not sold or monetized, claims no rights in the translation, and the printed edition remains the canonical source&mdash;please <a href="https://yalebooks.yale.edu/">purchase it</a> to support the translators and publisher. Rightsholders may open a repo issue to request modification or removal.
+*The Words of My Perfect Teacher* is by [Patrul Rinpoche](#patrul-rinpoche), translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>; the second edition was published by Yale University Press in 2011. Translation and introductory matter © 1994, 1998 Padmakara Translation Group&mdash;all rights in the underlying translation, introduction, and notes are reserved by the original copyright holders. This hand-copy is non-commercial, prepared under 17 U.S.C. § 107 (fair use); it is not sold or monetized, claims no rights in the translation, and the printed edition remains the canonical source&mdash;please <a href="https://yalebooks.yale.edu/">purchase it</a> to support the translators and publisher. Rightsholders may open a repo issue to request modification or removal.
 
 Changes in this edition:
 
@@ -500,25 +500,25 @@ Patrul Rinpoche's work is not a treatise for experts but a manual of practical a
 
 He explains everything we need to know to practice the teachings&mdash;and also, often with devastating irony, the many mistakes that can be made on the spiritual journey. The language veers from high poetry to broad vernacular. Each point is illustrated by numerous quotations, down-to-earth examples from daily life, and a wealth of stories. Some of these stories go back to the very origins of Buddhism in the 6th century BC and beyond; some are drawn from the extraordinary lives of the great masters of India and Tibet; some concern the doings of the ordinary folk of Patrul Rinpoche's native Kham.
 
-Patrul Rinpoche was famous for the direct way he probed the depths of his students' minds. He was a firm believer in [Atīśa's](#atīśa) dictum, **"The best [spiritual friend](#spiritual-friend) is the one who attacks your hidden faults."** Although his work is clearly adapted to his particular audience, with a little effort of transposition we can see that human nature remains remarkably the same regardless of time and culture. We feel that the recesses of our own character are exposed and we are forced to question our own habits of [thought](#thought) and open our minds to new possibilities.
+[Patrul Rinpoche](#patrul-rinpoche) was famous for the direct way he probed the depths of his students' minds. He was a firm believer in [Atīśa's](#atīśa) dictum, **"The best [spiritual friend](#spiritual-friend) is the one who attacks your hidden faults."** Although his work is clearly adapted to his particular audience, with a little effort of transposition we can see that human nature remains remarkably the same regardless of time and culture. We feel that the recesses of our own character are exposed and we are forced to question our own habits of [thought](#thought) and open our minds to new possibilities.
 
 In his concluding chapter the author describes his work as follows:
 
 > In writing down these instructions I have not been guided primarily by aesthetic or literary considerations. My main aim has simply been to record faithfully the oral instructions of my revered teacher in a way that is easy to understand and useful for the mind. I have done my best not to spoil them by mixing in my own words or ideas. On separate occasions my teacher also used to give numerous special instructions for exposing hidden faults, and I have added whatever I have been able to remember of these in the most appropriate places. Do not take them as a window through which to observe others' faults, but rather as a mirror for examining your own. Look carefully within yourself to see whether or not you have those hidden faults. If you do, recognize them and take them out of their hiding place. Correct your mind and set it at ease on the right path...
 
-For [Vajrayāna](#vajrayāna) Buddhism, [enlightenment](#enlightenment) is not a remote ideal but something which, with the appropriate methods and a supreme effort, can be achieved here and now, in this very life. In Tibet's living [wisdom](#wisdom) tradition, every scripture, every meditation practice and training for the mind, is passed on from teacher to student, and then internalized till it becomes an integral part of that person's experience. One of the words for spiritual practice in Tibetan is *nyamlen*, literally "taking into experience." Someone who can be considered a lineage holder, a truly qualified spiritual teacher, must have actually attained realization. Patrul Rinpoche held a continuous line of transmission coming down from the [Buddha](#buddha) himself. This lineage has been passed on unbroken, from one realized teacher to the next, until the present day.
+For [Vajrayāna](#vajrayāna) Buddhism, [enlightenment](#enlightenment) is not a remote ideal but something which, with the appropriate methods and a supreme effort, can be achieved here and now, in this very life. In Tibet's living [wisdom](#wisdom) tradition, every scripture, every meditation practice and training for the mind, is passed on from teacher to student, and then internalized till it becomes an integral part of that person's experience. One of the words for spiritual practice in Tibetan is *nyamlen*, literally "taking into experience." Someone who can be considered a lineage holder, a truly qualified spiritual teacher, must have actually attained realization. [Patrul Rinpoche](#patrul-rinpoche) held a continuous line of transmission coming down from the [Buddha](#buddha) himself. This lineage has been passed on unbroken, from one realized teacher to the next, until the present day.
 
 *<p id="Nyugu-il" align="center">Jigme Gyalwai Nyugu</p>*
-Patrul Rinpoche's perfect teacher. Patrul Rinpoche heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
+Patrul Rinpoche's perfect teacher. [Patrul Rinpoche](#patrul-rinpoche) heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
 
 ## Patrul Rinpoche and the tradition he inherited
 
-In the [Nyingmapa](#nyingmapa) school, to which Patrul Rinpoche belonged, and which is the oldest tradition of Tibetan Buddhism, there are two kinds of transmission. There is the Kahma, (*bka' ma*) or oral lineage, passed on from teacher to student over the centuries, and there is the miraculous direct lineage of Terma (*gter ma*) or [Spiritual Treasures](#spiritual-treasure). These were hidden in the eighth century by [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and his great woman disciple [Yeshe Tsogyal](#yeshe-tsogyal), to be discovered in later ages at the appropriate moment. *The Words of My Perfect Teacher* is an explanation of the preliminary practices of the *Longchen Nyingtik* (*klong chen snying thig*), *The Heart-essence of the Vast Expanse*, a [spiritual treasure](#spiritual-treasure) discovered by [Rigdzin Jigme Lingpa](#jigme-lingpa) (1729 - 1798).
+In the [Nyingmapa](#nyingmapa) school, to which [Patrul Rinpoche](#patrul-rinpoche) belonged, and which is the oldest tradition of Tibetan Buddhism, there are two kinds of transmission. There is the Kahma, (*bka' ma*) or oral lineage, passed on from teacher to student over the centuries, and there is the miraculous direct lineage of Terma (*gter ma*) or [Spiritual Treasures](#spiritual-treasure). These were hidden in the eighth century by [Padmasambhava](#padmasambhava-of-oḍḍiyāna) and his great woman disciple [Yeshe Tsogyal](#yeshe-tsogyal), to be discovered in later ages at the appropriate moment. *The Words of My Perfect Teacher* is an explanation of the preliminary practices of the *Longchen Nyingtik* (*klong chen snying thig*), *The Heart-essence of the Vast Expanse*, a [spiritual treasure](#spiritual-treasure) discovered by [Rigdzin Jigme Lingpa](#jigme-lingpa) (1729 - 1798).
 
 [alt text](image_url)
 
 *<p id="jigme-gyalwai-nyugu-il" align="center">Jigme Gyalwai Nyugu</p>*
-[Patrul Rinpoche's](#patrul-rinpoche-and-the-tradition-he-inherited) perfect teacher. Patrul Rinpoche heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
+[Patrul Rinpoche's](#patrul-rinpoche-and-the-tradition-he-inherited) perfect teacher. [Patrul Rinpoche](#patrul-rinpoche) heard his explanation of the *Heart-essence of the Vast Expanse* many times, and claimed that *The Words of My Perfect Teacher* was nothing more or less than a faithful compendium of what he had heard on those different occasions.
 
 [Jigme Lingpa](#jigme-lingpa) was a prodigy who became immensely learned with almost no [study](#study), through arousing his [wisdom](#wisdom) mind in a series of long meditation retreats. He received the *Heart-essence of the Vast Expanse* in a series of visions of [Longchenpa](#longchenpa), a great [lama](#lama) of the fourteenth century.
 
@@ -526,13 +526,13 @@ In the [Nyingmapa](#nyingmapa) school, to which Patrul Rinpoche belonged, and wh
 
 [Jigme Lingpa](#jigme-lingpa) first practiced and mastered the teachings he had discovered, and then passed them on to a few close disciples who were capable of [becoming](#becoming) pure holders of the doctrine. One of these was Patrul Rinpoche's teacher, Jigme Gyalwai Nyugu, who after spending a considerable time with [Jigme Lingpa](#jigme-lingpa) in central Tibet, returned to Kham (the eastern region of the country). There he undertook the practice of what [Jigme Lingpa](#jigme-lingpa) had taught him, living on a remote mountainside in a mere depression in the ground, without even a cave for shelter, and with only wild plants for food. He was indifferent to comfort and convenience, determined to let go of all worldly considerations and concentrate on the goal of ultimate realization. Gradually disciples gathered around him, living in tents on the windswept hillside. One of these was the young Patrul, who received from him, no less than fourteen times, the teachings contained in this book. Subsequently Patrul also studied with many other great [lamas](#lama) of the day, including the highly unconventional Do Khyentse Yeshe Dorje, who directly introduced him to the nature of the mind.
 
-Throughout his life Patrul Rinpoche emulated the uncompromising simplicity of his master. Although he had been recognized in his childhood as an incarnate [lama](#lama) or [*tulku*](#tulku)&mdash;his name is an abbreviation of Palgye [Tulku](#tulku)&mdash;and would normally have had a high position in a monastic establishment, he spent his life wandering from place to place, camping in the open, in the guise of an ordinary beggar. If he was offered gold or silver he would often just leave it lying on the ground, thinking that wealth was only a source of trouble. Even when he had become a famous teacher, he would travel around unrecognized, living in the same simple and carefree manner. There is even a story of a [lama](#lama) he met on his travels who, thinking he was a good fellow who might benefit from such an extraordinary teaching, taught him this very text. On another occasion he traveled with a poor widow, helping her to cook and to take care of her children, carrying them on his back. When they arrived at their destination, Patrul Rinpoche excused himself, saying he had something important to do. The woman heard that the great Patrul Rinpoche was teaching at the monastery. She went there to watch, and was amazed to see her traveling companion on the throne instructing a vast assembly. At the end of the teaching he asked that all the offerings be given to her.
+Throughout his life [Patrul Rinpoche](#patrul-rinpoche) emulated the uncompromising simplicity of his master. Although he had been recognized in his childhood as an incarnate [lama](#lama) or [*tulku*](#tulku)&mdash;his name is an abbreviation of Palgye [Tulku](#tulku)&mdash;and would normally have had a high position in a monastic establishment, he spent his life wandering from place to place, camping in the open, in the guise of an ordinary beggar. If he was offered gold or silver he would often just leave it lying on the ground, thinking that wealth was only a source of trouble. Even when he had become a famous teacher, he would travel around unrecognized, living in the same simple and carefree manner. There is even a story of a [lama](#lama) he met on his travels who, thinking he was a good fellow who might benefit from such an extraordinary teaching, taught him this very text. On another occasion he traveled with a poor widow, helping her to cook and to take care of her children, carrying them on his back. When they arrived at their destination, [Patrul Rinpoche](#patrul-rinpoche) excused himself, saying he had something important to do. The woman heard that the great [Patrul Rinpoche](#patrul-rinpoche) was teaching at the monastery. She went there to watch, and was amazed to see her traveling companion on the throne instructing a vast assembly. At the end of the teaching he asked that all the offerings be given to her.
 
 To his students he was immensely kind, but also immensely tough. He treated beggars and kings in exactly the same way. In all situations his only interest was to benefit others, and he would always say whatever would be most useful, regardless of social niceties.
 
 ## The stages of practice
 
-*The Words of My Perfect Teacher* belongs to a category of literature known as "written guides" (*khrid yig*), which emulate and supplement the oral explanations needed to elucidate a meditation text. In this case the text in question is the preliminary practice of the *Heart-essence of the Vast Expanse*.
+*The Words of My Perfect Teacher* belongs to a category of literature known as "written guides" (*khrid yig*), which emulate and supplement the oral explanations needed to elucidate a meditation text. In this case the text in question is [the preliminary practice](#the-preliminary-practice) of the *Heart-essence of the Vast Expanse*.
 
 The *Heart-essence of the Vast Expanse* cycle of teachings that [Longchenpa](#longchenpa) passed on to [Jigme Lingpa](#jigme-lingpa) has become one of the most widely practiced in the [Nyingmapa](#nyingmapa) school. It contains a complete [Vajrayāna](#vajrayāna) path, starting at the beginner stage with the preliminary practices (*sngon 'gro*). Then comes the main practice (*dngos gzhi*), which has three principal parts, the [generation phase](#generation-phase) (*bskyed rim*) the [perfection phase](#perfection-phase) (*rdzogs rim*), and the [Great Perfection](#great-perfection) (*rdzogs pa chen po*).
 
@@ -584,17 +584,17 @@ In a sense, each level of practice builds on the previous one, but at the same t
 
 In particular, the [Guru Yoga](#guru-yoga) is the [essence](#essence) of all paths. The teachers of the lineage often say that all practices should be done in the manner of [Guru Yoga](#guru-yoga). Total openness and devotion to a realized teacher is the most sure and rapid way to progress.
 
-Patrul Rinpoche expresses this capital importance of the spiritual teacher in the very title of this book, Kunzang Lamai Shelung, which we have freely translated as *The Words of My Perfect Teacher*.
+[Patrul Rinpoche](#patrul-rinpoche) expresses this capital importance of the spiritual teacher in the very title of this book, Kunzang Lamai Shelung, which we have freely translated as *The Words of My Perfect Teacher*.
 
-Kunzang [means](#means) "everywhere perfect" or "always perfect." It is the abbreviated form of Kuntuzangpo (in Sanskrit, [Samantabhadra](#samantabhadra)), the primordial [Buddha](#buddha), source of all lineages. Kuntuzangpo is shown iconographically as a naked [Buddha](#buddha), the deep blue color of the sky. However this symbol does not represent a person, but the [Buddha-nature](#buddha-nature) itself, the unchanging purity of the mind which is the fundamental nature of all beings. Normally this nature is hidden, and it is the teacher who has realized it themselves who can lead us to discover it within ourselves, in all its glorious nakedness. [Lama](#lama) literally [means](#means), "there is nothing higher." This is the Tibetan expression for the Indian word Guru. Both these words have become overused in common speech, but, as Patrul Rinpoche explains, for us, the spiritual teacher is like the [Buddha](#buddha) himself. He brings us the transmission of the [Buddhas](#buddha) of the past, embodies for us the [Buddhas](#buddha) of the present, and, through his teaching, is the source of the [Buddhas](#buddha) of the future. Patrul Rinpoche says that the [Guru Yoga](#guru-yoga) is in a sense superior to the generation and [perfection phase](#perfection-phase)s, because it directly opens the way to ultimate [wisdom](#wisdom) through the teacher's blessings.
+Kunzang [means](#means) "everywhere perfect" or "always perfect." It is the abbreviated form of Kuntuzangpo (in Sanskrit, [Samantabhadra](#samantabhadra)), the primordial [Buddha](#buddha), source of all lineages. Kuntuzangpo is shown iconographically as a naked [Buddha](#buddha), the deep blue color of the sky. However this symbol does not represent a person, but the [Buddha-nature](#buddha-nature) itself, the unchanging purity of the mind which is the fundamental nature of all beings. Normally this nature is hidden, and it is the teacher who has realized it themselves who can lead us to discover it within ourselves, in all its glorious nakedness. [Lama](#lama) literally [means](#means), "there is nothing higher." This is the Tibetan expression for the Indian word Guru. Both these words have become overused in common speech, but, as [Patrul Rinpoche](#patrul-rinpoche) explains, for us, the spiritual teacher is like the [Buddha](#buddha) himself. He brings us the transmission of the [Buddhas](#buddha) of the past, embodies for us the [Buddhas](#buddha) of the present, and, through his teaching, is the source of the [Buddhas](#buddha) of the future. [Patrul Rinpoche](#patrul-rinpoche) says that the [Guru Yoga](#guru-yoga) is in a sense superior to the generation and [perfection phase](#perfection-phase)s, because it directly opens the way to ultimate [wisdom](#wisdom) through the teacher's blessings.
 
 ## The origins of this translation
 
 The Tibetans have preserved all aspects of Indian Buddhism intact from the eighth century to the twentieth. This has not been, however, a mere static preservation of sacred [treasure](#treasure)s. The [Buddha](#buddha) [Dharma](#dharma) was the main preoccupation of Tibet's best minds for centuries, giving rise to an extraordinary range of philosophical, poetic, academic and inspirational literature, as well as a distinctive and magnificent artistic and architectural heritage. But above all, the Tibetans used the Buddhist teachings for their true purpose, as a tool for transforming the human mind, and thousands of practitioners, some of them famous teachers, others unknown yogīs, accomplished their final goal.
 
-One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no [means](#means) the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. Patrul Rinpoche was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgön Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai [Lama](#lama), and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
+One might imagine that Tibet's greatest glories belong to the remote past, and that recent centuries represent a period of decline, but this is by no [means](#means) the case. In fact each century (including the present one) and each generation has produced its share of spiritual giants. The nineteenth century, for example, saw a particular kind of renaissance. [Patrul Rinpoche](#patrul-rinpoche) was a participant in the *rime* or non-sectarian movement, inaugurated by Jamyang Khyentse Wangpo, Jamgön Kongtrul and others, which sought to break down the barriers that had crystallized between the different Buddhist schools, by studying and teaching them all impartially. This spirit is still alive today, exemplified by His Holiness the Dalai [Lama](#lama), and the late Dilgo Khyentse Rinpoche, who was the incarnation of Jamyang Khyentse Wangpo.
 
-Dilgo Khyentse Rinpoche, like Patrul, came from Eastern Tibet. He spent twenty years of his life in meditation retreats, often in the simplest conditions. He studied with a vast number of teachers, even meeting some of Patrul Rinpoche's own disciples in his youth. He responded to the terrible destruction in Tibet in the nineteen fifties and sixties by working tirelessly to find, preserve and reprint lost texts, to establish monastic communities in exile, and above all to teach and inspire the new generations. He considered Patrul Rinpoche to be the perfect example of a Dzogchen practitioner, and encouraged and helped the translators of this book, which he considered to be the perfect guide for students embarking on the Buddhist path.
+Dilgo Khyentse Rinpoche, like Patrul, came from Eastern Tibet. He spent twenty years of his life in meditation retreats, often in the simplest conditions. He studied with a vast number of teachers, even meeting some of Patrul Rinpoche's own disciples in his youth. He responded to the terrible destruction in Tibet in the nineteen fifties and sixties by working tirelessly to find, preserve and reprint lost texts, to establish monastic communities in exile, and above all to teach and inspire the new generations. He considered [Patrul Rinpoche](#patrul-rinpoche) to be the perfect example of a Dzogchen practitioner, and encouraged and helped the translators of this book, which he considered to be the perfect guide for students embarking on the Buddhist path.
 
 Our translation comes directly from within the tradition. In a sense it has its own lineage. Dudjom Rinpoche, Dilgo Khyentse Rinpoche, Kangyur Rinpoche, Nyoshul Khenpo Rinpoche, and the other [lamas](#lama) who taught us the entire text orally&mdash;and during the translation gave us their advice on the difficult points of the book&mdash;are realized holders of Patrul Rinpoche's teaching.
 
@@ -638,9 +638,9 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 [alt text](image_url)
 
-*<p id="patrul-rinpoche-il" align="center">Patrul Rinpoche (1808-1887)</p>*
+*<p id="patrul-rinpoche-il" align="center">[Patrul Rinpoche](#patrul-rinpoche) (1808-1887)</p>*
 
-<h1 align="center">THE WORDS OF MY PERFECT TEACHER</h1>
+<h1 align="center">[THE WORDS OF MY PERFECT TEACHER](#the-words-of-my-perfect-teacher)</h1>
 
 <h2 align="center">a guide to the [preliminaries](#preliminaries) for the <i>Heart-essence of the Vast Expanse</i> from the [Great Perfection](#great-perfection)</h2>
 
@@ -678,7 +678,7 @@ And the additional advice on the swift path of [transference](#transference).*
 >*May the [Buddhas](#buddha) and the teachers bless me  
 That I may explain definitively as I have remembered them,  
 Wonderfully profound, yet clear and easy to understand&mdash;  
-The unerring words of my perfect teacher.*  
+The unerring [words of my perfect teacher](#words-of-my-perfect-teacher).*  
 
 This faithful record of my peerless teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
 1. the ordinary outer [preliminaries](#preliminaries);
@@ -891,7 +891,7 @@ In the *Well Explained Reasoning*, it says:
 
 > Pride, lack of faith and lack of effort,  
 Outward distraction, inward tension and discouragement;  
-These are the six stains.
+These are [the six stains](#212-the-six-stains).
 
 Avoid these six: 
 
@@ -1241,7 +1241,7 @@ The inhabitants of the three [lower realms](#lower-realms) suffer constantly fro
 
 **5. Barbarians**
 
-"Barbarians" [means](#means) those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see taking life as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into [lower realms](#lower-realms) as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
+"Barbarians" [means](#means) those who live in the thirty-two border countries, such as Lo Khatha,<sup>[24](#24)</sup> and all those who consider harming others as an act of faith or whose savage beliefs see [taking life](#11-taking-life) as good. These people inhabiting the outlying territories have human form, but their minds lack the right orientation and they cannot attune themselves to the [Dharma](#dharma). Inheriting from their forefathers such pernicious customs as marriage to their mothers, they live in a way that is the very opposite of [Dharma](#dharma) practice. Everything they do is evil, and it is in techniques of such harmful activities as killing insects and hunting wild beasts that they truly excel. Many of them fall into [lower realms](#lower-realms) as soon as they die. For such people there is no opportunity to practice the [Dharma](#dharma).
 
 <details id="24"><summary>Note <sup>24</sup></summary>
 *klo kha khra* refers to the large area inhabited by tribal peoples lying to the south of central and eastern Tibet. It includes present-day Arunachal Pradesh, Nagaland and parts of Assam in north-eastern India, as well as parts of north-western Burma.
@@ -1344,7 +1344,7 @@ A person lacking any of the five sense faculties does not meet the requirements 
 
 **5. With faith in the [Dharma](#dharma)**
 
-If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nāgas](#nāga) and so forth, or in other doctrines such as those of the [tīrthikas](#tīrthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [saṃsāra](#saṃsāra) or from rebirth in [lower realms](#lower-realms). But if you have acquired a properly reasoned faith in the [Conqueror](#conqueror)'s doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of the five individual advantages.
+If your faith is not in the [Buddha's](#buddha) teachings but in powerful [gods](#gods), [nāgas](#nāga) and so forth, or in other doctrines such as those of the [tīrthikas](#tīrthika), then, no matter how much faith you might place in them, none of them can protect you from the sufferings of [saṃsāra](#saṃsāra) or from rebirth in [lower realms](#lower-realms). But if you have acquired a properly reasoned faith in the [Conqueror](#conqueror)'s doctrine, which unites transmission and realization, you are without doubt a fit vessel for the true [Dharma](#dharma). And that is the greatest of [the five individual advantages](#21-the-five-individual-advantages).
 
 #### 2.2 THE FIVE CIRCUMSTANTIAL ADVANTAGES
 
@@ -1581,7 +1581,7 @@ If you check your own mind carefully, you will see that even the basic eight fre
 
 Someone born as a human, with all their faculties intact and in a central region, but who becomes involved in a lifestyle conflicting with the [Dharma](#dharma) and who has no faith in the [Conqueror](#conqueror)'s teaching, only has three of the advantages. Were he to obtain either of the two others, he would still only have four. Now, to have a lifestyle which does not conflict at all with the [Dharma](#dharma) is extremely hard. If any of a person's [thought](#thought)s, words and deeds are negative and his motives are for this life, then in fact, even if they have the reputation of a good and learned person, their lifestyle is in conflict with the [Dharma](#dharma).
 
-The same applies to the five circumstantial advantages. If a [Buddha](#buddha) has come, has taught the [Dharma](#dharma) and the teachings still exist, yet a person has not entered the [Dharma](#dharma), that person has only three of those advantages. Here again, "entering the [Dharma](#dharma)" does not simply mean asking for some teaching and being given. The starting point of the path of [liberation](#liberation) is the conviction that the whole of [saṃsāra](#saṃsāra) is meaningless and the genuine [determination to be free](#determination-to-be-free) from it. To travel the path of the [great-vehicle](#great-vehicle), the essential is to have genuinely aroused bodhicitta. The minimum is to have such unshakeable faith in the [Three Precious Jewels](#three-jewels) that you would never renounce them, even to save your life. Without that, simply reciting prayers and wearing yellow robes is no proof that you have entered the [Dharma](#dharma).
+The same applies to [the five circumstantial advantages](#22-the-five-circumstantial-advantages). If a [Buddha](#buddha) has come, has taught the [Dharma](#dharma) and the teachings still exist, yet a person has not entered the [Dharma](#dharma), that person has only three of those advantages. Here again, "entering the [Dharma](#dharma)" does not simply mean asking for some teaching and being given. The starting point of the path of [liberation](#liberation) is the conviction that the whole of [saṃsāra](#saṃsāra) is meaningless and the genuine [determination to be free](#determination-to-be-free) from it. To travel the path of the [great-vehicle](#great-vehicle), the essential is to have genuinely aroused bodhicitta. The minimum is to have such unshakeable faith in the [Three Precious Jewels](#three-jewels) that you would never renounce them, even to save your life. Without that, simply reciting prayers and wearing yellow robes is no proof that you have entered the [Dharma](#dharma).
 
 Make sure that you know how to identify each of these freedoms and advantages, and to check whether you have them yourself. This is of crucial importance.
 
@@ -1707,12 +1707,12 @@ Accepting all hardships, you have followed in the footsteps of the masters of ol
 Peerless Teacher, at your feet I bow.*
 
 The way to listen to the teaching is as described in [Chapter One](#chapter-onethe-difficulty-of-finding-the-freedoms-and-advantages). The actual subject matter consists of seven meditations:
-1. the impermanence of the outer universe in which beings live,
+1. [the impermanence of the outer universe in which beings live](#i-the-impermanence-of-the-outer-universe-in-which-beings-live),
 2. the impermanence of the beings living in it,
-3. the impermanence of holy beings,
-4. the impermanence of those in positions of power,
-5. other examples of impermanence
-6. the uncertainty of the circumstances of death,
+3. [the impermanence of holy beings](#iii-the-impermanence-of-holy-beings),
+4. [the impermanence of those in positions of power](#iv-the-impermanence-of-those-in-positions-of-power),
+5. [other examples of impermanence](#v-other-examples-of-impermanence)
+6. [the uncertainty of the circumstances of death](#vi-the-uncertainty-of-the-circumstances41-of-death),
 7. and intense [awareness](#awareness) of impermanence.
 
 ## I. THE IMPERMANENCE OF THE OUTER UNIVERSE IN WHICH BEINGS LIVE
@@ -2078,9 +2078,9 @@ A [lay disciple](#lay-disciple) asked [Geshe Potowa](#potowa-geshe) which [Dharm
 >  
 > At first meditation on impermanence, until you are fully convinced, makes you search for the [Dharma](#dharma); in the middle it conduces to practice; in the end it helps you attain the ultimate goal.  
 >  
->  At first meditation on impermanence, until you are fully convinced, makes you practice with a diligence which protects you like armor; in the middle it conduces to your practicing with a diligence in action; in the end it helps you practice with a diligence that is insatiable.<sup>[46](#46)</sup>  
+>  At first meditation on impermanence, until you are fully convinced, makes you practice with a diligence which protects you like armor; in the middle it conduces to your practicing with a [diligence in action](#242-diligence-in-action); in the end it helps you practice with a diligence that is insatiable.<sup>[46](#46)</sup>  
 >  
->  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: When you have armor-like diligence, nothing can prevent you starting. When you have diligence in action, nothing can interrupt what you are doing. When you have diligence that cannot be stopped, nothing can stop you attaining your goal.</details><br>
+>  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: When you have [armor-like diligence](#241-armor-like-diligence), nothing can prevent you starting. When you have [diligence in action](#242-diligence-in-action), nothing can interrupt what you are doing. When you have [diligence that cannot be stopped](#243-diligence-that-cannot-be-stopped), nothing can stop you attaining your goal.</details><br>
 
 And [Padampa Sangye](#padampa-sangye) says:
 
@@ -2182,7 +2182,7 @@ These eight [hells](#hell) lie one above the other like the storeys of a buildin
 
 ##### 1.1.1 The Reviving [Hell](#hell)
 
-Here, amidst the burning embers that cover the incandescent metal ground, beings as numerous as the snowflakes of a blizzard are gathered together by the force of their actions. As the actions which drove them there were motivated by hatred, the effect similar to the cause makes them see each other as mortal enemies, and furiously they fight. Brandishing inconceivable weapons&mdash;a phantom armory created by their [karma](#karma)&mdash;they strike at each other until everyone is slain. At that time, a voice from the sky says, "Revive!" and they immediately come back to life and start fighting all over again. And so they suffer, continually dying and being revived.
+Here, amidst the burning embers that cover the incandescent metal ground, beings as numerous as the snowflakes of a blizzard are gathered together by the force of their actions. As the actions which drove them there were motivated by hatred, [the effect similar to the cause](#22-the-effect-similar-to-the-cause) makes them see each other as mortal enemies, and furiously they fight. Brandishing inconceivable weapons&mdash;a phantom armory created by their [karma](#karma)&mdash;they strike at each other until everyone is slain. At that time, a voice from the sky says, "Revive!" and they immediately come back to life and start fighting all over again. And so they suffer, continually dying and being revived.
 
 How long do they live there? Fifty human years equal one day in the god [realm](#realm) of the [Four Great Kings](#four-great-kings). Thirty of those days make a month, and twelve months make a year; five hundred such years equal one day in the [Reviving Hell](#111-the-reviving-hell), where again, twelve months, each of thirty days, make up a year. They suffer there for five hundred of those years.
 
@@ -2250,7 +2250,7 @@ Once again free, they rejoice to see a beautiful forest and rush towards it. But
 
 **5. The hill of iron salmali trees**
 
-It is here that loose monks and nuns who have broken their vows of chastity and people who give themselves over to sexual misconduct are reborn. The effect of such actions brings them to the foot of the terrifying hill of iron *salmali* trees. At the top they can see their former lovers calling them. As they climb eagerly up to join them, all the leaves of the iron trees point downwards and pierce their flesh. When they reach the top, they find ravens, vultures, and the like that dig out their eyes to suck up the fat. Again they see their friends calling them, now from the foot of the hill. Down they go, and the leaves turn upward, stabbing them through the chest again and again. Once they get down to the ground, hideous metallic men and women embrace them, biting off their heads and chewing them until the brains trickle out of the corners of their mouths. Such are the torments experienced here.
+It is here that loose monks and nuns who have broken their vows of chastity and people who give themselves over to [sexual misconduct](#13-sexual-misconduct) are reborn. The effect of such actions brings them to the foot of the terrifying hill of iron *salmali* trees. At the top they can see their former lovers calling them. As they climb eagerly up to join them, all the leaves of the iron trees point downwards and pierce their flesh. When they reach the top, they find ravens, vultures, and the like that dig out their eyes to suck up the fat. Again they see their friends calling them, now from the foot of the hill. Down they go, and the leaves turn upward, stabbing them through the chest again and again. Once they get down to the ground, hideous metallic men and women embrace them, biting off their heads and chewing them until the brains trickle out of the corners of their mouths. Such are the torments experienced here.
 
 ---
 
@@ -2342,7 +2342,7 @@ At the time of the [Buddha](#śākyamuni), there was a village butcher who made 
 
 Long ago, [Śroṇa](#śroṇa-śroṇajāt) saw an adulterer who had vowed to keep from infidelity during the day. In contrast to the butcher, he suffered only during the night.
 
-There was once a delightful monastery, housing about five hundred monks. When the [bell](#bell) rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of [Buddha](#buddha) [Kāśyapa](#kāśyapa), many monks had argued at the time of the midday meal, and this was the fully ripened effect.<sup>*</sup>
+There was once a delightful monastery, housing about five hundred monks. When the [bell](#bell) rang around midday and the monks gathered to eat, the monastery would turn into a house of burning metal. The monks' begging bowls, cups and so forth would change into weapons and the monks would beat each other with them. Once the lunch-hour had ended, they would separate and take their places again. In the days of [Buddha](#buddha) [Kāśyapa](#kāśyapa), many monks had argued at the time of the midday meal, and this was [the fully ripened effect](#21-the-fully-ripened-effect80).<sup>*</sup>
 
 <sup>* This is explained in the chapter that follows.</sup><br>
 
@@ -2491,19 +2491,19 @@ Although rebirth in the three [lower realms](#lower-realms) naturally entails su
 
 ### **4. The human [realm](#realm)**
 
-Humans suffer from the [three fundamental types of suffering](#41-the-three-fundamental-types-of-suffering), and also from the [four great streams of suffering](#four-great-streams-of-suffering): [birth](#421-the-suffering-of-birth), [old-age](#422-the-suffering-of-old-age), [sickness](#423-the-suffering-of-sickness) and [death](#424-the-suffering-of-death). Other human sufferings are the [dread of meeting hated enemies](#431-the-fear-of-meeting-hated-enemies) or of [losing loved ones](#432-the-fear-of-losing-loved-ones), and the [suffering of not getting what one wants](#433-the-suffering-of-not-getting-what-one-wants) or of [encountering what one does not want](#434-the-suffering-of-encountering-what-one-does-not-want).
+Humans suffer from the [three fundamental types of suffering](#41-the-three-fundamental-types-of-suffering), and also from the [four great streams of suffering](#four-great-streams-of-suffering): [birth](#421-the-suffering-of-birth), [old-age](#422-the-suffering-of-old-age), [sickness](#423-the-suffering-of-sickness) and [death](#424-the-suffering-of-death). [Other human sufferings](#43-other-human-sufferings) are the [dread of meeting hated enemies](#431-the-fear-of-meeting-hated-enemies) or of [losing loved ones](#432-the-fear-of-losing-loved-ones), and the [suffering of not getting what one wants](#433-the-suffering-of-not-getting-what-one-wants) or of [encountering what one does not want](#434-the-suffering-of-encountering-what-one-does-not-want).
 
 #### 4.1 THE THREE FUNDAMENTAL TYPES OF SUFFERING
 
 ##### 4.1.1 The suffering of change
 
-The suffering of change is the suffering that we feel when a state of happiness suddenly changes into suffering. One moment we feel fine, satisfied and full after a good meal, and then suddenly we are wracked by violent spasms because of parasites in our stomach. One moment we are happy, and the next moment an enemy plunders our wealth or our livestock; or a fire burns down our home; or we are suddenly stricken by sickness or evil influences; or we receive some terrible news&mdash;and immediately we are plunged into suffering.
+[The suffering of change](#411-the-suffering-of-change) is the suffering that we feel when a state of happiness suddenly changes into suffering. One moment we feel fine, satisfied and full after a good meal, and then suddenly we are wracked by violent spasms because of parasites in our stomach. One moment we are happy, and the next moment an enemy plunders our wealth or our livestock; or a fire burns down our home; or we are suddenly stricken by sickness or evil influences; or we receive some terrible news&mdash;and immediately we are plunged into suffering.
 
 For indeed, whatever apparent comfort, happiness or prestige is to be found here in [saṃsāra](#saṃsāra), it lacks the tiniest scrap of constancy or stability, and in the long run can never resist the round of suffering. Therefore, cultivate disenchantment with it all.
 
 ##### 4.1.2 Suffering upon suffering
 
-We experience suffering upon suffering when, before one suffering is over, we are subjected to another. We get leprosy, and then we break out in boils, too; and then as well as breaking out in boils we get injured. Our father dies and then our mother dies soon afterwards. We are pursued by enemies and, on top of that, a loved one dies; and so forth. No matter where we are reborn in [saṃsāra](#saṃsāra), all our time is spent in one suffering on top of another, without any chance of a moment's happiness. 
+We experience [suffering upon suffering](#412-suffering-upon-suffering) when, before one suffering is over, we are subjected to another. We get leprosy, and then we break out in boils, too; and then as well as breaking out in boils we get injured. Our father dies and then our mother dies soon afterwards. We are pursued by enemies and, on top of that, a loved one dies; and so forth. No matter where we are reborn in [saṃsāra](#saṃsāra), all our time is spent in one suffering on top of another, without any chance of a moment's happiness. 
 
 ##### 4.1.3 The suffering of everything composite<sup>[53](#53)</sup>
 
@@ -2520,7 +2520,7 @@ Now look at [tsampa](#tsampa). Before sowing the barley, the fields have to be p
 
 In the same way, butter, milk and other foods, the "[three white foods](#three-white-foods)" and the "[three sweet foods](#three-sweet-foods)" that we consider pure and untainted by harmful actions, are not so at all. The majority of baby yaks, calves and lambs are killed. Those who are not, as soon as they are born and before they have had a chance to suckle even a mouthful of their mother's sweet milk, have a rope tied round their necks and stay tethered to a stake during pauses on the road, and to each other during journeys, so that every mouthful of milk&mdash;their rightful food and drink&mdash;can be stolen to make butter and cheese. By taking the [essence](#essence) of the mother's body, so vital for the baby, we leave them half way between life and death. When spring comes around, the old mother animals have become so weak that they cannot even get up from their stalls. The calves and lambs have mostly starved to death. The survivors, weak and skeleton-like, stagger about almost dead.
 
-All the factors we now see as constituting happiness&mdash;food to eat, clothes to wear, and whatever goods and materials we can think of&mdash;are likewise produced through [negative action](#negative-action)s alone. The end result of all those things can only be the infinite torments of the [lower realms](#lower-realms). So everything that seems to represent happiness today is, in fact, the suffering of everything composite.
+All the factors we now see as constituting happiness&mdash;food to eat, clothes to wear, and whatever goods and materials we can think of&mdash;are likewise produced through [negative action](#negative-action)s alone. The end result of all those things can only be the infinite torments of the [lower realms](#lower-realms). So everything that seems to represent happiness today is, in fact, [the suffering of everything composite](#413-the-suffering-of-everything-composite53).
 
 #### 4.2 THE SUFFERINGS OF BIRTH, SICKNESS, OLD AGE AND DEATH
 ##### 4.2.1 The suffering of birth
@@ -2551,7 +2551,7 @@ From birth onwards, as we mature in our youth, we have the impression of growth 
 
 ##### 4.2.2 The suffering of old age
 
-As we busy ourselves with these inconsequential and ever-unfinished worldly tasks, the suffering of old age creeps up on us unnoticed. Little by little the body loses its vigor. We can no longer digest the food that we like. Our eyesight dims, and we can no longer make out small or distant objects clearly. Our hearing starts to fail and we can no longer distinguish sounds and speech correctly. Our tongue can no longer taste what we eat or drink, nor articulate properly what we want to say. As our mental faculties weaken, our memory fails us and we lapse into confusion and forgetfulness. Our teeth fall out, so we can no longer chew solid food, and whatever we say becomes an unintelligible mumble. Our body loses its heat and we no longer feel warm in light clothing. Our strength declines and we can no longer carry anything heavy. Although we still have a taste for pleasure and enjoyment we no longer have the [energy](#energy). As our [channels and energies](#channels-and-energies-exercises-of) degenerate we become irritable and impatient. Scorned by all, we become depressed and sad. The body's elements get out of balance, bringing a host of illnesses and problems. We have to struggle with all our movements, like walking and sitting, which have become almost impossible tasks. [Jetsun Mila](#jetsun-mila) sings:
+As we busy ourselves with these inconsequential and ever-unfinished worldly tasks, [the suffering of old age](#422-the-suffering-of-old-age) creeps up on us unnoticed. Little by little the body loses its vigor. We can no longer digest the food that we like. Our eyesight dims, and we can no longer make out small or distant objects clearly. Our hearing starts to fail and we can no longer distinguish sounds and speech correctly. Our tongue can no longer taste what we eat or drink, nor articulate properly what we want to say. As our mental faculties weaken, our memory fails us and we lapse into confusion and forgetfulness. Our teeth fall out, so we can no longer chew solid food, and whatever we say becomes an unintelligible mumble. Our body loses its heat and we no longer feel warm in light clothing. Our strength declines and we can no longer carry anything heavy. Although we still have a taste for pleasure and enjoyment we no longer have the [energy](#energy). As our [channels and energies](#channels-and-energies-exercises-of) degenerate we become irritable and impatient. Scorned by all, we become depressed and sad. The body's elements get out of balance, bringing a host of illnesses and problems. We have to struggle with all our movements, like walking and sitting, which have become almost impossible tasks. [Jetsun Mila](#jetsun-mila) sings:
 
 > One, you stand yourself up as if pulling a peg from the ground;  
 > Two, you creep along as though you were stalking a bird;  
@@ -2573,7 +2573,7 @@ As we busy ourselves with these inconsequential and ever-unfinished worldly task
 
 In old age, when we want to stand up we cannot do it normally all in one movement. We have to put both hands on the floor, as though we were trying to pull a peg out of hard earth. When we walk we stay bent over at the waist and cannot raise our heads; and being unable to pick up and put down our feet very quickly, we creep along gingerly like a child stalking a bird. All the joints in our arms and legs are so arthritic that we cannot sit down gradually. Instead, we let our whole weight crash down at once like a gunny-sack as its sling breaks.
 
-As our flesh wastes away, our skin becomes lax and our bodies and faces are covered in wrinkles. With less flesh and blood around them, all our joints become more prominent. Our cheek-bones and all our other bony protuberances stick out under the skin. Our memory declines, and we become dull-witted, deaf and blind. We cannot think clearly and we feel giddy. With the decline of our physical vigor there is little reason for us to want to look our best, so the clothes we wear are always heavy and ragged. We eat left-overs and have no sense of taste; all the food we eat is cold and insipid. We feel so heavy that it is difficult to do anything. We prop ourselves up in bed on all four sides and cannot get up. By that point, our physical deterioration has brought on depression and terrible mental suffering. All the beauty and brightness of our faces has faded, our skin is covered in wrinkles, and our foreheads are lined with ugly frowns of ill humor. Everyone scorns us, and even if people are stepping over our head, we cannot get up. We no longer react. It is as if we were realized [yogī](#yogī-or-yoginī)s for whom clean and unclean no longer exist.<sup>[59](#59)</sup> Unable to bear the suffering of old age, we want to die, but in fact the closer we come to death the more terrified we are of it.
+As our flesh wastes away, our skin becomes lax and our bodies and faces are covered in wrinkles. With less flesh and blood around them, all our joints become more prominent. Our cheek-bones and all our other bony protuberances stick out under the skin. Our memory declines, and we become dull-witted, deaf and blind. We cannot think clearly and we feel giddy. With the decline of our physical vigor there is little reason for us to want to look our best, so the clothes we wear are always heavy and ragged. We eat left-overs and have no sense of taste; all the food we eat is cold and insipid. We feel so heavy that it is difficult to do anything. We prop ourselves up in bed on all four sides and cannot get up. By that point, our physical deterioration has brought on depression and terrible mental suffering. All the beauty and brightness of our faces has faded, our skin is covered in wrinkles, and our foreheads are lined with ugly frowns of ill humor. Everyone scorns us, and even if people are stepping over our head, we cannot get up. We no longer react. It is as if we were realized [yogī](#yogī-or-yoginī)s for whom clean and unclean no longer exist.<sup>[59](#59)</sup> Unable to bear [the suffering of old age](#422-the-suffering-of-old-age), we want to die, but in fact the closer we come to death the more terrified we are of it.
 
 <details id="59"><summary>Note <sup>59</sup></summary>For Tibetans, as in many oriental cultures, to step over someone's head (and body, too) is extremely insulting and a source of defilement. For the practitioner of <a href="#tantra">tantra</a> it is a lack of respect for the <a href="#maṇḍala">maṇḍala</a> of the body, which is sacred. However, for a <a href="#yogī-or-yoginī">yogī</a> who has realized the ultimate purity of all phenomena in the absolute, all categories of experience have the same taste of <a href="#emptiness">emptiness</a>.
 </details><br>
@@ -2588,7 +2588,7 @@ As soon as the first painful twinges of illness strike&mdash;however young we ma
 
 ##### 4.2.4 The suffering of death
 
-As death approaches, you collapse into your bed and no longer have the strength to get up. Even when you see food and drink, you feel no desire for it. Tormented by the sensations of dying, you feel more and more depressed and all your courage and confidence evaporate. You experience forebodings and hallucinations of what awaits you. Your time has come for the great moving on. Your family and friends gather around you, but there is nothing they can do to delay your departure&mdash;you are going through the suffering of death by yourself, all alone. Nor is there any way for you to take your possessions with you, however limitless they might be. You cannot bring yourself to let go of them, but you know you cannot keep them either. Remorse overtakes you as you remember the [negative action](#negative-action)s that you have done. When you think of the sufferings of the [lower realms](#lower-realms), you are terrified. Death is suddenly here. Dread takes hold of you. The [perceptions](#perceptions) of life slip away, and slowly you grow colder.
+As death approaches, you collapse into your bed and no longer have the strength to get up. Even when you see food and drink, you feel no desire for it. Tormented by the sensations of dying, you feel more and more depressed and all your courage and confidence evaporate. You experience forebodings and hallucinations of what awaits you. Your time has come for the great moving on. Your family and friends gather around you, but there is nothing they can do to delay your departure&mdash;you are going through [the suffering of death](#424-the-suffering-of-death) by yourself, all alone. Nor is there any way for you to take your possessions with you, however limitless they might be. You cannot bring yourself to let go of them, but you know you cannot keep them either. Remorse overtakes you as you remember the [negative action](#negative-action)s that you have done. When you think of the sufferings of the [lower realms](#lower-realms), you are terrified. Death is suddenly here. Dread takes hold of you. The [perceptions](#perceptions) of life slip away, and slowly you grow colder.
 
 When an evil-doer dies, they clutch at their breast, covering their skin with the marks of their finger nails. Remembering all their evil actions, they are frightened of being reborn in the [lower realms](#lower-realms). They are filled with regret at not having practiced the [Dharma](#dharma) while they had the freedom to do so, as it is the only thing which would have been useful at the moment of death. When they realize that, they feel tremendous pain. Tahat is why they beat their breast and cover it with the marks of their nails as they die. It is said:
 
@@ -2826,7 +2826,7 @@ The Great Master of [Oḍḍiyāna](#oḍḍiyāna) says:
 > It is said that in this [saṃsāra](#saṃsāra) there is not as much  
 > As a pinpoint's worth of happiness to be found.  
 > But should one happen to find just a little,  
-> It will contain the suffering of change. 
+> It will contain [the suffering of change](#411-the-suffering-of-change). 
 
 The more you reflect on these and other similar passages, the more you will realize that no matter where you are reborn, from the summit of existence right down to the deepest [hell](#hell), there is not even the tiniest interlude of real comfort or happiness. It is all without any meaning. Think about [saṃsāra](#saṃsāra) and its sufferings until you have no desire for it any more, like someone with a bad liver being offered greasy food.
 
@@ -2926,7 +2926,7 @@ It is all our ordinary activities and commitments limited to this life's concern
 > No action will be of any help; put [accomplishment](#accomplishment) into practice.  
 > You never know when your body will become worm-fodder or simply disappear; don't get distracted by this life's [appearances](#appearances).  
 > Friends and relations are like little birds on a branch; do not get attached to them.  
-> Confident faith is like an excellent foundation; don't leave it in the refuse of [negative emotions](#negative-emotions).  
+> [Confident faith](#13-confident-faith) is like an excellent foundation; don't leave it in the refuse of [negative emotions](#negative-emotions).  
 > This human form is like a precious wish-granting gem; do not hand it to your enemy, hatred.  
 > [Samaya](#samaya) is like a watch-tower<sup>[68](#68)</sup>
 
@@ -3111,15 +3111,15 @@ It is absolutely fundamental that any confession should include as antidotes all
 
 ## II. THE FOUR POWERS
 
-The four powers are the [power of support](#1-the-power-of-support), the [power of regretting having done wrong](#2-the-power-of-regretting-having-done-wrong), the [power of resolution](#3-the-power-of-resolution) and the [power of action as an antidote](#4-the-power-of-action-as-an-antidote).
+[The four powers](#ii-the-four-powers) are the [power of support](#1-the-power-of-support), the [power of regretting having done wrong](#2-the-power-of-regretting-having-done-wrong), the [power of resolution](#3-the-power-of-resolution) and the [power of action as an antidote](#4-the-power-of-action-as-an-antidote).
 
 ### **1. The power of support**
 
-In this context, the support is provided by taking [refuge](#refuge) in [Vajrasattva](#vajrasattva) and cultivating the intention and application aspects of bodhicitta. In other cases, the support would be the particular object to which you address your confession. When you recite the confession of the *[Sūtra](#sūtra) in Three Parts*, for example, the power of support is provided by the [Thirty-five Buddhas](#thirty-five-buddhas). It could also be a teacher, or a representation of the body, speech or mind of the [Buddhas](#buddha)&mdash;in short, anyone or anything in whose presence you confess.<sup>[176](#176)</sup>
+In this context, the support is provided by taking [refuge](#refuge) in [Vajrasattva](#vajrasattva) and cultivating the intention and application aspects of bodhicitta. In other cases, the support would be the particular object to which you address your confession. When you recite the confession of the *[Sūtra](#sūtra) in Three Parts*, for example, [the power of support](#1-the-power-of-support) is provided by the [Thirty-five Buddhas](#thirty-five-buddhas). It could also be a teacher, or a representation of the body, speech or mind of the [Buddhas](#buddha)&mdash;in short, anyone or anything in whose presence you confess.<sup>[176](#176)</sup>
 
 <details id="176"><summary>Note <sup>176</sup></summary>NT describes this as the external support.</details><br>
 
-Before any confession, arousing the bodhicitta of intention and application is indispensable. The [Buddha](#śākyamuni) taught that confessing your evil deeds and [downfall](#downfall)s without arousing bodhicitta, even though you might apply the four powers, will reduce your faults but not purify them altogether. Sincerely giving rise to bodhicitta, however, will of itself purify all past misdeeds, whatever they might be.<sup>[177](#177)</sup>
+Before any confession, arousing the bodhicitta of intention and application is indispensable. The [Buddha](#śākyamuni) taught that confessing your evil deeds and [downfall](#downfall)s without [arousing bodhicitta](#ii-arousing-bodhicitta135), even though you might apply [the four powers](#ii-the-four-powers), will reduce your faults but not purify them altogether. Sincerely giving rise to bodhicitta, however, will of itself purify all past misdeeds, whatever they might be.<sup>[177](#177)</sup>
 
 <details id="177"><summary>Note <sup>177</sup></summary>NT describes taking <a href="#refuge">refuge</a>, generating bodhicitta, and especially compassion as the *inner* support.</details><br>
 
@@ -3134,7 +3134,7 @@ Great sins are utterly consumed by bodhicitta.
 
 ### **2. The power of regretting having done wrong**
 
-The power of regretting having done wrong comes from a feeling of remorse for all the [negative actions](#negative-action) you have done in the past. There can be no purification if you do not see your misdeeds as something wrong and confess them with fierce regret, without concealing anything.<sup>[178](#178)</sup>
+[The power of regretting having done wrong](#2-the-power-of-regretting-having-done-wrong) comes from a feeling of remorse for all the [negative actions](#negative-action) you have done in the past. There can be no purification if you do not see your misdeeds as something wrong and confess them with fierce regret, without concealing anything.<sup>[178](#178)</sup>
 
 <details id="178"><summary>Note <sup>178</sup></summary>NT speaks of six things to be contemplated for the practice of regret:  
 1. Time: regretting all the <a href="#negative-action">negative action</a>s that one has done from time without <a href="#beginning">beginning</a> until now, during this life, in a particular month, or day, or moment, and so on.  
@@ -3156,7 +3156,7 @@ So confess them with shame, trepidation and great remorse.
 
 ### **3. The power of resolution**
 
-The power of resolution [means](#means) to remember the faults you have committed and to resolve never to commit them again from this very day on, even at the cost of your dear life. In the *[Sūtra](#sūtra) in Three Parts* we recite:  
+[The power of resolution](#3-the-power-of-resolution) [means](#means) to remember the faults you have committed and to resolve never to commit them again from this very day on, even at the cost of your dear life. In the *[Sūtra](#sūtra) in Three Parts* we recite:  
 
 > I vow to stop from now on.
 
@@ -3188,9 +3188,9 @@ Dagpo Rinpoche was delighted and told him that he was perfectly right.
 
 There is indeed no deeper way to cleanse oneself of past misdeeds than to meditate on bodhicitta and to maintain the flow of the [unaltered](#unaltered) [natural state](#natural-state). Keep these two things in mind as you go through the details of the meditation on [Vajrasattva](#vajrasattva)&mdash;purification by the stream of [nectar](#nectar), recitation of the hundred syllable [mantra](#mantra), and so on.
 
-To practice the actual meditation and recitation, proceed as follows, remembering all the time the specific pure meaning<sup>[180](#180)</sup> of each element in the context of the four powers as antidotes.
+To practice the actual meditation and recitation, proceed as follows, remembering all the time the specific pure meaning<sup>[180](#180)</sup> of each element in the context of [the four powers](#ii-the-four-powers) as antidotes.
 
-<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to the four powers is explained a few paragraphs later. Although here we are only dealing with the preliminary practice, many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to [the four powers](#ii-the-four-powers) is explained a few paragraphs later. Although here we are only dealing with [the preliminary practice](#the-preliminary-practice), many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
 
 ## III. THE ACTUAL MEDITATION ON [VAJRASATTVA](#vajrasattva)
 
@@ -3281,7 +3281,7 @@ As [the power of resolve](#3-the-power-of-resolution), think, "Until now I have 
 
 Keeping in mind the pure meaning of the visualization,<sup>[180](#180)</sup> recite the root text, starting from:
 
-<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to the four powers is explained a few paragraphs later. Although here we are only dealing with the preliminary practice, many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to [the four powers](#ii-the-four-powers) is explained a few paragraphs later. Although here we are only dealing with [the preliminary practice](#the-preliminary-practice), many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
 
 > Ah! I am in my ordinary form, and above my head...
 
