@@ -3469,7 +3469,7 @@ Abbreviations:
 *chos dbyings*, Skt. *dharmadhātu*, AT: the expanse of reality. From the point of [view](#view) of realization, all phenomena appear as the expanse of [emptiness](#emptiness).
 
 ## Absolute truth
-*don dam bden pa*, Skt. *paramārtha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" (Patrul Rinpoche. See also [relative truth](#relative-truth)).
+*don dam bden pa*, Skt. *paramārtha satya*, actual truth perceived through [wisdom](#wisdom), without mental fabrications. Its characteristic is to be "beyond mind, unthinkable, inexpressible" ([Patrul Rinpoche](#patrul-rinpoche). See also [relative truth](#relative-truth)).
 
 ## Ācārya
 *slob dpon* (1) teacher. (2) equivalent of spiritual master or [lama](#lama). See [vajra master](#vajra-master).
@@ -3517,7 +3517,7 @@ having the qualities of [vajra](#vajra).
 *bde mchog snying po*, another name of [Adhicitta](#adhicitta).
 
 ## Ancient Tradition
-*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantrayāna) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oḍḍiyāna) in the 8th century. Patrul Rinpoche belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
+*rnying ma pa*, the followers of the first teachings of [Secret Mantra](#secret-mantrayāna) propagated in Tibet by the great master [Padmasambhava](#padmasambhava-of-oḍḍiyāna) in the 8th century. [Patrul Rinpoche](#patrul-rinpoche) belonged to this school. See also [Nyingmapa](#nyingmapa) and [Ancient Translations](#ancient-translations).
 
 ## Ancient Translations
 *snga 'gyur*, name given to the first teachings translated from Sanskrit and propagated in Tibet, those of the Ancient, or [Nyingmapa](#nyingmapa) Tradition, as opposed to the teachings that were translated and propagated from the 10th century onwards and which gave birth to the [New Tradition](#new-tradition) of Tibetan Buddhism.
@@ -3819,7 +3819,7 @@ a song in which a [siddha](#siddha) (for example, [Saraha](#saraha) or [Virūpa]
 *gnyis 'dzin*, lit. grasping at or apprehending two. The concept of "I" and "other."
 
 ## Ecumenical (movement)
-*ris med*, lit. without partiality. Spiritual movement made famous by the great [lama](#lama) Jamyang Khyentse Wangpo as well as Jamgön Kontrul Lodrö Thayé, [Lama](#lama) Mipham, Chogyur Lingpa and Patrul Rinpoche. It is characterized by an attitude of respect for all the teachings and schools of Buddhism.
+*ris med*, lit. without partiality. Spiritual movement made famous by the great [lama](#lama) Jamyang Khyentse Wangpo as well as Jamgön Kontrul Lodrö Thayé, [Lama](#lama) Mipham, Chogyur Lingpa and [Patrul Rinpoche](#patrul-rinpoche). It is characterized by an attitude of respect for all the teachings and schools of Buddhism.
 
 ## Effects of actions
 *las rgyu 'bras*, Skt. *phala*. See [karma](#karma).
@@ -4181,7 +4181,7 @@ or into six groups:
 *phyi'i rgya mtsho chen po*, the great oceans which surround [Mount Meru](#meru-mount) and the four continents in the ancient Indian cosmology.
 
 ## Great Perfection
-*dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine [vehicle](#vehicle)s. *Perfection* [means](#means) that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakāya](#dharmakāya); its natural expression is [clarity](#clarity-experience), the [saṃbhogakāya](#saṃbhogakāya), and its compassion is all-encompassing, the [nirmāṇakāya](#nirmāṇakāya). *Great* [means](#means) that this perfection is the natural condition of all things. AT: great completeness. The teachings of the Great Perfection are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
+*dzogs pa chen po*, other name of [Atiyoga](#atiyoga), the summit of the nine [vehicle](#vehicle)s. *Perfection* [means](#means) that the mind, in its nature, naturally contains all the qualities of the three bodies: its nature is [emptiness](#emptiness), the [dharmakāya](#dharmakāya); its natural expression is [clarity](#clarity-experience), the [saṃbhogakāya](#saṃbhogakāya), and its compassion is all-encompassing, the [nirmāṇakāya](#nirmāṇakāya). *Great* [means](#means) that this perfection is the natural condition of all things. AT: great completeness. The teachings of [the Great Perfection](#the-great-perfection) are classified in three sections: the mind section (*sems sde), the space section (*klong sde*), and the pith-instruction section (*man ngag gi sde*). See also [Translators' Introduction](#introduction).
 
 ## Great Vehicle
 *theg pa chen po*, Skt. *mahāyāna*, [vehicle](#vehicle) of the [Bodhisattvas](#bodhisattva), great because it aims at full Buddhahood for the sake of all beings.
@@ -4259,7 +4259,7 @@ or into six groups:
 "Jigten Sumgon and the Drikung lineage are best known for the set of teachings known as The Five Profound Paths of [Mahāmudrā](#mahāmudrā). Some of Jigten Sumgon's sayings were collected by Sherab Jungne into what is known as the Gongchig (Wylie transliteration: dgongs gcig, "the single intention") a profound philosophical compendium that further developed in commentary works written in following generations. Some of Jigten Sumgon's teachings were collected by another disciple into what is known as The Heart of the [Great Vehicle](#great-vehicle)'s Teachings (theg chen bstan pa'i snying po)." [src](https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n)
 
 ## Jigme Lingpa
-*'jigs med gling pa* (1729 - 1798), see the [introduction](#introduction) of this book. He is considered to be a combined emanation of [Vimalamitra](#vimalamitra), [King Trisong Detsen](#trisong-detsen) and Gyalse Lharje. Patrul Rinpoche is often considered to be the emanation of Jigme Lingpa's speech.
+*'jigs med gling pa* (1729 - 1798), see the [introduction](#introduction) of this book. He is considered to be a combined emanation of [Vimalamitra](#vimalamitra), [King Trisong Detsen](#trisong-detsen) and Gyalse Lharje. [Patrul Rinpoche](#patrul-rinpoche) is often considered to be the emanation of Jigme Lingpa's speech.
 
 ## Jowo
 *jo bo*, lit. lord. A title often used by Tibetans for the Indian [paṇḍita](#paṇḍita) [Atīśa](#atīśa).
@@ -4609,7 +4609,7 @@ a scholar, someone learned in the five traditional sciences (see: [five sciences
 *mthong lam*, Skt. *darśanamārga*, the third of the [five paths](#five-paths), according to the [Bodhisattva](#bodhisattva) [vehicle](#vehicle). It is called this because on it one really sees the two kinds of absence of 'self' (i.e. of true, independent existence), that of the individual and that of phenomena.
 
 ## Perceptions
-*snang ba*, that which appears in the eyes of each individual according to his or her [tendencies](#tendencies) or spiritual development. NT, quoting Patrul Rinpoche, speaks of three types of perception: 
+*snang ba*, that which appears in the eyes of each individual according to his or her [tendencies](#tendencies) or spiritual development. NT, quoting [Patrul Rinpoche](#patrul-rinpoche), speaks of three types of perception: 
 1. deluded perceptions, which arise in the consciousness of the beings of the six [realm](#realm)s due to misunderstanding; they are called the impure deluded perceptions of the universe and beings. 
 2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similes of illusion which one does not apprehend as real (see Chapter Two, 2.6.3, [Wisdom](#wisdom) through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten [levels](#levels) in their post-meditation state (*rjes thob*).
 3. the authentic, perfect, perceptions of [wisdom](#wisdom); when one has realized the [natural state](#natural-state) of everything, the beings and the universe appear as the display of the [kāyas](#kāya) and [wisdom](#wisdom)
