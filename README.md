@@ -2789,6 +2789,155 @@ In this [realm](#realm) of the asuras, with their constant fights and quarrels, 
 
 ### **6. The [gods](#gods)**
 
+ The gods enjoy perfect health, comfort, wealth and happiness all their lives. However, they spend their time in diversions and the idea of practicing Dharma never occurst to them. Throughout their lives, which may last a whole kalpa, they do not have that thought even for an instant. Then, having wasted their whole life in distraction, they are suddenly confronted with death. All gods of the six heavens of the World of Desire, from that of the Four Great Kings right up to the one called Enjoying the Emanations of Others, have to undergo the sufferings of death and transmigration.
+
+ There are five signs that foreshadow the death of a god. Their body's inherent brilliance, usually visible from a league or several miles distant, grows dim. Their throne, upon which they never before felt weary of sitting, no longer pleases them; they feel uncomfortable and ill at ease. Their flower garlands, which before had never faded howerver much time passed, wither. Their garments, which always stayed clean and fresh however long they wore them, get old and filthy and start to smell. Their body, which never perspired at all before, starts to sweat. When these five signs of approaching death appear, the god is tormented by the knowledge that they, too, are soon going to die. Their divine companions and sweethearts also know what is going to happen to them; they can no longer approach, but throw flowers from a distance and call their good wishes, saying, "When you die and pass on from here, may you be reborn among the humans. May you do good works and be reborn among the gods again." With that they abandon them. Utterly alone, the dying god is engulfed by sorrow. With their divine eye they look where they are going to be reborn. If it is in a realm of suffering, the torments of their fall overwhelm them even before those of their transmigration have ended. As these agonies become twice and then three times as intense, they despair and are forced to spend seven gods' days lamenting. Seven days among the gods of the Heaven of the Thirty-three are seven hundred human years. During that time, as they look back, remembering all the well-being and happiness they ahve enjoyed and realizing that they are powerlessness to stay, they experience the suffering of transmigration; and looking ahead, already tormented by the vision of their future birthplace, they experience the suffering of their fall. The mental anguish of this double suffering is worse than that of the hells.
+
+ In the two highest divine realms,<sup>[65](#65)</sup> there are no obvious sufferings of death and transmigration. However, when the effect of the actions which sent them there is exhausted, these gods fall into the lower realms as though waking from sleep. Such is their suffering. As Lord Nagarhuna says:
+
+<details id="65"><summary>Note <sup>65</sup></summary>The worlds of form and formlessness. See: "three worlds."
+</details><br>
+
+> Know that even Brahma himself,  
+> After achieving happiness free from attachment  
+> In his turn will endure ceaseless suffering  
+> As fuel for the fires of the Hell of Ultimate Torment.
+
+Wherever we are born throughout the six realms, therefore, everything has the nature of suffering, everything multiplies suffering, everything is an engine of suffering&mdash;and there is nothing other than suffering. It is like a pit of fire, an island of murderous ogresses, an oceanic abyss, the tip of a knife or a cesspit. There is not one tiny moment of peace to be found. According to the *Sutra of Sublime Dharma of Clear Recollection*:
+
+> Beings in hell suffer from hell-fire,  
+> Pretas suffer from hunger and thirst,  
+> Animals suffer from being eaten by each other,  
+> Humans suffer from having a short life,  
+> Asuras suffer from wars and quarrels,  
+> And the gods suffer from their own mindlessness.  
+> In samsara there is never a pinpoint of happiness.
+
+And Lord Maitreya says:
+
+> Just as there are no good smells in a cesspit,  
+> There is no happiness among the five classes of beings.<sup>[66](#66)</sup>
+
+<details id="66"><summary>Note <sup>66</sup></summary>Lit. "five realms:" an alternative classification of the six realms with the gods and asuras grouped as one.
+</details><br>
+
+The Great Master of Oddiyana says:
+
+> It is said that in this samsara there is not as much  
+> As a pinpoint's worth of happiness to be found.  
+> But should one happen to find just a little,  
+> It will contain the suffering of change. 
+
+The more you reflect on these and other similar passages, the more you will realize that no matter where you are reborn, from the summit of existence right down to the deepet hell, there is not even the tiniest interlude of real comfort or happiness. It is all without any meaning. Think about samsara and its sufferings until you have no desire for it any more, like someone with a bad liver being offered greasy food.
+
+Do not be content with merely hearing about these torments and understanding them intellectually. Take them upon yourself mentally and experience them with all your imatgination until you are really convinced of them. Armed with that degree of certainty, avoiding negative actions and take pleasure in positive ones will com naturally to you without your having to force it.
+
+Nanda, Lord Buddha's cousin, was very attached to his wife and did not want to renounce the world. Even though, by skilful means, Lord Buddha persuaded him to enter the Dharma and become a monk, he did not follow the precepts. He was about to run away, when the Buddha miraculously transported him to the top of a snow-mountain and showed him a one-eyed she-monkey.
+
+The Buddha asked Nanda, "Which do you find more beautiful, this monkey or your wife Pundarika?"
+
+"My wife," replied Nanda. "A hundred or a thousand times more!"
+
+"Good," replied the Buddha. "Now let us go to the realm of the gods."
+
+When they arrived, the Buddha sat down and told Nanda to go and have a look around. Each god lived in his own palace, surrounded by many young goddesses, and enjoyed inconceivable pleasure, happiness and abundance. However, there was one palace with numerous goddesses but no god. Nanda asked why, and was told, "In the realm of the humans, there is a man called Nanda, a cousin of the Buddha, who si following monastic discipline. This action will lead him to be reborn among the gods, and this palace will then be his."
+
+Nanda was overjoyed. He went back to the Buddha who asked him, "Did you see the gods' realm?"
+
+"I certainly did!"
+
+"Good. Which do you find more beautiful, your wife or the young goddesses?"
+
+"The daughters of the gods are much more beautiful," replied Nanda; "indeed, their beauty surpasses that of Pundarika by as much as her beauty surpasses that of the one-eyed monkey we saw before."
+
+Back on earth, Nanda observed monastic discipline perfectly.
+
+Then the Buddha addressed the monks. "Nanda has renounced worldly life in order to be reborn in the divine realms," he said, "but all of you have become monks in order to go beyond suffering. You and he are not on the same path. Do not talk to him any more. Do not be intimate with him. Do not even sit on the same seat as him!"
+
+All the monks obeyed, and Nanda was very upset. He thought, "Ananda is my younger brother; at least he will still ahve some affection for me." But when he went to see his brother, Ananda got up from the seat and moved away. Nanda asked him why, and Ananda told him what the Buddha had said. nanda was heartbroken.
+
+At last the Buddha came to him and said, "Nanda, will you come to see the hells?" nanda agreed, and the Buddha transported them both there with his miraculous powers. "Go and look around," he said.
+
+So Nanda set off to explore, visiting all the realms of hell, until in one place he came across an empty pot with a blazing fire crackling inside it and a large number of the Lord of Death's henchmen all around. He aasked them why there was no one in the pot.
+
+"There is a young cousin of the Buddha called nanda," they replied, "who is practicing monastic discipline with the intention fo being reborn as a god. After enjoying the happiness of a celestial realm, when his merit runs out he will be reborn here."
+
+Nanda was terrified. He returned, and thought things over. To be born among the gods in the future and then to end up in the hell-realms made no sense, so he developed a real determination to seek freedom from samsara. Having seen the hells with his own eyes, he never did anything that transgressed the precepts even slightly, and the Buddha extolled him as the disciple with the best control over the sense-doors.<sup>*</sup>
+
+<sup>* Controlling the sense-doors means not allowing oneself to be seduced by the objects of the sense.</sup>
+
+We do not need to go so far as to see the hells with our own eyes. A simple picture is enough to frighten us and reinforce our desire for liberation. It is for this reason that the Buddha asked that the five-fold wheel representing samsara be drawn at the doors of the sangha's assembly-halls.<sup>*</sup> As Lord Nagarjuna said:
+
+<sup>* This diagram can commonly be seen at the entrance of Tibetan temples.</sup>
+
+> If just to see pictures of the hells, to hear descriptions,  
+> Or to read and think about them brings you such terror,  
+> What will you do when you experience there  
+> The full, inexorable effects of your actions?
+
+Reflect, therefore, on all the different kinds of suffering in samsara. From the depth of your heart, turn away from all the ordinary goals of this life. Unless you give up wroldly activities completely, whatever Dharma you may claim to be practicing will not be the real thing.
+
+As Atisa was about to leave this world, a yogi came to him with a question. "After you have gone, should I meditate?"
+
+"Even if you do, will it really be the Dharma?" Atisa asked him.
+
+"Well then, should I teach?"
+
+The master answered him with the same question.
+
+"So, what should I do?" asked the yogi.
+
+"All of you should rely entirely on Tonpa and sincerely renounce this life," answered Atisa.
+
+Another tale tells of a monk who was circumambulating Radreng Monastery when he met Geshe Tonpa. The Geshe said, "Venerable monk, circumambulating is a good thing, but woudln't it be better to practice real Dharma?"
+
+The monk thought to himself, "Maybe it is more important to read the Mahayana sutras than to circumambulate." So he took to reading the sutras on the balcony overlooking the outdoor teaching yard.
+
+After a while, Geshe Tonmpa told him, "It is a good thing to read the teachings, too, but wouldn't it be better to practice real Dharma?"
+
+The monk thought it over again. "This must mean taht it would be better to practice meditation than to read the sutras." So he put off his reading till another time and began to spend his time sitting on his bed with his eyes half closed.
+
+Once again, Tonpa said to him, "It is a good thing to meditate, too, but wouldn't it be better to practice the real Dharma?"
+
+The monk, at his wits' end, cried out, "Venerable Geshe, what should I do, then, to practice Dharma?"
+
+"Venerable monk," the Geshe replied, "renounce this life! Renounce this life!"
+
+It is all our ordinary activities and commitments limited to this life's concerns that prevent us from getting free from samsara's realms of suffering, now and forever. Apart from an authentic teacher, no-one else can truly show us what has to be done to cut through the moorings that hold us to this life and to attain enlightement in our future lives. Leave behind all of this life's preoccupations&mdash;parents, relatives and friends, companions and lovers, food, wealth and possessions&mdash;like so much spit in the dust.<sup>*</sup> Be satisfied with whatever food and clothes might come your way, and devote yourself wholly to the Dharma. Padampa Sangye says:
+
+<sup>* Waht is impled here (explicit in other chapters) is not a rejection of one's responsibilities to parents, children etc. but a transformation of limited ego-based attachment and preoccupation into a genuine love which also extends to all beings.</sup>
+
+> Material objects are like clouds and mist; never think they might last.  
+> Popularity is like an echo; don't pursue esteem, pursue its very nature.  
+> Beautiful clothes are like colors in a rainbow; dress simply and apply yourself to practice.  
+> This body of ours is a sack of blood, pus and lymph; do not cherish it.  
+> Even delicious meals turn into excrement; don't give great importance to food.  
+> Phenomena arise as enemies; stay in hermitages or in the mountains.  
+> The thorns of illusory perception tear at the mind; experience them as being of equal nature.<sup>*</sup>  
+> Desires and needs all come from yourself; keep to the very nature of mind.  
+> The most precious jewel is within you; do not long for food and wealth.  
+> A lot of talking just brings quarrels; act as if you were dumb.  
+> Mind has its own natural ability;<sup>[67](#67)</sup> dont just follow the dicates of your stomach.  
+> Blessings arise from the mind; pray to your lama and yidam.  
+> If you stay in one place too long, you will find fault even with the Buddha; don't stay anywhere for long.  
+> You should act in a humble way; abandon pride in your status.  
+> You won't be here for long; practice now without delay.  
+> You are like a traveller in this life; don't build a castle where you are just resting a while.  
+> No action will be of any help; put accomplishment into practice.  
+> You never know when your body will become worm-fodder or simply disappear; don't get distracted by this life's appearances.  
+> Friends and relations are like little birds on a branch; do not get attached to them.  
+> Confident faith is like an excellent foundation; don't leave it in the refuse of negative emotions.  
+> This human form is like a precious wish-granting gem; do not hand it to your enemy, hatred.  
+> Samaya is like a watch-tower<sup>[68](#68)</sup>
+
+<details id="67"><summary>Note <sup>67</sup></summary><i>las su 'char ba</i>. We have received a number of different explanations of this expression. We have translated it according to the interpretation of DKR as being the equivalent of <i>las su rung ba</i>, suitable or workable.
+</details><br>
+
+<details id="68"><summary>Note <sup>68</sup></summary>Just as a watch tower plays a vital role in a war for observing the enemy and obtaining the victory, the samaya is essential in the Secret Mantrayana for avoiding obstacles and attaining Buddhahood.
+</details><br>
+
+<sup>* Ultimately all perceptions have the same nature, which is emptiness.</sup>
+
 # <div align="center">CHAPTER FOUR<br><i>Actions:<sup>*</sup> the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
 ## I. [NEGATIVE ACTION](#negative-action)S TO BE ABANDONED
 ### **1. The ten [negative action](#negative-action)s to be avoided**
