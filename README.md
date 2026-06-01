@@ -10,14 +10,14 @@ digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://gi
 
 ---
 
-![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni-the_buddha_of_our_time.svg)
+![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
 
 ---
 
-[alt text](image_url)
+![GURU RINPOCHE (paintings by Orgyen Lhundrup)](.imgs/guru_rinpoche.svg)
 
 *<p id="guru-rinpoche-il" align="center"><a href="#guru-rinpoche">Guru Rinpoche</a></p>*
 <p align="center">Also known as <a href="#padmasambhava-of-oḍḍiyāna">Padmasambhava</a>, the Lotus-born, he is the "<a href="#second-buddha">Second Buddha</a>" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over <a href="#appearances">Appearances</a> and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.</p>
@@ -2937,6 +2937,8 @@ It is all our ordinary activities and commitments limited to this life's concern
 </details><br>
 
 <sup>* Ultimately all perceptions have the same nature, which is emptiness.</sup>
+
+![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-traced work-in-progress by Ryan Allen](src)
 
 # <div align="center">CHAPTER FOUR<br><i>Actions:<sup>*</sup> the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
 ## I. [NEGATIVE ACTION](#negative-action)S TO BE ABANDONED
