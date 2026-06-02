@@ -2955,8 +2955,35 @@ It is all our ordinary activities and commitments limited to this life's concern
 The way this chapter should be explained and studied is with the same attitude as for the others. The subject is explained under three headings: [negative action](#i-negative-actions-to-be-abandoned)s, which should be abandoned; [positive action](#ii-positive-actions-to-be-adopted)s, which should be adopted; and [the all-determining quality of actions](#iii-the-all-determining-quality-of-actions).
 
 ## I. [NEGATIVE ACTION](#negative-action)S TO BE ABANDONED
+
+What causes us to be reborn in the higher or [lower realms](#lower-realms) of [saṃsāra](#saṃsāra) is the good and bad actions that we ourselves have accumulated. [Saṃsāra](#saṃsāra) itself is produced by actions, and consists entirely of the effects of actions&mdash;there is nothing else that consigns us to the higher or [lower realms](#lower-realms). Neither is it just chance. At all times, therefore, we should examine the effects of positive and [negative action](#negative-action)s, and try to avoid all those that are wrong and take up those that are right.
+
 ### **1. The ten [negative action](#negative-action)s to be avoided**
+
+Three of these ten are physical acts: taking life, [taking what is not given](#12-taking-what-is-not-given), and [sexual misconduct](#13-sexual-misconduct); four are verbal acts: lying, sowing discord, harsh words, and [worthless chatter](#17-worthless-chatter); and three are mental acts: covetousness, [wishing harm on others](#19-wishing-harm-on-others), and [wrong views](#110-wrong-views).
+
 #### 1.1 TAKING LIFE
+
+[Taking life](#11-taking-life) [means](#means) doing anything intentionally to end the life of another being, whether human, animal or any other living creature.
+
+A warrior killing an enemy in battle is an example of killing out of hatred. Killing a wild animal to eat its flesh or wear its skin is killing out of desire. Killing without knowing the consequences of right and wrong&mdash;or, like certain [tīrthika](#tīrthika)s, in the belief that it is a virtuous thing to do&mdash;is killing out of ignorance.
+
+There are three instances of killing that are called acts with immediate retribution, because they bring about immediate rebirth in [the hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) without passing through the [intermediate state](#intermediate-state): killing one's father, killing one's mother and killing an [Arhat](#arhat).<sup>[70](#70)</sup>
+
+<details id="70"><summary>Note <sup>70</sup></summary>The two other acts with immediate retribution are to cause a schism within the <a href="#saṅgha">Saṅgha</a> and to shed the blood of a <a href="#buddha">Buddha</a>.
+</details><br>
+
+Some of us, thinking only of the specific act of killing with our own hands, might imagine that we are innocent of ever having taken life. But to start with, there is no one, high or low, powerful or feeble, who is not guilty of having crushed countless tiny insects underfoot while walking around.
+
+More specifically, [lama](#lama)s and monks visiting their benefactors' houses are served the flesh and blood of animals that have been slaughtered and cooked for them, and such is their predilection for the taste of meat that without the least remorse or compassion for the slaughtered beasts they wolf it all down with great gusto. In such cases, the negative karmic effect of the slaughter falls on both benefactor and guest without distinction.
+
+When important people and government officials travel about, wherever they go, innumerable animals are killed for their tea-parties and receptions. The rich as a rule kill countless animals. Of all their livestock, apart from the odd beast here and there, they allow none to die a natural death but have them slaughtered one by one as they age. What is more, in summer these very cattle and sheep, as they graze, kill innumerable insects, flies, ants and even little fish and frogs, swallowed down with the grass, crushed under their hooves or swamped in their dung. The negative karmic result of all these acts comes to the owner as well as the beast. Compared to horses, cattle and other livestock, sheep are a particularly prolific source of harm. As they graze they eat all sorts of little animals&mdash;frogs, snakes, baby birds, and so on. In summer at shearing time, hundreds of thousands of insects carried by each sheep in its fleece all die. In winter at lambing time, no more than half the lambs are kept; the rest are killed at birth. The mother ewes are used for their milk and to produce lambs until they become too old and exhausted, at which point they are then all slaughtered for their meat and skins. And not a single ram, whether castrated or not, reaches maturity without being slaughtered straight away. Should the sheep have lice, millions of them are killed at a time on each sheep. Anyone who owns a flock of a hundred or more sheep can be sure of at least one rebirth in [hell](#hell).
+
+For every marriage, innumerable sheep are slaughtered when the dowry is sent, when the bride is seen off, and when they are received by their in-laws. Afterwards, every time the young bride goes back to visit their own family, another animal is sure to be killed. Should their friends and relatives invite them out and serve them anything but meat, they affect a shocked loss of appetite and eat with a pretentious disdain as if they had forgotten how to chew.<sup>[71](#71)</sup>
+
+<details id="71"><summary>Note <sup>71</sup></summary>In most of Tibetan society of the time, eating meat at every meal would have been considered a sign of wealth and therefore of high status. The guest is acting pretentiously in trying to give the impression that they are unaccustomed to eating anything but meat in their own home
+</details><br>
+
 #### 1.2 TAKING WHAT IS NOT GIVEN
 #### 1.3 SEXUAL MISCONDUCT
 #### 1.4 LYING
