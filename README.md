@@ -4,7 +4,7 @@
 
 ![Wheel illustration similar to book cover; hand-traced by Ryan Allen](.imgs/wheel.svg)
 
-<div align="center">by [Patrul Rinpoche](#patrul-rinpoche)</div>  
+<div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
 digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
 
@@ -638,7 +638,7 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 [alt text](image_url)
 
-*<p id="patrul-rinpoche-il" align="center">[Patrul Rinpoche](#patrul-rinpoche) (1808-1887)</p>*
+*<p id="patrul-rinpoche-il" align="center"><a href="#patrul-rinpoche">Patrul Rinpoche</a> (1808-1887)</p>*
 
 <h1 align="center">[THE WORDS OF MY PERFECT TEACHER](#the-words-of-my-perfect-teacher)</h1>
 
@@ -1726,7 +1726,7 @@ Then, one after the other, seven suns will rise in the sky. The first sun will b
 <sup>* These stages of destruction all take place within one <a href="#kalpa">kalpa</a>, but even these long-lived <a href="#gods">gods</a> can grow old between the first destruction by fire and the seventh, after which their <a href="#realm">realm</a>&mdash;part of that of the second <a href="#concentration">concentration</a>&mdash;will be destroyed by water.</sup>
 
 <details id="37-1"><summary>Note <sup>37.1</sup></summary>
-There are two subcontinents for each of the four continents which surround Mount [Meru](#meru-mount) according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
+There are two subcontinents for each of the four continents which surround Mount <a href="#meru-mount">Meru</a> according to Buddhist cosmology. The subcontinents "are the same color and shape as their respective main continents and are half their size. The four continents and eight subcontinents are:  
 <br>
 
 1. Pūrvavideha in the East:  
@@ -1749,7 +1749,7 @@ There are two subcontinents for each of the four continents which surround Mount
 </details>
 
 <details id="37-2"><summary>Note <sup>37.2</sup></summary>
-Seven golden mountain ranges (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount [Meru](#meru-mount), according to Buddhist cosmology.<br>
+Seven golden mountain ranges (T. gser gyi ri bdun) are a group of mountain ranges that surround Mount <a href="#meru-mount">Meru</a>, according to Buddhist cosmology.<br>
 
 The names of these mountain ranges are:<br>
 
@@ -1761,17 +1761,17 @@ The names of these mountain ranges are:<br>
 6. Bent (Vinataka; T. rnam 'dud)
 7. Rim (Nimindhara; T. mu khyud 'dzin)
 
-The first range of mountains, Yugandhara, is a quarter of the height of Mount [Meru](#meru-mount). Each of the subsequent mountain ranges are half the height of the previous ones.  
+The first range of mountains, Yugandhara, is a quarter of the height of Mount <a href="#meru-mount">Meru</a>. Each of the subsequent mountain ranges are half the height of the previous ones.  
 
 Jamgön Kongtrul states:  
 
-> Beyond Mount [Meru](#meru-mount) and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
+> Beyond Mount <a href="#meru-mount">Meru</a> and completely surrounding it like curtains are seven mountain ranges, each forming a square. These seven golden mountain ranges [are named according to the shape of their peaks]: Yoke, Plough, Acacia Forest, Pleasing-to-the-Eye, Horse's Ear, Bent and Rim.  
 >  
 > The spaces between [the mountain ranges] are filled with what are known as seven seas enjoyed [by the nāgas], the waters of which have eight qualities: cool, tasty, light, soft, clear, odorless, harmless to the throat if swallowed, and harmless to the stomach.
 
 Dudjom Rinpoche states:  
 
-> Mount [Meru](#meru-mount) is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara&mdash;each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the <a href="#vinaya">Vinaya</a> scriptures:
+> Mount <a href="#meru-mount">Meru</a> is surrounded by seven golden mountain ranges disposed like screens in a square around it&mdash;Yugandhara, Ishadhara, Khadiraka, Sudarsana, Ashvakarna, Vinataka, and Nimindhara&mdash;each range being half the height of the previous one. These mountain ranges are separated from each other by the Seas of Enjoyment, whose waters have the eight perfect qualities described in the <a href="#vinaya">Vinaya</a> scriptures:
 >  
 >  > Cool, sweet, light, and soft,  
 Clear and odorless,  
@@ -1780,7 +1780,7 @@ Such is water that has the eight perfect qualities.
 >  
 > They are filled with <a href="#wish-fulfilling-jewel">wish-fulfilling jewel</a>s and the other multifarious riches that belong to the <a href="#nāga">nāga</a>s.
 >  
-> Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount [Meru](#meru-mount).  
+> Outside the seven golden mountain ranges are the four great continents, whose colors correspond to those of the four sides of Mount <a href="#meru-mount">Meru</a>.  
 
 [src](https://encyclopediaofbuddhism.org/wiki/Seven_golden_mountain_ranges)
 </details>
@@ -1789,9 +1789,9 @@ Such is water that has the eight perfect qualities.
 Description of the Universe<br>
 <a href="#abhidharma">Abhidharma</a><br><br>
 
-A world system has a square Core Mountain (Mount [Meru](#meru-mount)) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
+A world system has a square Core Mountain (Mount <a href="#meru-mount">Meru</a>) surrounded by seven concentric rings of fresh water seas and lesser golden mountains. Beyond the seventh ring of mountains lie four oceans, one in each cardinal direction, with an island-world (continent) in the middle of each ocean. These oceans constitute the eighth sea. Beyond each continent lie two smaller isles (subcontinents), with the entire configuration surrounded by an ***outer eighth ring of black iron mountains***...
 
-...As for the eight rings of mountains on the gold base, the seven closest to Mount [Meru](#meru-mount) are actual mountains, while the eighth is an iron fence encircling the perimeter of the entire gold base...
+...As for the eight rings of mountains on the gold base, the seven closest to Mount <a href="#meru-mount">Meru</a> are actual mountains, while the eighth is an iron fence encircling the perimeter of the entire gold base...
 
 [src](https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/time-the-universe/buddhist-cosmology-in-abhidharma-and-kalachakra#description-of-the-universe)
 </details><br>
@@ -2080,7 +2080,7 @@ A [lay disciple](#lay-disciple) asked [Geshe Potowa](#potowa-geshe) which [Dharm
 >  
 >  At first meditation on impermanence, until you are fully convinced, makes you practice with a diligence which protects you like armor; in the middle it conduces to your practicing with a [diligence in action](#242-diligence-in-action); in the end it helps you practice with a diligence that is insatiable.<sup>[46](#46)</sup>  
 >  
->  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: When you have [armor-like diligence](#241-armor-like-diligence), nothing can prevent you starting. When you have [diligence in action](#242-diligence-in-action), nothing can interrupt what you are doing. When you have [diligence that cannot be stopped](#243-diligence-that-cannot-be-stopped), nothing can stop you attaining your goal.</details><br>
+>  <details id="46"><summary>Note <sup>46</sup></summary>These are the three kinds of diligence explained in detail in section <a href="#24-transcendent-diligence">2.4 TRANSCENDENT DILIGENCE</a>. PWR adds: When you have <a href="#241-armor-like-diligence">armor-like diligence</a>, nothing can prevent you starting. When you have <a href="#242-diligence-in-action">diligence in action</a>, nothing can interrupt what you are doing. When you have <a href="#243-diligence-that-cannot-be-stopped">diligence that cannot be stopped</a>, nothing can stop you attaining your goal.</details><br>
 
 And [Padampa Sangye](#padampa-sangye) says:
 
@@ -2793,7 +2793,7 @@ In this [realm](#realm) of the asuras, with their constant fights and quarrels, 
 
  There are five signs that foreshadow the death of a god. Their body's inherent brilliance, usually visible from a league or several miles distant, grows dim. Their throne, upon which they never before felt weary of sitting, no longer pleases them; they feel uncomfortable and ill at ease. Their flower garlands, which before had never faded however much time passed, wither. Their garments, which always stayed clean and fresh however long they wore them, get old and filthy and start to smell. Their body, which never perspired at all before, starts to sweat. When these five signs of approaching death appear, the god is tormented by the knowledge that they, too, are soon going to die. Their divine companions and sweethearts also know what is going to happen to them; they can no longer approach, but throw flowers from a distance and call their good wishes, saying, "When you die and pass on from here, may you be reborn among the humans. May you do good works and be reborn among the [gods](#gods) again." With that they abandon them. Utterly alone, the dying god is engulfed by sorrow. With their divine eye they look where they are going to be reborn. If it is in a [realm](#realm) of suffering, the torments of their fall overwhelm them even before those of their transmigration have ended. As these agonies become twice and then [three times](#three-times) as intense, they despair and are forced to spend seven gods' days lamenting. Seven days among the [gods](#gods) of the Heaven of the [Thirty-three](#thirty-three) are seven hundred human years. During that time, as they look back, remembering all the well-being and happiness they have enjoyed and realizing that they are powerlessness to stay, they experience the suffering of transmigration; and looking ahead, already tormented by the vision of their future birthplace, they experience the suffering of their fall. The mental anguish of this double suffering is worse than that of the [hell](#hell)s.
 
- In the two highest divine [realm](#realm)s,<sup>[65](#65)</sup> there are no obvious sufferings of death and transmigration. However, when the effect of the actions which sent them there is exhausted, these [gods](#gods) fall into the [lower realms](#lower-realms) as though waking from sleep. Such is their suffering. As Lord Nagarjuna says:
+ In the two highest divine [realm](#realm)s,<sup>[65](#65)</sup> there are no obvious sufferings of death and transmigration. However, when the effect of the actions which sent them there is exhausted, these [gods](#gods) fall into the [lower realms](#lower-realms) as though waking from sleep. Such is their suffering. As Lord [Nāgārjuna](#nāgārjuna) says:
 
 <details id="65"><summary>Note <sup>65</sup></summary>The worlds of form and formlessness. See: "<a href="#three-worlds">three worlds</a>."
 </details><br>
@@ -2941,6 +2941,19 @@ It is all our ordinary activities and commitments limited to this life's concern
 ![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-traced work-in-progress by Ryan Allen](src)
 
 # <div align="center">CHAPTER FOUR<br><i>Actions:<sup>*</sup> the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
+
+<sup>*The Sanskrit word karma (Tib. <i>las</i>), now often used in English to denote the result of past actions, in fact simply means "action." However, Tibetans also use the expression <i>las</i> in common speech to denote the entire process, or principle, of karmic cause and effect, <i>rgyu 'bras</i>, which is the subject of this chapter.</sup>
+
+> You renounce evil and take up good, as in the teachings on cause and effect.  
+> Your action follows the progression of the [Vehicle](#vehicle)s.<sup>[69](#69)</sup>  
+> Through your perfect [view](#view) you are free from all [clinging](#clinging).  
+> Peerless Teacher, at your feet I bow.
+
+<details id="69"><summary>Note <sup>69</sup></summary>Following the progression of the <a href="#vehicle">vehicle</a>s (Skt. <i>yāna</i> <a href="#means">means</a> that externally one follows the discipline of the <a href="#śrāvakayāna">Śrāvakayāna</a> while internally one practices the <a href="#mahāyāna">Mahāyāna</a>, and secretly one practices the Mantrayāna. Here <a href="#patrul-rinpoche">Patrul Rinpoche</a> <a href="#means">means</a> that his teacher, although his mind is wholly beyond <a href="#saṃsāra">saṃsāra</a>, is nonetheless a perfect example to his disciples of how to follow the progressive path.)
+</details><br>
+
+The way this chapter should be explained and studied is with the same attitude as for the others. The subject is explained under three headings: [negative action](#i-negative-actions-to-be-abandoned)s, which should be abandoned; [positive action](#ii-positive-actions-to-be-adopted)s, which should be adopted; and [the all-determining quality of actions](#iii-the-all-determining-quality-of-actions).
+
 ## I. [NEGATIVE ACTION](#negative-action)S TO BE ABANDONED
 ### **1. The ten [negative action](#negative-action)s to be avoided**
 #### 1.1 TAKING LIFE
@@ -3192,7 +3205,7 @@ There is indeed no deeper way to cleanse oneself of past misdeeds than to medita
 
 To practice the actual meditation and recitation, proceed as follows, remembering all the time the specific pure meaning<sup>[180](#180)</sup> of each element in the context of [the four powers](#ii-the-four-powers) as antidotes.
 
-<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to [the four powers](#ii-the-four-powers) is explained a few paragraphs later. Although here we are only dealing with [the preliminary practice](#the-preliminary-practice), many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to <a href="#ii-the-four-powers">the four powers</a> is explained a few paragraphs later. Although here we are only dealing with <a href="#the-preliminary-practice">the preliminary practice</a>, many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
 
 ## III. THE ACTUAL MEDITATION ON [VAJRASATTVA](#vajrasattva)
 
@@ -3283,7 +3296,7 @@ As [the power of resolve](#3-the-power-of-resolution), think, "Until now I have 
 
 Keeping in mind the pure meaning of the visualization,<sup>[180](#180)</sup> recite the root text, starting from:
 
-<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to [the four powers](#ii-the-four-powers) is explained a few paragraphs later. Although here we are only dealing with [the preliminary practice](#the-preliminary-practice), many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
+<details id="180"><summary>Note <sup>180</sup></summary><i>dag pa dran pa</i>: This Tibetan expression literally <a href="#means">means</a> "remembering the purity." It refers to the fact that every element of visualization is not a mere image but has a particular meaning, and it is important to be aware of this significance as one does the practice. The precise way in which the elements of this practice relate to <a href="#ii-the-four-powers">the four powers</a> is explained a few paragraphs later. Although here we are only dealing with <a href="#the-preliminary-practice">the preliminary practice</a>, many points mentioned in this chapter are useful for the main practice of the generation and <a href="#perfection-phase">perfection phase</a>s.</details><br>
 
 > Ah! I am in my ordinary form, and above my head...
 
