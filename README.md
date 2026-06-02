@@ -203,6 +203,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
     * **[1. The ten negative actions to be avoided](#1-the-ten-negative-actions-to-be-avoided)**  
         * [1.1 TAKING LIFE](#11-taking-life)  
         * [1.2 TAKING WHAT IS NOT GIVEN](#12-taking-what-is-not-given)  
+            * [1.2.1 TAKING BY FORCE](#121-taking-by-force)  
+            * [1.2.2 TAKING BY STEALTH](#122-taking-by-stealth)  
+            * [1.2.1 TAKING BY TRICKERY](#121-taking-by-trickery)  
         * [1.3 SEXUAL MISCONDUCT](#13-sexual-misconduct)  
         * [1.4 LYING](#14-lying)  
         * [1.5 SOWING DISCORD](#15-sowing-discord)  
@@ -449,23 +452,25 @@ Finally, our warmest thanks to Kerry Brown of the [International Sacred Literatu
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was hand-typed by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;both to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
+Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was hand-typed by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
 
-*The Words of My Perfect Teacher* is by [Patrul Rinpoche](#patrul-rinpoche), translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>; the second edition was published by Yale University Press in 2011. Translation and introductory matter © 1994, 1998 Padmakara Translation Group&mdash;all rights in the underlying translation, introduction, and notes are reserved by the original copyright holders. This hand-copy is non-commercial, prepared under 17 U.S.C. § 107 (fair use); it is not sold or monetized, claims no rights in the translation, and the printed edition remains the canonical source&mdash;please <a href="https://yalebooks.yale.edu/">purchase it</a> to support the translators and publisher. Rightsholders may open a repo issue to request modification or removal.
+*The Words of My Perfect Teacher* is by [Patrul Rinpoche](#patrul-rinpoche), translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a> (Yale University Press, 2011; © 1994, 1998). Non-commercial fair use (17 U.S.C. § 107); not sold; all rights remain with the copyright holders. Please <a href="https://yalebooks.yale.edu/">purchase the print edition</a>. Copyright concerns: [dharma@ryanallen.com](mailto:dharma@ryanallen.com).
 
 Changes in this edition:
 
 - Clickable contents, sections, and glossary.
-- Notes and footnotes appear inline, beneath the passage they annotate; no separate notes section or page numbers.
-- Dotted notes (e.g. [37.1](#37-1)) add context with source links. The [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
+- Notes appear inline beneath their passage; no separate section.
+- Dotted notes (e.g. [37.1](#37-1)) add context with source links; [Vajrasattva](#vajrasattva) notes come from a three-month ngöndro retreat with <a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>.
 - Numbered sections (e.g. *[The Three Defects of the Pot](#211-the-three-defects-of-the-pot)*) keep their number in the title.
 - British spellings → American (e.g. armour → armor).
 - Gender-neutral pronouns where it fits.
 - Sanskrit and Tibetan spellings use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*).
-- Em- and en-dashes use closed style&mdash;`word&mdash;word`, no spaces&mdash;via `&mdash;` and `&ndash;` entities.
+- Em- and en-dashes use closed style (no spaces).
 - Missing chapters added to the Part Three intro.
-- The [five kinds of transference](#i-the-five-kinds-of-transference) are headings, not a numbered list.
+- The [five kinds of transference](#i-the-five-kinds-of-transference) and the subsections of [taking what is not given](#121-taking-by-force) are headings, not a numbered list.
 - Illustrations are hand-traced from the original woodblock prints by Ryan Allen.
+
+Found an error? [Open an issue](https://github.com/ryanallen/words-of-my-perfect-teacher/issues) or [submit a pull request](https://github.com/ryanallen/words-of-my-perfect-teacher/pulls).
 
 May all beings be free from suffering.
 
@@ -2999,6 +3004,13 @@ Suppose that you intended to kill an animal today, or that you said you would, b
 Some people imagine that only the person who physically carries out the killing is creating a negative [karmic](#karma) effect, and that the person who just gave the orders is not&mdash;or, if they are, then only a little. But you should know that the same [karmic](#karma) result comes to everyone involved, even anyone who just felt pleased about it&mdash;so there can be no question about the person who actually ordered that the killing be carried out. Each person gets the whole [karmic](#karma) result of killing one animal. It is not as if one act of killing could be divided up among many people.
 
 #### 1.2 TAKING WHAT IS NOT GIVEN
+
+Taking what is not given is of three kinds: [taking by force](#121-taking-by-force), [taking by stealth](#122-taking-by-stealth) and [taking by trickery](#121-taking-by-trickery).
+
+##### 1.2.1 TAKING BY FORCE
+##### 1.2.2 TAKING BY STEALTH
+##### 1.2.1 TAKING BY TRICKERY
+
 #### 1.3 SEXUAL MISCONDUCT
 #### 1.4 LYING
 #### 1.5 SOWING DISCORD
