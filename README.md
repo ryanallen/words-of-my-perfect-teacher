@@ -3005,11 +3005,35 @@ Some people imagine that only the person who physically carries out the killing 
 
 #### 1.2 TAKING WHAT IS NOT GIVEN
 
-Taking what is not given is of three kinds: [taking by force](#121-taking-by-force), [taking by stealth](#122-taking-by-stealth) and [taking by trickery](#121-taking-by-trickery).
+[Taking what is not given](#12-taking-what-is-not-given) is of three kinds: [taking by force](#121-taking-by-force), [taking by stealth](#122-taking-by-stealth) and [taking by trickery](#121-taking-by-trickery).
 
 ##### 1.2.1 TAKING BY FORCE
+
+Also called taking by overpowering, this [means](#means) the forceful seizure of possessions or property by a powerful individual such as a king having no legal right to them. It also includes plunder by force of numbers, as by an army, for example.
+
 ##### 1.2.2 TAKING BY STEALTH
+
+This [means](#means) to take possession of things secretly, like a burglar, without being seen by the owner.
+
 ##### 1.2.1 TAKING BY TRICKERY
+
+This is to take other's goods, in a business deal for example, by lying to the other party, using false weights and measures or other such subterfuges.
+
+Nowadays, the idea that in business or in other contexts there is anything wrong with cheating or trickery to get things from others does not occur to us, as long as we are not overtly stealing. But in fact any profit we may make by deceiving other people is no different from outright theft.
+
+In particular, [lama](#lama)s and monks these days see no harm or wrong in doing business; indeed they spend their whole lives at it, and feel rather proud of their prowess. However, nothing debilitates a [lama](#lama) or monk's mind more than business. Engrossed in their transactions, they feel little inclination to pursue their studies or to work at purifying their obscurations&mdash;and anyway there is no time left for such things. All their waking hours until they lie down to sleep at night are spent poring over their accounts. Any idea of devotion, renunciation or compassion is eradicated and constant delusion overpowers them
+
+Jetsun [Milarepa](#milarepa) arrived one night at a monastery and lay down to sleep in front of the door of a cell. The monk who lived in the cell was lying in bed thinking about how they were going to sell the carcass of a cow that they planned to have slaughtered the next day: "I'll get that much for the head... the shoulder-blade is worth that much, and the shoulder itself that much... that much for the knuckles and shins..." They went on calculating the value of each and every part of the cow, inside and out. By daybreak, they had not slept a wink but they had it all worked out except the price they would ask for the tail. They got up straight away, completed their devotions and made torma-offerings.
+
+As they stepped outside they came across the Jetsun still sleeping, and disdainfully railed at him, "you claim to be a Dharma-practitioner, and here you are still sleeping at this hour! Don't you do any practice or recitation at all?"
+
+"I don't always sleep like this," replied [Jetsun Mila](#jetsun-mila). "It's just that I spent the whole night thinking about how to sell a cow of mine that's going to be slaughtered. I only got to sleep a little while ago..." And so, exposing the monk's hidden shortcomings, he left.
+
+Like the monk in this story, those whose lives at the moment are devoted only to business spend day and night totally involved in their calculations. They are so engrossed in delusion that, even when death comes, they will die still as deluded as ever. Moreover, commerce involves all sorts of [negative action](#negative-action)s. People who have merchandise to sell, however shoddy in reality, extol its qualities in whatever ways they can think up. They tell outright lies, such as how this or that potential buyer has already offered this much for it, which they had refused; or how they originally bought it for this or that huge sum. Trying to buy something that is already the subject of negotiations between two other people, they resort to slander to provoke disagreement between the two parties. They use harsh words to insult their competitors' wares, to extort debts and the like. They indulge in [worthless chatter](#17-worthless-chatter) by demanding ridiculous prices or haggling for things that they have no intention of buying. They envy and covet other people's possessions, trying their best to be given them. They wish harm on their competitors, wanting always to get the better of them. If they trade in livestock, they are involved in killing. So business, in fact, involves all of the ten [negative action](#negative-action)s except perhaps [wrong views](#110-wrong-views) and [sexual misconduct](#13-sexual-misconduct). Then, when their deals go wrong, both sides have wasted their assets, everyone suffers, and traders may end up starving, having brought harm upon both themselves and their counterparts. But should they have some success, however much they make it is never enough. Even those who get as rich as [Vaiśravaṇa](#vaiśravaṇa) still take pleasure in their nefarious business deals. As death finally closes in on them they will beat their breasts in anguish, for their entire human life has been spent in such obsessions, which now become millstones to drag them down to the [lower realms](#lower-realms).
+
+Nothing could be more effective than trade and commerce for piling up endless harmful actions and thoroughly corrupting you. You find yourself continually thinking up ways to cheat people as though you were looking through a collection of knives, awls and needles for the sharpest tool. Brooding endlessly over harmful [thought](#thought)s, you turn your back on the bodhicitta ideal of helping others, and your pernicious acts multiply to infinity.
+
+[Taking what is not given](#12-taking-what-is-not-given) also has to include the [four elements](#four-elements) already explained for the [negative action](#negative-action) to be complete. However, any participation, down to merely offering hunters or thieves some food for their expedition, is enough to bring you an equal share of the effect of the evil action of their killing or stealing.
 
 #### 1.3 SEXUAL MISCONDUCT
 #### 1.4 LYING
