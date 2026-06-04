@@ -208,6 +208,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
             * [1.2.1 TAKING BY TRICKERY](#121-taking-by-trickery)  
         * [1.3 SEXUAL MISCONDUCT](#13-sexual-misconduct)  
         * [1.4 LYING](#14-lying)  
+            * [1.4.1 ORDINARY LIES](#141-ordinary-lies)  
+            * [1.4.2 MAJOR LIES](#142-major-lies)  
+            * [1.4.3 PHONY LAMA'S LIES](#143-phony-lamas-lies)  
         * [1.5 SOWING DISCORD](#15-sowing-discord)  
         * [1.6 HARSH SPEECH](#16-harsh-speech)  
         * [1.7 WORTHLESS CHATTER](#17-worthless-chatter)  
@@ -467,7 +470,7 @@ Changes in this edition:
 - Sanskrit and Tibetan spellings use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*).
 - Em- and en-dashes use closed style (no spaces).
 - Missing chapters added to the Part Three intro.
-- The [five kinds of transference](#i-the-five-kinds-of-transference) and the subsections of [taking what is not given](#121-taking-by-force) are headings, not a numbered list.
+- Run-in labels and inline lists are promoted to headings, so they appear in the contents.
 - Illustrations are hand-traced from the original woodblock prints by Ryan Allen.
 
 Found an error? [Open an issue](https://github.com/ryanallen/words-of-my-perfect-teacher/issues) or [submit a pull request](https://github.com/ryanallen/words-of-my-perfect-teacher/pulls).
@@ -3036,7 +3039,19 @@ Nothing could be more effective than trade and commerce for piling up endless ha
 [Taking what is not given](#12-taking-what-is-not-given) also has to include the [four elements](#four-elements) already explained for the [negative action](#negative-action) to be complete. However, any participation, down to merely offering hunters or thieves some food for their expedition, is enough to bring you an equal share of the effect of the evil action of their killing or stealing.
 
 #### 1.3 SEXUAL MISCONDUCT
+
+The rules that follow are for laypeople. In Tibet, during the reign of the [Dharma](#dharma) King Songtsen Gampo, laws based on the ten [positive action](#positive-action)s were established comprising both rules for the laity and rules for the religious community. Here, we are referring to those restrictions on behavior destined for laypeople, who, as householders, should follow an appropriate ethic. Monks and nuns, for their part, are expected to avoid the sexual act altogether.
+
+The gravest [sexual misconduct](#13-sexual-misconduct) is that of leading other people to break their vows. [Sexual misconduct](#13-sexual-misconduct) also includes acts associated with particular persons, places and circumstances: masturbation; sexual relations with a person who is married, or committed to someone else; or with a person who is free, but in broad daylight, during observation of a one-day vow, during illness, distress, pregnancy, bereavement, menstruation, or recovery from child-birth; in a place where the physical representations of the [Three Jewels](#three-jewels) are present; with one's parents, other prohibited family members, or with a prepubescent child; in the mouth or anus, and so on.
+
 #### 1.4 LYING
+
+Lying is of three sorts: ordinary lies, [major lies](#142-major-lies) and [phony Lama's lies](#143-phony-lamas-lies). 
+
+##### 1.4.1 ORDINARY LIES
+##### 1.4.2 MAJOR LIES
+##### 1.4.3 PHONY LAMA'S LIES
+
 #### 1.5 SOWING DISCORD
 #### 1.6 HARSH SPEECH
 #### 1.7 WORTHLESS CHATTER
