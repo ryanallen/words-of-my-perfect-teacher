@@ -224,6 +224,16 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.2 THE EFFECT SIMILAR TO THE CAUSE](#22-the-effect-similar-to-the-cause)  
             * [2.2.1 Actions Similar to the Cause](#221-actions-similar-to-the-cause)  
             * [2.2.2 Experiences Similar to the Cause](#222-experiences-similar-to-the-cause)  
+                * [2.2.2.1 Experiences Similar to the Cause of Taking Life](#2221-experiences-similar-to-the-cause-of-taking-life)  
+                * [2.2.2.2 Experiences Similar to the Cause of Taking What Is Not Given](#2222-experiences-similar-to-the-cause-of-taking-what-is-not-given)  
+                * [2.2.2.3 Experiences Similar to the Cause of Sexual Misconduct](#2223-experiences-similar-to-the-cause-of-sexual-misconduct)  
+                * [2.2.2.4 Experiences Similar to the Cause of Lying](#2224-experiences-similar-to-the-cause-of-lying)  
+                * [2.2.2.5 Experiences Similar to the Cause of Sowing Discord](#2225-experiences-similar-to-the-cause-of-sowing-discord)  
+                * [2.2.2.6 Experiences Similar to the Cause of Harsh Words](#2226-experiences-similar-to-the-cause-of-harsh-words)  
+                * [2.2.2.7 Experiences Similar to the Cause of Worthless Chatter](#2227-experiences-similar-to-the-cause-of-worthless-chatter)  
+                * [2.2.2.8 Experiences Similar to the Cause of Covetousness](#2228-experiences-similar-to-the-cause-of-covetousness)  
+                * [2.2.2.9 Experiences Similar to the Cause of Wishing Harm on Others](#2229-experiences-similar-to-the-cause-of-wishing-harm-on-others)  
+                * [2.2.2.10 Experiences Similar to the Cause of Wrong Views](#22210-experiences-similar-to-the-cause-of-wrong-views)  
         * [2.3 THE CONDITIONING EFFECT](#23-the-conditioning-effect)  
         * [2.4 THE PROLIFERATING EFFECT](#24-the-proliferating-effect)  
 * [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
@@ -3167,9 +3177,45 @@ To have [wrong views](#110-wrong-views), even for an instant, is to break all yo
 Each negative act produces four kinds of karmic effect: the [fully ripened effect](#21-the-fully-ripened-effect80), the [effect similar to the cause](#22-the-effect-similar-to-the-cause), the [conditioning effect](#23-the-conditioning-effect) and the [proliferating effect](#24-the-proliferating-effect).
 
 #### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
+
+<details id="80"><summary>Note <sup>80</sup></summary>This refers to the moment when the <a href="#karmic-energy">karmic energy</a> produced by an action produces its maximum effect, which can be hastened or retarded by the effects of other actions.
+</details><br>
+
+Committing any one of the ten harmful acts while motivated by hatred brings about birth in the [hell](#hell)s. Committing one of them out of desire leads to birth as a [preta](#preta), and out of ignorance to birth as an animal. Once reborn in those [lower realms](#lower-realms), we have to undergo the sufferings particular to them.
+
+Also, a very strong impulse&mdash;extremely powerful desire, anger, or ignorance&mdash;motivating a long and continuous accumulation of actions, causes birth in the [hell](#hell)s. Should the impulse be less strong and the number of actions less, it causes rebirth as a [preta](#preta); and if still less strong and numerous, as an animal.
+
 #### 2.2 THE EFFECT SIMILAR TO THE CAUSE
+
+Even when we finally get out of the lower [realm](#realm) in which [the fully ripened effect](#21-the-fully-ripened-effect80) had caused us to be born, and obtain a human form, we go on experiencing [the effect similar to the cause](#22-the-effect-similar-to-the-cause). In fact, in the [lower realms](#lower-realms), too, there are many different kinds of suffering that are similar to particular causes. These effects that are similar to the cause are of two kinds: actions similar to the cause and [experiences similar to the cause](#222-experiences-similar-to-the-cause).
+
 ##### 2.2.1 Actions Similar to the Cause
+
+This effect is a propensity for the same kind of actions as the original cause. If we killed before, we still like to kill; if we stole, we enjoy [taking what is not given](#12-taking-what-is-not-given); and so forth. This explains why, for example, certain people from their earliest childhood kill all the insects and flies they see. Such a predilection for killing corresponds to similar acts performed in their past lives. From the cradle on, each of us acts quite differently, driven by different karmic urges. Some enjoy killing, some enjoy stealing, while others again feel no affinity for such actions and enjoy doing good instead. All such [tendencies](#tendencies) are the residue of former actions, or in other words [the effect similar to the cause](#22-the-effect-similar-to-the-cause). This is why it is said:
+
+> To see what you have done before, look at what you are now.  
+> To see where you are going to be born next, look at what you do now.<sup>81</sup>
+
+<details id="81"><summary>Note <sup>81</sup></summary>A slightly different version of this quote is given in Zenkar Rinpoche's edition of the Tibetan text: "To see where you were born before, look at what you are now. To see where you are going to be born next, look at what you do now.
+</details><br>
+
+The same is true for animals, too. The instinct of animals such as falcons and wolves to kill, or of mice to steal, is in each case an effect similar to, and caused by, their former actions.
+
 ##### 2.2.2 Experiences Similar to the Cause
+
+Each of the ten harmful actions results in a pair of effects on our subsequent experiences.
+
+###### 2.2.2.1 Experiences Similar to the Cause of Taking Life
+###### 2.2.2.2 Experiences Similar to the Cause of Taking What Is Not Given
+###### 2.2.2.3 Experiences Similar to the Cause of Sexual Misconduct
+###### 2.2.2.4 Experiences Similar to the Cause of Lying
+###### 2.2.2.5 Experiences Similar to the Cause of Sowing Discord
+###### 2.2.2.6 Experiences Similar to the Cause of Harsh Words
+###### 2.2.2.7 Experiences Similar to the Cause of Worthless Chatter
+###### 2.2.2.8 Experiences Similar to the Cause of Covetousness
+###### 2.2.2.9 Experiences Similar to the Cause of Wishing Harm on Others
+###### 2.2.2.10 Experiences Similar to the Cause of Wrong Views
+
 #### 2.3 THE [CONDITIONING EFFECT](#conditioning-effect)
 #### 2.4 THE PROLIFERATING EFFECT
 ## II. [POSITIVE ACTION](#positive-action)S TO BE ADOPTED
