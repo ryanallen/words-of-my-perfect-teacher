@@ -212,6 +212,8 @@ Our religious traditions are diverse but, as with the natural environment, we ar
             * [1.4.2 MAJOR LIES](#142-major-lies)  
             * [1.4.3 PHONY LAMA'S LIES](#143-phony-lamas-lies)  
         * [1.5 SOWING DISCORD](#15-sowing-discord)  
+            * [1.5.1 OPENLY SOWING DISCORD](#151-openly-sowing-discord)  
+            * [1.5.2 SECRETLY SOWING DISCORD](#152-secretly-sowing-discord)  
         * [1.6 HARSH SPEECH](#16-harsh-speech)  
         * [1.7 WORTHLESS CHATTER](#17-worthless-chatter)  
         * [1.8 COVETOUSNESS](#18-covetousness)  
@@ -3049,10 +3051,27 @@ The gravest [sexual misconduct](#13-sexual-misconduct) is that of leading other 
 Lying is of three sorts: ordinary lies, [major lies](#142-major-lies) and [phony Lama's lies](#143-phony-lamas-lies). 
 
 ##### 1.4.1 ORDINARY LIES
+
+These are any untrue statements, made with the intention of deceiving other people.
+
 ##### 1.4.2 MAJOR LIES
+
+These are statements such as, for example, that there is no benefit in [positive action](#positive-action)s and no harm in negative ones, that there is no happiness in the [Buddhafield](#buddhafield)s and no suffering in the [lower realms](#lower-realms), or that the [Buddha](#buddha)s have no good qualities. They are called [major lies](#142-major-lies) because no other lies could have more devastatingly misleading consequences.
+
 ##### 1.4.3 PHONY LAMA'S LIES
 
+These are all untrue claims to possess such qualities and abilities as, for example, to have attained the [Bodhisattva levels](#bodhisattva-levels), or to have powers of clairvoyance. Imposters nowadays have more success than true masters, and everyone's [thought](#thought)s and actions are easy to influence. So some people declare themselves masters or [siddha](#siddha)s in an effort to deceive others. They have had a vision of a certain [deity](#deity) and made thanksgiving offerings to him, they claim, or they have seen a spirit and chastised it. For the most part these are just phony [lama](#lama)'s lies, so be careful not to believe such cheats and charlatans blindly. Affecting as it does both this life and the next, it is important to place your trust in a [Dharma](#dharma) practitioner whom you know well, who is humble and whose inner nature and outer behavior correspond. Generally speaking, there are ordinary people who have some degree of concept-bound clairvoyance, but it is intermittent, and only valid some of the time. Pure clairvoyance comes only to those who have reached the [sublime levels](#sublime-levels), and is therefore extremely hard to attain.<sup>72</sup>
+
+<details id="72"><summary>Note <sup>72</sup></summary>Here <a href="#patrul-rinpoche">Patrul Rinpoche</a> distinguishes between psychic phenomena unrelated to <a href="#wisdom">wisdom</a> and the real transcendence of space and time of realized beings, who have attained the three highest <a href="#bodhisattva-levels">Bodhisattva levels</a>. The former are described as being <i>zag bcas</i>, "tainted" (by concepts), and the latter as <i>zag med</i>, "untainted."
+</details><br>
+
 #### 1.5 SOWING DISCORD
+
+[Sowing discord](#15-sowing-discord) can either be [open](#151-openly-sowing-discord) or [secret](#152-secretly-sowing-discord).
+
+##### 1.5.1 OPENLY SOWING DISCORD
+##### 1.5.2 SECRETLY SOWING DISCORD
+
 #### 1.6 HARSH SPEECH
 #### 1.7 WORTHLESS CHATTER
 #### 1.8 COVETOUSNESS
