@@ -3163,6 +3163,9 @@ To have [wrong views](#110-wrong-views), even for an instant, is to break all yo
 </details><br>
 
 ### **2. The effects of the ten [negative action](#negative-action)s**
+
+Each negative act produces four kinds of karmic effect: the [fully ripened effect](#21-the-fully-ripened-effect80), the [effect similar to the cause](#22-the-effect-similar-to-the-cause), the [conditioning effect](#23-the-conditioning-effect) and the [proliferating effect](#24-the-proliferating-effect).
+
 #### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
 #### 2.2 THE EFFECT SIMILAR TO THE CAUSE
 ##### 2.2.1 Actions Similar to the Cause
