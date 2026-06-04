@@ -470,7 +470,7 @@ Changes in this edition:
 - Sanskrit and Tibetan spellings use IAST diacritics (*yogī*, *saṃsāra*, *prajñā*, *Mañjuśrī*).
 - Em- and en-dashes use closed style (no spaces).
 - Missing chapters added to the Part Three intro.
-- Run-in labels and inline lists are promoted to headings, so they appear in the contents.
+- Run-in labels and inline lists are all made headings, so every section appears in the contents.
 - Illustrations are hand-traced from the original woodblock prints by Ryan Allen.
 
 Found an error? [Open an issue](https://github.com/ryanallen/words-of-my-perfect-teacher/issues) or [submit a pull request](https://github.com/ryanallen/words-of-my-perfect-teacher/pulls).
