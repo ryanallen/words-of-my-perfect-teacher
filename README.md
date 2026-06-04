@@ -3070,10 +3070,42 @@ These are all untrue claims to possess such qualities and abilities as, for exam
 [Sowing discord](#15-sowing-discord) can either be [open](#151-openly-sowing-discord) or [secret](#152-secretly-sowing-discord).
 
 ##### 1.5.1 OPENLY SOWING DISCORD
+
+This is a strategy often used by people who hold some authority. It consists of creating a rift between two people both present by openly telling one that the other said something bad about them behind their back, and going on to describe what the first person said or did to harm the second&mdash;and then perhaps asking them both why today they are still behaving as if no such thing had happened between them.
+
 ##### 1.5.2 SECRETLY SOWING DISCORD
 
+This [means](#means) to separate two people who get on well by going to see one of them, behind the other's back, to report what terrible things the second, whom the first cares for so much, has supposedly been saying about him or her.
+
+The worst instance of [sowing discord](#15-sowing-discord) is to cause conflict between members of the [Saṅgha](#saṅgha). It is particularly serious to cause a rift between a teacher of the [Secret mantrayāna](#secret-mantrayāna) and their disciples, or among the circle of spiritual brothers and sisters.
+
 #### 1.6 HARSH SPEECH
+
+[Harsh speech](#16-harsh-speech) is, for instance, to make rude remarks about other people's unsightly physical flaws, openly calling them one-eyed, deaf, blind, and so on. It includes revealing others' hidden shortcomings, offensive talk of all kinds and, in fact, any words that make other people unhappy or uncomfortable, even if spoken sweetly rather than harshly.
+
+In particular, to speak offensively in front of one's teacher, a [spiritual friend](#spiritual-friend) or a holy being is a very grave error.
+
 #### 1.7 WORTHLESS CHATTER
+
+[Worthless chatter](#17-worthless-chatter) [means](#means) talking a lot without any purpose: for example, reciting what one imagines to be [Dharma](#dharma) but is not&mdash;such as the rites of [brahmin](#brahmin)s;<sup>73</sup> or talking aimlessly about subjects that stir up attachment and hatred, like telling tales of prostitutes, singing libidinous songs, or discussing robbery and war. In particular, to disturb people's prayers or recitation by distracting them with a flood of useless words is especially harmful, since it prevents them from accumulating [merit](#merit).
+
+<details id="73"><summary>Note <sup>73</sup></summary>"The rites of <a href="#brahmin">brahmin</a>s" refers to rites performed without the motivation of attaining <a href="#enlightenment">enlightenment</a> for all beings. Although they are religious rituals they are not considered to lead to ultimate <a href="#liberation">liberation</a>.
+</details><br>
+
+Pieces of gossip that seem to have come up quite naturally and spontaneously are for the most part, when you look more closely, motivated by desire or hatred, and the gravity of the fault will be in proportion to the amount of attachment or hatred created in your own or others' minds.
+
+While you are saying prayers or reciting [mantra](#mantra)s, mixing them with irrelevant talk will stop them bearing any fruit, no matter how many you say. This applies especially to the different kinds of gossip that circulate along the rows of the gathered [Saṅgha](#saṅgha). One single gossip-monger can cause the [merit](#merit) of a whole congregation to be spoiled and the meritorious actions of its benefactors and patrons to be wasted.
+
+In the noble land of India, as a rule, only those who had the highest attainments and were free from all harmful defects had the right to use funds donated to the [Saṅgha](#saṅgha), and the [Buddha](#buddha) permitted no-one else to do so. But nowadays people learn one or two [tantric](#tantric) rituals and, as soon as they can recite them, they start to use whatever dangerous offerings<sup>74</sup> they can get. Without having received the [empowerment](#empowerment)s, without having maintained all the [samaya](#samaya)s, without having mastered the generation and the [perfection phase](#perfection-phase)s and without having completed the requirements of the [mantra](#mantra) recitation, to obtain offerings by performing [tantric](#tantric) rituals&mdash;just chanting the secret [mantra](#mantra)s perfunctorily like [bonpo](#bonpo) sorcerers&mdash;is a serious transgression. To use these dangerous donations is comparable to eating pills of burning iron: if ordinary people partake of them without having the cast-iron jaws of the union of the generation and [perfection phase](#perfection-phase)s, they will burn themselves up and be destroyed. As it is said:
+
+<details id="72"><summary>Note <sup>72</sup></summary><i>dkor nag po</i>: Because of the very sacredness of the <a href="#buddha">Buddha</a>, <a href="#dharma">Dharma</a> and <a href="#saṅgha">Saṅgha</a>, the misuse of offerings made to them has especially heavy karmic consequences. Here particular reference is made to the offerings of the faithful for rituals performed for the dead, the sick, etc.
+</details><br>
+
+> Dangerous offerings are lethally sharp razors:  
+> Consume them and they'll cut the life-artery of [liberation](#liberation).
+
+Far from having any mastery of the two phases of the meditation, such people, who may at least know the words of the ritual, do not even bother to recite those properly. Worse still, the moment they get to the [mantra](#mantra) recitation&mdash;the most important part&mdash;they start chatting, and let loose an endless stream of irrelevant gossip full of desire and aggression for the whole of the allocated time. This is disastrous for themselves and others. It is most important that monks and [lama](#lama)s should give up this kind of chatter and concentrate on reciting their [mantra](#mantra)s without talking.
+
 #### 1.8 COVETOUSNESS
 #### 1.9 WISHING HARM ON OTHERS
 #### 1.10 [WRONG [VIEW](#view)](#wrong-view)S
