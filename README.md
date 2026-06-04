@@ -224,6 +224,16 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.2 THE EFFECT SIMILAR TO THE CAUSE](#22-the-effect-similar-to-the-cause)  
             * [2.2.1 Actions Similar to the Cause](#221-actions-similar-to-the-cause)  
             * [2.2.2 Experiences Similar to the Cause](#222-experiences-similar-to-the-cause)  
+                * [2.2.2.1 Taking Life](#2221-taking-life)  
+                * [2.2.2.2 Taking What Is Not Given](#2222-taking-what-is-not-given)  
+                * [2.2.2.3 Sexual Misconduct](#2223-sexual-misconduct)  
+                * [2.2.2.4 Lying](#2224-lying)  
+                * [2.2.2.5 Sowing Discord](#2225-sowing-discord)  
+                * [2.2.2.6 Harsh Words](#2226-harsh-words)  
+                * [2.2.2.7 Worthless Chatter](#2227-worthless-chatter)  
+                * [2.2.2.8 Covetousness](#2228-covetousness)  
+                * [2.2.2.9 Wishing Harm on Others](#2229-wishing-harm-on-others)  
+                * [2.2.2.10 Wrong Views](#22210-wrong-views)  
         * [2.3 THE CONDITIONING EFFECT](#23-the-conditioning-effect)  
         * [2.4 THE PROLIFERATING EFFECT](#24-the-proliferating-effect)  
 * [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
@@ -1930,7 +1940,7 @@ Whatever is stored up is bound to run out. A king might rule the whole world and
 
 <sup>* i.e. a capital of <a href="#merit">merit</a>. This concept is explained in Part Two, <a href="#chapter-fouroffering-the-maṇḍala-to-accumulate-merit-and-wisdom">Chapter 4</a></sup><br>
 
-No coming together can last forever. It will always end in separation. We are like inhabitants of different places gathering in thousands and even tens of thousands for a big market or an important religious festival, only to part again as each returns home. Whatever affectionate relationships we now enjoy&mdash;teachers and disciples, masters and servants, patrons and their proteges, spiritual comrades, brothers and sisters, husbands and wives&mdash;there is no way we can avoid being separated in the end. We cannot even be sure that death or some other terrible event might not suddenly part us right now. Since [spiritual companions](#spiritual-companions), couples and so forth might be split up unexpectedly at any moment, we had better avoid anger and quarrels, harsh words and fighting. We never know how long we might be together, so we should make up our minds to be caring and affectionate for the short while that we have left. As [Padampa Sangye](#padampa-sangye) says:
+No coming together can last forever. It will always end in separation. We are like inhabitants of different places gathering in thousands and even tens of thousands for a big market or an important religious festival, only to part again as each returns home. Whatever affectionate relationships we now enjoy&mdash;teachers and disciples, masters and servants, patrons and their proteges, spiritual comrades, brothers and sisters, husbands and wives&mdash;there is no way we can avoid being separated in the end. We cannot even be sure that death or some other terrible event might not suddenly part us right now. Since [spiritual companions](#spiritual-companions), couples and so forth might be split up unexpectedly at any moment, we had better avoid anger and quarrels, [harsh words](#2226-harsh-words) and fighting. We never know how long we might be together, so we should make up our minds to be caring and affectionate for the short while that we have left. As [Padampa Sangye](#padampa-sangye) says:
 
 > Families are as fleeting as a crowd on market-day;  
 People of Tingri, don't bicker or fight!
@@ -2970,7 +2980,7 @@ What causes us to be reborn in the higher or [lower realms](#lower-realms) of [s
 
 ### **1. The ten [negative action](#negative-action)s to be avoided**
 
-Three of these ten are physical acts: taking life, [taking what is not given](#12-taking-what-is-not-given), and [sexual misconduct](#13-sexual-misconduct); four are verbal acts: lying, [sowing discord](#15-sowing-discord), harsh words, and [worthless chatter](#17-worthless-chatter); and three are mental acts: covetousness, [wishing harm on others](#19-wishing-harm-on-others), and [wrong views](#110-wrong-views).
+Three of these ten are physical acts: taking life, [taking what is not given](#12-taking-what-is-not-given), and [sexual misconduct](#13-sexual-misconduct); four are verbal acts: lying, [sowing discord](#15-sowing-discord), [harsh words](#2226-harsh-words), and [worthless chatter](#17-worthless-chatter); and three are mental acts: covetousness, [wishing harm on others](#19-wishing-harm-on-others), and [wrong views](#110-wrong-views).
 
 #### 1.1 TAKING LIFE
 
@@ -3034,7 +3044,7 @@ As they stepped outside they came across the Jetsun still sleeping, and disdainf
 
 "I don't always sleep like this," replied [Jetsun Mila](#jetsun-mila). "It's just that I spent the whole night thinking about how to sell a cow of mine that's going to be slaughtered. I only got to sleep a little while ago..." And so, exposing the monk's hidden shortcomings, he left.
 
-Like the monk in this story, those whose lives at the moment are devoted only to business spend day and night totally involved in their calculations. They are so engrossed in delusion that, even when death comes, they will die still as deluded as ever. Moreover, commerce involves all sorts of [negative action](#negative-action)s. People who have merchandise to sell, however shoddy in reality, extol its qualities in whatever ways they can think up. They tell outright lies, such as how this or that potential buyer has already offered this much for it, which they had refused; or how they originally bought it for this or that huge sum. Trying to buy something that is already the subject of negotiations between two other people, they resort to slander to provoke disagreement between the two parties. They use harsh words to insult their competitors' wares, to extort debts and the like. They indulge in [worthless chatter](#17-worthless-chatter) by demanding ridiculous prices or haggling for things that they have no intention of buying. They envy and covet other people's possessions, trying their best to be given them. They wish harm on their competitors, wanting always to get the better of them. If they trade in livestock, they are involved in killing. So business, in fact, involves all of the ten [negative action](#negative-action)s except perhaps [wrong views](#110-wrong-views) and [sexual misconduct](#13-sexual-misconduct). Then, when their deals go wrong, both sides have wasted their assets, everyone suffers, and traders may end up starving, having brought harm upon both themselves and their counterparts. But should they have some success, however much they make it is never enough. Even those who get as rich as [Vaiśravaṇa](#vaiśravaṇa) still take pleasure in their nefarious business deals. As death finally closes in on them they will beat their breasts in anguish, for their entire human life has been spent in such obsessions, which now become millstones to drag them down to the [lower realms](#lower-realms).
+Like the monk in this story, those whose lives at the moment are devoted only to business spend day and night totally involved in their calculations. They are so engrossed in delusion that, even when death comes, they will die still as deluded as ever. Moreover, commerce involves all sorts of [negative action](#negative-action)s. People who have merchandise to sell, however shoddy in reality, extol its qualities in whatever ways they can think up. They tell outright lies, such as how this or that potential buyer has already offered this much for it, which they had refused; or how they originally bought it for this or that huge sum. Trying to buy something that is already the subject of negotiations between two other people, they resort to slander to provoke disagreement between the two parties. They use [harsh words](#2226-harsh-words) to insult their competitors' wares, to extort debts and the like. They indulge in [worthless chatter](#17-worthless-chatter) by demanding ridiculous prices or haggling for things that they have no intention of buying. They envy and covet other people's possessions, trying their best to be given them. They wish harm on their competitors, wanting always to get the better of them. If they trade in livestock, they are involved in killing. So business, in fact, involves all of the ten [negative action](#negative-action)s except perhaps [wrong views](#110-wrong-views) and [sexual misconduct](#13-sexual-misconduct). Then, when their deals go wrong, both sides have wasted their assets, everyone suffers, and traders may end up starving, having brought harm upon both themselves and their counterparts. But should they have some success, however much they make it is never enough. Even those who get as rich as [Vaiśravaṇa](#vaiśravaṇa) still take pleasure in their nefarious business deals. As death finally closes in on them they will beat their breasts in anguish, for their entire human life has been spent in such obsessions, which now become millstones to drag them down to the [lower realms](#lower-realms).
 
 Nothing could be more effective than trade and commerce for piling up endless harmful actions and thoroughly corrupting you. You find yourself continually thinking up ways to cheat people as though you were looking through a collection of knives, awls and needles for the sharpest tool. Brooding endlessly over harmful [thought](#thought)s, you turn your back on the bodhicitta ideal of helping others, and your pernicious acts multiply to infinity.
 
@@ -3167,9 +3177,45 @@ To have [wrong views](#110-wrong-views), even for an instant, is to break all yo
 Each negative act produces four kinds of karmic effect: the [fully ripened effect](#21-the-fully-ripened-effect80), the [effect similar to the cause](#22-the-effect-similar-to-the-cause), the [conditioning effect](#23-the-conditioning-effect) and the [proliferating effect](#24-the-proliferating-effect).
 
 #### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
+
+<details id="80"><summary>Note <sup>80</sup></summary>This refers to the moment when the <a href="#karmic-energy">karmic energy</a> produced by an action produces its maximum effect, which can be hastened or retarded by the effects of other actions.
+</details><br>
+
+Committing any one of the ten harmful acts while motivated by hatred brings about birth in the [hell](#hell)s. Committing one of them out of desire leads to birth as a [preta](#preta), and out of ignorance to birth as an animal. Once reborn in those [lower realms](#lower-realms), we have to undergo the sufferings particular to them.
+
+Also, a very strong impulse&mdash;extremely powerful desire, anger, or ignorance&mdash;motivating a long and continuous accumulation of actions, causes birth in the [hell](#hell)s. Should the impulse be less strong and the number of actions less, it causes rebirth as a [preta](#preta); and if still less strong and numerous, as an animal.
+
 #### 2.2 THE EFFECT SIMILAR TO THE CAUSE
+
+Even when we finally get out of the lower [realm](#realm) in which [the fully ripened effect](#21-the-fully-ripened-effect80) had caused us to be born, and obtain a human form, we go on experiencing [the effect similar to the cause](#22-the-effect-similar-to-the-cause). In fact, in the [lower realms](#lower-realms), too, there are many different kinds of suffering that are similar to particular causes. These effects that are similar to the cause are of two kinds: actions similar to the cause and [experiences similar to the cause](#222-experiences-similar-to-the-cause).
+
 ##### 2.2.1 Actions Similar to the Cause
+
+This effect is a propensity for the same kind of actions as the original cause. If we killed before, we still like to kill; if we stole, we enjoy [taking what is not given](#12-taking-what-is-not-given); and so forth. This explains why, for example, certain people from their earliest childhood kill all the insects and flies they see. Such a predilection for killing corresponds to similar acts performed in their past lives. From the cradle on, each of us acts quite differently, driven by different karmic urges. Some enjoy killing, some enjoy stealing, while others again feel no affinity for such actions and enjoy doing good instead. All such [tendencies](#tendencies) are the residue of former actions, or in other words [the effect similar to the cause](#22-the-effect-similar-to-the-cause). This is why it is said:
+
+> To see what you have done before, look at what you are now.  
+> To see where you are going to be born next, look at what you do now.<sup>81</sup>
+
+<details id="81"><summary>Note <sup>81</sup></summary>A slightly different version of this quote is given in Zenkar Rinpoche's edition of the Tibetan text: "To see where you were born before, look at what you are now. To see where you are going to be born next, look at what you do now.
+</details><br>
+
+The same is true for animals, too. The instinct of animals such as falcons and wolves to kill, or of mice to steal, is in each case an effect similar to, and caused by, their former actions.
+
 ##### 2.2.2 Experiences Similar to the Cause
+
+Each of the ten harmful actions results in a pair of effects on our subsequent experiences.
+
+###### 2.2.2.1 Taking Life
+###### 2.2.2.2 Taking What Is Not Given
+###### 2.2.2.3 Sexual Misconduct
+###### 2.2.2.4 Lying
+###### 2.2.2.5 Sowing Discord
+###### 2.2.2.6 Harsh Words
+###### 2.2.2.7 Worthless Chatter
+###### 2.2.2.8 Covetousness
+###### 2.2.2.9 Wishing Harm on Others
+###### 2.2.2.10 Wrong Views
+
 #### 2.3 THE [CONDITIONING EFFECT](#conditioning-effect)
 #### 2.4 THE PROLIFERATING EFFECT
 ## II. [POSITIVE ACTION](#positive-action)S TO BE ADOPTED
