@@ -3125,6 +3125,43 @@ Eternalists believe in a permanent self and an eternally existing creator of the
 <details id="75"><summary>Note <sup>75</sup></summary><i>thar pa dang grol ba</i>: We have translated these two terms here as <a href="#liberation">liberation</a> and freedom, nearly synonymous in English. PWR explains the difference in this context: <a href="#liberation">liberation</a> (<i>thar pa</i>) is from <a href="#saṃsāra">saṃsāra</a>, especially the <a href="#lower-realms">lower realms</a>, while freedom (<i>grol ba</i>) is from all the obstacles to omniscience, or <a href="#enlightenment">enlightenment</a>. In other contexts, <i>thar pa</i> can cover both of these meanings, as in <a href="#chapter-sixguru-yoga223-entrance-way-for-blessings-the-ultimate-method-for-arousing-the-wisdom-of-realization">Chapter Six</a>.
 </details><br>
 
+> The rising of the sun, the downhill flow of water,  
+> The roundness of peas, the bristling length and sharpness of thorns,  
+> The beauty of the iridescent eyes of peacocks' tails:  
+> No-one created them, they all just naturally came to be.  
+
+They argue that when the sun rises in the east, no-one is there to make it rise. When a river flows downhill, nobody is driving it downwards. No-one rolled out peas to make them all so round, or sharpened all the long and bristling points of thorns. The beautiful multicolored eyes on a peacock's tail were not painted by anyone. All these things just are so by their own nature, and so it is with everything in this world whether pleasant or unpleasant, good or bad&mdash; all phenomena just arise spontaneously. There is no past [karma](#karma), there are no previous lives, no future lives.<sup>76</sup>
+
+<details id="76"><summary>Note <sup>76</sup></summary>This <a href="#view">view</a> is considered incorrect not because it denies a creator, but because it denies the process of causality.
+</details><br>
+
+To consider the texts of such doctrines true and to follow them, or even without doing so, to think that the [Buddha](#buddha)'s words, your teacher's instructions or the texts of the learned commentators are in error and to doubt and criticize them, are all included in what is meant by [wrong views](#110-wrong-views).<sup>77</sup>
+
+<details id="77"><summary>Note <sup>77</sup></summary>This does not mean that one should not question or analyze the teachings. Indeed, the <a href="#buddha">Buddha</a> encouraged such questioning. However, allowing one's opinions to close one's mind to the Buddhist teachings, which often challenge everyday concepts, can actually prevent one from adopting the path that leads to freedom.
+</details><br>
+
+The worst of the ten [negative action](#negative-action)s are [taking life](#11-taking-life) and [wrong views](#110-wrong-views). As it is said:
+
+> There is no worse action than taking another's life;  
+> Of the ten unvirtuous acts, [wrong view](#wrong-view) is the heaviest.
+
+Except for those in the [hell](#hell)s, there is no being who does not shrink from death or who does not value his or her life over anything else. So to destroy a life is a particularly [negative action](#negative-action). In the *Sutra of Sublime [Dharma](#dharma) of Clear Recollection*, it is said that one will repay any life one takes with five hundred of one's own lives, and that for killing a single being one will spend one intermediate [kalpa](#kalpa) in the [hell](#hell)s.
+
+Even worse is to take some meritorious work you may be involved in, such as building a representation of the [Three Jewels](#three-jewels), as an excuse for committing harmful actions such as killing. [Padampa Sangye](#padampa-sangye) says:
+
+> To build a support for the [Three Jewels](#three-jewels) while causing harm and suffering  
+> Is to cast your next life to the [wind](#wind).  
+
+It is equally wrong, mistakenly thinking you are doing something meritorious, to slaughter animals and offer their flesh and blood to [lama](#lama)s invited to your house or to an assembly of monks. The negative karmic effect of the killing comes to both givers and receivers. The donor, although providing nourishment, is making an impure offering; those who receive it are accepting an improper sustenance. Any positive effect is outweighed by the negative one. Indeed, unless you have the power to resuscitate your victims on the spot, there is no situation in which the act of killing does not defile you as a [negative action](#negative-action). You can also be sure that it will harm the lives and activities of the teachers.<sup>78</sup> If you are not capable of transferring beings' consciousness to the state of great bliss, you should make every effort to avoid taking their lives.
+
+<details id="78"><summary>Note <sup>78</sup></summary>Since spiritual guides appear according to the past actions of beings, the teacher and their disciples are indissolubly linked. Thus, if the disciples behave inappropriately, the effects rebound&mdash;in the relative sphere&mdash;on the teacher, reducing the period of their incarnation and creating obstacles for their activity for the benefit of others.
+</details><br>
+
+To have [wrong views](#110-wrong-views), even for an instant, is to break all your vows and to cut yourself off from the Buddhist community. It also negates the freedom in this human existence to practice the [Dharma](#dharma). From the moment your mind is defiled by false [view](#view)s, even the good you do no longer leads to [liberation](#liberation), and the harm you do can no longer be confessed.<sup>79</sup>
+
+<details id="79"><summary>Note <sup>79</sup></summary><a href="#110-wrong-views">Wrong views</a> will render one's attitude narrow. Even one's <a href="#positive-action">positive action</a>s will be limited in their effects because one does them without the motivation of attaining complete <a href="#enlightenment">enlightenment</a> for the sake of all beings. Moreover if one has no faith in those who transmit the <a href="#dharma">Dharma</a> one will not have the <i>support</i> for confession described in Part Two <a href="#chapter-threemeditating-and-reciting-on-the-teacher-as-vajrasattva-to-cleanse-all-obscurations172">Chapter Three</a>.
+</details><br>
+
 ### **2. The effects of the ten [negative action](#negative-action)s**
 #### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
 #### 2.2 THE EFFECT SIMILAR TO THE CAUSE
