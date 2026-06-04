@@ -3107,8 +3107,24 @@ In the noble land of India, as a rule, only those who had the highest attainment
 Far from having any mastery of the two phases of the meditation, such people, who may at least know the words of the ritual, do not even bother to recite those properly. Worse still, the moment they get to the [mantra](#mantra) recitation&mdash;the most important part&mdash;they start chatting, and let loose an endless stream of irrelevant gossip full of desire and aggression for the whole of the allocated time. This is disastrous for themselves and others. It is most important that monks and [lama](#lama)s should give up this kind of chatter and concentrate on reciting their [mantra](#mantra)s without talking.
 
 #### 1.8 COVETOUSNESS
+
+Covetousness includes all the desirous or acquisitive [thought](#thought)s, even the slightest ones, we might have about other people's property. Contemplating how agreeable it would be if those wonderful belongings of theirs were ours, we imagine possessing them over and over again, inventing schemes to get hold of them, and so on.
+
 #### 1.9 WISHING HARM ON OTHERS
+
+This refers to all the malicious [thought](#thought)s we might have about other people. For example, brooding with hatred or anger about how we might harm them; feeling disappointed when they prosper or succeed; wishing they were less comfortable, less happy or less talented; or feeling glad when unpleasant things happen to them.
+
 #### 1.10 [WRONG [VIEW](#view)](#wrong-view)S
+
+[Wrong views](#110-wrong-views) include the [view](#view) that actions cause no karmic effect, and the [view](#view)s of [eternalism](#eternalism) and [nihilism](#nihilism).
+
+According to the [view](#view) that actions cause no karmic effect, [positive action](#positive-action)s bring no benefit and [negative action](#negative-action)s no harm. The [view](#view)s of [eternalism](#eternalism) and [nihilism](#nihilism) include all the different [view](#view)s of the [tīrthika](#tīrthika)s, which, although they can be divided into three hundred and sixty false [view](#view)s or sixty-two [wrong views](#110-wrong-views), can be summed up into the two categories of [eternalism](#eternalism) and [nihilism](#nihilism).
+
+Eternalists believe in a permanent self and an eternally existing creator of the universe, such as Isvara or Visnu. Nihilists believe that all things just arise by themselves and that there are no past and future lives, no [karma](#karma), no [liberation](#liberation) and no freedom.<sup>75</sup> As it says in the doctrine of Black Isvara:
+
+<details id="75"><summary>Note <sup>75</sup></summary><i>thar pa dang grol ba</i>: We have translated these two terms here as <a href="#liberation">liberation</a> and freedom, nearly synonymous in English. PWR explains the difference in this context: <a href="#liberation">liberation</a> (<i>thar pa</i>) is from <a href="#saṃsāra">saṃsāra</a>, especially the <a href="#lower-realms">lower realms</a>, while freedom (<i>grol ba</i>) is from all the obstacles to omniscience, or <a href="#enlightenment">enlightenment</a>. In other contexts, <i>thar pa</i> can cover both of these meanings, as in <a href="#chapter-sixhow-to-follow-a-spiritual-friend">Chapter Six</a>.
+</details><br>
+
 ### **2. The effects of the ten [negative action](#negative-action)s**
 #### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
 #### 2.2 THE EFFECT SIMILAR TO THE CAUSE
@@ -4769,7 +4785,7 @@ a scholar, someone learned in the five traditional sciences (see: [five sciences
 ## Perceptions
 *snang ba*, that which appears in the eyes of each individual according to his or her [tendencies](#tendencies) or spiritual development. NT, quoting [Patrul Rinpoche](#patrul-rinpoche), speaks of three types of perception: 
 1. deluded perceptions, which arise in the consciousness of the beings of the six [realm](#realm)s due to misunderstanding; they are called the impure deluded perceptions of the universe and beings. 
-2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similes of illusion which one does not apprehend as real (see Chapter Two, 2.6.3, [Wisdom](#wisdom) through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten [levels](#levels) in their post-meditation state (*rjes thob*).
+2. the perceptions of interdependence (*rten 'brel*), magical illusions (*sgyu  ma*), corresponding to the eight similes of illusion which one does not apprehend as real (see [Chapter Two](#chapter-twoarousing-bodhicitta-the-root-of-the-great-vehicle), 2.6.3, [Wisdom](#wisdom) through meditation); these are the perceptions of the [bodhisattvas](#bodhisattva) of the ten [levels](#levels) in their post-meditation state (*rjes thob*).
 3. the authentic, perfect, perceptions of [wisdom](#wisdom); when one has realized the [natural state](#natural-state) of everything, the beings and the universe appear as the display of the [kāyas](#kāya) and [wisdom](#wisdom)
 
 ## Perfection phase
