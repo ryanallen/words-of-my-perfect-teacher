@@ -237,6 +237,15 @@ Our religious traditions are diverse but, as with the natural environment, we ar
         * [2.3 THE CONDITIONING EFFECT](#23-the-conditioning-effect)  
         * [2.4 THE PROLIFERATING EFFECT](#24-the-proliferating-effect)  
 * [II. POSITIVE ACTIONS TO BE ADOPTED](#ii-positive-actions-to-be-adopted)  
+    * **[1. The ten positive actions](#1-the-ten-positive-actions)**  
+        * [1.1 The three positive acts of the body](#11-the-three-positive-acts-of-the-body)  
+        * [1.2 The four positive acts of speech](#12-the-four-positive-acts-of-speech)  
+        * [1.3 The three positive acts of the mind](#13-the-three-positive-acts-of-the-mind)  
+    * **[2. The effects of the ten positive actions](#2-the-effects-of-the-ten-positive-actions)**  
+        * [2.1 The effect similar to the cause as action](#21-the-effect-similar-to-the-cause-as-action)  
+        * [2.2 The effect similar to the cause as experience](#22-the-effect-similar-to-the-cause-as-experience)  
+        * [2.3 The conditioning effect similar to the causes](#23-the-conditioning-effect-similar-to-the-causes)  
+        * [2.4 The proliferating effect similar to the causes](#24-the-proliferating-effect-similar-to-the-causes)  
 * [III. THE ALL-DETERMINING QUALITY OF ACTIONS](#iii-the-all-determining-quality-of-actions)
  
 ◈  
@@ -3276,7 +3285,36 @@ The effect of having harbored [wrong views](#110-wrong-views) is that not only w
 [The conditioning effect](#23-the-conditioning-effect) acts on our environment. [Taking life](#11-taking-life) causes rebirth in grim, joyless landscapes full of mortally dangerous ravines and precipices. [Taking what is not given](#12-taking-what-is-not-given) causes rebirth in areas stricken by famine where frost and hail destroy crops and trees bear no fruit. [Sexual misconduct](#13-sexual-misconduct) obliges us to live in repulsive places, full of excrement and dung, muddy swamps, and so forth. Lying will bring us material insecurity, constant mental panic and encounters with terrifying things and situations. [Sowing discord](#15-sowing-discord) makes us inhabit regions difficult to cross, cut with deep ravines, rocky gorges and the like. [Harsh speech](#16-harsh-speech) causes rebirth in a bleak terrain, full of rocks, stones and thorns. Useless chatter causes rebirth on barren and infertile land which produces nothing in spite of being worked; the seasons are untimely and unpredictable. Covetousness will bring about poor harvests and all the many other ills of inhospitable places and times. [Wishing harm on others](#19-wishing-harm-on-others) leads to rebirth in places of constant fear with many different afflictions. [Wrong views](#110-wrong-views) cause rebirth in impoverished circumstances without any [refuge](#refuge) or protectors.
 
 #### 2.4 THE PROLIFERATING EFFECT
+
+[The proliferating effect](#24-the-proliferating-effect) is that whatever action we did before, we tend to repeat again and again. This brings an endless succession of suffering throughout all our subsequent lives. Our [negative action](#negative-action)s proliferate yet further and cause us to wander endlessly in [saṃsāra](#saṃsāra).
+
 ## II. [POSITIVE ACTION](#positive-action)S TO BE ADOPTED
+
+In a general sense, [the ten positive actions](#1-the-ten-positive-actions) comprise the unconditional vow never to commit any of the ten [negative action](#negative-action)s, such as [taking life](#11-taking-life), [taking what is not given](#12-taking-what-is-not-given) and so on, having understood their harmful effects.
+
+To take such a vow in front of a teacher or preceptor is not strictly necessary; while to decide on your own to avoid all taking of life from now on, for example&mdash;or to avoid [taking life](#11-taking-life) in a particular place or at particular times, or to avoid killing certain animals&mdash;is in itself a positive act. However, making that promise in the presence of a teacher, a [spiritual friend](#spiritual-friend) or a representation of the [Three Jewels](#three-jewels) renders it particularly powerful.
+
+It is not enough that you just happen to stop [taking life](#11-taking-life), or stop the other [negative action](#negative-action)s. What counts is that you commit yourself with a vow to avoid that [negative action](#negative-action), whatever happens. Thus even lay people who are unable to abstain completely from [taking life](#11-taking-life) can still derive great benefit from taking the vow not to kill for a period each year, either during the first month, the Month of Miracles; or during the fourth month, known as [Vaiśākha](#vaiśākha); or at each full or new moon, or for a particular year, month, or day.
+
+Long ago, a village butcher made a vow in the presence of the noble [Kātyāyana](#kātyāyana) that he would not kill during the night. He was reborn in one of [the ephemeral hells](#13-the-ephemeral-hells), where every day he was tormented all day long in a house of red-hot metal. But he spent every night in a palace, happy and comfortable, in the company of four goddesses.
+
+### **1. The ten positive actions**
+
+[The ten positive actions](#1-the-ten-positive-actions), then, consist of giving up the ten [negative action](#negative-action)s and practicing their positive antidotes.
+
+#### 1.1 The three positive acts of the body
+#### 1.2 The four positive acts of speech
+#### 1.3 The three positive acts of the mind
+
+### **2. The effects of the ten positive actions**
+
+#### 2.1 The effect similar to the cause as action
+#### 2.2 The effect similar to the cause as experience
+#### 2.3 The conditioning effect similar to the causes
+#### 2.4 The proliferating effect similar to the causes
+
+[The three positive acts of the body](#11-the-three-positive-acts-of-the-body) are: 
+
 ## III. THE ALL-DETERMINING QUALITY OF ACTIONS
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
