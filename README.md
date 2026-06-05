@@ -3303,15 +3303,60 @@ Long ago, a village butcher made a vow in the presence of the noble [Kātyāyana
 [The ten positive actions](#1-the-ten-positive-actions), then, consist of giving up the ten [negative action](#negative-action)s and practicing their positive antidotes.
 
 #### 1.1 The three positive acts of the body
+
+[The three positive acts of the body](#11-the-three-positive-acts-of-the-body) are:  
+
+1. to renounce killing, and instead to protect the lives of living beings;  
+2. to renounce taking what is not given, and instead to practice [generosity](#generosity); and  
+3. to give up [sexual misconduct](#13-sexual-misconduct), and instead to follow the rules of discipline.
+
 #### 1.2 The four positive acts of speech
+
+[The four positive acts of speech](#12-the-four-positive-acts-of-speech) are:  
+
+1. to renounce lying, and instead to tell the truth;  
+2. to give up [sowing discord](#15-sowing-discord), and instead to reconcile disputes;  
+3. to abandon harsh words, and instead to speak pleasantly; and  
+4. to put an end to useless chatter, and instead to recite prayers.
+
 #### 1.3 The three positive acts of the mind
+
+[The three positive acts of the mind](#13-the-three-positive-acts-of-the-mind) are:  
+
+1. to renounce covetousness, and instead to learn to be generous;  
+2. to give up [wishing harm on others](#19-wishing-harm-on-others), and instead to cultivate the desire to help them; and  
+3. to put an end to [wrong views](#110-wrong-views), and instead to establish in yourself the true and authentic [view](#view).
 
 ### **2. The effects of the ten positive actions**
 
+The fully ripened effects of these acts is that you will be reborn in one of the three higher [realm](#realm)s.
+
 #### 2.1 The effect similar to the cause as action
+
+[The effect similar to the cause](#22-the-effect-similar-to-the-cause) as *action* is that you take pleasure in doing good in all your subsequent lives, so your [merit](#merit) goes on and on increasing.
+
 #### 2.2 The effect similar to the cause as experience
+
+The effects similar to the cause as *experience* for each of the ten are as follows:  
+
+- for giving up [taking life](#11-taking-life), a long life with few illnesses;  
+- for giving up [taking what is not given](#12-taking-what-is-not-given), prosperity and freedom from enemies or thieves;  
+- for giving up [sexual misconduct](#13-sexual-misconduct), an attractive partner and few rivals;  
+- for renouncing lies, praise and love from everyone;  
+- for giving up [sowing discord](#15-sowing-discord), a respectful circle of friends and servants;  
+- for giving up harsh words, hearing only pleasant speech;  
+- for giving up useless chatter, being listened to seriously;  
+- for abandoning covetousness, the fulfilment of your wishes;  
+- for giving up harmful [thought](#thought)s, freedom from harm;  
+- and for giving up [wrong views](#110-wrong-views), the growth of the right view in your mind.  
+
 #### 2.3 The conditioning effect similar to the causes
+
+[The conditioning effect](#23-the-conditioning-effect) is, in each case, the opposite of the corresponding negative effect: you are born in places that have all the most perfect circumstances.
+
 #### 2.4 The proliferating effect similar to the causes
+
+[The proliferating effect](#24-the-proliferating-effect) is that whatever good actions you do will multiply, bringing you uninterrupted good fortune.
 
 [The three positive acts of the body](#11-the-three-positive-acts-of-the-body) are: 
 
