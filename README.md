@@ -3222,9 +3222,39 @@ This continent of [Jambudvīpa](#jambudvīpa) gives a particular power<sup>60</s
 </details><br>
 
 ###### 2.2.2.3 Experiences Similar to the Cause of Sexual Misconduct
+
+To have indulged in [sexual misconduct](#13-sexual-misconduct), it is said, will cause us to have a spouse who is not only unattractive, but who also behaves in a loose or hostile manner. When couples cannot stop arguing or fighting, each partner usually lays the blame on the other's bad character. In fact they are each experiencing [the effect similar to the cause](#22-the-effect-similar-to-the-cause), resulting from their past [sexual misconduct](#13-sexual-misconduct). Instead of hating each other, they should recognize that it is the effect of their past [negative action](#negative-action)s and be patient with each other. Lord Padampa Sanye says:
+
+> Families are as fleeting as a crowd on market-day;  
+> People of Tingri, don't bicker or fight!
+
 ###### 2.2.2.4 Experiences Similar to the Cause of Lying
+
+The experience similar to the cause from having lied in past lives is that not only are we often criticized and belittled, but also we are often lied to by others. If you are falsely accused and criticized now, it is the effect of your having told lies in the past. Instead of getting angry and hurling insults at people who say such things about you, be grateful to them for helping you to exhaust the effects of many [negative action](#negative-action)s. You should feel happy. Rigdzin [Jigme Lingpa](#jigme-lingpa) says:
+
+> An enemy repaying your good with bad makes you progress in your practice.  
+> His unjust accusations are a whip that steers you toward virtue.  
+> He's the teacher who destroys all your attachment and desires.  
+> Look at his great kindness that you never can repay!
+
 ###### 2.2.2.5 Experiences Similar to the Cause of Sowing Discord
+
+[The effect similar to the cause](#22-the-effect-similar-to-the-cause) of [sowing discord](#15-sowing-discord) is not only that our associates and servants cannot get along with each other, but also that they are argumentative and recalcitrant with us. For the most part the monks following [lama](#lama)s, the attendants of chiefs or the servants of householders do not get along well among themselves, and however many times they are asked to do something, they refuse to obey and argue defiantly. The hired servants of ordinary people pretend not to hear when asked to do chores, even easy ones. The master of the house has to repeat the order two or [three times](#three-times), and it is only when at last he gets angry and speaks harshly  to them that they do what they were asked, slowly and grudgingly. Even when they have finished, they do not bother to come back and tell him. They are permanently in a bad mood. But the master is only reaping the fruits of the discord he has sown himself in the past. He should therefore regret his own [negative action](#negative-action)s, and work at reconciling his own and others' disagreements.
+
 ###### 2.2.2.6 Experiences Similar to the Cause of Harsh Words
+
+To have spoken harsh words in past lives will not only make everything that is said to us offensive or insulting, but will also have the effect that everything we say provokes arguments.
+
+Harsh language is the worst of the four [negative action](#negative-action)s of speech. As the proverb puts it:
+
+> Words have no arrows nor swords, yet they tear humans' minds to pieces.
+
+To suddenly provoke hatred in another person, or&mdash;worse still&mdash;to say even a single offensive word to a holy being, causes many lifetimes to be spent in the [lower realms](#lower-realms) without any chance of being released. It is said that a [brahmin](#brahmin) named Kapila once insulted the monks of the [Buddha](#buddha) [Kāśyapa](#kāśyapa), calling them "horse-head," "ox-head" and many other such names. He was reborn as a fish-like sea monster with eighteen heads. He was not released from that state for an entire [kalpa](#kalpa) and even then was reborn in [hell](#hell). A nun who called another nun a bitch was reborn herself as a bitch five hundred times. There are many similar stories. So learn to speak gently at all times. Moreover, since you never know who might be a holy being or a [Bodhisattva](#bodhisattva), train yourself to perceive all beings purely. Learn to praise them and extol their good qualities and achievements. It is said that to criticize or speak offensively to a [Bodhisattva](#bodhisattva) is worse than killing all the beings in the [three worlds](#three-worlds):
+
+> To denigrate a [Bodhisattva](#bodhisattva) is a greater sin  
+> Than killing all the beings in the [three worlds](#three-worlds);  
+> All such great and futile faults that I have accumulated, I confess.
+
 ###### 2.2.2.7 Experiences Similar to the Cause of Worthless Chatter
 ###### 2.2.2.8 Experiences Similar to the Cause of Covetousness
 ###### 2.2.2.9 Experiences Similar to the Cause of Wishing Harm on Others
