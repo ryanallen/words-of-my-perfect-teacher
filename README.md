@@ -3342,12 +3342,12 @@ The effects similar to the cause as *experience* for each of the ten are as foll
 - for giving up [taking life](#11-taking-life), a long life with few illnesses;  
 - for giving up [taking what is not given](#12-taking-what-is-not-given), prosperity and freedom from enemies or thieves;  
 - for giving up [sexual misconduct](#13-sexual-misconduct), an attractive partner and few rivals;  
-- for renouncing lies, praise and love from everyone;  
+- for renouncing [lies](#14-lying), praise and love from everyone;  
 - for giving up [sowing discord](#15-sowing-discord), a respectful circle of friends and servants;  
-- for giving up harsh words, hearing only pleasant speech;  
-- for giving up useless chatter, being listened to seriously;  
-- for abandoning covetousness, the fulfilment of your wishes;  
-- for giving up harmful [thought](#thought)s, freedom from harm;  
+- for giving up [harsh words](#16-harsh-speech), hearing only pleasant speech;  
+- for giving up [useless chatter](#17-worthless-chatter), being listened to seriously;  
+- for abandoning [covetousness](#18-covetousness), the fulfilment of your wishes;  
+- for giving up [harmful thoughts](#19-wishing-harm-on-others), freedom from harm;  
 - and for giving up [wrong views](#110-wrong-views), the growth of the right view in your mind.  
 
 #### 2.3 The conditioning effect similar to the causes
