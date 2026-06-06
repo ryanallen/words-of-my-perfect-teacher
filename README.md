@@ -3405,6 +3405,16 @@ One day the armies of Virūḍhaka, king of Śrāvastī, fell upon the city of t
 <details id="83"><summary>Note <sup>83</sup></summary>The qualities of a <a href="#buddha">Buddha</a>: the thirty-two major and eighty minor marks, the ten powers, etc.
 </details><br>
 
+On another occasion, the [Buddha](#buddha)'s foot was injured by an acacia<sup>84</sup> splinter&mdash;the result of his having killed Black Spearman during one of his previous lives as a [Bodhisattva](#bodhisattva).<sup>*</sup>
+
+<details id="84"><summary>Note <sup>84</sup></summary><i>seng ldeng</i> is a hardwood, the catechu tree <i>Acacia catechu</i>, found all over northern India, Nepal and the valleys of Tibet.
+</details><br>
+
+<sup>* See <a href="#black-spearman">Black Spearman</a></sup>
+
+[Maudgalyāyana](#maudgalyāyana), of all the [Buddha](#buddha)'s [Śrāvaka](#śrāvaka) disciples, possessed the greatest miraculous powers. Nonetheless, he was killed by the Parivrajikas, because of the power of his past actions. It happened as follows.
+
+<a id="black-spearman"></a>Black Spearman
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
