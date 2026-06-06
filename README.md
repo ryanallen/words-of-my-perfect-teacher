@@ -3307,7 +3307,7 @@ Long ago, a village butcher made a vow in the presence of the noble [Kātyāyana
 [The three positive acts of the body](#11-the-three-positive-acts-of-the-body) are:  
 
 1. to renounce killing, and instead to protect the lives of living beings;  
-2. to renounce taking what is not given, and instead to practice [generosity](#generosity); and  
+2. to renounce [taking what is not given](#12-taking-what-is-not-given), and instead to practice [generosity](#generosity); and  
 3. to give up [sexual misconduct](#13-sexual-misconduct), and instead to follow the rules of discipline.
 
 #### 1.2 The four positive acts of speech
@@ -3358,9 +3358,53 @@ The effects similar to the cause as *experience* for each of the ten are as foll
 
 [The proliferating effect](#24-the-proliferating-effect) is that whatever good actions you do will multiply, bringing you uninterrupted good fortune.
 
-[The three positive acts of the body](#11-the-three-positive-acts-of-the-body) are: 
-
 ## III. THE ALL-DETERMINING QUALITY OF ACTIONS
+
+In all their inconceivable variety, the pleasures and miseries that each individual being experiences&mdash;from the summit of existence down to the very lowest depth of [hell](#hell)&mdash;arise only from the positive and [negative action](#negative-action)s that each has amassed in the past. It is said in the *Sutra of a Hundred Actions*:
+
+> The joys and sorrows of beings  
+> All come from their actions, said the [Buddha](#buddha).  
+> The diversity of actions  
+> Creates the diversity of beings  
+> And impels their diverse wanderings.  
+> Vast indeed is this net of actions!
+
+Whatever strength, power, wealth or property we may now enjoy, none of it follows us when we die. We take with us only the positive and [negative action](#negative-action)s we have gathered during our lifetime, which then propel us onward to higher or lower samsaric [realm](#realm)s. In the *Sutra of Instructions to the King* we read:
+
+> When the moment comes to leave, O King, 
+> Neither possessions, friends nor family can follow. 
+> But wherever beings come from, wherever they go,  
+> Their actions follow them like their own shadow. 
+
+The effects of our positive or [negative action](#negative-action)s may not be immediately evident and identifiable; but nor do they just fade away. We will experience each one of them when the right conditions come together.
+
+> Even after a hundred [kalpa](#kalpa)s  
+> Beings' actions are never lost.  
+> When the conditions come together  
+> Their fruit will fully ripen,
+
+as the *Sutra of a Hundred Actions* says. And in the *Treasury of Precious Qualities* we find the following:
+
+> When the eagle soars up, high above the earth,  
+> Its shadow for the while is nowhere to be seen;  
+> Yet bird and shadow still are linked. So too our actions:  
+> When conditions come together, their effects are clearly seen.
+
+When a bird takes off and flies high up into the sky, its shadow seems to disappear. But that does not mean that the shadow no longer exists. Wherever the bird finally lands, there is its shadow again, just as dark and distinct as before. In the same way, even though our past good or bad actions may be invisible for the moment they cannot fail to come back to us in the end.
+
+Indeed how could this not be so for ordinary beings like us, when even [Buddha](#buddha)s and [Arhat](#arhat)s, who have rid themselves of all karmic and emotional obscurations, still have to accept the effects of past actions?
+
+One day the armies of Virūḍhaka, king of Śrāvastī, fell upon the city of the Śākyas<sup>*</sup> and massacred eighty thousand people. At that moment, the [Buddha](#buddha) himself had a headache. When his disciples asked him why this was, he replied:
+
+<sup>* The Buddha's clan, who lived on the borders of present-day India and Nepal</sup>
+
+"Many lifetimes ago, those Śākyas were fishermen who lived by killing and eating many fish. One day they caught two big ones, and instead of killing them immediately they left them tied to a pole. As those two fish stranded out of the water writhed in agony, they [thought](#thought): 'These men are killing us, although we have done them no harm. In return, may the day come when we kill them, without their having done us any harm.' The effect of the two big fishes' [thought](#thought) was that they were reborn as king Virūḍhaka and his minister Mātropakāra, while all the other fish killed by the fishermen became their troops. Today they have massacred the Śākyas."
+
+"At that time, I myself was the child of one of those fishermen and, watching those two tied-up fish writhing in unbearable agony as they dried, I laughed. The effect of that action is that today I have a headache. But had I not achieved the qualities<sup>83</sup> I now possess, I, too, would have been killed by the troops of Virūḍhaka."
+
+<details id="83"><summary>Note <sup>83</sup></summary>The qualities of a <a href="#buddha">Buddha</a>: the thirty-two major and eighty minor marks, the ten powers, etc.
+</details><br>
+
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
