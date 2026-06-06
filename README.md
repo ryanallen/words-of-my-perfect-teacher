@@ -1766,11 +1766,7 @@ For the moment, thanks to your teacher and your [spiritual companions](#spiritua
 
 If you reflect on the numerous examples given here, you will have no doubt that nothing, from the highest states of existence down to the lowest [hells](#hell), has even a scrap of permanence or stability. Everything is subject to change, everything waxes and wanes.
 
-## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES<sup>[41](#41)</sup> OF DEATH
-
-<details id="41"><summary>Note <sup>41</sup></summary>
-<i>rkyen</i>: circumstances. The auxiliary cause which allows the deep cause (*rgyu*) to produce its effect. If someone dies in an accident, for instance, the accident itself, the circumstances of that death, are the *rkyen*, and the *rgyu*, the deep cause, is a <a href="#negative-action">negative action</a> performed in the past, of which death is the karmic result.
-</details><br>
+## VI. THE UNCERTAINTY OF THE CIRCUMSTANCES[^41] OF DEATH
 
 Once born, every human in the world is sure to die. But how, why, when and where we are going to die cannot be predicted. None of us can say for sure that our death will come about at a particular time or place, in a certain way, or as a result of this or that cause.
 
@@ -2244,10 +2240,7 @@ For indeed, whatever apparent comfort, happiness or prestige is to be found here
 
 We experience [suffering upon suffering](#412-suffering-upon-suffering) when, before one suffering is over, we are subjected to another. We get leprosy, and then we break out in boils, too; and then as well as breaking out in boils we get injured. Our father dies and then our mother dies soon afterwards. We are pursued by enemies and, on top of that, a loved one dies; and so forth. No matter where we are reborn in [saṃsāra](#saṃsāra), all our time is spent in one suffering on top of another, without any chance of a moment's happiness. 
 
-##### 4.1.3 The suffering of everything composite<sup>[53](#53)</sup>
-
-<details id="53"><summary>Note <sup>53</sup></summary>The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#saṃsāra">saṃsāra</a>.
-</details><br>
+##### 4.1.3 The suffering of everything composite[^53]
 
 Now, some of us might think that things are going quite well for us at the moment, and we do not seem to be suffering much. In fact, we are totally immersed in the causes of suffering. For our very food and clothing, our homes, the adornments and celebrations that give us pleasure, are all produced with harmful actions. As everything we do is just a concoction of [negative actions](#negative-action), it can only lead to suffering. As examples, consider tea and [tsampa](#tsampa)[^a22]
 
@@ -2799,10 +2792,7 @@ To have [wrong views](#110-wrong-views), even for an instant, is to break all yo
 
 Each negative act produces four kinds of karmic effect: the [fully ripened effect](#21-the-fully-ripened-effect80), the [effect similar to the cause](#22-the-effect-similar-to-the-cause), the [conditioning effect](#23-the-conditioning-effect) and the [proliferating effect](#24-the-proliferating-effect).
 
-#### 2.1 THE FULLY RIPENED EFFECT<sup>[80](#80)</sup>
-
-<details id="80"><summary>Note <sup>80</sup></summary>This refers to the moment when the <a href="#karmic-energy">karmic energy</a> produced by an action produces its maximum effect, which can be hastened or retarded by the effects of other actions.
-</details><br>
+#### 2.1 THE FULLY RIPENED EFFECT[^80]
 
 Committing any one of the ten harmful acts while motivated by hatred brings about birth in the [hell](#hell)s. Committing one of them out of desire leads to birth as a [preta](#preta), and out of ignorance to birth as an animal. Once reborn in those [lower realms](#lower-realms), we have to undergo the sufferings particular to them.
 
@@ -5635,3 +5625,9 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^a38]: ![hum and its parts](imgs/hum-and-its-parts.svg)
 
 [^a39]: That is, close together without <a href="#becoming">becoming</a> entangled..
+
+[^41]: <i>rkyen</i>: circumstances. The auxiliary cause which allows the deep cause (*rgyu*) to produce its effect. If someone dies in an accident, for instance, the accident itself, the circumstances of that death, are the *rkyen*, and the *rgyu*, the deep cause, is a <a href="#negative-action">negative action</a> performed in the past, of which death is the karmic result.
+
+[^53]: The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#saṃsāra">saṃsāra</a>.
+
+[^80]: This refers to the moment when the <a href="#karmic-energy">karmic energy</a> produced by an action produces its maximum effect, which can be hastened or retarded by the effects of other actions.
