@@ -24,7 +24,7 @@ digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://gi
 
 ---
 
-[Uchen script](image_url)
+![Uchen script](imgs/uchen-script.svg)
 
 ---
 
