@@ -2,7 +2,7 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub>HAND-COPIED DIGITAL REVISED EDITION</sub></div>
 
-![Wheel illustration similar to book cover; hand-traced by Ryan Allen](.imgs/wheel.svg)
+![Wheel illustration similar to book cover; hand-traced by Ryan Allen](imgs/wheel.svg)
 
 <div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
@@ -10,14 +10,14 @@ digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://gi
 
 ---
 
-![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](.imgs/buddha_sakyamuni.svg)
+![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](imgs/buddha_sakyamuni.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
 
 ---
 
-![GURU RINPOCHE (paintings by Orgyen Lhundrup)](.imgs/guru_rinpoche.svg)
+![GURU RINPOCHE (paintings by Orgyen Lhundrup)](imgs/guru_rinpoche.svg)
 
 *<p id="guru-rinpoche-il" align="center"><a href="#guru-rinpoche">Guru Rinpoche</a></p>*
 <p align="center">Also known as <a href="#padmasambhava-of-oḍḍiyāna">Padmasambhava</a>, the Lotus-born, he is the "<a href="#second-buddha">Second Buddha</a>" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over <a href="#appearances">Appearances</a> and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.</p>
@@ -3660,7 +3660,7 @@ For the visualization that follows, see yourself as staying in your ordinary for
 <details id="181-1"><summary>Note <sup>181.1</sup></summary>Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#saṃsāra">saṃsāra</a> to benefit mother sentient beings, but he never engages in saṃsāric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a></details>
 
 <sup>*</sup><br>
-![hum and its parts](.imgs/hum-and-its-parts.svg)<br>
+![hum and its parts](imgs/hum-and-its-parts.svg)<br>
 
 In other traditions the syllable emanates and reabsorbs rays of light,<sup>[181.2](#181-2)</sup> but that is not the case here.
 
@@ -3676,7 +3676,7 @@ He has one face and two arms. With his right hand, between the palm and ring fin
 
 <details id="182-1"><summary>Note <sup>182.1</sup></summary>The <a href="#vajra">vajra</a> in his right hand represents the ultimate internal <a href="#vajra">vajra</a>. The upper five prongs are the five male <a href="#buddha">Buddhas</a> of the five durations. The lower five prongs are the five female <a href="#buddha">Buddhas</a> of the five durations. The upper and lower lotus petals symbolize the <a href="#bodhisattva">bodhisattva</a>s. The rings correspond to the peaceful deities, and central hub is the unsurpassed <a href="#absolute-space">dharmadhātu</a> free from conceptual fabrication. At the hub of the <a href="#vajra">vajra</a> is a lotus and moon disc on top of which is a white hum syllable standing upright and facing out. The 100 syllable <a href="#mantra">mantra</a> circles the hum symbol <a href="#three-times">three times</a>. The first syllable of the 100 syllable <a href="#mantra">mantra</a>, om, directly faces the central hum syllable, and is located in front of it. The last syllable, ah, also directly faces the hum. It is located in front of the om syllable. So the hum, om, and ah are all situated in a line or row. Here you can visualize the <a href="#mantra">mantra</a> garland moving, or just stable and not moving. If you visualize the <a href="#mantra">mantra</a> garland, then om faces the out hum because the <a href="#mantra">mantra</a> garland wraps around the hum clockwise. If you don't visualize the <a href="#mantra">mantra</a> garland, the om can face inwards.</details><br>
 
-![alt text](.imgs/hum-om-ah.svg)
+![alt text](imgs/hum-om-ah.svg)
 
 With his left, he rests the [bell](#bell) (representing supreme [wisdom](#wisdom)) of [awareness](#awareness) and [emptiness](#emptiness) at his left hip.<sup>[183](#183)</sup> <sup>[183.1](#183-1)</sup>
 
