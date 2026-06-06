@@ -535,7 +535,7 @@ export function renderMarkdown(src) {
       .map((id) => {
         const safe = fnSafe(id);
         const body = renderInline(footnoteDefs[id]);
-        return `<li id="fn-${safe}"><p>${body} <a href="#fnref-${safe}" class="footnote-back" aria-label="Back to content">↩</a></p></li>`;
+        return `<li id="fn-${safe}"><p>${body} <a href="#fnref-${safe}" class="footnote-back" aria-label="Back to content"><img src="imgs/arrow-uturn-left.svg" alt="" class="footnote-back-icon"></a></p></li>`;
       })
       .join('\n');
     html +=

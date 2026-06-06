@@ -254,6 +254,11 @@ body {
 .markdown-body .footnote-back {
   margin-left: 0.3em;
 }
+.markdown-body .footnote-back-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+}
 
 /* ---- Small screens -------------------------------------------------- */
 
