@@ -3006,7 +3006,45 @@ The two noble companions returned to [the human realm](#4-the-human-realm). [Ś�
 
 "Yes," replied [Śāriputra](#śāriputra), "but they said not a word."
 
+[Maudgalyāyana](#maudgalyāyana) said, "Since they cannot have taken in what you said, I shall speak to them myself." And he went off to tell them what [Pūrṇakāśyapa](#pūrṇakāśyapa) had said.
 
+But the [tīrthika](#tīrthika)s were furious. "Not content with insulting us, he is criticizing our Guru!" they said. "Beat him!" They fell on him, beat him to a pulp, and left him lying there.
+
+Now, until this point not even a concerted attack from all the [three worlds](#three-worlds) together, let alone the blows of the Parivrajikas, could have harmed a single hair of [Maudgalyāyana](#maudgalyāyana)'s head. But at that moment, crushed by the weight of his past actions, he succumbed like any ordinary man.
+
+"I could not even think how to use magical powers, let alone do it," he said. [Śāriputra](#śāriputra) wrapped him in his robes and carried him away.
+
+When they came to the Jeta Grove [Śāriputra](#śāriputra) cried out, "Even to hear my friend's death described would be unbearable! How can I watch it happen?" and he passed away into [nirvāṇa](#nirvāṇa) along with numerous other [Arhat](#arhat)s. Immediately afterwards, [Maudgalyāyana](#maudgalyāyana) too passed beyond suffering.
+
+Once in Kashmir there lived a monk called Ravati, who had many disciples. He was clairvoyant and had miraculous powers. One day he was dyeing his monk's robes with saffron in a dense stretch of woodland. At the same time, a layman living nearby was searching for a calf that had strayed. He saw smoke rising up from the thick forest, and went to see what was going on.
+
+Finding the monk stoking his fire, he asked: "What are you doing?"
+
+"I'm dyeing my robes," the monk replied.
+
+The layman raised the lid off the cauldron of dye and looked inside. 
+
+"It's meat!" he cried, and indeed when the monk looked in the cauldron he too saw what was inside as meat.
+
+The layman led the monk off and handed him over to the king, saying, "Sire, this monk stole my calf. Please punish him." The king had Ravati thrown into a pit.
+
+However, several days later it happened that the layman's cow found her missing calf by herself. The layman went back to see the king and said, "Sire, the monk did not steal my calf after all; please release him."
+
+But the king got distracted and forgot to have Ravati freed. For six months he did nothing about it.
+
+Then one day a large group of the monk's disciples, who had themselves attained miraculous powers, came flying through the air and landed in front of the king.
+
+"Ravati is a pure and innocent monk," they said to the king. "Please set him free."
+
+The king went to release the monk, and when he saw Ravati's debilitated condition he was filled with great remorse.
+
+"I meant to come sooner, but I left it so long," he exclaimed. "I have committed a terrible sin!"
+
+"No harm has been done," said the monk. "It was all the fruit of my own deeds."
+
+"What kind of deeds?" asked the king.
+
+"During a past life I was a thief, and once I stole a calf. When the owner came after me, I ran off, leaving the animal next to a [pratyekabuddha](#pratyekabuddha) who happened to be meditating in a thicket. The owner took the [pratyekabuddha](#pratyekabuddha) and threw him into a pit for six days. As the fully matured effect of my action, I have already been through numerous lives of suffering in the [lower realms](#lower-realms). The sufferings I have now just experienced in this life were the last of them."
 
 <a id="black-spearman"></a>Black Spearman
 
