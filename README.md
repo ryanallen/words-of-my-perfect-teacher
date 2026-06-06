@@ -2,15 +2,15 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub>HAND-COPIED DIGITAL REVISED EDITION</sub></div>
 
-![Wheel illustration similar to book cover; hand-traced by Ryan Allen](imgs/wheel.svg)
+![Wheel illustration similar to book cover; hand-copied by Ryan Allen](imgs/wheel.svg)
 
 <div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-digital edition <a href="#digital-preface">hand-typed</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
+<a href="#digital-preface">hand-copied</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">digital edition</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
 
 ---
 
-![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-traced work-in-progress by Ryan Allen](imgs/buddha_sakyamuni.svg)
+![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-copied work-in-progress by Ryan Allen](imgs/buddha_sakyamuni.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
@@ -476,7 +476,7 @@ Finally, our warmest thanks to Kerry Brown of the [International Sacred Literatu
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was hand-typed by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
+Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
 
 *The Words of My Perfect Teacher* is by [Patrul Rinpoche](#patrul-rinpoche), translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a> (Yale University Press, 2011; © 1994, 1998). Non-commercial fair use (17 U.S.C. § 107); not sold; all rights remain with the copyright holders. Please <a href="https://yalebooks.yale.edu/">purchase the print edition</a>. Copyright concerns: [dharma@ryanallen.com](mailto:dharma@ryanallen.com).
 
@@ -492,7 +492,8 @@ Changes in this edition:
 - Em- and en-dashes use closed style (no spaces).
 - Missing chapters added to the Part Three intro.
 - Run-in labels and inline lists are all made headings, so every section appears in the contents.
-- Illustrations are hand-traced from the original woodblock prints by Ryan Allen.
+- Illustrations are hand-copied from the original woodblock prints by [Ryan Allen](https://github.com/ryanallen).
+- Paragraphs use a blank line between them rather than a first-line indent, as is standard for screen reading.
 
 Found an error? [Open an issue](https://github.com/ryanallen/words-of-my-perfect-teacher/issues) or [submit a pull request](https://github.com/ryanallen/words-of-my-perfect-teacher/pulls).
 
@@ -2609,7 +2610,7 @@ It is all our ordinary activities and commitments limited to this life's concern
 > This human form is like a precious wish-granting gem; do not hand it to your enemy, hatred.  
 > [Samaya](#samaya) is like a watch-tower[^101]
 
-![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-traced work-in-progress by Ryan Allen](src)
+![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-copied work-in-progress by Ryan Allen](src)
 
 # <div align="center">CHAPTER FOUR<br><i>Actions: the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
 
@@ -2998,6 +2999,14 @@ On another occasion, the [Buddha](#buddha)'s foot was injured by an acacia[^120]
 [Maudgalyāyana](#maudgalyāyana), of all the [Buddha](#buddha)'s [Śrāvaka](#śrāvaka) disciples, possessed the greatest miraculous powers. Nonetheless, he was killed by the Parivrajikas, because of the power of his past actions. It happened as follows.
 
 The sublime [Śāriputra](#śāriputra) and the great [Maudgalyāyana](#maudgalyāyana) often used to travel to other worlds, such as the hell-realms or the [realm](#realm) of the [preta](#preta)s, to work for the benefit of beings in those worlds. One day, while in the [hell](#hell)s, they came across a [tīrthika](#tīrthika) teacher named [Pūrṇakāśyapa](#pūrṇakāśyapa) who had been reborn there and was undergoing a multitude of different torments.
+
+He said to them, "noble ones, on your return to [the human realm](#4-the-human-realm), please tell my former disciples that their guru, [Pūrṇakāśyapa](#pūrṇakāśyapa), has been reborn in [hell](#hell). Tell them from me that the way of the Parivrajikas is not the way of virtue. The way of virtue lies in the doctrine of the Śākya [Buddha](#buddha). Our path is mistaken; they should abandon it and learn to follow [Śākyamuni](#śākyamuni). And tell them, above all, that whenever they make offerings to the shrine they built for my bones, a shower of molten metal falls upon me. Tell them, I beg you, not to make those offerings any more."
+
+The two noble companions returned to [the human realm](#4-the-human-realm). [Śāriputra](#śāriputra) arrived first and went to give the [tīrthika](#tīrthika)s their guru's message but, the necessary karmic conditions being absent, they did not listen to him. When [Maudgalyāyana](#maudgalyāyana) arrived, he asked [Śāriputra](#śāriputra) if he had taken to the [tīrthika](#tīrthika)s [Pūrṇakāśyapa](#pūrṇakāśyapa)'s message.
+
+"Yes," replied [Śāriputra](#śāriputra), "but they said not a word."
+
+
 
 <a id="black-spearman"></a>Black Spearman
 
@@ -5576,7 +5585,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 
 [^124]: Skt. <i>ālaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.
 
-[^125]: Before embarking on this practice one should have received the <a href="#empowerment">empowerment</a> of <a href="#vajrasattva">Vajrasattva</a> from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (Ryan Allen's <a href="#empowerment">empowerment</a> through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma/blob/main/docs/v.md" target="_blank">this repo</a> for reference.)
+[^125]: Before embarking on this practice one should have received the <a href="#empowerment">empowerment</a> of <a href="#vajrasattva">Vajrasattva</a> from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (<a href="https://github.com/ryanallen">Ryan Allen</a>'s <a href="#empowerment">empowerment</a> through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma/blob/main/docs/v.md" target="_blank">this repo</a> for reference.)
 
 [^126]: In the practices of the <a href="#vajrayāna">Vajrayāna</a> one considers the visualized <a href="#deity">deity</a> as one's own <a href="#root-teacher">root teacher</a> who represents all the <a href="#buddha">Buddhas</a> of the past, present and future. <a href="#vajrasattva">Vajrasattva</a> (Tib. <i>rdo rje sems dpa'</i>) is the particular <a href="#buddha">Buddha</a> who, as a <a href="#bodhisattva">Bodhisattva</a>, pledged that whoever recited his <a href="#mantra">mantra</a> would be purified of all their <a href="#negative-action">negative action</a>s and <a href="#obscurations">obscurations</a>. His name refers to the indestructible purity of the nature of mind.
 
