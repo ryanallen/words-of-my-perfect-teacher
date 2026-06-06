@@ -675,14 +675,14 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 > Venerable teachers whose compassion is infinte and unconditional, I prostrate myself before you all.  
 >  
-> Conquerors of the mind lineage; Vidyadharas of the symbol lineage;  
+> [Conqueror](#conqueror)s of the mind lineage; [Vidyādhara](#vidyādhara)s of the symbol lineage;  
 > Most fortunate of ordinary beings who,  
 > Guided by the enlightened ones, have attained the twofold goal&mdash;  
 > Teachers of the three lineages, I prostrate myself before you.  
 >  
-> In the expanse where all phenomena come to exhaustion, you encountered the wisdom of dharmakaya;  
-> In the clear light of empty space you saw sambhogakaya Buddhafields appear;  
-> To work for beings' benefit you appeared to them in nirmanakaya form.  
+> In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of [dharmakāya](#dharmakāya);  
+> In the [clear light](#clear-light) of empty space you saw [saṃbhogakāya](#saṃbhogakāya) [Buddhafield](#buddhafield)s appear;  
+> To work for beings' benefit you appeared to them in [nirmāṇakāya](#nirmāṇakāya) form.  
 > Omniscient Sovereign of Dharma,* I prostrate myself before you.[^2]  
 >  
 > In your wisdom you saw the true nature of whatever can be known;  
@@ -690,7 +690,7 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 > You elucidated the teachings of the profound path, summit of all vehicles.  
 > Rigdzin Jigme Lingpa, I prostrate myself before you.  
 >  
-> You were Lord Avalokitesvara himself in the form of a spiritual friend;  
+> You were Lord [Avalokiteśvara](#avalokiteśvara) himself in the form of a [spiritual friend](#spiritual-friend);  
 > Whoever heard you speak was established on the path to freedom;  
 > To fulfil all beings' needs your activity was infinite;  
 > Gracious root teacher, I prostarate myself before you.  
@@ -698,12 +698,12 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 > The writings of Omniscient Longchenpa and his lineage contain the Buddha's entire teachings:  
 > The quintessential pith instructions that bring Buddhahood in a single lifetime,  
 > The ordinary, outer, and the inner preliminaries of the path  
-> And the additional advice on the swift path of transference.  
+> And the additional advice on [the swift path of transference](#the-swift-path-of-transference).  
 >  
 > May the Buddhas and the teachers bless me  
 > That I may explain definitively as I have remembered them,  
 > Wonderfully profound, yet clear and easy to understand&mdash;  
-> The unerring words of my perfect teacher.
+> The unerring [words of my perfect teacher](#words-of-my-perfect-teacher).
 
 This faithful record of my peerless teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
 1. the ordinary outer [preliminaries](#preliminaries);
@@ -2996,6 +2996,8 @@ One day the armies of Virūḍhaka, king of Śrāvastī, fell upon the city of t
 On another occasion, the [Buddha](#buddha)'s foot was injured by an acacia[^120] splinter&mdash;the result of his having killed Black Spearman during one of his previous lives as a [Bodhisattva](#bodhisattva).[^121]
 
 [Maudgalyāyana](#maudgalyāyana), of all the [Buddha](#buddha)'s [Śrāvaka](#śrāvaka) disciples, possessed the greatest miraculous powers. Nonetheless, he was killed by the Parivrajikas, because of the power of his past actions. It happened as follows.
+
+The sublime [Śāriputra](#śāriputra) and the great [Maudgalyāyana](#maudgalyāyana) often used to travel to other worlds, such as the hell-realms or the [realm](#realm) of the [preta](#preta)s, to work for the benefit of beings in those worlds. One day, while in the [hell](#hell)s, they came across a [tīrthika](#tīrthika) teacher named [Pūrṇakāśyapa](#pūrṇakāśyapa) who had been reborn there and was undergoing a multitude of different torments.
 
 <a id="black-spearman"></a>Black Spearman
 
