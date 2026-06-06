@@ -673,37 +673,37 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 *<h1 id="prologue" align="center">Prologue</h1>*
 
->*Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.*
+>Venerable teachers whose compassion is infinite and unconditional, I prostrate myself before you all.[^p1]
 >
->*Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyādharas](#vidyādhara) of the [symbol lineage](#symbol-lineage-of-the-vidyādharas);  
+>Conquerors of the [mind lineage](#mind-lineage-of-the-conquerors); [Vidyādharas](#vidyādhara) of the [symbol lineage](#symbol-lineage-of-the-vidyādharas);  
 Most fortunate of ordinary beings who,  
 Guided by the enlightened ones, have attained the [twofold goal](#twofold-goal)&mdash;  
-Teachers of the three lineages, I [prostrate](#prostration) myself before you.*
+Teachers of the three lineages, I [prostrate](#prostration) myself before you.[^p2]
 >
->*In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakāya](#dharmakāya);  
+>In the expanse where all phenomena come to exhaustion, you encountered the [wisdom](#wisdom) of the [dharmakāya](#dharmakāya);  
 In the [clear light](#clear-light) of [empty](#emptiness) [space](#absolute-space) you saw [saṃbhogakāya](#saṃbhogakāya) [Buddhafields](#buddhafield) appear;  
-To work for beings' benefit you appeared to them in [nirmāṇakāya](#nirmāṇakāya) form.*  
-*Omniscient Sovereign of [Dharma](#dharma)*[^a2],  *I [prostrate](#prostration) myself before you.*    
+To work for beings' benefit you appeared to them in [nirmāṇakāya](#nirmāṇakāya) form.  
+Omniscient Sovereign of [Dharma](#dharma)[^a2],  I [prostrate](#prostration) myself before you.    
 >
->*In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
+>In your [wisdom](#wisdom) you saw the true nature of whatever can be known;  
 The light of your love beamed benefit upon all beings;  
 You elucidated the teachings of the profound path, summit of all [vehicles](#vehicle).  
-[Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.*
+[Rigdzin Jigme Lingpa](#jigme-lingpa), I [prostrate](#prostration) myself before you.[^p3]
 >
->*You were Lord [Avalokiteśvara](#avalokiteśvara) himself in the form of a [spiritual friend](#spiritual-friend);  
+>You were Lord [Avalokiteśvara](#avalokiteśvara) himself in the form of a [spiritual friend](#spiritual-friend);  
 Whoever heard you speak was established on the path to freedom;  
 To fulfill all beings' needs your activity was infinite;  
-Gracious [root teacher](#root-teacher), I [prostrate](#prostration) myself before you.*
+Gracious [root teacher](#root-teacher), I [prostrate](#prostration) myself before you.[^p4]
 >
->*The writings of Omniscient [Longchenpa](#longchenpa) and his lineage contain the [Buddha](#buddha)'s entire teachings:  
+>The writings of Omniscient [Longchenpa](#longchenpa) and his lineage contain the [Buddha](#buddha)'s entire teachings:  
 The quintessential [pith instructions](#pith-instructions) that bring Buddhahood in a single lifetime,  
 The ordinary, outer, and the inner [preliminaries](#preliminaries) of the path  
-And the additional advice on the swift path of [transference](#transference).*
+And the additional advice on the swift path of [transference](#transference).[^p5]
 >
->*May the [Buddhas](#buddha) and the teachers bless me  
+>May the [Buddhas](#buddha) and the teachers bless me  
 That I may explain definitively as I have remembered them,  
 Wonderfully profound, yet clear and easy to understand&mdash;  
-The unerring [words of my perfect teacher](#words-of-my-perfect-teacher).*  
+The unerring [words of my perfect teacher](#words-of-my-perfect-teacher).[^p6]
 
 This faithful record of my peerless teacher's instructions on the general outer and inner [preliminaries](#preliminaries) for the *Heart-essence of the Vast Expanse* from the [Great Perfection](#great-perfection) is divided into three parts:  
 1. the ordinary outer [preliminaries](#preliminaries);
@@ -5631,3 +5631,15 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^53]: The expression <i>'du byed kyi sdug sngal</i> which we have translated as <i>"the suffering of everything composite"</i> is explained as follows: <i>rgyu rkyen 'du byed nas sdug sngal 'byung</i>, "<i>when cause and circumstances come together suffering arises</i>." It is considered to be the source of the two other basic kinds of suffering and is described as <i>khyab pa</i>, omnipresent or all-pervading, in <a href="#saṃsāra">saṃsāra</a>.
 
 [^80]: This refers to the moment when the <a href="#karmic-energy">karmic energy</a> produced by an action produces its maximum effect, which can be hastened or retarded by the effects of other actions.
+
+[^p1]: Homage to the root and lineage teachers.
+
+[^p2]: The three lineages of transmission: the mind lineage of the conquerors, the symbol lineage of the vidyādharas, and the <a href="#hearing-lineage-of-ordinary-beings">hearing lineage of ordinary beings</a>.
+
+[^p3]: Rigdzin Jigme Lingpa, the revealer of the *Heart-essence of the Vast Expanse*.
+
+[^p4]: One's own root teacher, invoked here as inseparable from Avalokiteśvara.
+
+[^p5]: The writings of Longchenpa and his lineage.
+
+[^p6]: The author's concluding aspiration.
