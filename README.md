@@ -3178,6 +3178,10 @@ Such situations, in which those who do good suffer and those who do harm prosper
 
 Do not use the [Dharma](#dharma) language of the highest [view](#view)s[^128] to scorn the [principle of cause and effect](#principle-of-cause-and-effect). The Great Master of [Oḍḍiyāna](#oḍḍiyāna) said:
 
+> Great King, in this [Secret Mantrayāna](#secret-mantrayāna) of mine, the [view](#view) is the most important thing. However, do not let your action slip in the direction of the [view](#view). If it does, you will fall into the evil [view](#view)s of [demon](#demon)s, prattling on about how goodness is empty, evil is empty. But do not let your [view](#view) slip in the direction of action, either, or you will be caught in materialism and ideology,[^129] and [liberation](#liberation) will never come...  
+>  
+> That is why my [view](#view) is higher than the sky, but my attention to my actions and their effects is finer than flour.[^130]
+
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
 ## II. THE RESULT: THE THREE [LEVELS](#levels) OF [ENLIGHTENMENT](#enlightenment)
@@ -5761,6 +5765,10 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^127]: The circular base upon which piles of rice etc. are placed in the offering of the [maṇḍala](#maṇḍala). To make offerings is part of the process of purification. The [maṇḍala](#maṇḍala) offering is explained in detail in Part Two, [Chapter Four](#chapter-fouroffering-the-maṇḍala-to-accumulate-merit-and-wisdom).
 
 [^128]: Using the [Dharma](#dharma) language of the highest [view](#view)s to scorn the [principle of cause and effect](#principle-of-cause-and-effect) [means](#means) to use the teaching of [absolute truth](#absolute-truth) as a pretext for doing whatever one wishes, saying there is no difference between good and bad, [saṃsāra](#saṃsāra) and [nirvāṇa](#nirvāṇa), [Buddha](#buddha)s and ordinary beings, and so on.
+
+[^129]: *dngos po dang mtshan ma*, lit. matter and characteristics. This [means](#means) that one will never get beyond a conceptual approach.
+
+[^130]: *zhib* [means](#means) fine (like flour) and also meticulous, precise.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
