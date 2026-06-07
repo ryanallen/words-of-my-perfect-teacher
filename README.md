@@ -3106,8 +3106,13 @@ The [Buddha](#buddha) was asked why he was like this, and replied, "Long ago, du
 For all good or bad actions, the intention is by far the most important factor that determines whether they are positive or negative, heavy or light. It is like a tree: if the root is medicinal, the trunk and leaves will also be medicinal. If the root is poisonous, the trunk and leaves will be poisonous too. Medicinal leaves cannot grow from a poisonous root. In the same way, if an intention develops from aggression or attachment and is thus not entirely pure, the action that follows is bound to be negative, however positive it might seem. On the other hand, if the intention is pure, even acts that appear negative will in fact be positive. In the *Treasury of Precious Qualities* it says:
 
 > If a root is medicinal, so are its shoots.  
+> If poisonous, no need to say its shoots will be the same.  
+> What makes an act positive or negative is not how it looks  
+> Or its size, but the good or bad intention behind it.
 
-<a id="black-spearman"></a>Black Spearman
+For this reason there are times when [Bodhisattva](#bodhisattva)s, the Heirs of the [Conqueror](#conqueror)s, are permitted to actually commit the seven harmful acts of the body and speech, as long as their minds are pure, free from all selfish desire. This is illustrated by the examples of Captain Compassionate Heart who killed <a id="black-spearman"></a>Black Spearman, or of the young [brahmin](#brahmin) [Lover of the Stars](#lover-of-the-stars) who broke his vows of chastity with a young [brahmin](#brahmin) girl.
+
+Once in a previous life, the [Buddha](#buddha) was a captain called Compassionate Heart. He was sailing upon the ocean with five hundred merchants when the evil pirate called Black Spearman appeared, threatening to kill them all. The captain realized that these merchants were all non-returning [Bodhisattva](#bodhisattva)s,[^126]
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
@@ -5686,6 +5691,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^124]: According to legend, [Nāgārjuna](#nāgārjuna)'s head and body took the form of two large stones some distance apart (at Nagarjunakonda in South India) which gradually draw closer over the centuries. When they reunite, [Nāgārjuna](#nāgārjuna) will come to life again.
 
 [^125]: In addition to actions which are generally negative, there are actions which the [Buddha](#buddha) proscribed for those who had taken particular vows. Here the monk is violating a precept forbidding fully ordained monks to cut vegetation.
+
+[^126]: Bodhisattvas who had reached a level where they were no longer obliged to return to samsaric existence.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
