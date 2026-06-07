@@ -3192,7 +3192,11 @@ If you want to practice Dharma authentically, therefore, you should give it prio
 
 His disciples said to him one day: "Jetsun, all the deeds that we see you doing are beyond the understanding of ordinary beings. Precious Jetsun, were you not an incarnation of Vajradhara, or of a Buddha or Bodhisattva right from the start?"
 
-"If you take me for an incarnation of Vajradhara, or of a Buddha or Bodhisattva," the Jetsun replied,
+"If you take me for an incarnation of [Vajradhara](#vajradhara), or of a [Buddha](#buddha) or [Bodhisattva](#bodhisattva)," the Jetsun replied, "it shows you have faith in me&mdash;but you could hardly have a more mistaken [view](#view) of the [Dharma](#dharma)! I started out by heaping up extremely negative acts, using spells and making hail. I soon realized that there was no way that I would not be reborn in [hell](#hell). So I practiced [Dharma](#dharma) with relentless zeal. Thanks to the profound methods of the [Secret Mantrayāna](#secret-mantrayāna), I have developed exceptional qualities in myself. Now, if you cannot develop any real determination to practice the [Dharma](#dharma), it is because you do not really believe in the [principle of cause and effect](#principle-of-cause-and-effect). Anyone with a bit of determination could develop courage like mine if they had that true and hearfelt confidence in the effects of their actions. Then they would develop the same [accomplishment](#accomplishment)s&mdash;and people will think that they too are manifestations of [Vajradhara](#vajradhara), or of a [Buddha](#buddha) or [Bodhisattva](#bodhisattva)"
+
+His belief in cause and effect utterly convinced [Jetsun Mila](#jetsun-mila) that having committed the harmful acts of his youth he would be reborn in the [hell](#hell)s. Because of that conviction, he practiced with such determination that it is difficult to find any story either in India or Tibet to equal the tale of his trials and efforts. 
+
+So, arouse confidence from the depths of your heart in this crucial point, the [principle of cause and effect](#principle-of-cause-and-effect). Always do as many good actions as possible, no matter how small, applying the [three supreme methods](#three-supreme-methods). Promise yourself never to do the smallest negative act again, even if your life is at stake.
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
