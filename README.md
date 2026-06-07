@@ -3046,7 +3046,9 @@ The king went to release the monk, and when he saw Ravati's debilitated conditio
 
 "During a past life I was a thief, and once I stole a calf. When the owner came after me, I ran off, leaving the animal next to a [pratyekabuddha](#pratyekabuddha) who happened to be meditating in a thicket. The owner took the [pratyekabuddha](#pratyekabuddha) and threw him into a pit for six days. As the fully matured effect of my action, I have already been through numerous lives of suffering in the [lower realms](#lower-realms). The sufferings I have now just experienced in this life were the last of them."
 
-Another example is the story of the son of Surabhibhadra,[^122]
+Another example is the story of the son of Surabhibhadra,[^122] an Indian king. One day, the prince's mother gave him a seamless silken robe. He did not want to wear it immediately, saying, "I shall put it on the day I inherit the kingdom."
+
+"You never will inherit the kingdom," said his mother. "That could only happen if your father, the king, died. But your father and the teacher [Nāgārjuna](#nāgārjuna) have the same life force,[^123]
 
 <a id="black-spearman"></a>Black Spearman
 
@@ -5621,6 +5623,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^121]: See <a href="#black-spearman">Black Spearman</a>
 
 [^122]: We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom <a href="#nāgārjuna">Nāgārjuna</a> wrote this text. In fact, although most accounts agree that he was a close friend and patron of <a href="#nāgārjuna">Nāgārjuna</a>, the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Gautamiputra Satakarni, who reigned at the <a href="#beginning">beginning</a> of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
+
+[^123]: We have not been able to clarify this phrase. *srog* [means](#means) the life force which supports heat and consciousness, or the breath. It seems that Surabhibhadra was the patron of [Nāgārjuna](#nāgārjuna), who provided him with an elixir of life. If that was the case, perhaps the son, to kill his father, decided to kill [Nāgārjuna](#nāgārjuna) to prevent him from giving him the elixir.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
