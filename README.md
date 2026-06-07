@@ -2965,8 +2965,8 @@ In all their inconceivable variety, the pleasures and miseries that each individ
 
 Whatever strength, power, wealth or property we may now enjoy, none of it follows us when we die. We take with us only the positive and [negative action](#negative-action)s we have gathered during our lifetime, which then propel us onward to higher or lower samsaric [realm](#realm)s. In the *Sutra of Instructions to the King* we read:
 
-> When the moment comes to leave, O King, 
-> Neither possessions, friends nor family can follow. 
+> When the moment comes to leave, O King,  
+> Neither possessions, friends nor family can follow.  
 > But wherever beings come from, wherever they go,  
 > Their actions follow them like their own shadow. 
 
@@ -3060,6 +3060,48 @@ The boy went to see [Nāgārjuna](#nāgārjuna) and asked him for his head. "Cut
 
 > Now I am leaving for the Blissful Land;  
 > Later I shall return to this very body.[^124]
+
+If even exceptional individuals like these have to experience the effects of their own past actions, how can we&mdash;whose [negative action](#negative-action)s amassed throughout beginningless time in our wanderings through the [realm](#realm)s of [saṃsāra](#saṃsāra) are already innumerable&mdash;ever hope to get free from [saṃsāra](#saṃsāra) while we still go on accumulating them? Even to escape from the [lower realms](#lower-realms) would be difficult. So let us at all costs avoid the slightest misdeed, however minute, and apply ourselves to doing whatever good we can, no matter how insignificant it may seem. As long as we are not making that effort, each instant of [negative action](#negative-action) is leading us into many [kalpa](#kalpa)s of life in the lower worlds. Never underestimate the minutest wrong deed, thinking that it cannot do that much harm. As [Bodhisattva](#bodhisattva) [Śāntideva](#śāntideva) says:
+
+> If evil acts of but a single instant  
+> Lead to a [kalpa](#kalpa) in the deepest [hell](#hell),  
+> The evils I have done from time without [beginning](#beginning)&mdash;  
+> No need to say that they will keep me from the higher [realm](#realm)s!
+
+And in the *Sutra of the Wise and the Foolish* we find:
+
+> Do not take lightly small misdeeds,  
+> Believing they can do no harm:  
+> Even a tiny spark of fire  
+> Can set alight a mountain of hay.
+
+In the same way, even the smallest positive acts bring great benefit. Do not disparage them, either, with the idea that there is not much point in doing them.
+
+King [Māndhātṛ](#māndhātṛ) in a past life was a poor man. One day, as he was on his way to a wedding with a fistful of beans in his hand, he met the [Buddha](#buddha) Ksantisarana, who was travelling to the village. Moved by intense devotion, he threw him his beans. Four beans fell into the [Buddha](#buddha)'s begging bowl and two others touched his heart. The maturation of this act was that he was reborn as the universal emperor over the continent of Jambu. Because of the four beans that fell into the bowl, he reigned over the four continents for eighty thousand years. Because of one of the two that touched his heart, he became sovereign over the [realm](#realm)s of the [Four Great Kings](#four-great-kings) for another eighty thousand years; and because of the second, he shared equally with thirty-seven successive [Indra](#indra)s their sovereignty over the Heaven of the [Thirty-three](#thirty-three).
+
+It is also said that even to visualize the [Buddha](#buddha) and throw a flower into the sky will result in your sharing [Indra](#indra)'s reign for a length of time difficult to imagine. This is why the *Sutra of the Wise and the Foolish* says:
+
+> Do not take lightly small good deeds,  
+> Believing they can hardly help:  
+> For drops of water one by one  
+> In time can fill a giant pot.
+
+And *The Treasury of Precious Qualities* says:
+
+> From seeds no bigger than a mustard grain  
+> Grow vast ashota trees, which in a single year  
+> Can put out branches each a league in length.  
+> But even greater is the growth of good and evil
+
+The seed of the *ashota* tree is no bigger than a mustard seed, but the tree develops so quickly that its branches grow as much as a league in one year. Yet even this image is not adequate to describe the profuse growth of the fruit of positive and [negative action](#negative-action)s.
+
+The tiniest transgression of the precepts, too, gives rise to great evils. One day Elapatra, king of the [nāga](#nāga)s, came to see the [Buddha](#buddha) in the guise of a Universal Emperor.
+
+The [Buddha](#buddha) scolded him: "Isn't the harm that you did to the teachings of the [Buddha](#buddha) [Kāśyapa](#kāśyapa) enough for you? Now do you want to harm mine too? Listen to the [Dharma](#dharma) in your own real form!"
+
+"Too many beings will hurt me if I do so," replied the [nāga](#nāga); so the [Buddha](#buddha) placed him under the protection of Varapani, and he changed into a huge serpent, several leagues in length. On his head there grew a great *elapatra* tree, crushing him with its weight, its roots crawling with insects which caused him terrible suffering.
+
+The [Buddha](#buddha) was asked why he was like this, and replied, "Long ago, during the era of the [Buddha](#buddha) [Kāśyapa](#kāśyapa)'s teachings, he was a monk. One day his robe got caught on a big *elapatra* tree growing beside the path and was pulled off. He became extremely angry and, violating his precepts,[^125]
 
 <a id="black-spearman"></a>Black Spearman
 
@@ -5638,6 +5680,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^123]: We have not been able to clarify this phrase. *srog* [means](#means) the life force which supports heat and consciousness, or the breath. It seems that Surabhibhadra was the patron of [Nāgārjuna](#nāgārjuna), who provided him with an elixir of life. If that was the case, perhaps the son, to kill his father, decided to kill [Nāgārjuna](#nāgārjuna) to prevent him from giving him the elixir.
 
 [^124]: According to legend, [Nāgārjuna](#nāgārjuna)'s head and body took the form of two large stones some distance apart (at Nagarjunakonda in South India) which gradually draw closer over the centuries. When they reunite, [Nāgārjuna](#nāgārjuna) will come to life again.
+
+[^125]: In addition to actions which are generally negative, there are actions which the [Buddha](#buddha) proscribed for those who had taken particular vows. Here the monk is violating a precept forbidding fully ordained monks to cut vegetation.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
