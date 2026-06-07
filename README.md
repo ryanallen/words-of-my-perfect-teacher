@@ -3048,7 +3048,18 @@ The king went to release the monk, and when he saw Ravati's debilitated conditio
 
 Another example is the story of the son of Surabhibhadra,[^122] an Indian king. One day, the prince's mother gave him a seamless silken robe. He did not want to wear it immediately, saying, "I shall put it on the day I inherit the kingdom."
 
-"You never will inherit the kingdom," said his mother. "That could only happen if your father, the king, died. But your father and the teacher [Nāgārjuna](#nāgārjuna) have the same life force,[^123]
+"You never will inherit the kingdom," said his mother. "That could only happen if your father, the king, died. But your father and the teacher [Nāgārjuna](#nāgārjuna) have the same life force,[^123] so there is no chance that he will die as long as [Nāgārjuna](#nāgārjuna) is still alive. And since [Nāgārjuna](#nāgārjuna) has power over his own lifespan, your father will never die. That is why many of your elder brothers have already died without inheriting the kingdom."
+
+"So what can I do?" her son asked.
+
+"Go to see the teacher [Nāgārjuna](#nāgārjuna) and ask him to give you his head. He will agree, because he is a [Bodhisattva](#bodhisattva). I can see no other solution."
+
+The boy went to see [Nāgārjuna](#nāgārjuna) and asked him for his head. "Cut it off and take it," the Master said. The boy took a sword and struck at [Nāgārjuna](#nāgārjuna)'s neck. But nothing happened. It was as if the blade had cut through thin air.
+
+"Weapons cannot harm me," the Master explained, "because five hundred lifetimes ago I entirely purified myself of all the fully maturing effects of having used weapons. However, I did kill an insect one day while cutting *kusa* grass. The [full effect](#full-effect) of that act has not yet played itself out, so if you use a blade of *kusa* grass you will be able to cut off my head." Accordingly, the boy plucked a blade of *kusa* grass and severed [Nāgārjuna](#nāgārjuna)'s head, which fell to the ground. [Nāgārjuna](#nāgārjuna) entered [nirvāṇa](#nirvāṇa) saying,
+
+> Now I am leaving for the Blissful Land;  
+> Later I shall return to this very body.[^124]
 
 <a id="black-spearman"></a>Black Spearman
 
@@ -5625,6 +5636,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^122]: We have chosen 'Surabhibhadra' as one possible Sanskrit reconstruction of the Tibetan *bde spyod bzang po*, the name of the king for whom <a href="#nāgārjuna">Nāgārjuna</a> wrote this text. In fact, although most accounts agree that he was a close friend and patron of <a href="#nāgārjuna">Nāgārjuna</a>, the king's identity in historical terms remains uncertain. He was probably of the Satavahana line of kings in Andhra, and while some scholars identify him with Gautamiputra Satakarni, who reigned at the <a href="#beginning">beginning</a> of the 2nd century A.D., others have called him Udayana or Udayi, or identified him with the kings Yajnasri or Vikramaditya.
 
 [^123]: We have not been able to clarify this phrase. *srog* [means](#means) the life force which supports heat and consciousness, or the breath. It seems that Surabhibhadra was the patron of [Nāgārjuna](#nāgārjuna), who provided him with an elixir of life. If that was the case, perhaps the son, to kill his father, decided to kill [Nāgārjuna](#nāgārjuna) to prevent him from giving him the elixir.
+
+[^124]: According to legend, [Nāgārjuna](#nāgārjuna)'s head and body took the form of two large stones some distance apart (at Nagarjunakonda in South India) which gradually draw closer over the centuries. When they reunite, [Nāgārjuna](#nāgārjuna) will come to life again.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
