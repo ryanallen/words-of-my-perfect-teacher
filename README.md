@@ -412,10 +412,10 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 [Postface by Jamgön Kongtrul Lodrö Thayé](#postface)
 
-Notes *— now GitHub Markdown footnotes, collected at the end; see [Preface to the Hand-copied Digital Edition](#digital-preface)*
 [Glossary](#glossary)  
 [Bibliography](#bibliography)  
-[Index](#index)    
+[Index](#index)  
+[Notes](#notes) 
 
 ---
 
@@ -5376,6 +5376,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 
 *<h1 id="bibliography" align="center">Bibliography</h1>*
 *<h1 id="index" align="center">Index</h1>*
+*<h1 id="notes" align="center">Notes</h1>*
 
 [^1]: The 'community of red-robed celibates' (*rab byung ngur smrigs sde*) and 'community of white-clad with long plaited hair' (*gos dkar lcang lo can kyi sde*).
 
