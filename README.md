@@ -3138,7 +3138,21 @@ As for the three negative mental actions, they are never permitted for anyone be
 
 ---
 
-The mind is the sole generator of good and bad.
+The mind is the sole generator of good and bad. There are many occasions when the [thought](#thought)s which arise in the mind, even if they are not translated into speech or action, have a very strong positive or negative effect. So always examine your mind. If your [thought](#thought)s are positive, be glad and do more and more good. If they are negative, confess them immediately, feeling bad and ashamed that you still entertain such [thought](#thought)s in spite of all the teaching you have received, and telling yourself that from now on you must do your utmost not to let such [thought](#thought)s occur in your mind. Even when you do something positive, check your motivation carefully. If your intention is good, act. If your motivation is to impress people, or is based on rivalry or a thirst for fame, make sure you change it and infuse it with bodhicitta. If you are quite unable to transform your motivation, it would be better to postpone the meritorious acts until later.
+
+One day [Geshe](#geshe) Ben was expecting a visit from a large number of his benefactors. That morning he arranged the offerings on his shrine in front of the images of the [Three Jewels](#three-jewels) particulary neatly. Examining his intentions, he realized that they were not pure and that he was only trying to impress his patrons; so he picked up a handful of dust and threw it all over the offerings, saying, "Monk, just stay where you are and don't put on airs!"
+
+When Padampa Sangy heard this story, he said, "That handful of dust that Ben Kungyal threw was the best offering in all Tibet!"
+
+So always watch your mind carefully. On our level, as ordinary beings, it is impossible not to have [thought](#thought)s and actions which are inspired by evil intentions. But if we can recognize the wrong immediately, confess it and vow not to do it again, we will part company with it.
+
+Another day, [Geshe](#geshe) Ben was at the home of some patrons. At one moment his hosts left the room and the [Geshe](#geshe) [thought](#thought): "I have no tea. I'll steal a bit to brew up when I get back to my hermitage."
+
+But the moment he put his hand in their bag of tea, he suddenly realized what he was doing and called to his patrons: "Come and look what I'm doing! Cut my hand off!"
+
+[Atīśa](#atīśa) said: "Since taking the *prātimokṣa* vows, I have not been stained by the smallest fault. In practicing the precepts of bodhicitta, I have committed one or two errors. And since taking up the Secret [Mantra](#mantra) [Vajrayāna](#vajrayāna), even though I have sometimes stumbled, still, I have let neither faults nor [downfall](#downfall)s remain with me for as much as a whole day."
+
+When he was travelling, as soon as any bad [thought](#thought) occurred to him he would take up the wooden [maṇḍala](#maṇḍala) base[^127]
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
@@ -5719,6 +5733,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^125]: In addition to actions which are generally negative, there are actions which the [Buddha](#buddha) proscribed for those who had taken particular vows. Here the monk is violating a precept forbidding fully ordained monks to cut vegetation.
 
 [^126]: Bodhisattvas who had reached a level where they were no longer obliged to return to samsaric existence.
+
+[^127]: The circular base upon which piles of rice etc. are placed in the offering of the [maṇḍala](#maṇḍala). To make offerings is part of the process of purification. The [maṇḍala](#maṇḍala) offering is explained in detail in Part Two, [Chapter Four](#chapter-fouroffering-the-maṇḍala-to-accumulate-merit-and-wisdom).
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
