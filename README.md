@@ -2,15 +2,15 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub><a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">HAND-COPIED</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">DIGITAL</a> REVISED EDITION</sub></div>
 
-![Wheel illustration similar to book cover; hand-copied by Ryan Allen](imgs/wheel.svg)
+![Wheel illustration similar to book cover; hand-copied by Könchok Gyurmé Tenzin](imgs/wheel.svg)
 
 <div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-<a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">digital edition</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
+<a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">digital edition</a> by <a href="https://github.com/ryanallen">Könchok Gyurmé Tenzin</a>.</div>  
 
 ---
 
-![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-copied work-in-progress by Ryan Allen](imgs/buddha_sakyamuni.svg)
+![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-copied work-in-progress by Könchok Gyurmé Tenzin](imgs/buddha_sakyamuni.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
@@ -476,7 +476,7 @@ Finally, our warmest thanks to Kerry Brown of the [International Sacred Literatu
 
 *<h1 id="digital-preface" align="center">Preface to the Hand-copied Digital Edition from the Second Edition</h1>*
 
-Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>&mdash;to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
+Thank you, great teachers. This digital edition from the printed second edition for personal **study, research, and scholarship** was <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> by <a href="https://github.com/ryanallen">Könchok Gyurmé Tenzin</a> (དཀོན་མཆོག་འགྱུར་མེད་བསྟན་འཛིན།, Unchanging Teaching Holder of the Triple Gem; born Ryan Allen)&mdash;to make it easier to read and [study](#study), and as a <a href="https://en.wikipedia.org/wiki/Sutra_copying">sūtra-copying</a> practice to accumulate [merit](#merit) dedicated to every sentient being, that they may find love, the cause of happiness, and be free from self-grasping, the cause of suffering.
 
 *The Words of My Perfect Teacher* is by [Patrul Rinpoche](#patrul-rinpoche), translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a> (Yale University Press, 2011; © 1994, 1998). Non-commercial fair use (17 U.S.C. § 107); not sold; all rights remain with the copyright holders. Please <a href="https://yalebooks.yale.edu/">purchase the print edition</a>. Copyright concerns: [dharma@ryanallen.com](mailto:dharma@ryanallen.com).
 
@@ -492,7 +492,7 @@ Changes in this edition:
 - Em- and en-dashes use closed style (no spaces).
 - Missing chapters added to the Part Three intro.
 - Run-in labels and inline lists are all made headings, so every section appears in the contents.
-- Illustrations are hand-copied from the original woodblock prints by [Ryan Allen](https://github.com/ryanallen).
+- Illustrations are hand-copied from the original woodblock prints by [Könchok Gyurmé Tenzin](https://github.com/ryanallen).
 - Paragraphs use a blank line between them rather than a first-line indent, as is standard for screen reading.
 - Horizontal rules mark soft section breaks&mdash;transitions more significant than a paragraph but without a heading.
 
@@ -2611,7 +2611,7 @@ It is all our ordinary activities and commitments limited to this life's concern
 > This human form is like a precious wish-granting gem; do not hand it to your enemy, hatred.  
 > [Samaya](#samaya) is like a watch-tower[^101]
 
-![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-copied work-in-progress by Ryan Allen](src)
+![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-copied work-in-progress by Könchok Gyurmé Tenzin](src)
 
 # <div align="center">CHAPTER FOUR<br><i>Actions: the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
 
@@ -3181,6 +3181,18 @@ Do not use the [Dharma](#dharma) language of the highest [view](#view)s[^128] to
 > Great King, in this [Secret Mantrayāna](#secret-mantrayāna) of mine, the [view](#view) is the most important thing. However, do not let your action slip in the direction of the [view](#view). If it does, you will fall into the evil [view](#view)s of [demon](#demon)s, prattling on about how goodness is empty, evil is empty. But do not let your [view](#view) slip in the direction of action, either, or you will be caught in materialism and ideology,[^129] and [liberation](#liberation) will never come...  
 >  
 > That is why my [view](#view) is higher than the sky, but my attention to my actions and their effects is finer than flour.[^130]
+
+So however fully you have realized in your view the nature of reality, you must pay minute attention to your actions and their effects.
+
+Somone once asked Padampa Sangye, "Once we ahve ralized emptiness, does it still harm us to commit negative acts?"
+
+"Once you realize emptiness," Padampa Sangye replied, "it would be absurd to do anything negative. When you realize emptiness, compassion arises with it simultaneously."
+
+If you want to practice Dharma authentically, therefore, you should give it priority to choosing what you do in accordance with the principle of cause and effect. View and action should be cultivated side by side. The sign that you ahve understood this teaching on the effects of actions is to be like Jetsun Milarepa.
+
+His disciples said to him one day: "Jetsun, all the deeds that we see you doing are beyond the understanding of ordinary beings. Precious Jetsun, were you not an incarnation of Vajradhara, or of a Buddha or Bodhisattva right from the start?"
+
+"If you take me for an incarnation of Vajradhara, or of a Buddha or Bodhisattva," the Jetsun replied,
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
@@ -5776,7 +5788,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 
 [^temp-3]: Skt. <i>ālaya</i>. The underlying consciousness in which <a href="#karmic-obscurations-obscurations-of-past-actions">karmic impressions</a> are stored.
 
-[^temp-4]: Before embarking on this practice one should have received the <a href="#empowerment">empowerment</a> of <a href="#vajrasattva">Vajrasattva</a> from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (<a href="https://github.com/ryanallen">Ryan Allen</a>'s <a href="#empowerment">empowerment</a> through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma/blob/main/docs/v.md" target="_blank">this repo</a> for reference.)
+[^temp-4]: Before embarking on this practice one should have received the <a href="#empowerment">empowerment</a> of <a href="#vajrasattva">Vajrasattva</a> from a qualified holder of the lineage. In general, the practices which follow in the rest of the text from this point should only be undertaken under the guidance of a qualified teacher. (<a href="https://github.com/ryanallen">Könchok Gyurmé Tenzin</a>'s <a href="#empowerment">empowerment</a> through His Eminence Garchen Rinpoche at <a href="https://github.com/ryanallen/dharma/blob/main/docs/v.md" target="_blank">this repo</a> for reference.)
 
 [^temp-5]: In the practices of the <a href="#vajrayāna">Vajrayāna</a> one considers the visualized <a href="#deity">deity</a> as one's own <a href="#root-teacher">root teacher</a> who represents all the <a href="#buddha">Buddhas</a> of the past, present and future. <a href="#vajrasattva">Vajrasattva</a> (Tib. <i>rdo rje sems dpa'</i>) is the particular <a href="#buddha">Buddha</a> who, as a <a href="#bodhisattva">Bodhisattva</a>, pledged that whoever recited his <a href="#mantra">mantra</a> would be purified of all their <a href="#negative-action">negative action</a>s and <a href="#obscurations">obscurations</a>. His name refers to the indestructible purity of the nature of mind.
 
