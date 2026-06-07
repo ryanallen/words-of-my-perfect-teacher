@@ -3152,7 +3152,31 @@ But the moment he put his hand in their bag of tea, he suddenly realized what he
 
 [Atīśa](#atīśa) said: "Since taking the *prātimokṣa* vows, I have not been stained by the smallest fault. In practicing the precepts of bodhicitta, I have committed one or two errors. And since taking up the Secret [Mantra](#mantra) [Vajrayāna](#vajrayāna), even though I have sometimes stumbled, still, I have let neither faults nor [downfall](#downfall)s remain with me for as much as a whole day."
 
-When he was travelling, as soon as any bad [thought](#thought) occurred to him he would take up the wooden [maṇḍala](#maṇḍala) base[^127]
+When he was travelling, as soon as any bad [thought](#thought) occurred to him he would take up the wooden [maṇḍala](#maṇḍala) base[^127] he carried with him and confess his bad [thought](#thought), vowing never to let it happen again.
+
+One day [Geshe](#geshe) Ben was at a large gathering of [geshe](#geshe)s at Penyulgyal. After a while some curd was offered to the guests. [Geshe](#geshe) Ben was seated in one of the middle rows, and noticed that the monks in the first row were receiving large portions.
+
+"That curd looks delicious..." he [thought](#thought) to himself, "but I don't think I'll get my fair share."
+
+Immediately he caught hold of himself: "You yoghurt-addict!" he [thought](#thought), and turned his bowl upside down. When the man who was serving the curd came and asked him if he would like some, he refused.
+
+"This evil mind has already taken its share," he said.
+
+Although there was no wrong at all in wanting to share the feast equally with the other pure monks, it was the self-centeredness of his expectant [thought](#thought)s about getting that delicious curd that made him refuse it.
+
+If you always examine your mind like this, adopting what is wholesome and rejecting what is harmful, your mind will become workable and all your [thought](#thought)s will become positive.
+
+Long ago, there was a [brahmin](#brahmin) called Ravi who examined his mind at all times. Whenever a bad [thought](#thought) arose, he would put aside a black pebble, and whenever a good [thought](#thought) arose he would put aside a white pebble. At first, all the pebbles he put aside were black. Then, as he persevered in developing antidotes and in adopting [positive action](#positive-action)s and rejecting negative ones, a time came when his piles of black and white pebbles were equal. In the end he had only white ones. This is how you should develop [positive action](#positive-action)s as an antidote with mindfulness and vigilance, and not contaminate yourself with even the smallest harmful actions.
+
+Even if you have not accumulated [negative action](#negative-action)s during this present life, you cannot know the extent of all the actions you have accumulated in [saṃsāra](#saṃsāra) which has no [beginning](#beginning), or imagine their effects which you have still to experience. There are therefore people who, although they now devote themselves entirely to virtue and the practice of [emptiness](#emptiness), are nevertheless beset by sufferings. The effect of their actions that would otherwise have remained dormant but later would have resulted in their rebirth in the [lower realms](#lower-realms), surfaces because of the antidote that they are applying and ripens in this life. The *Diamond Cutter Sutra* says:
+
+> [Bodhisattva](#bodhisattva)s practicing [transcendent wisdom](#26-transcendent-wisdom) will be tormented&mdash;indeed, they will be greatly tormented&mdash;by past actions that would have brought suffering in future lives, but have ripened in this life instead.
+
+Conversely, there are some people who only do harm, but who experience the fruit of some [positive action](#positive-action) right away, an action that would otherwise have ripened later on. This occurred in the land of Aparantaka. For seven days there was a rain of precious stones, then for seven days a rain of clothes, and for seven more days a rain of grain. In the end there was a rain of earth. Everyone was crushed to death and took rebirth in [hell](#hell).
+
+Such situations, in which those who do good suffer and those who do harm prosper, always occur as the result of actions done in the past. Your present actions, good or bad, will have their effects in your next life or in those to follow. For this reason it is vital to develop a firm conviction about the inevitable effect of your actions and always to behave accordingly.
+
+Do not use the [Dharma](#dharma) language of the highest [view](#view)s[^128] to scorn the [principle of cause and effect](#principle-of-cause-and-effect). The Great Master of [Oḍḍiyāna](#oḍḍiyāna) said:
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
@@ -5735,6 +5759,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^126]: Bodhisattvas who had reached a level where they were no longer obliged to return to samsaric existence.
 
 [^127]: The circular base upon which piles of rice etc. are placed in the offering of the [maṇḍala](#maṇḍala). To make offerings is part of the process of purification. The [maṇḍala](#maṇḍala) offering is explained in detail in Part Two, [Chapter Four](#chapter-fouroffering-the-maṇḍala-to-accumulate-merit-and-wisdom).
+
+[^128]: Using the [Dharma](#dharma) language of the highest [view](#view)s to scorn the [principle of cause and effect](#principle-of-cause-and-effect) [means](#means) to use the teaching of [absolute truth](#absolute-truth) as a pretext for doing whatever one wishes, saying there is no difference between good and bad, [saṃsāra](#saṃsāra) and [nirvāṇa](#nirvāṇa), [Buddha](#buddha)s and ordinary beings, and so on.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
