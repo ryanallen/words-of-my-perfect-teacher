@@ -494,6 +494,7 @@ Changes in this edition:
 - Run-in labels and inline lists are all made headings, so every section appears in the contents.
 - Illustrations are hand-copied from the original woodblock prints by [Ryan Allen](https://github.com/ryanallen).
 - Paragraphs use a blank line between them rather than a first-line indent, as is standard for screen reading.
+- Horizontal rules mark soft section breaks&mdash;transitions more significant than a paragraph but without a heading.
 
 Found an error? [Open an issue](https://github.com/ryanallen/words-of-my-perfect-teacher/issues) or [submit a pull request](https://github.com/ryanallen/words-of-my-perfect-teacher/pulls).
 
@@ -3112,7 +3113,32 @@ For all good or bad actions, the intention is by far the most important factor t
 
 For this reason there are times when [Bodhisattva](#bodhisattva)s, the Heirs of the [Conqueror](#conqueror)s, are permitted to actually commit the seven harmful acts of the body and speech, as long as their minds are pure, free from all selfish desire. This is illustrated by the examples of Captain Compassionate Heart who killed <a id="black-spearman"></a>Black Spearman, or of the young [brahmin](#brahmin) [Lover of the Stars](#lover-of-the-stars) who broke his vows of chastity with a young [brahmin](#brahmin) girl.
 
-Once in a previous life, the [Buddha](#buddha) was a captain called Compassionate Heart. He was sailing upon the ocean with five hundred merchants when the evil pirate called Black Spearman appeared, threatening to kill them all. The captain realized that these merchants were all non-returning [Bodhisattva](#bodhisattva)s,[^126]
+Once in a previous life, the [Buddha](#buddha) was a captain called Compassionate Heart. He was sailing upon the ocean with five hundred merchants when the evil pirate called Black Spearman appeared, threatening to kill them all. The captain realized that these merchants were all non-returning [Bodhisattva](#bodhisattva)s,[^126] and that if one man killed them all he would have to suffer in the [hell](#hell)s for an incalculable number of [kalpa](#kalpa)s. Moved by an intense feeling of compassion, he [thought](#thought): "If I kill him, he will not have to go to [hell](#hell). So I have no choice, even if it [means](#means) that I have to go to [hell](#hell) myself." With this great courage he killed the pirate, and in so doing gained as much [merit](#merit) as would normally take seventy thousand [kalpa](#kalpa)s to achieve. On the face of it, the act was a harmful one, since the [Bodhisattva](#bodhisattva) was committing the physical act of murder. But it was done without the least selfish motivation. In the short term, it saved the lives of the five hundred merchants. And in the long term it saved Black Spearman from the sufferings of [hell](#hell). In reality, therefore, it was a very powerful positive act.
+
+Again, there was a [brahmin](#brahmin) named [Lover of the Stars](#lover-of-the-stars) who lived in the forest for many years, keeping the vow of chastity. One day he went begging in a village. A [brahmin](#brahmin) girl fell so hopelessly in love with him that she was about to kill herself. Moved by compassion towards her, he married her, which brought him forty thousand [kalpa](#kalpa)s of [merit](#merit).
+
+[Taking life](#11-taking-life) or breaking one's vow of chastity are permitted for such beings. On the other hand, the same acts done with selfish motivation, out of desire, hatred or ignorance, are not permitted for anyone.
+
+A [Bodhisattva](#bodhisattva) with a vast mind and no trace of personal desire may also steal from the rich and miserly and, on their behalf, offer the goods to the [Three Jewels](#three-jewels) or give them to the needy.
+
+Lying in order to protect someone on the point of being killed, or to protect goods belonging to the [Three Jewels](#three-jewels), would also be permitted. But it is never right to deceive others in one's own interest.
+
+[Sowing discord](#15-sowing-discord), for instance between two close friends, one of whom was a wrong-doer while the other loved to do good, would be permitted if there were a danger that the bad one's stronger character would have corrupted the good one. However, it is not permissible simply to separate two people who get along well.
+
+Harsh words could be used, for example, as a more forceful [means](#means) to bring to the [Dharma](#dharma) those on whom a softer approach makes no impression&mdash;or in advice given to a disciple in order to get at their hidden faults. As [Atīśa](#atīśa) says:
+
+> The best teacher is one who attacks your hidden faults;  
+> The best instruction is one aimed squarely at those hidden faults.
+
+However, harsh words spoken just to insult others are not justified.
+
+[Worthless chatter](#17-worthless-chatter) might be used as a [skilful means](#skilful-means) of introducing the [Dharma](#dharma) to people who love talking and who cannot be brought to the [Dharma](#dharma) otherwise. But it is never warranted simply to create distraction for oneself and others.
+
+As for the three negative mental actions, they are never permitted for anyone because there is no way for intention to turn them into something positive. Once a negative [thought](#thought) has arisen it always develops into something negative.
+
+---
+
+The mind is the sole generator of good and bad.
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
