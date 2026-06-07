@@ -1,12 +1,12 @@
 # <div align="center">Words of My Perfect Teacher</div>
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
-<div align="center"><sub>HAND-COPIED DIGITAL REVISED EDITION</sub></div>
+<div align="center"><sub><a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">HAND-COPIED</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">DIGITAL</a> REVISED EDITION</sub></div>
 
 ![Wheel illustration similar to book cover; hand-copied by Ryan Allen](imgs/wheel.svg)
 
 <div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
-<a href="#digital-preface">hand-copied</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">digital edition</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
+<a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">hand-copied</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">digital edition</a> by <a href="https://github.com/ryanallen">Ryan Allen</a>.</div>  
 
 ---
 
@@ -3101,7 +3101,11 @@ The [Buddha](#buddha) scolded him: "Isn't the harm that you did to the teachings
 
 "Too many beings will hurt me if I do so," replied the [nāga](#nāga); so the [Buddha](#buddha) placed him under the protection of Varapani, and he changed into a huge serpent, several leagues in length. On his head there grew a great *elapatra* tree, crushing him with its weight, its roots crawling with insects which caused him terrible suffering.
 
-The [Buddha](#buddha) was asked why he was like this, and replied, "Long ago, during the era of the [Buddha](#buddha) [Kāśyapa](#kāśyapa)'s teachings, he was a monk. One day his robe got caught on a big *elapatra* tree growing beside the path and was pulled off. He became extremely angry and, violating his precepts,[^125]
+The [Buddha](#buddha) was asked why he was like this, and replied, "Long ago, during the era of the [Buddha](#buddha) [Kāśyapa](#kāśyapa)'s teachings, he was a monk. One day his robe got caught on a big *elapatra* tree growing beside the path and was pulled off. He became extremely angry and, violating his precepts,[^125] he cut the tree down. What you see today is the effect of that act."
+
+For all good or bad actions, the intention is by far the most important factor that determines whether they are positive or negative, heavy or light. It is like a tree: if the root is medicinal, the trunk and leaves will also be medicinal. If the root is poisonous, the trunk and leaves will be poisonous too. Medicinal leaves cannot grow from a poisonous root. In the same way, if an intention develops from aggression or attachment and is thus not entirely pure, the action that follows is bound to be negative, however positive it might seem. On the other hand, if the intention is pure, even acts that appear negative will in fact be positive. In the *Treasury of Precious Qualities* it says:
+
+> If a root is medicinal, so are its shoots.  
 
 <a id="black-spearman"></a>Black Spearman
 
