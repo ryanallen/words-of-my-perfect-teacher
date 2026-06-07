@@ -3202,21 +3202,21 @@ When you wake up in the morning, do not suddenly jump out of bed like a cow or a
 
 At night, when you go to sleep, do not just drop off into unconsciousness. Take the time to relax in bed and examine yourself in the same way: "So, what use have I made of this day? What have I done that is positive?" If you have done some good, be glad and dedicate the merit so that all may attain Buddhahood. If you have done something wrong you should think, "How terrible I have been! I have just been destroying myself!" Confess it and vow never to act that way again.
 
-At all times, be mindful and vigilant that you do not cling to your perceptions of the universe, and the beings within it, as real and solid. Train yourself to see everything as the play of unreal apparitions. To make your mind workable by always keeping it on a good and honest course is essentially the aim as well as the outcome of what we have been explaining, namely the practice of the four thoughts that turn the mind from samsara. In this wway, all the good actions you do will automatically be linked to the three supreme mehods. As it is said:
+At all times, be mindful and vigilant that you do not cling to your [perceptions](#perceptions) of the universe, and the beings within it, as real and solid. Train yourself to see everything as the play of unreal apparitions. To make your mind workable by always keeping it on a good and honest course is essentially the aim as well as the outcome of what we have been explaining, namely the practice of the four [thought](#thought)s that turn the mind from [saṃsāra](#saṃsāra). In this way, all the good actions you do will automatically be linked to the three supreme methods. As it is said:
 
 > A person who does good is like a medicinal plant;  
 > All who rely on him benefit.  
 > A person who does harm is like a poisonous plant;  
 > Those who rely on him are destroyed.
 
-If you have the right state of mind yourself, you will be able to turn the minds of all those connected with you[^new]--This means whoever is connected with one in any way, positive, negative, or purely incidental. Even a minimal connection with a Bodhisattva, through seeing, hearing, touching, and so on, can bring great benefit and lead to liberation.-- towards the true Dharma. Immense merit for yourself and others will icnrease without limit. You will never again take rebirth in the lower worlds in which your prospects get worse and worse, but will always have the unique conditions of a god's or human's life. Even the region in which the holder of such a teaching dwells will have merit and good fortune and will always be protected by the gods.
+If you have the right state of mind yourself, you will be able to turn the minds of all those connected with you[^131] towards the true Dharma. Immense merit for yourself and others will increase without limit. You will never again take rebirth in the lower worlds in which your prospects get worse and worse, but will always have the unique conditions of a god's or human's life. Even the region in which the holder of such a teaching dwells will have merit and good fortune and will always be protected by the gods.
 
 > I know all the details of karma, but I do not really believe in it.  
 > I have heard a lot of Dharma, but never put it into practice.  
 > Bless me and evil-doers like me  
 > That our minds may mingle with the Dharma.
 
-![Drom Tonpa (1005-1064)](img)
+![Drom Tönpa (1005-1064)](img)
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
@@ -5805,6 +5805,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^129]: *dngos po dang mtshan ma*, lit. matter and characteristics. This [means](#means) that one will never get beyond a conceptual approach.
 
 [^130]: *zhib* [means](#means) fine (like flour) and also meticulous, precise.
+
+[^131]: This means whoever is connected with one in any way, positive, negative, or purely incidental. Even a minimal connection with a Bodhisattva, through seeing, hearing, touching, and so on, can bring great benefit and lead to liberation.
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
