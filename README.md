@@ -2,7 +2,7 @@
 <div align="center">A Complete Translation of a Classic Introduction to Tibetan Buddhism</div>  
 <div align="center"><sub><a href="https://github.com/ryanallen/words-of-my-perfect-teacher/commits/main/README.md">HAND-COPIED</a> <a href="https://github.com/ryanallen/words-of-my-perfect-teacher/blob/main/README.md">DIGITAL</a> REVISED EDITION</sub></div>
 
-![Wheel illustration similar to book cover; hand-copied by Könchok Gyurmé Tenzin](imgs/wheel.svg)
+![Grayscale circular maṇḍala featuring a central petal design surrounded by intricately patterned concentric rings and ornate scrolling motifs in the corners with a mirror in the top left, a musical instrument in the top right, food in the bottom left, and scents in the bottom right. From the cover of the book; hand-copied by Könchok Gyurmé Tenzin](imgs/wheel.svg)
 
 <div align="center">by <a href="#patrul-rinpoche">Patrul Rinpoche</a></div>  
 <div align="center">translated by the <a href="https://www.shambhala.com/padmakara-translation-group-home/">Padmakara Translation Group</a>, with a <a href="#forewordhhdl">foreword by the Dalai Lama</a>;<br> 
@@ -10,21 +10,21 @@
 
 ---
 
-![BUDDHA ŚĀKYAMUNI (woodblock from Derge); hand-copied work-in-progress by Könchok Gyurmé Tenzin](imgs/buddha_sakyamuni.svg)
+![Buddha Śākyamuni (woodblock from Derge); hand-copied by Könchok Gyurmé Tenzin](imgs/buddha_sakyamuni.svg)
 
 *<p id="buddha-sakyamuni-il" align="center"><a href="#buddha">Buddha</a> <a href="#śākyamuni">Śākyamuni</a></p>*
 <p align="center">The <a href="#buddha">Buddha</a> of our time</p>
 
 ---
 
-![GURU RINPOCHE (paintings by Orgyen Lhundrup)](imgs/guru_rinpoche.svg)
+![GURU RINPOCHE (paintings by Orgyen Lhundrup); hand-copied by Könchok Gyurmé Tenzin](imgs/guru_rinpoche.svg)
 
 *<p id="guru-rinpoche-il" align="center"><a href="#guru-rinpoche">Guru Rinpoche</a></p>*
 <p align="center">Also known as <a href="#padmasambhava-of-oḍḍiyāna">Padmasambhava</a>, the Lotus-born, he is the "<a href="#second-buddha">Second Buddha</a>" who established Buddhism in Tibet. He is shown here in the form known as "Prevailing Over <a href="#appearances">Appearances</a> and Existence" (Nangsi Zilnon), the name meaning that, as he understands the nature of everything that appears, he is naturally the master of all situations.</p>
 
 ---
 
-![Uchen script](imgs/uchen-script.svg)
+![Uchen script; hand-copied by Könchok Gyurmé Tenzin](imgs/uchen-script.svg)
 
 ---
 
@@ -423,9 +423,9 @@ Our religious traditions are diverse but, as with the natural environment, we ar
 
 ---
 
-[alt text](image_url)
+![Padmasambhava (drawing by Lama Wangdu); hand-copied by Könchok Gyurmé Tenzin](src)
 
-*<p id="Padmasambhava-il" align="center">Padmasambhava</p>*
+<sub>Padmasambhava</sub>
 
 ---
 
@@ -441,10 +441,9 @@ November 23, 1990 The Dalai [Lama](#lama)
 
 ---
 
-[alt text](image_url)
+![Longchenpa (1308-1363) (drawing by Glen Eddy) The most brilliant teacher of the Nyingma lineage. Longchen Rabjampa gathered together the Heart-essence teachings of Padmasambhava, Vimalamitra and Yeshe Tsogyal. He transmitted all these teachings to Jigme Lingpa in a series of visions as the Heart-essence of the Vast Expanse; hand-copied by Könchok Gyurmé Tenzin](src)
 
-*<p id="longchenpa-il"><a href="#longchenpa">Longchenpa</a> (1308-1363)</p>*
-The most brilliant teacher of the [Nyingma](#nyingmapa) lineage. Longchen Rabjampa gathered together the Heart-essence teachings of [Padmasambhava](#padmasambhava-of-oḍḍiyāna), [Vimalamitra](#vimalamitra) and [Yeshe Tsogyal](#yeshe-tsogyal). He transmitted all these teachings to [Jigme Lingpa](#jigme-lingpa) in a series of visions as the Heart-essence of the Vast Expanse. 
+<sub><a href="#longchenpa">Longchenpa</a> (1308-1363) The most brilliant teacher of the <a href="#nyingmapa">Nyingma</a> lineage. Longchen Rabjampa gathered together the Heart-essence teachings of <a href="#padmasambhava-of-oḍḍiyāna">Padmasambhava</a>, <a href="#vimalamitra">Vimalamitra</a> and <a href="#yeshe-tsogyal">Yeshe Tsogyal</a>. He transmitted all these teachings to <a href="#jigme-lingpa">Jigme Lingpa</a> in a series of visions as the Heart-essence of the Vast Expanse.</sub>
 
 ---
 
@@ -3216,7 +3215,7 @@ If you have the right state of mind yourself, you will be able to turn the minds
 > Bless me and evil-doers like me  
 > That our minds may mingle with the Dharma.
 
-![Drom Tönpa (1005-1064)](img)
+![Drom Tönpa (1005-1064); hand-copied by Könchok Gyurmé Tenzin](img)
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
 
@@ -3233,9 +3232,26 @@ What is [liberation](#liberation)? It is to find freedom from this ocean of suff
 
 The causes of your attaining [liberation](#liberation) are, firstly, making your mind workable through the four reflections that turn the mind from [saṃsāra](#saṃsāra), [beginning](#beginning) with [the difficulty of finding the freedoms and advantages](#the-difficulty-of-finding-the-freedoms-and-advantages); and secondly undertaking all the practices starting from the taking of [refuge](#refuge), which is the foundation of all paths, right up until you perfectly complete the main practice.[^132]
 
+The benefits of each of these practices are explained in the relevant chapters.
+
 ## II. THE RESULT: THE THREE [LEVELS](#levels) OF [ENLIGHTENMENT](#enlightenment)
 
+Whether your attainment is that of a [śrāvaka](#śrāvaka), a [pratyekabuddha](#pratyekabuddha) or perfect Buddhahood, the result is peaceful and cooling, free from the dangerous pathways of samsaric suffering. What a joy that is!
+
+Since, out of all the various paths, it is the [Mahāyāna](#mahāyāna) that you have now taken up, all practices&mdash;[the ten positive actions](#1-the-ten-positive-actions), the [four boundless qualities](#four-boundless-qualities), [the six transcendent perfections](#222-the-six-transcendent-perfections), the [four concentrations](#four-concentrations), the [four formless states](#four-formless-states), [sustained calm](#sustained-calm) and [profound insight](#profound-insight)&mdash;should be done with perfect Buddhahood as your sole aim, and with the [three supreme methods](#three-supreme-methods): giving rise to bodhicitta as preparation, remaining free of conceptualization during the actual meditation and closing with prayers of dedication.
+
+![Illustration; hand-copied by Könchok Gyurmé Tenzin](src)
+</br>
+<sub>Google Gemini translation of bottom row of Tibetan text: Khyentse's rediscovered <a href="#treasure">treasure</a>: <a href="#liberation">Liberation</a> through wearing the <a href="#great-compassionate-one">Great Compassionate One</a>, Peaceful and Wrathful Lotus.</sub>
+
+![Milarepa (1040-1123) Tibet's most famous yogī, renowned for his ascetic lifestyle in the high mountains of Southern Tibet, his perseverance in meditation, and the spontaneous songs by which he taught hunters and villagers alike; hand-copied by Könchok Gyurmé Tenzin](src)
+
 # <div align="center">CHAPTER SIX<br><i>How to follow a <a href="#spiritual-friend">spiritual friend</a></i></div>
+
+No [sūtra](#sūtra), [tantra](#tantra) or [śāstra](#śāstra) speaks of any being ever attaining perfect Buddhahood without having followed a spiritual teacher. We can see for ourselves that nobody has ever developed the [accomplishment](#accomplishment)s belonging to the stages and paths by [means](#means) of their own ingenuity and prowess. Indeed, all beings, ourselves included, show particular talent in discovering wrong paths to take&mdash;while when it comes to following the path leading to [liberation](#liberation) and omniscience we are as confused as a blind person wandering alone in the middle of a deserted plain.
+
+No-one can bring back jewels from a [treasure](#treasure) island without relying on an experienced navigator.[^133]
+
 ## I. EXAMINING THE TEACHER
 ## II. FOLLOWING THE TEACHER
 ## III. EMULATING THE TEACHER'S REALIZATION AND ACTIONS
@@ -3447,7 +3463,7 @@ In an instant the *hum* is transformed into your glorious [root teacher](#root-t
 
 He has one face and two arms. With his right hand, between the palm and ring finger, he holds before his heart center the five-pronged [vajra](#vajra) of [awareness](#awareness) and [emptiness](#emptiness).[^temp-20]
 
-![alt text](imgs/hum-om-ah.svg)
+![Hum and Om and Ah syllables; hand-copied by Könchok Gyurmé Tenzin](imgs/hum-om-ah.svg)
 
 With his left, he rests the [bell](#bell) (representing supreme [wisdom](#wisdom)) of [awareness](#awareness) and [emptiness](#emptiness) at his left hip.[^temp-21] [^temp-22]
 
@@ -5823,6 +5839,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 
 [^132]: See Introduction for a brief description of the main practice. "Although all the practices of the main part of the path are not formally described in this book, they are there in [essence](#essence). The book is complete because it contains the entire meaning of the path." DKR
 
+[^133]: A reference to adventurers in ancient times who went to seek jewels in faraway islands.
+
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
 [^temp-2]: Habitual patterns created by past actions.
@@ -5853,7 +5871,7 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 
 [^temp-15]: Lotus represents <a href="#vajrasattva">Vajrasattva</a> remaining in <a href="#saṃsāra">saṃsāra</a> to benefit mother sentient beings, but he never engages in saṃsāric activities&mdash;like a lotus growing in the mud and not getting soiled by the mud, always remaining pure. ~<a href="https://www.drikungtucson.org/our-teachers/khenpo-tenzin/">Ven. Khenpo Tenzin</a>
 
-[^temp-16]: ![hum and its parts](imgs/hum-and-its-parts.svg)
+[^temp-16]: ![hum and its parts; hand-copied by Könchok Gyurmé Tenzin](imgs/hum-and-its-parts.svg)
 
 [^temp-17]: In other traditions the syllable emanates and reabsorbs rays of light that make offerings to the <a href="#buddha">buddha</a>s of the <a href="#ten-directions">ten <a href="#directions">directions</a></a>, and gathering all of their knowledge, love, and other qualities bringing them back to dissolve into the <i>hum</i> syllable. This repeats sending light to the beings of the 6 <a href="#directions">directions</a>, purifying their negative qualities which again dissolves into the hum syllable;
 
