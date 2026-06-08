@@ -3219,7 +3219,20 @@ If you have the right state of mind yourself, you will be able to turn the minds
 ![Drom Tönpa (1005-1064)](img)
 
 # <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
+
+> Guided by many learned and accomplished [sublime being](#sublime-being)s,  
+> You have practiced and experienced the instructions of your teachers.  
+> You point out the sublime path unerringly to others.  
+> Peerless Teacher, at your feet I bow.
+
+The way to listen to this teaching on [the benefits of liberation](#the-benefits-of-liberation), and to the following chapter on [how to follow a spiritual friend](#how-to-follow-a-spiritual-friend), is as explained before.
+
+What is [liberation](#liberation)? It is to find freedom from this ocean of suffering called [saṃsāra](#saṃsāra), and to attain the level of a [śrāvaka](#śrāvaka), a [pratyekabuddha](#pratyekabuddha) or perfect Buddhahood.
+
 ## I. CAUSES LEADING TO [LIBERATION](#liberation)
+
+The causes of your attaining [liberation](#liberation) are, firstly, making your mind workable through the four reflections that turn the mind from [saṃsāra](#saṃsāra), [beginning](#beginning) with [the difficulty of finding the freedoms and advantages](#the-difficulty-of-finding-the-freedoms-and-advantages); and secondly undertaking all the practices starting from the taking of [refuge](#refuge), which is the foundation of all paths, right up until you perfectly complete the main practice.[^132]
+
 ## II. THE RESULT: THE THREE [LEVELS](#levels) OF [ENLIGHTENMENT](#enlightenment)
 
 # <div align="center">CHAPTER SIX<br><i>How to follow a <a href="#spiritual-friend">spiritual friend</a></i></div>
@@ -5807,6 +5820,8 @@ in wrathful [saṃbhogakāya](#saṃbhogakāya) form, an aspect of Vajravārāh�
 [^130]: *zhib* [means](#means) fine (like flour) and also meticulous, precise.
 
 [^131]: This means whoever is connected with one in any way, positive, negative, or purely incidental. Even a minimal connection with a Bodhisattva, through seeing, hearing, touching, and so on, can bring great benefit and lead to liberation.
+
+[^132]: See Introduction for a brief description of the main practice. "Although all the practices of the main part of the path are not formally described in this book, they are there in [essence](#essence). The book is complete because it contains the entire meaning of the path." DKR
 
 [^temp-1]: The <a href="#obscurations">obscurations</a> of <a href="#negative-emotions">negative emotions</a> and <a href="#concept-obscurations">conceptual obscurations</a>. "<a href="#obscurations">Obscurations</a>" <a href="#means">means</a> factors that cover and obscure our <a href="#buddha-nature">Buddha nature</a>.
 
