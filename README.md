@@ -28,7 +28,7 @@
 
 ---
 
-# <div align="center">KUNZAN <a href="#lama">LAMA</a>'I SHELUNG</div>  
+# <div align="center">KUNZAN LAMA'I SHELUNG</div>  
 
 # *<div align="center">The Words of My Perfect Teacher</div>*
 
@@ -596,15 +596,15 @@ Next comes the practices of the generation and [perfection phase](#perfection-ph
 
 Sometimes there are additional elements, as in the *Heart-essence of the Vast Expanse*. The ritual text may be quite long or very short. This, however, is the general structure.
 
-### The [generation phase](#generation-phase)
+### The generation phase
 
 In the [generation phase](#generation-phase) one learns to develop an enlightened vision of the world by visualizing oneself as a [Buddha](#buddha), and one's surroundings as a pure [Buddhafield](#buddhafield), while reciting the appropriate [mantra](#mantra). This process is at first artificial, something which is developed or generated, but the visualizations correspond to the visionary experience of enlightened beings. By adopting these new habits of perception, one can weaken the ordinary habits of gross perception based on ignorance and emotional [tendencies](#tendencies), and put oneself in touch with a more subtle level of experience. These practices take the form of *sādhanas*, the ritual texts for which are sometimes extraordinarily poetic.
 
-### The [perfection phase](#perfection-phase)
+### The perfection phase
 
 Once the sacred vision has become a living experience, the [perfection phase](#perfection-phase) completes the process, taking it to a more interior level by working with the subtle energies of the body, through mastery of the breath, physical postures and other [yogas](#yoga).
 
-### The [Great Perfection](#great-perfection)
+### The Great Perfection
 
 In the generation and [perfection phase](#perfection-phase)s one acquires the [illustrative wisdom](#illustrative-wisdom) (*dpe'i ye shes*) through meditation experiences which serve as pointers to indicate the ultimate nature of the mind. In Dzogchen&mdash;the [Great Perfection](#great-perfection)&mdash;the nature of the mind is introduced directly and suddenly by the teacher. This is an immediate experiential recognition of the [Buddha-nature](#buddha-nature) itself. The subsequent practice consists essentially in getting used to that experience and developing it in an increasingly vast way. Here one acquires real or absolute [wisdom](#wisdom) (*don gyi ye shes*), the direct experience of ultimate truth.
 
@@ -668,9 +668,9 @@ When the continuity of the Buddhist lineages was threatened by the political cha
 
 *<p id="patrul-rinpoche-il" align="center"><a href="#patrul-rinpoche">Patrul Rinpoche</a> (1808-1887)</p>*
 
-<h1 align="center">[THE WORDS OF MY PERFECT TEACHER](#the-words-of-my-perfect-teacher)</h1>
+<h1 align="center">THE WORDS OF MY PERFECT TEACHER</h1>
 
-<h2 align="center">a guide to the [preliminaries](#preliminaries) for the <i>Heart-essence of the Vast Expanse</i> from the [Great Perfection](#great-perfection)</h2>
+<h2 align="center">a guide to the preliminaries for the <i>Heart-essence of the Vast Expanse</i> from the Great Perfection</h2>
 
 *<h1 id="prologue" align="center">Prologue</h1>*
 
@@ -714,13 +714,13 @@ This faithful record of my peerless teacher's instructions on the general outer 
 ---
 
 # <div align="center">Part One</div>
-## <div align="center">THE ORDINARY OR OUTER <a href="#preliminaries">PRELIMINARIES</a></div>
+## <div align="center">THE ORDINARY OR OUTER PRELIMINARIES</div>
 ### <div align="center">THE DIFFICULTY OF FINDING THE FREEDOMS AND ADVANTAGES</div>
 ### <div align="center">THE IMPERMANENCE OF LIFE</div>
-### <div align="center">THE DEFECTS OF <a href="#saṃsāra">SAṂSĀRA</a></div>
-### <div align="center">ACTIONS: THE <a href="#principle-of-cause-and-effect">PRINCIPLE OF CAUSE AND EFFECT</a></div>
-### <div align="center">THE BENEFITS OF <a href="#liberation">LIBERATION</a></div>
-### <div align="center">HOW TO FOLLOW A <a href="#spiritual-friend">SPIRITUAL FRIEND</a></div>
+### <div align="center">THE DEFECTS OF SAṂSĀRA</div>
+### <div align="center">ACTIONS: THE PRINCIPLE OF CAUSE AND EFFECT</div>
+### <div align="center">THE BENEFITS OF LIBERATION</div>
+### <div align="center">HOW TO FOLLOW A SPIRITUAL FRIEND</div>
 
 ---
 
@@ -760,7 +760,7 @@ But the good or evil motivation behind it.
 
 No matter how many teachings you have heard, to be motivated by ordinary concerns&mdash;such as a desire for greatness, fame or whatever&mdash;is not the way of the true [Dharma](#dharma). So, **first of all, it is most important to turn inwards and change your motivation**. If you can correct your attitude, [skilful means](#skilful-means) will permeate your [positive action](#positive-action)s, and you will have set out on the path of great beings. If you cannot, you might think that you are studying and practicing the [Dharma](#dharma) but it will be no more than a semblance of the real thing. Therefore, whenever you listen to the teachings and whenever you practice, be it meditating on a [deity](#deity), doing [prostrations](#prostration) and [circumambulations](#circumambulation), or reciting a [mantra](#mantra)&mdash;even a single *[mani](#mani)*&mdash;**it is always essential to give rise to bodhicitta**.
 
-#### 1.2 VAST SKILL IN [MEANS](#means): THE ATTITUDE OF THE [SECRET MANTRAYĀNA](#secret-mantrayāna)
+#### 1.2 VAST SKILL IN MEANS: THE ATTITUDE OF THE SECRET MANTRAYĀNA
 
 The *Torch of the Three Methods* says of the [Secret Mantrayāna](#secret-mantrayāna):
 
@@ -1032,7 +1032,7 @@ To remember both (1)&ndash;words and (2)&ndash;meaning (5)&ndash;perfectly, (4)&
 
 The conduct to be adopted while listening to teachings is explained as the [four metaphors](#221-the-four-metaphors). [the six transcendent perfections](#222-the-six-transcendent-perfections), and [other modes of conduct](#223-other-modes-of-conduct).
 
-##### 2.2.1 The [Four Metaphors](#four-metaphors)
+##### 2.2.1 The Four Metaphors
 
 *The [Sūtra](#sūtra) Arranged like a Tree says:*
 
@@ -1078,7 +1078,7 @@ Full of joy, they sneer at the [samaya](#samaya).
 
 Such people behave as though their (**3**)&ndash;spiritual teacher were a musk-deer, the (**2**)&ndash;[Dharma](#dharma) were the musk, (**1**)&ndash;they themselves the hunters, and (**4**)&ndash;intense practice the way to kill the deer with an arrow or a trap. They do not practice the teachings they have received and feel no gratitude toward the teacher. They use [Dharma](#dharma) to accumulate evil actions, which will drag them down like a millstone to the [lower realms](#lower-realms).
 
-##### 2.2.2 The [Six Transcendent Perfections](#six-transcendent-perfections)
+##### 2.2.2 The Six Transcendent Perfections
 
 In the *[Tantra](#tantra) of Thorough Comprehension of the Instructions on all [Dharma](#dharma) Practices*, it says:
 
@@ -1201,7 +1201,7 @@ Birth in a dark [kalpa](#kalpa) [means](#means) to be reborn in a period during 
 
 The mind of a person born deaf and mute cannot function properly and the process of listening to the teachings, expounding them, reflecting on them and putting them into practice is impeded. The description "deaf mute" usually refers to a speech dysfunction. It becomes a condition without the opportunity for [Dharma](#dharma) when the usual human ability to use and understand language is absent. This category therefore also includes those whose mental disability makes them unable to comprehend the teachings and thus deprives them of the opportunity to practice them.
 
-### **2. Reflecting on the particular advantages related to [Dharma](#dharma)**
+### **2. Reflecting on the particular advantages related to Dharma**
 
 Under this heading are included [five individual advantages](#21-the-five-individual-advantages) and [five circumstantial advantages](#22-the-five-circumstantial-advantages).
 
@@ -1391,7 +1391,7 @@ Taking pleasure in bad actions, lack of interest in the [Dharma](#dharma),
 Heedlessness of the vows and of the [samaya](#samaya)s:  
 These are [the eight incompatible propensities that leave no freedom](#24-the-eight-incompatible-propensities-that-leave-no-freedom-to-practice-the-dharma). 
 
-#### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE [DHARMA](#dharma)
+#### 2.3 THE EIGHT INTRUSIVE CIRCUMSTANCES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 
 **1. Strong [five poisons](#five-poisons)**
 
@@ -1427,7 +1427,7 @@ Others are **imposters** who, through a pretense of [Dharma](#dharma), try to wi
 
 These are [eight circumstances that render it impossible to continue practicing the Dharma](#23-the-eight-intrusive-circumstances-that-leave-no-freedom-to-practice-the-dharma).
 
-#### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE [DHARMA](#dharma)
+#### 2.4 THE EIGHT INCOMPATIBLE PROPENSITIES THAT LEAVE NO FREEDOM TO PRACTICE THE DHARMA
 
 **1. Tightly bound to worldly commitments**
 
@@ -1783,7 +1783,7 @@ Furthermore, the moment when any of those numerous different causes of death mig
 
 Surrounded by so many causes of death, your life has as little chance of enduring as a candle-flame in the [wind](#wind). There is no guarantee that death will not suddenly strike right now, and that tomorrow you will not be reborn as an animal with horns on its head or tusks in its mouth. You should be quite sure that when you are going to die is unpredictable and that there is no knowing where you will be born next.
 
-## VII. INTENSE [AWARENESS](#awareness) OF IMPERMANENCE
+## VII. INTENSE AWARENESS OF IMPERMANENCE
 
 Meditate single-mindedly on death, all the time and in every circumstance. While standing up, sitting or lying down, tell yourself: "This is my last act in this world," and meditate on it with utter conviction. On your way to wherever you might be going, say to yourself: "Maybe I will die there. There is no certainty that I will ever come back." When you set out on a journey or pause to rest, ask yourself: "will I die here?" Wherever you are, you should wonder if this might be where you die. At night, when you lie down, ask yourself whether you might die in bed during the night or whether you can be sure that you are going to get up in the morning. When you rise, ask yourself whether you might die sometime during the day, and reflect that there is no certainty at all that you will be going to bed in the evening.
 
@@ -1897,7 +1897,7 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 
 ---
 
-# <div align="center">CHAPTER THREE<br><i>The defects of <a href="#saṃsāra">saṃsāra</a></i></div>
+# <div align="center">CHAPTER THREE<br><i>The defects of saṃsāra</i></div>
 
 > *Understanding that saṃsāric activities are empty of meaning,*  
 *With great compassion you strive only for the benefit of others.*  
@@ -1906,7 +1906,7 @@ We too, as long as we have not fully assimilated such an attitude, should medita
 
 Listen to this chapter with the same attitude as you did the previous ones. It comprises a general reflection on the sufferings of [saṃsāra](#saṃsāra) and reflections on the particular sufferings of each of the [six realms of being](#six-realms-of-existence).
 
-## I. THE SUFFERINGS OF [SAṂSĀRA](#saṃsāra) IN GENERAL
+## I. THE SUFFERINGS OF SAṂSĀRA IN GENERAL
 
 As I have pointed out already, we may now have a life endowed with the [freedoms and advantages which are so difficult to find](#the-difficulty-of-finding-the-freedoms-and-advantages), but it will not last for long. We will soon fall under the power of impermanence and death. If after that we just disappeared like a fire burning out or water evaporating, everything would be over. But after death we do not vanish into nothing. We are forced to take a new birth&mdash;which [means](#means) that we will still be in [saṃsāra](#saṃsāra), and nowhere else.
 
@@ -1933,19 +1933,19 @@ So do not put your trust in the apparent joys of [saṃsāra](#saṃsāra). Reso
 
 These eight [hells](#hell) lie one above the other like the storeys of a building, from the [Reviving Hell](#111-the-reviving-hell) on top, down to [The Hell of Ultimate Torment](#118-the-hell-of-ultimate-torment) at the bottom. In each the ground and perimeter are like the white-hot iron of a smith&mdash;there is nowhere at all where you could safely put your foot. Everything is a searingly hot expanse of blazing, fiery flame.
 
-##### 1.1.1 The Reviving [Hell](#hell)
+##### 1.1.1 The Reviving Hell
 
 Here, amidst the burning embers that cover the incandescent metal ground, beings as numerous as the snowflakes of a blizzard are gathered together by the force of their actions. As the actions which drove them there were motivated by hatred, [the effect similar to the cause](#22-the-effect-similar-to-the-cause) makes them see each other as mortal enemies, and furiously they fight. Brandishing inconceivable weapons&mdash;a phantom armory created by their [karma](#karma)&mdash;they strike at each other until everyone is slain. At that time, a voice from the sky says, "Revive!" and they immediately come back to life and start fighting all over again. And so they suffer, continually dying and being revived.
 
 How long do they live there? Fifty human years equal one day in the god [realm](#realm) of the [Four Great Kings](#four-great-kings). Thirty of those days make a month, and twelve months make a year; five hundred such years equal one day in the [Reviving Hell](#111-the-reviving-hell), where again, twelve months, each of thirty days, make up a year. They suffer there for five hundred of those years.
 
-##### 1.1.2 The Black-Line [Hell](#hell)
+##### 1.1.2 The Black-Line Hell
 
 Here [Yama's](#yama) henchmen lay their victims out on the ground of burning metal like so many firebrands and cross-rule their bodies with black lines&mdash;four, eight, sixteen, thirty-two and so on&mdash;which they use as guidelines to cut them up with burning saws. No sooner have their bodies been cut into pieces than they immediately become whole once more, only to be hacked apart and chopped up over and over again.
 
 As for the length of their life there, a hundred human years correspond to one day for the [gods](#gods) in the Heaven of the [Thirty-three](#thirty-three), and a thousand years in the Heaven of the [Thirty-three](#thirty-three) is equal to one day in this [hell](#hell). On that scale, beings live there live for a thousand years.
 
-##### 1.1.3 The Rounding-Up and Crushing [Hell](#hell)
+##### 1.1.3 The Rounding-Up and Crushing Hell
 
 In this [hell](#hell), beings by the million are thrown into vast mortars of iron the size of whole valleys. The henchmen of [Yama](#yama), the [Lord of Death](#lord-of-death), whirling huge hammers of red-hot metal as big as [Mount Meru](#meru-mount) around their heads, pound their victims with them. These beings are crushed to death, screaming and weeping in unimaginable agony and terror. As the hammers are lifted, they come back to life, only to suffer the same torments over and over again.
 
@@ -1953,29 +1953,29 @@ Sometimes, the mountains on both sides of the valley turn into the heads of stag
 
 Two hundred human years are equivalent to one day for the [gods](#gods) of the Heaven [Without Fighting](#without-fighting). Two thousand years in that [realm](#realm) correspond to one day in the [Rounding-Up and Crushing Hell](#113-the-rounding-up-and-crushing-hell), and the beings in that [hell](#hell) live two thousand years.
 
-##### 1.1.4 The Howling [Hell](#hell)
+##### 1.1.4 The Howling Hell
 
 Here, beings suffer by being roasted in buildings of red hot metal with no exit. They scream and cry, feeling that they will never escape.
 
 Four hundred human years equal one day in the [Joyous Realm](#joyous-realm). Four thousand years in that heaven are equivalent to one day in the [Howling Hell](#114-the-howling-hell), where life continues for four thousand years.
 
-##### 1.1.5 The Great Howling [Hell](#hell)
+##### 1.1.5 The Great Howling Hell
 
 A vast host of [Yama's](#yama) henchmen, armed and terrifying, shove victims by the million into metal sheds with double walls blazing with fire, and beat them with hammers and other weapons. Both the inner and outer doors are sealed with molten metal and the hell-beings howl in torment to think that, even if they could get past the first door, they would never be able to get through the second.
 
 Eight hundred human years correspond to one day in the Paradise of [Joyful Magic](#joyful-magic). Eight thousand years there equal one day in the [Great Howling Hell](#115-the-great-howling-hell). Its beings have a lifespan of eight thousand years.
 
-##### 1.1.6 The Heating [Hell](#hell)
+##### 1.1.6 The Heating Hell
 
 Here, countless beings suffer by being cooked in huge iron cauldrons the size of the whole cosmos of a billion worlds, where they boil in molten bronze. Whenever they surface, they are grabbed by the workers with metal hooks and beaten about the head with hammers, sometimes losing consciousness; their idea of happiness is these rare moments when they no longer feel pain. Otherwise, they continually experience immense suffering.
 
 Sixteen hundred human years equal one day among the [gods](#gods) [Enjoying the Emanations of Others](#enjoying-the-emanations-of-others). Sixteen thousand years of these [gods](#gods) correspond to one day in the [Heating Hell](#116-the-heating-hell), and beings stay there sixteen thousand of those years.
 
-##### 1.1.7 The Intense Heating [Hell](#hell)
+##### 1.1.7 The Intense Heating Hell
 
 The beings in this [hell](#hell) are trapped inside blazing metal houses, and [Yama's](#yama) henchmen impale them through the heels and the anus with tridents of red-hot iron, until the prongs push out through the shoulders and the crown of the head. At the same time their bodies are wrapped in sheets of blazing metal. What pain they suffer! This continues for half an intermediate [kalpa](#kalpa), a period of time immeasurable in terms of human years.
 
-##### 1.1.8 The [Hell](#hell) of Ultimate Torment
+##### 1.1.8 The Hell of Ultimate Torment
 
 This is an immense edifice of blazing hot metal, surrounded by the sixteen [Neighboring Hells](#119-the-neighboring-hells). In it [Yama's](#yama) henchmen toss incalculable numbers of beings into the center of a mountain of pieces of red-hot iron, glowing live like coals. They whip up the flames with bellows of tiger and leopard-skin until the bodies of their victims and the fire become indistinguishable. Their suffering is tremendous. Apart from the cries of distress, there is no longer any indication of the presence of actual bodies. They constantly long to escape, but it never happens. Sometimes there is a small gap in the fire and they think they can get out, but the workers hit them with spears, clubs, hammers and other weapons and they are subjected to all the agonies of the seven previous [hell](#hell)s, such as having molten bronze poured into their mouths.
 
@@ -2113,7 +2113,7 @@ There are two sorts of [preta](#preta): those who live collectively and those wh
 
 These [pretas](#preta) suffer from external, internal or specific [obscurations](#obscurations).
 
-##### 2.1.1 Pretas suffering from external [obscurations](#obscurations)  
+##### 2.1.1 Pretas suffering from external obscurations  
 
 These [pretas](#preta) are tormented by extreme hunger and thirst. Centuries pass without their even hearing any mention of water. Constantly obsessed with food and drink, they search for them endlessly, without ever finding even the tiniest trace. From time to time, far away, they catch sight of a stream of clear, pure water. But their joints are too fragile to take the weight of their bellies. They get there only with great pain and arrive utterly exhausted&mdash;only to suffer even more when they find that the water has completely dried up, leaving nothing but the stony river bed.  
 
@@ -2131,11 +2131,11 @@ At these words, a crowd of [pretas](#preta), all looking like lumps of burnt woo
 
 "What do you mean?" replied the [pretas](#preta). "We were born in this land twelve years ago and until today we have never even heard as much as a mention of water."
 
-##### 2.1.2 Pretas suffering from internal [obscurations](#obscurations)  
+##### 2.1.2 Pretas suffering from internal obscurations  
 
 These [pretas](#preta) have mouths no bigger than the eye of a needle. Even were they to drink all the water in the great oceans, by the time it had passed down their throats, which are as narrow as a horse-hair, the heat of their breath would have evaporated it. Even were they somehow to swallow a little, their stomachs, which are the size of a whole country, could never be filled. Even if&mdash;finally&mdash;enough to satisfy them were ever to get into their stomach, it would burst into flames during the night and burn their lungs, their heart, and all their entrails. When they want to move, they cannot lift their gigantic bellies with their grass-like limbs, and this causes them immense suffering.
 
-##### 2.1.3 Pretas suffering from specific [obscurations](#obscurations)  
+##### 2.1.3 Pretas suffering from specific obscurations  
 
 These [pretas](#preta) have all sorts of different experiences that vary from one to another and are of varying intensity. For example, some have many creatures living on their bodies and devouring them.
 
@@ -2225,7 +2225,7 @@ Thinking with great compassion of the beings who live in those worlds, dedicate 
 
 Although rebirth in the three [lower realms](#lower-realms) naturally entails suffering, one might expect that the three higher [realm](#realm)s would be happy and pleasant. But in fact even in the higher [realm](#realm)s there is no happiness.
 
-### **4. The human [realm](#realm)**
+### **4. The human realm**
 
 Humans suffer from the [three fundamental types of suffering](#41-the-three-fundamental-types-of-suffering), and also from the [four great streams of suffering](#four-great-streams-of-suffering): [birth](#421-the-suffering-of-birth), [old-age](#422-the-suffering-of-old-age), [sickness](#423-the-suffering-of-sickness) and [death](#424-the-suffering-of-death). [Other human sufferings](#43-other-human-sufferings) are the [dread of meeting hated enemies](#431-the-fear-of-meeting-hated-enemies) or of [losing loved ones](#432-the-fear-of-losing-loved-ones), and the [suffering of not getting what one wants](#433-the-suffering-of-not-getting-what-one-wants) or of [encountering what one does not want](#434-the-suffering-of-encountering-what-one-does-not-want).
 
@@ -2479,7 +2479,7 @@ But worse, looking upwards into the [realm](#realm) of the [gods](#gods), they c
 
 In this [realm](#realm) of the asuras, with their constant fights and quarrels, there is no freedom from suffering. Meditate on their lot from the depth of your heart.
 
-### **6. The [gods](#gods)**
+### **6. The gods**
 
  The [gods](#gods) enjoy perfect health, comfort, wealth and happiness all their lives. However, they spend their time in diversions and the idea of practicing [Dharma](#dharma) never occurs to them. Throughout their lives, which may last a whole [kalpa](#kalpa), they do not have that [thought](#thought) even for an instant. Then, having wasted their whole life in distraction, they are suddenly confronted with death. All [gods](#gods) of the six heavens of the World of Desire, from that of the [Four Great Kings](#four-great-kings) right up to the one called [Enjoying the Emanations of Others](#enjoying-the-emanations-of-others), have to undergo the sufferings of death and transmigration.
 
@@ -2612,7 +2612,7 @@ It is all our ordinary activities and commitments limited to this life's concern
 
 ![Gampopa (1079-1153) THE LIVES OF JAMYANG KHYENTSE WANGPO (drawings by Lama Wangdu on the basis of sketches by Dilgo Khyentse Rinpoche); hand-copied work-in-progress by Könchok Gyurmé Tenzin](src)
 
-# <div align="center">CHAPTER FOUR<br><i>Actions: the <a href="#principle-of-cause-and-effect">principle of cause and effect</a></i></div>
+# <div align="center">CHAPTER FOUR<br><i>Actions: the principle of cause and effect</i></div>
 
 > You renounce evil and take up good, as in the teachings on cause and effect.  
 > Your action[^102] follows the progression of the [Vehicle](#vehicle)s.[^103]  
@@ -2621,11 +2621,11 @@ It is all our ordinary activities and commitments limited to this life's concern
 
 The way this chapter should be explained and studied is with the same attitude as for the others. The subject is explained under three headings: [negative action](#i-negative-actions-to-be-abandoned)s, which should be abandoned; [positive action](#ii-positive-actions-to-be-adopted)s, which should be adopted; and [the all-determining quality of actions](#iii-the-all-determining-quality-of-actions).
 
-## I. [NEGATIVE ACTION](#negative-action)S TO BE ABANDONED
+## I. NEGATIVE ACTIONS TO BE ABANDONED
 
 What causes us to be reborn in the higher or [lower realms](#lower-realms) of [saṃsāra](#saṃsāra) is the good and bad actions that we ourselves have accumulated. [Saṃsāra](#saṃsāra) itself is produced by actions, and consists entirely of the [effects of actions](#effects-of-actions)&mdash;there is nothing else that consigns us to the higher or [lower realms](#lower-realms). Neither is it just chance. At all times, therefore, we should examine the effects of positive and [negative action](#negative-action)s, and try to avoid all those that are wrong and take up those that are right.
 
-### **1. The ten [negative action](#negative-action)s to be avoided**
+### **1. The ten negative actions to be avoided**
 
 Three of these ten are physical acts: taking life, [taking what is not given](#12-taking-what-is-not-given), and [sexual misconduct](#13-sexual-misconduct); four are verbal acts: lying, [sowing discord](#15-sowing-discord), [harsh words](#16-harsh-speech), and [worthless chatter](#17-worthless-chatter); and three are mental acts: covetousness, [wishing harm on others](#19-wishing-harm-on-others), and [wrong views](#110-wrong-views).
 
@@ -2754,7 +2754,7 @@ Covetousness includes all the desirous or acquisitive [thought](#thought)s, even
 
 This refers to all the malicious [thought](#thought)s we might have about other people. For example, brooding with hatred or anger about how we might harm them; feeling disappointed when they prosper or succeed; wishing they were less comfortable, less happy or less talented; or feeling glad when unpleasant things happen to them.
 
-#### 1.10 [WRONG VIEW](#wrong-view)S
+#### 1.10 WRONG VIEWS
 
 [Wrong views](#110-wrong-views) include the [view](#view) that actions cause no karmic effect, and the [view](#view)s of [eternalism](#eternalism) and [nihilism](#nihilism).
 
@@ -2787,7 +2787,7 @@ It is equally wrong, mistakenly thinking you are doing something meritorious, to
 
 To have [wrong views](#110-wrong-views), even for an instant, is to break all your vows and to cut yourself off from the Buddhist community. It also negates the freedom in this human existence to practice the [Dharma](#dharma). From the moment your mind is defiled by false [view](#view)s, even the good you do no longer leads to [liberation](#liberation), and the harm you do can no longer be confessed.[^114]
 
-### **2. The effects of the ten [negative action](#negative-action)s**
+### **2. The effects of the ten negative actions**
 
 Each negative act produces four kinds of karmic effect: the [fully ripened effect](#21-the-fully-ripened-effect115), the [effect similar to the cause](#22-the-effect-similar-to-the-cause), the [conditioning effect](#23-the-conditioning-effect) and the [proliferating effect](#24-the-proliferating-effect).
 
@@ -2874,7 +2874,7 @@ As the result of [wishing harm on others](#19-wishing-harm-on-others), we will n
 
 The effect of having harbored [wrong views](#110-wrong-views) is that not only will we persist in such harmful beliefs, but also our mind will be disturbed by deceit and misconceptions.
 
-#### 2.3 THE [CONDITIONING EFFECT](#conditioning-effect)
+#### 2.3 THE CONDITIONING EFFECT
 
 [The conditioning effect](#23-the-conditioning-effect) acts on our environment. [Taking life](#11-taking-life) causes rebirth in grim, joyless landscapes full of mortally dangerous ravines and precipices. [Taking what is not given](#12-taking-what-is-not-given) causes rebirth in areas stricken by famine where frost and hail destroy crops and trees bear no fruit. [Sexual misconduct](#13-sexual-misconduct) obliges us to live in repulsive places, full of excrement and dung, muddy swamps, and so forth. Lying will bring us material insecurity, constant mental panic and encounters with terrifying things and situations. [Sowing discord](#15-sowing-discord) makes us inhabit regions difficult to cross, cut with deep ravines, rocky gorges and the like. [Harsh speech](#16-harsh-speech) causes rebirth in a bleak terrain, full of rocks, stones and thorns. Useless chatter causes rebirth on barren and infertile land which produces nothing in spite of being worked; the seasons are untimely and unpredictable. Covetousness will bring about poor harvests and all the many other ills of inhospitable places and times. [Wishing harm on others](#19-wishing-harm-on-others) leads to rebirth in places of constant fear with many different afflictions. [Wrong views](#110-wrong-views) cause rebirth in impoverished circumstances without any [refuge](#refuge) or protectors.
 
@@ -2882,7 +2882,7 @@ The effect of having harbored [wrong views](#110-wrong-views) is that not only w
 
 [The proliferating effect](#24-the-proliferating-effect) is that whatever action we did before, we tend to repeat again and again. This brings an endless succession of suffering throughout all our subsequent lives. Our [negative action](#negative-action)s proliferate yet further and cause us to wander endlessly in [saṃsāra](#saṃsāra).
 
-## II. [POSITIVE ACTION](#positive-action)S TO BE ADOPTED
+## II. POSITIVE ACTIONS TO BE ADOPTED
 
 In a general sense, [the ten positive actions](#1-the-ten-positive-actions) comprise the unconditional vow never to commit any of the ten [negative action](#negative-action)s, such as [taking life](#11-taking-life), [taking what is not given](#12-taking-what-is-not-given) and so on, having understood their harmful effects.
 
@@ -3217,7 +3217,7 @@ If you have the right state of mind yourself, you will be able to turn the minds
 
 ![Drom Tönpa (1005-1064); hand-copied by Könchok Gyurmé Tenzin](img)
 
-# <div align="center">CHAPTER FIVE<br><i>The benefits of <a href="#liberation">liberation</a></i></div>
+# <div align="center">CHAPTER FIVE<br><i>The benefits of liberation</i></div>
 
 > Guided by many learned and accomplished [sublime being](#sublime-being)s,  
 > You have practiced and experienced the instructions of your teachers.  
@@ -3228,13 +3228,13 @@ The way to listen to this teaching on [the benefits of liberation](#the-benefits
 
 What is [liberation](#liberation)? It is to find freedom from this ocean of suffering called [saṃsāra](#saṃsāra), and to attain the level of a [śrāvaka](#śrāvaka), a [pratyekabuddha](#pratyekabuddha) or perfect Buddhahood.
 
-## I. CAUSES LEADING TO [LIBERATION](#liberation)
+## I. CAUSES LEADING TO LIBERATION
 
 The causes of your attaining [liberation](#liberation) are, firstly, making your mind workable through the four reflections that turn the mind from [saṃsāra](#saṃsāra), [beginning](#beginning) with [the difficulty of finding the freedoms and advantages](#the-difficulty-of-finding-the-freedoms-and-advantages); and secondly undertaking all the practices starting from the taking of [refuge](#refuge), which is the foundation of all paths, right up until you perfectly complete the main practice.[^132]
 
 The benefits of each of these practices are explained in the relevant chapters.
 
-## II. THE RESULT: THE THREE [LEVELS](#levels) OF [ENLIGHTENMENT](#enlightenment)
+## II. THE RESULT: THE THREE LEVELS OF ENLIGHTENMENT
 
 Whether your attainment is that of a [śrāvaka](#śrāvaka), a [pratyekabuddha](#pratyekabuddha) or perfect Buddhahood, the result is peaceful and cooling, free from the dangerous pathways of samsaric suffering. What a joy that is!
 
@@ -3246,7 +3246,7 @@ Since, out of all the various paths, it is the [Mahāyāna](#mahāyāna) that yo
 
 ![Milarepa (1040-1123) Tibet's most famous yogī, renowned for his ascetic lifestyle in the high mountains of Southern Tibet, his perseverance in meditation, and the spontaneous songs by which he taught hunters and villagers alike; hand-copied by Könchok Gyurmé Tenzin](src)
 
-# <div align="center">CHAPTER SIX<br><i>How to follow a <a href="#spiritual-friend">spiritual friend</a></i></div>
+# <div align="center">CHAPTER SIX<br><i>How to follow a spiritual friend</i></div>
 
 No [sūtra](#sūtra), [tantra](#tantra) or [śāstra](#śāstra) speaks of any being ever attaining perfect Buddhahood without having followed a spiritual teacher. We can see for ourselves that nobody has ever developed the [accomplishment](#accomplishment)s belonging to the stages and paths by [means](#means) of their own ingenuity and prowess. Indeed, all beings, ourselves included, show particular talent in discovering wrong paths to take&mdash;while when it comes to following the path leading to [liberation](#liberation) and omniscience we are as confused as a blind person wandering alone in the middle of a deserted plain.
 
@@ -3259,36 +3259,36 @@ No-one can bring back jewels from a [treasure](#treasure) island without relying
 ---
 
 # <div align="center">Part Two</div>
-## <div align="center">THE EXTRAORDINARY OR INNER <a href="#preliminaries">PRELIMINARIES</a></div>
-### <div align="center">TAKING <a href="#refuge">REFUGE</a>, THE FOUNDATION STONE OF ALL PATHS</div>
-### <div align="center">AROUSING BODHICITTA, THE ROOT OF THE <a href="#great-vehicle">GREAT <a href="#vehicle">VEHICLE</a></a></div>
-### <div align="center">MEDITATING ON THE TEACHER AS <a href="#vajrasattva">VAJRASATTVA</a> TO CLEANSE ALL <a href="#obscurations">OBSCURATIONS</a></div>
-### <div align="center">OFFERING THE <a href="#maṇḍala">MAṆḌALA</a> TO ACCUMULATE <a href="#merit">MERIT</a> AND <a href="#wisdom">WISDOM</a></div>
-### <div align="center">THE KUSALI'S ACCUMULATION: DESTROYING THE <a href="#four-demons">FOUR DEMONS</a> AT A SINGLE STROKE</div>
-### <div align="center"><a href="#guru-yoga">GURU <a href="#yoga">YOGA</a></a>, ENTRANCE-WAY FOR BLESSINGS, THE ULTIMATE WAY TO AROUSE THE <a href="#wisdom">WISDOM</a> OF REALIZATION</div>
+## <div align="center">THE EXTRAORDINARY OR INNER PRELIMINARIES</div>
+### <div align="center">TAKING REFUGE, THE FOUNDATION STONE OF ALL PATHS</div>
+### <div align="center">AROUSING BODHICITTA, THE ROOT OF THE GREAT VEHICLE</div>
+### <div align="center">MEDITATING ON THE TEACHER AS VAJRASATTVA TO CLEANSE ALL OBSCURATIONS</div>
+### <div align="center">OFFERING THE MAṆḌALA TO ACCUMULATE MERIT AND WISDOM</div>
+### <div align="center">THE KUSALI'S ACCUMULATION: DESTROYING THE FOUR DEMONS AT A SINGLE STROKE</div>
+### <div align="center">GURU YOGA, ENTRANCE-WAY FOR BLESSINGS, THE ULTIMATE WAY TO AROUSE THE WISDOM OF REALIZATION</div>
 
 ---
 
-# <div align="center">CHAPTER ONE<br><i>Taking <a href="#refuge">refuge</a>, the foundation stone of all paths</i></div>
-## I. APPROACHES TO TAKING [REFUGE](#refuge)
+# <div align="center">CHAPTER ONE<br><i>Taking refuge, the foundation stone of all paths</i></div>
+## I. APPROACHES TO TAKING REFUGE
 ### **1. Faith**
 #### 1.1 VIVID FAITH
 #### 1.2 EAGER FAITH
 #### 1.3 CONFIDENT FAITH
 ### **2. Motivation**
-#### 2.1 THE [REFUGE](#refuge) OF LESSER BEINGS
-#### 2.2 THE [REFUGE](#refuge) OF MIDDLING BEINGS
-#### 2.3 THE [REFUGE](#refuge) OF GREAT BEINGS
-## II. HOW TO TAKE [REFUGE](#refuge)
-## III. PRECEPTS AND BENEFITS OF TAKING [REFUGE](#refuge)
-### **1. The precepts of taking [refuge](#refuge)**
+#### 2.1 THE REFUGE OF LESSER BEINGS
+#### 2.2 THE REFUGE OF MIDDLING BEINGS
+#### 2.3 THE REFUGE OF GREAT BEINGS
+## II. HOW TO TAKE REFUGE
+## III. PRECEPTS AND BENEFITS OF TAKING REFUGE
+### **1. The precepts of taking refuge**
 #### 1.1 THE THREE THINGS TO BE ABANDONED
 #### 1.2 THE THREE THINGS TO BE DONE
 #### 1.3 THE THREE SUPPLEMENTARY PRECEPTS
-### **2. The benefits of taking [refuge](#refuge)**
+### **2. The benefits of taking refuge**
 
-# <div align="center">CHAPTER TWO<br><i>Arousing bodhicitta, the root of the <a href="#great-vehicle">Great <a href="#vehicle">Vehicle</a></a></i></div>
-## I. TRAINING THE MIND IN THE [FOUR BOUNDLESS QUALITIES](#four-boundless-qualities)
+# <div align="center">CHAPTER TWO<br><i>Arousing bodhicitta, the root of the Great Vehicle</i></div>
+## I. TRAINING THE MIND IN THE FOUR BOUNDLESS QUALITIES
 ### **1. Meditation on impartiality**
 ### **2. Meditation on love**
 ### **3. Meditation on compassion**
@@ -3298,7 +3298,7 @@ No-one can bring back jewels from a [treasure](#treasure) island without relying
 #### 1.1 THE COURAGE OF A KING
 #### 1.2 THE COURAGE OF A BOATMAN
 #### 1.3 THE COURAGE OF A SHEPHERD
-### **2. Classification according to the [Bodhisattva levels](#bodhisattva-levels)**
+### **2. Classification according to the Bodhisattva levels**
 ### **3. Classification according to the nature of bodhicitta**
 #### 3.1 RELATIVE BODHICITTA
 ##### 3.1.1 Intention
@@ -3310,30 +3310,30 @@ No-one can bring back jewels from a [treasure](#treasure) island without relying
 #### 1.1 CONSIDERING OTHERS AS EQUAL TO ONESELF
 #### 1.2 EXCHANGING ONESELF AND OTHERS
 #### 1.3 CONSIDERING OTHERS MORE IMPORTANT THAN ONESELF
-### **2. Training in the precepts of the bodhicitta of application: the [six transcendent perfections](#six-transcendent-perfections)**
-#### 2.1 TRANSCENDENT [GENEROSITY](#generosity)
+### **2. Training in the precepts of the bodhicitta of application: the six transcendent perfections**
+#### 2.1 TRANSCENDENT GENEROSITY
 ##### 2.1.1 Material giving
-##### 2.1.2 Giving [Dharma](#dharma)
+##### 2.1.2 Giving Dharma
 ##### 2.1.3 Giving protection from fear
 #### 2.2 TRANSCENDENT DISCIPLINE
-##### 2.2.1 Avoiding [negative action](#negative-action)s
-##### 2.2.2 Undertaking [positive action](#positive-action)s
+##### 2.2.1 Avoiding negative actions
+##### 2.2.2 Undertaking positive actions
 ##### 2.2.3 Bringing benefit to others
 #### 2.3 TRANSCENDENT PATIENCE
 ##### 2.3.1 Patience when wronged
-##### 2.3.2 Patience to bear hardships for the [Dharma](#dharma)
+##### 2.3.2 Patience to bear hardships for the Dharma
 ##### 2.3.3 Patience to face the profound truth without fear
 #### 2.4 TRANSCENDENT DILIGENCE
 ##### 2.4.1 Armor-like diligence
 ##### 2.4.2 Diligence in action
 ##### 2.4.3 Diligence that cannot be stopped
-#### 2.5 TRANSCENDENT [CONCENTRATION](#concentration)
+#### 2.5 TRANSCENDENT CONCENTRATION
 ##### 2.5.1 Giving up distractions
-##### 2.5.2 Actual [concentration](#concentration)
-#### 2.6 TRANSCENDENT [WISDOM](#wisdom)
-##### 2.6.1 [Wisdom](#wisdom) through hearing
-##### 2.6.2 [Wisdom](#wisdom) through reflection
-##### 2.6.3 [Wisdom](#wisdom) through meditation
+##### 2.5.2 Actual concentration
+#### 2.6 TRANSCENDENT WISDOM
+##### 2.6.1 Wisdom through hearing
+##### 2.6.2 Wisdom through reflection
+##### 2.6.3 Wisdom through meditation
 
 ---
 
@@ -3344,7 +3344,7 @@ No-one can bring back jewels from a [treasure](#treasure) island without relying
 
 ---
 
-# <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as <a href="#vajrasattva">Vajrasattva</a> to cleanse all <a href="#obscurations">obscurations</a></i></div>
+# <div align="center">CHAPTER THREE<br><i>Meditating and reciting on the teacher as Vajrasattva to cleanse all obscurations</i></div>
 
 > *Beyond being defiled by the [two obscurations](#two-obscurations),*[^temp-1] *you purport to still be purifying them.*  
 *Having certainly reached the sublime path's very end, you profess to still be learning.*  
@@ -3354,7 +3354,7 @@ No-one can bring back jewels from a [treasure](#treasure) island without relying
 
 Listen to this chapter with the same attitude as before.
 
-## I. HOW [OBSCURATIONS](#obscurations) CAN BE PURIFIED THROUGH CONFESSION
+## I. HOW OBSCURATIONS CAN BE PURIFIED THROUGH CONFESSION
 
 The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are [negative actions](#negative-action), [obscurations](#obscurations) and [habitual tendencies](#habitual-tendencies). (See also: [obscurations of habitual tendencies](#obscurations-of-habitual-tendencies).[^temp-2]) Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is important to eliminate our [obscurations](#obscurations) so that realization can appear like a reflection in the mirror of the [Ground of All](#ground-of-all). [^temp-3] The [Conqueror](#conqueror) taught countless methods of purification for this purpose, but the best of them all is meditation and recitation related to the teacher as [Vajrasattva](#vajrasattva).[^temp-4][^temp-5]
 
@@ -3448,7 +3448,7 @@ There is indeed no deeper way to cleanse oneself of past misdeeds than to medita
 
 To practice the actual meditation and recitation, proceed as follows, remembering all the time the specific pure meaning[^temp-13] of each element in the context of [the four powers](#ii-the-four-powers) as antidotes.
 
-## III. THE ACTUAL MEDITATION ON [VAJRASATTVA](#vajrasattva)
+## III. THE ACTUAL MEDITATION ON VAJRASATTVA
 
 > All sounds are [mantra](#mantra).  
 All [appearances](#appearances) are forms of [Yidam](#yidam) deities.  
@@ -3543,69 +3543,69 @@ Imagine that the moment you recite these lines the teacher [Vajrasattva](#vajras
 
 He then melts into light and dissolves into you, so that you yourself are now transformed into [Vajrasattva](#vajrasattva), just as you visualized him before.
 
-# <div align="center">CHAPTER FOUR<br><i>Offering the <a href="#maṇḍala">maṇḍala</a> to accumulate <a href="#merit">merit</a> and <a href="#wisdom">wisdom</a></i></div>
-## I. THE NEED FOR THE [TWO ACCUMULATIONS](#two-accumulations)
-## II. THE [ACCOMPLISHMENT](#accomplishment) [MAṆḌALA](#maṇḍala)
-## III. THE OFFERING [MAṆḌALA](#maṇḍala)
-### **1. The thirty-seven element [maṇḍala](#maṇḍala) offering**
-### **2. The [maṇḍala](#maṇḍala) offering of the [three kāyas](#three-kāyas) according to this text**
-#### 2.1 THE ORDINARY [MAṆḌALA](#maṇḍala) OF THE [NIRMĀṆAKĀYA](#nirmāṇakāya)
-#### 2.2 THE EXTRAORDINARY [MAṆḌALA](#maṇḍala) OF THE [SAṂBHOGAKĀYA](#saṃbhogakāya)
-#### 2.3 THE SPECIAL [MAṆḌALA](#maṇḍala) OF THE [DHARMAKĀYA](#dharmakāya)
+# <div align="center">CHAPTER FOUR<br><i>Offering the maṇḍala to accumulate merit and wisdom</i></div>
+## I. THE NEED FOR THE TWO ACCUMULATIONS
+## II. THE ACCOMPLISHMENT MAṆḌALA
+## III. THE OFFERING MAṆḌALA
+### **1. The thirty-seven element maṇḍala offering**
+### **2. The maṇḍala offering of the three kāyas according to this text**
+#### 2.1 THE ORDINARY MAṆḌALA OF THE NIRMĀṆAKĀYA
+#### 2.2 THE EXTRAORDINARY MAṆḌALA OF THE SAṂBHOGAKĀYA
+#### 2.3 THE SPECIAL MAṆḌALA OF THE DHARMAKĀYA
 
-# <div align="center">CHAPTER FIVE<br><i>The kusali's accumulation: destroying the <a href="#four-demons">four demons</a> at a single stroke</i></div>
+# <div align="center">CHAPTER FIVE<br><i>The kusali's accumulation: destroying the four demons at a single stroke</i></div>
 ## I. THE BODY AS AN OFFERING
 ## II. THE PRACTICE OF OFFERING THE BODY
 ### **1. The white feast for the guests above**
 ### **2. The white feast for the guests below**
 ### **3. The variegated feast for the guests above**
 ### **4. The variegated feast for the guests below**
-## III. THE MEANING OF [CHO](#cho)
+## III. THE MEANING OF CHO
 
-# <div align="center">CHAPTER SIX<br><i><a href="#guru-yoga">Guru <a href="#yoga">Yoga</a></a>, entrance-way for blessings, the ultimate method for arousing the <a href="#wisdom">wisdom</a> of realization</i></div>
-## I. THE REASON FOR [GURU YOGA](#guru-yoga)
-## II. HOW TO PRACTICE [GURU YOGA](#guru-yoga)
-### **1. Visualizing the [field of merit](#field-of-merit)**
-### **2. Offering the [seven branches](#seven-branches)**
-#### 2.1 [PROSTRATION](#prostration), THE ANTIDOTE TO PRIDE
+# <div align="center">CHAPTER SIX<br><i>Guru Yoga, entrance-way for blessings, the ultimate method for arousing the wisdom of realization</i></div>
+## I. THE REASON FOR GURU YOGA
+## II. HOW TO PRACTICE GURU YOGA
+### **1. Visualizing the field of merit**
+### **2. Offering the seven branches**
+#### 2.1 PROSTRATION, THE ANTIDOTE TO PRIDE
 #### 2.2 OFFERING
 #### 2.3 CONFESSION OF HARMFUL ACTIONS
 #### 2.4 REJOICING, THE ANTIDOTE TO JEALOUSY
-#### 2.5 EXHORTING THE BUDDHAS TO TURN THE [WHEEL OF DHARMA](#wheel-of-dharma)
-#### 2.6 REQUESTING THE BUDDHAS NOT TO ENTER [NIRVĀṆA](#nirvāṇa)
+#### 2.5 EXHORTING THE BUDDHAS TO TURN THE WHEEL OF DHARMA
+#### 2.6 REQUESTING THE BUDDHAS NOT TO ENTER NIRVĀṆA
 #### 2.7 DEDICATION
 ### **3. Praying with resolute trust**
-### **4. Taking the [four empowerments](#four-empowerments)**
+### **4. Taking the four empowerments**
 ## III. THE HISTORY OF THE ADVENT OF THE EARLY TRANSLATION DOCTRINE
-### **1. The [mind lineage of the Conquerors](#mind-lineage-of-the-conquerors)**
-### **2. The [symbol lineage of the Vidyādharas](#symbol-lineage-of-the-vidyādharas)**
+### **1. The mind lineage of the Conquerors**
+### **2. The symbol lineage of the Vidyādharas**
 #### 2.1 THE MAHĀYOGA TANTRAS
-#### 2.2 THE TRANSMISSION OF [ANUYOGA](#anuyoga)
-#### 2.3 THE [PITH-INSTRUCTIONS](#pith-instructions) OF [ATIYOGA](#atiyoga)
-#### 2.4 THE COMING OF [ATIYOGA](#atiyoga) TO THE HUMAN [REALM](#realm)
+#### 2.2 THE TRANSMISSION OF ANUYOGA
+#### 2.3 THE PITH-INSTRUCTIONS OF ATIYOGA
+#### 2.4 THE COMING OF ATIYOGA TO THE HUMAN REALM
 ## IV. PROPAGATION OF THE ESSENCE-TEACHING IN TIBET, LAND OF SNOWS
-### **3. The [hearing lineage of ordinary beings](#hearing-lineage-of-ordinary-beings)**
+### **3. The hearing lineage of ordinary beings**
 
 ---
 
 # <div align="center">Part Three</div>
-## <div align="center">THE SWIFT PATH OF <a href="#transference">TRANSFERENCE</a></div>
-### <div align="center"><a href="#transference">TRANSFERENCE</a> OF CONSCIOUSNESS, THE INSTRUCTIONS FOR THE DYING: BUDDHAHOOD WITHOUT MEDITATION</div>
+## <div align="center">THE SWIFT PATH OF TRANSFERENCE</div>
+### <div align="center">TRANSFERENCE OF CONSCIOUSNESS, THE INSTRUCTIONS FOR THE DYING: BUDDHAHOOD WITHOUT MEDITATION</div>
 
 ---
 
-# <div align="center">CHAPTER ONE<br><i><a href="#transference">Transference</a> of consciousness, the instructions for the dying: Buddhahood without meditation</i></div>
-## I. THE FIVE KINDS OF [TRANSFERENCE](#transference)
-### **1. Superior [transference](#transference) to the [dharmakāya](#dharmakāya) through the seal of the [view](#view)**
-### **2. Middling [transference](#transference) to the [saṃbhogakāya](#saṃbhogakāya) through the union of the generation and [perfection phase](#perfection-phase)s**
-### **3. Lower [transference](#transference) to the [nirmāṇakāya](#nirmāṇakāya) through immeasurable compassion**
-### **4. Ordinary [transference](#transference) using three metaphors**
-### **5. [Transference](#transference) performed for the dead with the hook of compassion**
-## II. ORDINARY [TRANSFERENCE](#transference) USING THREE METAPHORS
-### **1. Training for [transference](#transference)**
-### **2. Actual [transference](#transference)**
-### **3. The steps of the meditation on [transference](#transference)**
-#### 3.1 THE [PRELIMINARIES](#preliminaries)
+# <div align="center">CHAPTER ONE<br><i>Transference of consciousness, the instructions for the dying: Buddhahood without meditation</i></div>
+## I. THE FIVE KINDS OF TRANSFERENCE
+### **1. Superior transference to the dharmakāya through the seal of the view**
+### **2. Middling transference to the saṃbhogakāya through the union of the generation and perfection phases**
+### **3. Lower transference to the nirmāṇakāya through immeasurable compassion**
+### **4. Ordinary transference using three metaphors**
+### **5. Transference performed for the dead with the hook of compassion**
+## II. ORDINARY TRANSFERENCE USING THREE METAPHORS
+### **1. Training for transference**
+### **2. Actual transference**
+### **3. The steps of the meditation on transference**
+#### 3.1 THE PRELIMINARIES
 #### 3.2 THE MAIN VISUALIZATION
 
 ---
