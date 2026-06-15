@@ -457,6 +457,13 @@ body {
 @media (max-width: 900px) {
   :root {
     --minimap-preview-width: 46px;
+    --grt-display-size: calc(var(--gr-base) * 3.55);
+    --grt-h1-size: calc(var(--gr-base) * 2.55);
+    --grt-h2-size: calc(var(--gr-base) * 2.05);
+    --grt-h3-size: calc(var(--gr-base) * 1.75);
+    --grt-h4-size: calc(var(--gr-base) * 1.55);
+    --grt-h5-size: calc(var(--gr-base) * 1.35);
+    --grt-h6-size: calc(var(--gr-base) * 1.15);
   }
 }
 
@@ -477,6 +484,12 @@ body {
 @media (max-width: 600px) {
   :root {
     --content-pad: 16px;
-    --font-size: 15px;
+    --grt-display-size: calc(var(--gr-base) * 2.7);
+    --grt-h1-size: calc(var(--gr-base) * 2.1);
+    --grt-h2-size: calc(var(--gr-base) * 1.7);
+    --grt-h3-size: calc(var(--gr-base) * 1.5);
+    --grt-h4-size: calc(var(--gr-base) * 1.3);
+    --grt-h5-size: calc(var(--gr-base) * 1.2);
+    --grt-h6-size: calc(var(--gr-base) * 1.1);
   }
 }
