@@ -38,30 +38,29 @@
   --font-mono: 'Noto Sans Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo,
     Consolas, 'Liberation Mono', monospace;
 
-  /* Hand-tuned heading scale (NOT a golden-ratio formula — these are the chosen
-     multipliers). --gr-base is the body size; it grows with the viewport above
-     1280px. The first H1 uses the big display size. Headings shrink at the
-     breakpoints below. */
-  --gr-base: max(0.875rem, calc(1rem + (100vw - 1280px) / 140));
-  --gr-spacing: calc(var(--gr-base) * 1.5);
-  --font-size: var(--gr-base);
+  /* Hand-tuned heading scale. --type-base is the body size; it grows with the
+     viewport above 1280px. The first H1 uses the big display size. Headings
+     shrink at the breakpoints below. */
+  --type-base: max(0.875rem, calc(1rem + (100vw - 1280px) / 140));
+  --type-spacing: calc(var(--type-base) * 1.5);
+  --font-size: var(--type-base);
   --line-height: 1.6;
-  --grt-display-size: calc(var(--gr-base) * 5.24);
-  --grt-h1-size: calc(var(--gr-base) * 3.3);
-  --grt-h2-size: calc(var(--gr-base) * 2.9);
-  --grt-h3-size: calc(var(--gr-base) * 2.5);
-  --grt-h4-size: calc(var(--gr-base) * 2.1);
-  --grt-h5-size: calc(var(--gr-base) * 1.7);
-  --grt-h6-size: calc(var(--gr-base) * 1.3);
-  --grt-display-line: 1.2;
-  --grt-heading-line: 1.25;
-  --grt-display-weight: 900;
-  --grt-h1-weight: 850;
-  --grt-h2-weight: 800;
-  --grt-h3-weight: 750;
-  --grt-h4-weight: 700;
-  --grt-h5-weight: 650;
-  --grt-h6-weight: 600;
+  --type-display-size: calc(var(--type-base) * 5.24);
+  --type-h1-size: calc(var(--type-base) * 3.3);
+  --type-h2-size: calc(var(--type-base) * 2.9);
+  --type-h3-size: calc(var(--type-base) * 2.5);
+  --type-h4-size: calc(var(--type-base) * 2.1);
+  --type-h5-size: calc(var(--type-base) * 1.7);
+  --type-h6-size: calc(var(--type-base) * 1.3);
+  --type-display-line: 1.2;
+  --type-heading-line: 1.25;
+  --type-display-weight: 900;
+  --type-h1-weight: 850;
+  --type-h2-weight: 800;
+  --type-h3-weight: 750;
+  --type-h4-weight: 700;
+  --type-h5-weight: 650;
+  --type-h6-weight: 600;
 
   /* ---- Layout ------------------------------------------------------- */
   --content-width: 1012px; /* max width of the reading column */
@@ -137,47 +136,47 @@ body {
 .markdown-body h6 {
   font-family: var(--font-heading);
   letter-spacing: 0;
-  margin: var(--gr-spacing) 0;
+  margin: var(--type-spacing) 0;
 }
 .markdown-body h1 {
-  font-size: var(--grt-h1-size);
-  font-weight: var(--grt-h1-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h1-size);
+  font-weight: var(--type-h1-weight);
+  line-height: var(--type-heading-line);
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--border);
 }
 /* The document's first H1 is the big display title. */
 .markdown-body h1:first-of-type {
-  font-size: var(--grt-display-size);
-  font-weight: var(--grt-display-weight);
-  line-height: var(--grt-display-line);
+  font-size: var(--type-display-size);
+  font-weight: var(--type-display-weight);
+  line-height: var(--type-display-line);
 }
 .markdown-body h2 {
-  font-size: var(--grt-h2-size);
-  font-weight: var(--grt-h2-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h2-size);
+  font-weight: var(--type-h2-weight);
+  line-height: var(--type-heading-line);
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--border);
 }
 .markdown-body h3 {
-  font-size: var(--grt-h3-size);
-  font-weight: var(--grt-h3-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h3-size);
+  font-weight: var(--type-h3-weight);
+  line-height: var(--type-heading-line);
 }
 .markdown-body h4 {
-  font-size: var(--grt-h4-size);
-  font-weight: var(--grt-h4-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h4-size);
+  font-weight: var(--type-h4-weight);
+  line-height: var(--type-heading-line);
 }
 .markdown-body h5 {
-  font-size: var(--grt-h5-size);
-  font-weight: var(--grt-h5-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h5-size);
+  font-weight: var(--type-h5-weight);
+  line-height: var(--type-heading-line);
 }
 .markdown-body h6 {
-  font-size: var(--grt-h6-size);
-  font-weight: var(--grt-h6-weight);
-  line-height: var(--grt-heading-line);
+  font-size: var(--type-h6-size);
+  font-weight: var(--type-h6-weight);
+  line-height: var(--type-heading-line);
 }
 
 /* ---- Text blocks ---------------------------------------------------- */
@@ -457,13 +456,13 @@ body {
 @media (max-width: 900px) {
   :root {
     --minimap-preview-width: 46px;
-    --grt-display-size: calc(var(--gr-base) * 3.55);
-    --grt-h1-size: calc(var(--gr-base) * 2.55);
-    --grt-h2-size: calc(var(--gr-base) * 2.05);
-    --grt-h3-size: calc(var(--gr-base) * 1.75);
-    --grt-h4-size: calc(var(--gr-base) * 1.55);
-    --grt-h5-size: calc(var(--gr-base) * 1.35);
-    --grt-h6-size: calc(var(--gr-base) * 1.15);
+    --type-display-size: calc(var(--type-base) * 3.55);
+    --type-h1-size: calc(var(--type-base) * 2.55);
+    --type-h2-size: calc(var(--type-base) * 2.05);
+    --type-h3-size: calc(var(--type-base) * 1.75);
+    --type-h4-size: calc(var(--type-base) * 1.55);
+    --type-h5-size: calc(var(--type-base) * 1.35);
+    --type-h6-size: calc(var(--type-base) * 1.15);
   }
 }
 
@@ -484,12 +483,12 @@ body {
 @media (max-width: 600px) {
   :root {
     --content-pad: 16px;
-    --grt-display-size: calc(var(--gr-base) * 2.7);
-    --grt-h1-size: calc(var(--gr-base) * 2.1);
-    --grt-h2-size: calc(var(--gr-base) * 1.7);
-    --grt-h3-size: calc(var(--gr-base) * 1.5);
-    --grt-h4-size: calc(var(--gr-base) * 1.3);
-    --grt-h5-size: calc(var(--gr-base) * 1.2);
-    --grt-h6-size: calc(var(--gr-base) * 1.1);
+    --type-display-size: calc(var(--type-base) * 2.7);
+    --type-h1-size: calc(var(--type-base) * 2.1);
+    --type-h2-size: calc(var(--type-base) * 1.7);
+    --type-h3-size: calc(var(--type-base) * 1.5);
+    --type-h4-size: calc(var(--type-base) * 1.3);
+    --type-h5-size: calc(var(--type-base) * 1.2);
+    --type-h6-size: calc(var(--type-base) * 1.1);
   }
 }
