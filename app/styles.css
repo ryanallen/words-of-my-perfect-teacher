@@ -30,12 +30,38 @@
   --checkbox: #6e7681; /* task-list checkbox color */
 
   /* ---- Type --------------------------------------------------------- */
-  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
-    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-  --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas,
-    'Liberation Mono', monospace;
-  --font-size: 16px;
+  /* Noto first (bundled in app/noto-fonts.css), then system fallbacks. */
+  --font-body: 'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, 'Microsoft YaHei UI', 'Noto Sans SC', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji';
+  --font-heading: 'Noto Serif', Georgia, Cambria, 'Times New Roman', serif;
+  --font-mono: 'Noto Sans Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo,
+    Consolas, 'Liberation Mono', monospace;
+
+  /* Hand-tuned heading scale (NOT a golden-ratio formula — these are the chosen
+     multipliers). --gr-base is the body size; it grows with the viewport above
+     1280px. The first H1 uses the big display size. Headings shrink at the
+     breakpoints below. */
+  --gr-base: max(0.875rem, calc(1rem + (100vw - 1280px) / 140));
+  --gr-spacing: calc(var(--gr-base) * 1.5);
+  --font-size: var(--gr-base);
   --line-height: 1.6;
+  --grt-display-size: calc(var(--gr-base) * 5.24);
+  --grt-h1-size: calc(var(--gr-base) * 3.3);
+  --grt-h2-size: calc(var(--gr-base) * 2.9);
+  --grt-h3-size: calc(var(--gr-base) * 2.5);
+  --grt-h4-size: calc(var(--gr-base) * 2.1);
+  --grt-h5-size: calc(var(--gr-base) * 1.7);
+  --grt-h6-size: calc(var(--gr-base) * 1.3);
+  --grt-display-line: 1.2;
+  --grt-heading-line: 1.25;
+  --grt-display-weight: 900;
+  --grt-h1-weight: 850;
+  --grt-h2-weight: 800;
+  --grt-h3-weight: 750;
+  --grt-h4-weight: 700;
+  --grt-h5-weight: 650;
+  --grt-h6-weight: 600;
 
   /* ---- Layout ------------------------------------------------------- */
   --content-width: 1012px; /* max width of the reading column */
@@ -109,32 +135,49 @@ body {
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  margin: 24px 0 16px;
-  font-weight: 600;
-  line-height: 1.25;
+  font-family: var(--font-heading);
+  letter-spacing: 0;
+  margin: var(--gr-spacing) 0;
 }
 .markdown-body h1 {
-  font-size: 2em;
+  font-size: var(--grt-h1-size);
+  font-weight: var(--grt-h1-weight);
+  line-height: var(--grt-heading-line);
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--border);
 }
+/* The document's first H1 is the big display title. */
+.markdown-body h1:first-of-type {
+  font-size: var(--grt-display-size);
+  font-weight: var(--grt-display-weight);
+  line-height: var(--grt-display-line);
+}
 .markdown-body h2 {
-  font-size: 1.5em;
+  font-size: var(--grt-h2-size);
+  font-weight: var(--grt-h2-weight);
+  line-height: var(--grt-heading-line);
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--border);
 }
 .markdown-body h3 {
-  font-size: 1.25em;
+  font-size: var(--grt-h3-size);
+  font-weight: var(--grt-h3-weight);
+  line-height: var(--grt-heading-line);
 }
 .markdown-body h4 {
-  font-size: 1em;
+  font-size: var(--grt-h4-size);
+  font-weight: var(--grt-h4-weight);
+  line-height: var(--grt-heading-line);
 }
 .markdown-body h5 {
-  font-size: 0.875em;
+  font-size: var(--grt-h5-size);
+  font-weight: var(--grt-h5-weight);
+  line-height: var(--grt-heading-line);
 }
 .markdown-body h6 {
-  font-size: 0.85em;
-  color: var(--text-muted);
+  font-size: var(--grt-h6-size);
+  font-weight: var(--grt-h6-weight);
+  line-height: var(--grt-heading-line);
 }
 
 /* ---- Text blocks ---------------------------------------------------- */
