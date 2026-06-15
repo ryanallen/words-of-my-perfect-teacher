@@ -9,6 +9,7 @@
 // ---------------------------------------------------------------------------
 
 import { renderMarkdown } from './markdown.js';
+import { initMinimap } from './minimap.js';
 
 const content = document.getElementById('content');
 const statusEl = document.getElementById('status');
@@ -52,6 +53,9 @@ async function main() {
       if (title) document.title = title.slice(0, 80);
     }
 
+    // Build the side-rail minimap from the rendered document, then jump to any
+    // #anchor. (Minimap first so its viewport rectangle is correct on landing.)
+    initMinimap(content);
     scrollToHash();
   } catch (err) {
     showStatus(

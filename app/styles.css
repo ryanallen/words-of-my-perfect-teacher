@@ -42,6 +42,14 @@
   --content-pad: 32px; /* space between text and the window edge */
   --radius: 6px; /* rounded corners on code blocks, etc. */
   --scroll-offset: 16px; /* gap above a heading you jumped to */
+
+  /* ---- Minimap ------------------------------------------------------ */
+  /* The scaled side-rail document overview that replaces the scrollbar. */
+  --minimap-preview-width: 68px; /* width of the shrunk document thumbnail */
+  --minimap-padding-inline: 8px; /* gap on each side of the thumbnail */
+  --minimap-width: calc(var(--minimap-preview-width) + (var(--minimap-padding-inline) * 2));
+  --minimap-viewport-border: var(--link); /* outline of the "you are here" box */
+  --minimap-viewport-background: rgba(110, 118, 129, 0.16); /* its subtle fill */
 }
 
 /* ---- Base ----------------------------------------------------------- */
@@ -52,6 +60,12 @@
 
 html {
   scroll-behavior: smooth;
+  /* The minimap replaces the scrollbar, so hide the native one (Firefox). */
+  scrollbar-width: none;
+}
+html::-webkit-scrollbar {
+  width: 0;
+  height: 0;
 }
 
 body {
@@ -63,6 +77,8 @@ body {
   line-height: var(--line-height);
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
+  /* Reserve the rail's footprint so the centered column never slides under it. */
+  padding-right: var(--minimap-width);
 }
 
 .page {
@@ -258,6 +274,159 @@ body {
   width: 1em;
   height: 1em;
   vertical-align: -0.15em;
+}
+
+/* ---- Frontmatter table --------------------------------------------- */
+/* A leading `--- … ---` block renders as a compact metadata table. */
+
+.markdown-body .frontmatter {
+  margin: 0 0 16px;
+  overflow-x: auto;
+}
+.markdown-body .frontmatter table {
+  display: table;
+  width: auto;
+  border-collapse: collapse;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.markdown-body .frontmatter th,
+.markdown-body .frontmatter td {
+  padding: 1px 12px 1px 0;
+  border: 0;
+  background: none;
+  text-align: left;
+  vertical-align: top;
+}
+.markdown-body .frontmatter tr:nth-child(2n) td {
+  background: none;
+}
+.markdown-body .frontmatter th {
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--text-muted);
+}
+
+/* ---- GitHub-style alerts ------------------------------------------- */
+
+.markdown-body .markdown-alert {
+  padding: 0.6em 1em;
+  border-left-width: 0.25em;
+  color: var(--text);
+}
+.markdown-body .markdown-alert::before {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.3em;
+}
+.markdown-body .markdown-alert-note {
+  border-left-color: #4493f8;
+}
+.markdown-body .markdown-alert-note::before {
+  content: 'Note';
+  color: #4493f8;
+}
+.markdown-body .markdown-alert-tip {
+  border-left-color: #3fb950;
+}
+.markdown-body .markdown-alert-tip::before {
+  content: 'Tip';
+  color: #3fb950;
+}
+.markdown-body .markdown-alert-important {
+  border-left-color: #a371f7;
+}
+.markdown-body .markdown-alert-important::before {
+  content: 'Important';
+  color: #a371f7;
+}
+.markdown-body .markdown-alert-warning {
+  border-left-color: #d29922;
+}
+.markdown-body .markdown-alert-warning::before {
+  content: 'Warning';
+  color: #d29922;
+}
+.markdown-body .markdown-alert-caution {
+  border-left-color: #f85149;
+}
+.markdown-body .markdown-alert-caution::before {
+  content: 'Caution';
+  color: #f85149;
+}
+
+/* ---- Minimap -------------------------------------------------------- */
+/* A fixed rail on the right holding a shrunk thumbnail of the whole document
+   (built in minimap.js, sized to the thumbnail) and a rectangle marking the
+   visible part. Clicking or dragging it scrolls the window — it stands in for
+   the hidden scrollbar. */
+
+.document-minimap {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  width: var(--minimap-width);
+  max-height: 100vh;
+  background: var(--bg);
+}
+.document-minimap-track {
+  position: relative;
+  width: 100%;
+  /* height is set in px by minimap.js (= thumbnail height, capped at viewport) */
+  overflow: hidden;
+  cursor: default;
+  opacity: 0.92;
+  touch-action: none;
+  user-select: none;
+}
+.document-minimap-content {
+  position: absolute;
+  top: 0;
+  left: var(--minimap-padding-inline);
+  right: var(--minimap-padding-inline);
+  overflow: visible;
+  pointer-events: none;
+}
+.document-minimap-preview {
+  margin: 0 !important;
+  padding: 0 !important;
+  transform-origin: 0 0;
+}
+.document-minimap-preview,
+.document-minimap-preview * {
+  pointer-events: none !important;
+}
+.document-minimap-viewport {
+  position: absolute;
+  inset-inline: 0;
+  top: 0;
+  z-index: 1;
+  height: 100%;
+  min-height: 22px;
+  border: 1px solid var(--minimap-viewport-border);
+  background: var(--minimap-viewport-background);
+  pointer-events: none;
+}
+
+/* ---- Medium screens: a narrower rail -------------------------------- */
+
+@media (max-width: 900px) {
+  :root {
+    --minimap-preview-width: 46px;
+  }
+}
+
+/* ---- Small screens: drop the minimap, reclaim its space ------------- */
+/* Keep this breakpoint in sync with HIDE_BELOW in app/minimap.js. */
+
+@media (max-width: 720px) {
+  body {
+    padding-right: 0;
+  }
+  .document-minimap {
+    display: none;
+  }
 }
 
 /* ---- Small screens -------------------------------------------------- */

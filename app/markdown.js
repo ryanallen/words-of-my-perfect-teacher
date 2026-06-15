@@ -145,11 +145,103 @@ function isBlockStart(line) {
 const SENTINEL = String.fromCharCode(0xf8ff);
 const STASH_RE = new RegExp(SENTINEL + '(\\d+)' + SENTINEL, 'g');
 
+// ---- Frontmatter ----------------------------------------------------------
+// A leading `--- … ---` block renders as a compact metadata table at the top of
+// the document, matching the desktop app. The parser is a small, documented YAML
+// subset (the same rules the app's indexer uses).
+
+// Drop one surrounding pair of matching quotes.
+function stripQuotes(s) {
+  if (s.length >= 2) {
+    const a = s[0];
+    const b = s[s.length - 1];
+    if ((a === '"' && b === '"') || (a === "'" && b === "'")) return s.slice(1, -1);
+  }
+  return s;
+}
+// Split `a, b, c` inside an inline `[ … ]` array into trimmed, unquoted items.
+function parseInlineArray(inner) {
+  return inner
+    .split(',')
+    .map((x) => stripQuotes(x.trim()).trim())
+    .filter((x) => x !== '');
+}
+// Return {inner, rest} when `text` opens with a `---` line and a later `---`
+// closes it (after an optional BOM); otherwise null. Only the leading block
+// counts — a `---` later in the document is a horizontal rule.
+function splitLeadingFrontmatter(text) {
+  const afterBom = text.replace(/^﻿/, '');
+  const firstNl = afterBom.indexOf('\n');
+  const firstLineEnd = firstNl < 0 ? afterBom.length : firstNl + 1;
+  if (afterBom.slice(0, firstLineEnd).trim() !== '---') return null;
+  let offset = firstLineEnd;
+  while (offset < afterBom.length) {
+    const nl = afterBom.indexOf('\n', offset);
+    const lineEnd = nl < 0 ? afterBom.length : nl + 1;
+    if (afterBom.slice(offset, lineEnd).trim() === '---') {
+      return { inner: afterBom.slice(firstLineEnd, offset), rest: afterBom.slice(lineEnd) };
+    }
+    offset = lineEnd;
+  }
+  return null;
+}
+// Parse the block into {key, value} rows: `key: value` scalars, `key: [a, b]`
+// inline arrays (one row per item), and `key:` followed by `- item` block lists
+// (one row per item). Keys are lowercased; `#` lines and blanks are ignored.
+function parseFrontmatter(inner) {
+  const fields = [];
+  let listKey = null;
+  for (const raw of inner.split('\n')) {
+    const line = raw.replace(/\s+$/, '');
+    const trimmed = line.replace(/^\s+/, '');
+    if (trimmed === '' || trimmed.startsWith('#')) continue;
+    if (trimmed === '-' || trimmed.startsWith('- ')) {
+      if (listKey !== null) {
+        const value = stripQuotes(trimmed === '-' ? '' : trimmed.slice(2).trim()).trim();
+        if (value !== '') fields.push({ key: listKey, value });
+      }
+      continue;
+    }
+    const ci = line.indexOf(':');
+    if (ci < 0) continue;
+    const key = line.slice(0, ci).trim().toLowerCase();
+    if (key === '') continue;
+    const value = line.slice(ci + 1).trim();
+    if (value === '') {
+      listKey = key;
+      continue;
+    }
+    listKey = null;
+    if (value.startsWith('[') && value.endsWith(']')) {
+      for (const item of parseInlineArray(value.slice(1, -1))) fields.push({ key, value: item });
+    } else {
+      fields.push({ key, value: stripQuotes(value).trim() });
+    }
+  }
+  return fields;
+}
+function renderFrontmatterTable(inner) {
+  const fields = parseFrontmatter(inner);
+  if (!fields.length) return '';
+  const rows = fields
+    .map((f) => `<tr><th>${esc(f.key)}</th><td>${esc(f.value)}</td></tr>`)
+    .join('');
+  return `<div class="frontmatter"><table><tbody>${rows}</tbody></table></div>\n`;
+}
+
 // ---------------------------------------------------------------------------
 // The main entry point.
 // ---------------------------------------------------------------------------
 export function renderMarkdown(src) {
-  const text = String(src).replace(/\r\n?/g, '\n');
+  let text = String(src).replace(/\r\n?/g, '\n');
+
+  // Pull off a leading frontmatter block (rendered as a table, prepended below).
+  let frontmatterHtml = '';
+  const frontmatter = splitLeadingFrontmatter(text);
+  if (frontmatter) {
+    frontmatterHtml = renderFrontmatterTable(frontmatter.inner);
+    text = frontmatter.rest;
+  }
 
   // Shared state for this one document:
   const slugOcc = Object.create(null); // heading-slug duplicate counters
@@ -223,6 +315,12 @@ export function renderMarkdown(src) {
     const stash = [];
     const keep = (html) => SENTINEL + (stash.push(html) - 1) + SENTINEL;
 
+    // Code spans `like this` FIRST: their contents are escaped and stashed, so
+    // the later autolink/raw-HTML passes can't turn text like `<details>` into a
+    // real element. (CommonMark gives code spans this priority.)
+    s = s.replace(/(`+)([\s\S]*?[^`]|[^`])\1(?!`)/g, (_, _ticks, code) =>
+      keep('<code>' + esc(code.replace(/^ | $/g, '')) + '</code>')
+    );
     // Autolinks <https://...> and <mailto:...> (before we treat <...> as tags).
     s = s.replace(/<((?:https?|mailto):[^>\s]+)>/g, (_, url) =>
       keep(`<a href="${escAttr(url)}">${esc(url)}</a>`)
@@ -230,10 +328,6 @@ export function renderMarkdown(src) {
     // HTML comments, then raw HTML tags -> stashed verbatim.
     s = s.replace(/<!--[\s\S]*?-->/g, (m) => keep(m));
     s = s.replace(/<\/?[a-zA-Z][\w-]*(?:\s[^<>]*?)?\/?>/g, (m) => keep(m));
-    // Code spans `like this`.
-    s = s.replace(/(`+)([\s\S]*?[^`]|[^`])\1(?!`)/g, (_, _ticks, code) =>
-      keep('<code>' + esc(code.replace(/^ | $/g, '')) + '</code>')
-    );
     // Images ![alt](src "title").
     s = s.replace(
       /!\[([^\]]*)\]\(\s*<?([^)\s>]*)>?(?:\s+["']([^"']*)["'])?\s*\)/g,
@@ -290,6 +384,19 @@ export function renderMarkdown(src) {
       const d = linkRefs[txt.toLowerCase()];
       return d ? keep(`<a href="${escAttr(d.url)}">${inlineLite(txt)}</a>`) : m;
     });
+    // Bare autolinks (URL, www, email) on the remaining plain text. Each result
+    // is stashed so the emphasis pass can't touch it. (GitHub refs/mentions/emoji
+    // and math are deliberately NOT enabled here — this is prose, and `#123`,
+    // `@name`, `$...$` would create hundreds of false matches.)
+    s = s.replace(/(^|[^"'(<\w])(https?:\/\/[^\s<>)]+[^\s<>).,;:])/g, (_m, pre, url) =>
+      pre + keep(`<a href="${escAttr(url)}">${esc(url)}</a>`)
+    );
+    s = s.replace(/(^|[^/@.\w])(www\.[^\s<>)]+[^\s<>).,;:])/g, (_m, pre, url) =>
+      pre + keep(`<a href="http://${escAttr(url)}">${esc(url)}</a>`)
+    );
+    s = s.replace(/(^|[^\w.+-])([\w.+-]+@[\w-]+(?:\.[\w-]+)+)/g, (_m, pre, mail) =>
+      pre + keep(`<a href="mailto:${escAttr(mail)}">${esc(mail)}</a>`)
+    );
     // Emphasis. Strong before em; underscore emphasis only at word edges so
     // snake_case_words are left alone.
     s = s.replace(/\*\*([^\s](?:[\s\S]*?[^\s])?)\*\*/g, '<strong>$1</strong>');
@@ -381,7 +488,21 @@ export function renderMarkdown(src) {
           buf.push(lns[i].replace(/^ {0,3}> ?/, ''));
           i++;
         }
-        out.push('<blockquote>\n' + blocks(buf) + '\n</blockquote>');
+        // GitHub-style alert: a blockquote whose first line is [!TYPE]. Drop that
+        // marker line and tag the blockquote so CSS can style it (title + color).
+        const alert = buf.length
+          ? buf[0].trim().match(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*$/i)
+          : null;
+        if (alert) {
+          const type = alert[1].toLowerCase();
+          out.push(
+            `<blockquote class="markdown-alert markdown-alert-${type}">\n` +
+              blocks(buf.slice(1)) +
+              '\n</blockquote>'
+          );
+        } else {
+          out.push('<blockquote>\n' + blocks(buf) + '\n</blockquote>');
+        }
         continue;
       }
 
@@ -535,7 +656,7 @@ export function renderMarkdown(src) {
       .map((id) => {
         const safe = fnSafe(id);
         const body = renderInline(footnoteDefs[id]);
-        return `<li id="fn-${safe}"><p>${body} <a href="#fnref-${safe}" class="footnote-back" aria-label="Back to content"><img src="imgs/arrow-uturn-left.svg" alt="" class="footnote-back-icon"></a></p></li>`;
+        return `<li id="fn-${safe}"><p>${body} <a href="#fnref-${safe}" class="footnote-back" aria-label="Back to content"><svg class="footnote-back-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3"/></svg></a></p></li>`;
       })
       .join('\n');
     html +=
@@ -544,5 +665,5 @@ export function renderMarkdown(src) {
       '\n</ol>\n</section>';
   }
 
-  return html;
+  return frontmatterHtml + html;
 }
