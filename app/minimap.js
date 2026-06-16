@@ -213,20 +213,32 @@ export function initMinimap(source) {
   track.addEventListener('lostpointercapture', endDrag);
 
   // ---- keep it in sync ----------------------------------------------------
-  window.addEventListener('scroll', scheduleViewport, { passive: true });
-  window.addEventListener('resize', () => {
+  const refresh = () => {
     scheduleBuild();
     scheduleViewport();
-  });
+  };
+  window.addEventListener('scroll', scheduleViewport, { passive: true });
+  window.addEventListener('resize', refresh);
+  // visualViewport catches resizes a plain window 'resize' can miss: pinch-zoom,
+  // the mobile URL bar showing/hiding, and some DPI/zoom changes.
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener('resize', refresh);
+  }
 
-  // Rebuild when the document changes height: images decoding, fonts loading,
-  // Mermaid/etc. The README is static, but images still arrive a few frames
-  // after the HTML is in, which would otherwise leave the thumbnail stale.
+  // Rebuild when the document OR the rail itself changes size. Two distinct
+  // triggers, and we need both:
+  //   - `source` resizes when the document reflows (images decoding, fonts
+  //     loading, Mermaid rendering, or the reading column getting narrower).
+  //   - `track` resizes when the rail's width changes at the responsive
+  //     breakpoints. Crucially, when the reading column is already at its
+  //     max-width, widening the viewport leaves `source` unchanged — so without
+  //     observing the rail the thumbnail scale would never be recomputed.
+  // The rAF guards coalesce the burst, and the track height converges to a
+  // stable value, so observing the track we also resize cannot loop.
   if (window.ResizeObserver) {
-    new ResizeObserver(() => {
-      scheduleBuild();
-      scheduleViewport();
-    }).observe(source);
+    const observer = new ResizeObserver(refresh);
+    observer.observe(source);
+    observer.observe(track);
   }
   source.querySelectorAll('img').forEach((image) => {
     if (image.complete) return;
