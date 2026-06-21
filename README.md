@@ -3250,47 +3250,47 @@ Since, out of all the various paths, it is the [Mahāyāna](#mahāyāna) that yo
 
 No [sūtra](#sūtra), [tantra](#tantra) or [śāstra](#śāstra) speaks of any being ever attaining perfect Buddhahood without having followed a spiritual teacher. We can see for ourselves that nobody has ever developed the [accomplishment](#accomplishment)s belonging to the stages and paths by [means](#means) of their own ingenuity and prowess. Indeed, all beings, ourselves included, show particular talent in discovering wrong paths to take&mdash;while when it comes to following the path leading to [liberation](#liberation) and omniscience we are as confused as a blind person wandering alone in the middle of a deserted plain.
 
-No-one can bring back jewels from a [treasure](#treasure) island without relying on an experienced navigator.[^133] Likewise, a spiritual teacher or companion is our true guide to liberation and omniscience, and we must follow them with respect. This is accomplished in three phases: firstly, by examining the teacher, then by following them, and finally by emulating their realization and their actions.
+No-one can bring back jewels from a [treasure](#treasure) island without relying on an experienced navigator.[^133] Likewise, a spiritual teacher or companion is our true guide to [liberation](#liberation) and omniscience, and we must follow them with respect. This is accomplished in three phases: firstly, by examining the teacher, then by following them, and finally by emulating their realization and their actions.
 
 ## I. EXAMINING THE TEACHER
 
-Ordinary people like us are, for the most part, easily influenced by the people and circumstances around us. That is why we should always follow a teacher, a spiritual friend.
+Ordinary people like us are, for the most part, easily influenced by the people and circumstances around us. That is why we should always follow a teacher, a [spiritual friend](#spiritual-friend).
 
-In the sandalwood forests of the Malaya mountains, when an ordinary tree falls, its wood is gradually impregnated with the sweet perfume of the sandal. After some years that ordinary wood comes to smell as sweet as the sandal trees around it. In just the same way, if you live and study with a perfect teacher full of good qualities, you will be permeated by the perfume of those qualities and in everything you do you will come to resemble them.
+In the sandalwood forests of the Malaya mountains, when an ordinary tree falls, its wood is gradually impregnated with the sweet perfume of the sandal. After some years that ordinary wood comes to smell as sweet as the sandal trees around it. In just the same way, if you live and [study](#study) with a perfect teacher full of good qualities, you will be permeated by the perfume of those qualities and in everything you do you will come to resemble them.
 
 > Just as the trunk of an ordinary tree  
 > Lying in the forests of the Malaya mountains  
 > Absorbs the perfume of sandal from the moist leaves and branches,  
 > So you come to resemble whomever you follow.[^134]
 
-As times have degenerated, nowadays it is difficult to find a teacher who has every one of the qualities described in the precious tantras. However, it is indispensable that the teacher we follow should possess at least the following qualities.
+As times have degenerated, nowadays it is difficult to find a teacher who has every one of the qualities described in the precious [tantra](#tantra)s. However, it is indispensable that the teacher we follow should possess at least the following qualities.
 
 The should be pure, never having contravened any of the commitments or prohibitions related to the three types of vow&mdash;the external vows of the [Prātimokṣa](#prātimokṣa), the inner vows of the [Bodhisattva](#bodhisattva) and the secret vows of the [Secret Mantrayāna](#secret-mantrayāna). They should be learned, and not lacking in knowledge of the [tantra](#tantra)s, [sūtra](#sūtra)s and [śāstra](#śāstra)s. Towards the vast multitude of beings, their heart should be so suffused with compassion that they love each one like their only child. They should be well versed in ritual practices&mdash;outwardly, of the [Tripiṭaka](#tripiṭaka) and, inwardly, of the four sections of [tantra](#tantra)s. By putting into practice the meaning of the teachings, they should have actualized in themself all the extraordinary achievements of riddance and realization. They should be generous, their language should be pleasant, they should teach each individual according to that person's needs and they should act in conformity with what they teach; these [four ways of attracting beings](#four-ways-of-attracting-beings) enable them to gather fortunate disciples around them.
 
-> All the qualities complete according to purest Dharma  
+> All the qualities complete according to purest [Dharma](#dharma)  
 > Are hard to find in these decadent times.  
-> But trust the teacher who, based on pure observance of the three vows,  
+> But trust the teacher who, based on pure observance of the [three vows](#three-vows),  
 > Is steeped in learning and great compassion,  
 > Skilled in the rites of the infinite [piṭaka](#piṭaka)s and [tantra](#tantra)s,  
-> And rich in the fruit, the immaculate wisdom that comes through riddance and realization.  
+> And rich in the fruit, the immaculate [wisdom](#wisdom) that comes through riddance and realization.  
 > Drawn by the brilliant flower of their four attractive qualities  
 > Fortunate disciples will gather like bees to follow them.
 
-More particulary, for teachings on the profound [essence](#essence) of the [Mantra](#mantra) [Vajrayāna](#vajrayāna) [pith-instructions](#pith-instructions) the kind of master upon whom one should rely is as follows. As set out in the precious [tantra](#tantra)s, they should have been brought to maturity by a stream of ripening [empowerment](#empowerment)s, flowing down to them through a continuous unbroken lineage. They should not have transgressed the [samaya](#samaya)s and vows to which they committed themself at the time of [empowerment](#empowerment). Not having many disturbing [negative emotions](#negative-emotions) and [thought](#thought)s, they should be calm and disciplined. They should have mastered the entire meaning of the ground, path and result [tantra](#tantra)s of the Secret [Mantra](#mantra) [Vajrayāna](#vajrayāna). They should have attained all the signs of success in the approach and accomplishment phases of the practice, such as seeing visions of the [yidam](#yidam). Having experienced for themself the nature of reality, they themself should be liberated. The well-being of others should be their sole concern, their heart being full of compassion. They should have few preoccupations, for they have given up any [clinging](#clinging) to the ordinary things of this life. Concentrating on future lives, their only, resolute [thought](#thought) is for the [Dharma](#dharma). Seeing [saṃsāra](#saṃsāra) as suffering, they should feel great sadness, and should encourage the same feelings in others. They should be skilled at caring for their disciples and should use the appropriate method for each of them. Having fulfilled all their teacher's commands, they should hold the blessings of the lineage.
+More particulary, for teachings on the profound [essence](#essence) of the [Mantra](#mantra) [Vajrayāna](#vajrayāna) [pith-instructions](#pith-instructions) the kind of master upon whom one should rely is as follows. As set out in the precious [tantra](#tantra)s, they should have been brought to maturity by a stream of ripening [empowerment](#empowerment)s, flowing down to them through a continuous unbroken lineage. They should not have transgressed the [samaya](#samaya)s and vows to which they committed themself at the time of [empowerment](#empowerment). Not having many disturbing [negative emotions](#negative-emotions) and [thought](#thought)s, they should be calm and disciplined. They should have mastered the entire meaning of the ground, path and result [tantra](#tantra)s of the Secret [Mantra](#mantra) [Vajrayāna](#vajrayāna). They should have attained all the signs of success in the [approach and accomplishment](#approach-and-accomplishment) phases of the practice, such as seeing visions of the [yidam](#yidam). Having experienced for themself the nature of reality, they themself should be liberated. The well-being of others should be their sole concern, their heart being full of compassion. They should have few preoccupations, for they have given up any [clinging](#clinging) to the ordinary things of this life. Concentrating on future lives, their only, resolute [thought](#thought) is for the [Dharma](#dharma). Seeing [saṃsāra](#saṃsāra) as suffering, they should feel great sadness, and should encourage the same feelings in others. They should be skilled at caring for their disciples and should use the appropriate method for each of them. Having fulfilled all their teacher's commands, they should hold the blessings of the lineage.
 
 > The extraordinary teacher who gives the pith instructions  
-> Has received empowerments, kept the samayas, and is peaceful;  
-> Has mastered the meaning of the ground, path and results tantras;  
-> Has all the signs of approach and accomplishment and is freed by realization;  
+> Has received [empowerment](#empowerment)s, kept the [samaya](#samaya)s, and is peaceful;  
+> Has mastered the meaning of the ground, path and results [tantra](#tantra)s;  
+> Has all the signs of [approach and accomplishment](#approach-and-accomplishment) and is freed by realization;  
 > Has limitless compassion and cares only for others;  
-> Has few activities and thinks only, resolutely, of the Dharma;  
+> Has few activities and thinks only, resolutely, of the [Dharma](#dharma);  
 > Is weary of this world, and leads others to feel the same;  
 > Is expert in methods and has the blessings of the lineage.  
-> Follow such a teacher, and accomplishment comes swiftly.
+> Follow such a teacher, and [accomplishment](#accomplishment) comes swiftly.
 
 On the other hand, there are certain kinds of teachers we should avoid. Their characteristics are as follows.
 
-*Teachers like a millstone made of wood.* These teachers have no trace of the qualities arising from study, reflection and meditation. Thinking that as the sublime son or nephew of such and such a lama, they and their descendants must be superior to anyone else, they defend their caste like brahmins. Even if they have studied, reflected and meditated a little, they did so not with any pure intention of working for future lives but for more mundane reasons&mdash;like preventing the priestly fiefs of which they are the incumbents from falling into decay. As for training disciples, they are about as well suited to fulfilling their proper function as a millstone made of wood.
+*Teachers like a millstone made of wood.* These teachers have no trace of the qualities arising from [study](#study), reflection and meditation. Thinking that as the sublime son or nephew of such and such a [lama](#lama), they and their descendants must be superior to anyone else, they defend their caste like [brahmin](#brahmin)s. Even if they have studied, reflected and meditated a little, they did so not with any pure intention of working for future lives but for more mundane reasons&mdash;like preventing the priestly fiefs of which they are the incumbents from falling into decay. As for training disciples, they are about as well suited to fulfilling their proper function as a millstone made of wood.
 
 *Teachers like the frog that lived in a well.* Teachers of this kind lack any special qualities that might distinguish them from ordinary people. But other people put them up on a pedestal in blind faith, without examining them at all. Puffed up with pride by the profits and honors they receive, they are themselves quite unaware of the ture qualities of great teachers. They are like the frog that lived in a well.
 
@@ -3320,13 +3320,13 @@ One day an old frog taht had always lived in a well was visited by another frog 
 
 So the two frogs set off together, and the story goes that when the frog who lived in the well saw the ocean, he fainted, his head split apart, and he died.
 
-*Mad guides.* These are teachers who have very little knowledge, never having made the effort to follow a learned master and train in the [sūtra](#sūtra)s and [tantra](#tantra)s. Their strong [negative emotions](#negative-emotions) together with their weak mindfulness and vigilance make them lax in their vows and [samaya](#samaya)s. Though of lower mentality than ordinary people, they ape the [siddha](#siddha)s and behave as if their actions were higher than the sky.[^135] Brimming over with anger and jealousy, they break the lifeline of love and compassion. Such spiritual friends are called mad guides, and lead anyone who follows them down wrong paths.
+*Mad guides.* These are teachers who have very little knowledge, never having made the effort to follow a learned master and train in the [sūtra](#sūtra)s and [tantra](#tantra)s. Their strong [negative emotions](#negative-emotions) together with their weak mindfulness and vigilance make them lax in their vows and [samaya](#samaya)s. Though of lower mentality than ordinary people, they ape the [siddha](#siddha)s and behave as if their actions were higher than the sky.[^135] Brimming over with anger and jealousy, they break the lifeline of love and compassion. Such [spiritual friend](#spiritual-friend)s are called mad guides, and lead anyone who follows them down wrong paths.
 
 *Blind guides.* In particular, a teacher whose qualities are in no way superior to your own and who lacks the love and compassion of bodhicitta will never be able to open your eyes to what should and should not be done. Teachers like this are called blind guides.
 
-> Like brahmins, some defend their caste,  
+> Like [brahmin](#brahmin)s, some defend their caste,  
 > Or in pools of fear for their fief's survival  
-> Bathe themselves in bogus study and reflection;  
+> Bathe themselves in bogus [study](#study) and reflection;  
 > Such guides are like a millstone made of wood.
 >  
 > Some, although no differnt from all ordinary folk,  
@@ -3334,7 +3334,7 @@ So the two frogs set off together, and the story goes that when the frog who liv
 > Puffed up by profit, offerings and honors,  
 > Such friends as these are like the well-bound frog.  
 >  
-> Some have little learning and neglect their samayas and vows,  
+> Some have little learning and neglect their [samaya](#samaya)s and vows,  
 > Their mentality is low, their conduct high above the earth,  
 > They have broken the lifeline of love and compassion&mdash;  
 > Mad guides like these can only spread more evil.  
@@ -3351,21 +3351,21 @@ The Great Master of [Oḍḍiyāna](#oḍḍiyāna) warns:
 > Not to examine the disciple  
 > Is like leaping from a precipice.
 
-You place your trust in your spiritual teacher for all your future lives. It is they who will teach yoiu what to do and what not to do. If you encounter a false spiritual friend without examining them properly, you will be throwing away the possibility a person with faith has to accumulate merits for a whole lifetime, and the freedoms and advantages of the human existence you have now obtained will be wasted. It is like being killed by a venomous serpent coiled beneath a tree that you approached, theinking what you saw was just the tree's cool shadow.
+You place your trust in your spiritual teacher for all your future lives. It is they who will teach you what to do and what not to do. If you encounter a false [spiritual friend](#spiritual-friend) without examining them properly, you will be throwing away the possibility a person with faith has to accumulate [merit](#merit)s for a whole lifetime, and the freedoms and advantages of the human existence you have now obtained will be wasted. It is like being killed by a venomous serpent coiled beneath a tree that you approached, thinking what you saw was just the tree's cool shadow.
 
 > By not examining a teacher with great care  
-> The faithful waste their gathered merit.  
+> The faithful waste their gathered [merit](#merit).  
 > Like taking for the shadow of a tree a vicious snake,  
 > Beguiled, they lose the freedom they at last had found.
 
-After examining them carefully and making an unmistaken assessment, from the moment you find that a teacher has all the positive qualities mentioned you should never cease to consider them to be the Buddha in person.[^136] This teacher in whom all the attributes are complete is the embodiment of the compassionate wisdom of all Buddhas of the ten directions, appearing in the form of an ordinary human simply to benefit beings.
+After examining them carefully and making an unmistaken assessment, from the moment you find that a teacher has all the positive qualities mentioned you should never cease to consider them to be the [Buddha](#buddha) in person.[^136] This teacher in whom all the attributes are complete is the embodiment of the compassionate [wisdom](#wisdom) of all [Buddha](#buddha)s of the [ten directions](#ten-directions), appearing in the form of an ordinary human simply to benefit beings.
 
 > The teacher with infinite qualities complete  
-> Is the wisdom and compassion of all Buddhas  
+> Is the [wisdom](#wisdom) and compassion of all [Buddha](#buddha)s  
 > Appearing in human form for beings' sake.  
-> They are the unequalled source of all accomplishments.
+> They are the unequalled source of all [accomplishment](#accomplishment)s.
 
-So that such a true teacher may skilfully guide the ordinary people needing their help, they make their everyday conduct conform to that of ordinary people. But in reality their wisdom mind is that of a Buddha, so they are utterly different from everyone else. Each of their acts is simply the activity of a realized being attuned to the nature of those they have to benefit. They are therefore uniquely noble. Skilled in cutting through hesitation and doubt, they patiently endure all the ingratitude and discouragement of their disciples, like a mother with their only child.
+So that such a true teacher may skilfully guide the ordinary people needing their help, they make their everyday conduct conform to that of ordinary people. But in reality their [wisdom](#wisdom) mind is that of a [Buddha](#buddha), so they are utterly different from everyone else. Each of their acts is simply the activity of a realized being attuned to the nature of those they have to benefit. They are therefore uniquely noble. Skilled in cutting through hesitation and doubt, they patiently endure all the ingratitude and discouragement of their disciples, like a mother with their only child.
 
 > Expediently, to guide us, they act just like us all.  
 > In truth they are completely different from us all.  
@@ -3377,11 +3377,11 @@ A teacher with all these qualities is like a great ship in which to cross the va
 
 > They are the great ship carrying us beyond the seas of samsaric existence,[^138]  
 > The true navigator, unerringly charting the sublime path,  
-> The rain of nectar quenching the inferno of emotions and actions,  
+> The rain of [nectar](#nectar) quenching the inferno of [emotions](#emotions) and actions,  
 > The sun and moon dispelling the darkness of ignorance.  
 > They are the earth, immensely patient,  
 > The wish-granting tree, source of help and happiness,  
-> The perfect vase containing the treasure of the Dharma.  
+> The perfect vase containing the [treasure](#treasure) of the [Dharma](#dharma).  
 > They provide all things, more than a wish-granting gem.  
 > They are a father and mother, loving all equally.  
 > Their compassion is as vast and swift as a great river.  
@@ -3390,23 +3390,23 @@ A teacher with all these qualities is like a great ship in which to cross the va
 
 Such a teacher is equal to all the [Buddha](#buddha)s in their compassion and their blessings. Those who make a positive connection with them will attain Buddhahood in a single lifetime. Even those who make a negative connection with them will eventually be led out of [saṃsāra](#saṃsāra).
 
-> Such a teacher is equal to all the Buddhas.  
+> Such a teacher is equal to all the [Buddha](#buddha)s.  
 > If even those who harm them are set on the path to happiness,  
 > On those who entrust themselves to them with sincere faith  
-> Will be showered the bounty of the higher realms and liberation.
+> Will be showered the bounty of the higher [realm](#realm)s and [liberation](#liberation).
 
 ## II. FOLLOWING THE TEACHER
 
 > Noble one, you should think of yourself as someone who is sick...
 
-So begins the series of similes in the *Sutra Arranged like a Tree.* Sick people put themselves in the care of a skilful doctor. Travellers on dangerous paths entrust themselves to a courageous escort. Faced with angers from enemies, robbers, wild beasts and the like, people look to a companion for protection. Merchants heading for lands across the ocean entrust themselves to a captain. Wayfarers taking the ferry to cross a river entrust themselves to the boatman. In the same way, to be protected from death, rebirth and negative emotions, we must follow a teacher, a spiritual friend.
+So begins the series of similes in the *Sutra Arranged like a Tree.* Sick people put themselves in the care of a skilful doctor. Travellers on dangerous paths entrust themselves to a courageous escort. Faced with angers from enemies, robbers, wild beasts and the like, people look to a companion for protection. Merchants heading for lands across the ocean entrust themselves to a captain. Wayfarers taking the ferry to cross a river entrust themselves to the boatman. In the same way, to be protected from death, rebirth and [negative emotions](#negative-emotions), we must follow a teacher, a [spiritual friend](#spiritual-friend).
 
 > As the sick person relies on their doctor,  
 > The traveller on their escort,  
 > The frightened person on their companion,  
 > Merchants on their captain,  
 > And passengers on their oarsperson&mdash;  
-> If birth, death and negative emotions are the enemies you fear,  
+> If birth, death and [negative emotions](#negative-emotions) are the enemies you fear,  
 > Entrust yourself to a teacher.
 
 A courageous disciple, armored with the determination never to displease their teacher even at the cost of their own life, so stable-minded that they are never shaken by immediate circumstances, who serves their teacher without caring about their own health or survival and obeys their every command without sparing themself at all&mdash;such a person will be liberated simply through their devotion to the teacher.
@@ -3416,10 +3416,10 @@ A courageous disciple, armored with the determination never to displease their t
 > Following their instructions without sparing themselves,  
 > Will be freed by the strength of devition alone.
 
-To follow the teacher, you should have so much confidence in them that you perceive them as a real Buddha. You should have such discrimination and knowledge of the teachings that you can recognize the wisdom underlying their skilful actions and grasp whatever they teach you. You should feel immense loving compassion for all those who are suffering with no one to protect them. You should respect the vows and samayas that your teacher has told you to keep, and should be peaceful and controlled in all your deeds, words and thoughts. Your outlook should be so broad that you can accept whatever your teacher and spiritual companions may do. You should be so generious that you can give the teacher whatever yhou possess. Your perception of everything should be pure, not always critical and tainted. You should restrain yourself from doing anything harmful or negative, for fear of displeasing them. 
+To follow the teacher, you should have so much confidence in them that you perceive them as a real [Buddha](#buddha). You should have such discrimination and knowledge of the teachings that you can recognize the [wisdom](#wisdom) underlying their skilful actions and grasp whatever they teach you. You should feel immense loving compassion for all those who are suffering with no one to protect them. You should respect the vows and [samaya](#samaya)s that your teacher has told you to keep, and should be peaceful and controlled in all your deeds, words and [thought](#thought)s. Your outlook should be so broad that you can accept whatever your teacher and [spiritual companions](#spiritual-companions) may do. You should be so generious that you can give the teacher whatever yhou possess. Your perception of everything should be pure, not always critical and tainted. You should restrain yourself from doing anything harmful or negative, for fear of displeasing them. 
 
 > Have great faith, discrimination, knowledge and compassion.  
-> Respect the vows and samayas. Control body, speech and mind.  
+> Respect the vows and [samaya](#samaya)s. Control body, speech and mind.  
 > Be broad-minded and generous.  
 > Have pure vision and a sense of self-restraint.
 
@@ -3435,7 +3435,7 @@ The *Sutra Arranged like a Tree* and other texts also tell us that when followin
 > And be free of arrogance, like a bull with broken horns.  
 > This, the [piṭaka](#piṭaka)s say, is how to follow the teacher.
 
-There are three ways to please the teacher and serve them. The best way is known as the offering of practice, and consists of putting whtaever they teach into practice with determination, disregarding all ahrdship. The middling way is known as servcice with body and speech, and involves serving them and doing whatever they need you to do whether physically, verbally or mentally. The lowest way is by material offerings, which means to please your teacher by giving them material goods, food, money and so forth.
+There are three ways to please the teacher and serve them. The best way is known as the offering of practice, and consists of putting whatever they teach into practice with determination, disregarding all hardship. The middling way is known as service with body and speech, and involves serving them and doing whatever they need you to do whether physically, verbally or mentally. The lowest way is by material offerings, which [means](#means) to please your teacher by giving them material goods, food, money and so forth.
 
 
 
